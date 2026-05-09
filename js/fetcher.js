@@ -33,15 +33,12 @@ async function fetchRSS(rawUrl, { keywords = null, maxItems = 15 } = {}) {
     const pubDate = item.querySelector('pubDate')?.textContent ?? '';
 
     const sourceEl = item.querySelector('source');
-    // Source name: try <source> element, then "Title - Source" suffix
     let source = sourceEl?.textContent?.trim() ?? '';
     if (!source && title.includes(' - ')) source = title.split(' - ').pop().trim();
 
-    // Domain for favicon: try <source url> attribute first, then link
     const sourceUrl = sourceEl?.getAttribute('url') ?? '';
     const domain = getDomain(sourceUrl) || getDomain(link);
 
-    // Thumbnail: enclosure, media:content (various namespace forms), then description img
     const desc = item.querySelector('description')?.textContent ?? '';
     const mediaContent =
       item.querySelector('media\\:content') ??
@@ -56,6 +53,44 @@ async function fetchRSS(rawUrl, { keywords = null, maxItems = 15 } = {}) {
     const favicon = domain ? `https://www.google.com/s2/favicons?domain=${domain}&sz=128` : null;
 
     return { title, link, pubDate: pubDate ? new Date(pubDate) : null, source, domain, thumb, favicon };
+  });
+}
+
+// Bing News RSS — extracts the real article URL from Bing's redirect link
+// so lazy og:image fetch can reach actual news sites (not blocked like Google News)
+async function fetchBingNews(query, lang, { maxItems = 20 } = {}) {
+  const isKo = lang === 'ko';
+  const params = new URLSearchParams({ q: query, format: 'rss' });
+  if (isKo) { params.set('setlang', 'ko'); params.set('cc', 'KR'); }
+  const rssUrl = `https://www.bing.com/news/search?${params}`;
+
+  const res = await fetch(PROXY + encodeURIComponent(rssUrl), { signal: AbortSignal.timeout(8000) });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const text = await res.text();
+  const doc = new DOMParser().parseFromString(text, 'text/xml');
+  if (doc.querySelector('parsererror')) throw new Error('XML parse error');
+
+  return [...doc.querySelectorAll('item')].slice(0, maxItems).map(item => {
+    const title = item.querySelector('title')?.textContent ?? '';
+    const rawLink = item.querySelector('link')?.textContent ?? '';
+    const pubDate = item.querySelector('pubDate')?.textContent ?? '';
+
+    // Unwrap Bing redirect → actual article URL
+    let link = rawLink;
+    try {
+      const u = new URL(rawLink);
+      link = u.searchParams.get('url') || rawLink;
+    } catch {}
+
+    // Source name from News:Source element or title suffix
+    const sourceEl = [...item.childNodes].find(n => n.localName === 'Source');
+    let source = sourceEl?.textContent?.trim() ?? '';
+    if (!source && title.includes(' - ')) source = title.split(' - ').pop().trim();
+
+    const domain = getDomain(link);
+    const favicon = domain ? `https://www.google.com/s2/favicons?domain=${domain}&sz=128` : null;
+
+    return { title, link, pubDate: pubDate ? new Date(pubDate) : null, source, domain, thumb: null, favicon };
   });
 }
 
@@ -87,7 +122,6 @@ async function fetchReddit(subreddit, limit = 20) {
 function dedupe(items) {
   const seen = new Set();
   return items.filter(it => {
-    // Normalize: strip punctuation, first 35 chars
     const key = it.title.toLowerCase().replace(/[^\w가-힣]/g, '').substring(0, 35);
     if (seen.has(key)) return false;
     seen.add(key);
@@ -107,14 +141,14 @@ export async function fetchCelebNews(celeb, lang) {
 
   const tasks = [
     ...queries.map(q => fetchRSS(rssBase + encodeURIComponent(q), { maxItems: 15 })),
+    // Bing News KO: gives direct article URLs → lazy og:image fetch works
+    isKo
+      ? fetchBingNews(celeb.queries.ko, 'ko', { maxItems: 20 })
+      : Promise.resolve([]),
     !isKo && celeb.subreddit ? fetchReddit(celeb.subreddit, 20) : Promise.resolve([]),
     celeb.soompiUrl
       ? fetchRSS(celeb.soompiUrl, { keywords: celeb.keywords, maxItems: 15 })
       : Promise.resolve([]),
-    // Direct KO entertainment RSS feeds — provide images natively, avoiding Google News redirects
-    ...(isKo && celeb.rssFeedsKo
-      ? celeb.rssFeedsKo.map(url => fetchRSS(url, { keywords: celeb.keywords, maxItems: 15 }))
-      : []),
   ];
 
   const results = await Promise.allSettled(tasks);
