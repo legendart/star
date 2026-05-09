@@ -113,13 +113,7 @@ async function fetchOgImage(url) {
     }
   }
 
-  // [DEV] debug — remove when no longer needed
-  console.log('[star] url:', url.slice(0, 90));
-  console.log('[star] html preview:', html.slice(0, 600));
-
   const imgUrl = extractBestImage(html, url);
-  console.log('[star] image →', imgUrl);
-
   ogCache.set(url, imgUrl);
   return imgUrl;
 }
@@ -202,6 +196,10 @@ function thumbHtml(item) {
       <img src="${item.thumb}" alt="" loading="lazy"
         onerror="this.parentElement.classList.add('card-thumb--empty');this.remove()">
     </div>`;
+  }
+  // Google News redirect URLs are blocked by all CORS proxies — skip lazy fetch
+  if (item.link?.includes('news.google.com')) {
+    return `<div class="card-thumb card-thumb--empty"></div>`;
   }
   return `<div class="card-thumb card-thumb--empty card-thumb--lazy"
     data-lazy-url="${item.link}"></div>`;

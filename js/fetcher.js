@@ -41,11 +41,15 @@ async function fetchRSS(rawUrl, { keywords = null, maxItems = 15 } = {}) {
     const sourceUrl = sourceEl?.getAttribute('url') ?? '';
     const domain = getDomain(sourceUrl) || getDomain(link);
 
-    // Thumbnail: enclosure, media:content, then description img
+    // Thumbnail: enclosure, media:content (various namespace forms), then description img
     const desc = item.querySelector('description')?.textContent ?? '';
+    const mediaContent =
+      item.querySelector('media\\:content') ??
+      item.querySelector('content') ??
+      null;
     const thumb =
       item.querySelector('enclosure')?.getAttribute('url') ??
-      item.querySelector('media\\:content')?.getAttribute('url') ??
+      mediaContent?.getAttribute('url') ??
       extractImgFromHtml(desc) ??
       null;
 
@@ -107,6 +111,10 @@ export async function fetchCelebNews(celeb, lang) {
     celeb.soompiUrl
       ? fetchRSS(celeb.soompiUrl, { keywords: celeb.keywords, maxItems: 15 })
       : Promise.resolve([]),
+    // Direct KO entertainment RSS feeds — provide images natively, avoiding Google News redirects
+    ...(isKo && celeb.rssFeedsKo
+      ? celeb.rssFeedsKo.map(url => fetchRSS(url, { keywords: celeb.keywords, maxItems: 15 }))
+      : []),
   ];
 
   const results = await Promise.allSettled(tasks);

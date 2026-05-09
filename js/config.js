@@ -8,6 +8,11 @@ export const CELEBRITIES = [
       ko2: 'NCT127 OR NCT드림 OR 웨이션브이',
       en: 'NCT kpop'
     },
+    // Direct Korean entertainment RSS feeds — provide media:content images natively
+    rssFeedsKo: [
+      'https://www.osen.co.kr/rss/entertainment.xml',
+      'https://entertain.naver.com/now/rss',
+    ],
     subreddit: 'NCT',
     soompiUrl: 'https://www.soompi.com/feed',
     keywords: ['nct', '엔씨티', '엔시티'],
