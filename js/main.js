@@ -1,10 +1,21 @@
 import { CELEBRITIES, DEFAULT_CELEB } from './config.js';
 import { fetchCelebNews } from './fetcher.js';
 
-const PROXY = 'https://corsproxy.io/?';
+const PROXY_A = 'https://corsproxy.io/?';
+const PROXY_B = 'https://api.allorigins.win/raw?url=';
+const LANG_KEY = 'javis-lang';
 const ogCache = new Map(); // articleUrl → imageUrl | null
 
-let currentLang = 'ko';
+// ── Language — persist across visits ────────────────────────────────────────
+
+function loadLang() {
+  return localStorage.getItem(LANG_KEY) ?? 'ko';
+}
+function saveLang(lang) {
+  localStorage.setItem(LANG_KEY, lang);
+}
+
+let currentLang = loadLang();
 let currentCeleb = CELEBRITIES.find(c => c.id === DEFAULT_CELEB) ?? CELEBRITIES[0];
 let isLoading = false;
 
@@ -13,41 +24,107 @@ const statusDot = document.getElementById('statusDot');
 const statusText = document.getElementById('statusText');
 const celebTabs = document.getElementById('celebTabs');
 
-// ── og:image fetcher ────────────────────────────────────────────────────────
+// ── og:image extraction ──────────────────────────────────────────────────────
+
+function resolveUrl(src, base) {
+  if (!src || src.startsWith('data:')) return null;
+  if (src.startsWith('http')) return src;
+  if (src.startsWith('//')) return 'https:' + src;
+  if (src.startsWith('/')) {
+    try { return new URL(base).origin + src; } catch { return null; }
+  }
+  return null;
+}
+
+function getCanonical(html) {
+  const m = html.match(/<link[^>]+rel=["']canonical["'][^>]+href=["']([^"']+)["']/i)
+    ?? html.match(/<link[^>]+href=["']([^"']+)["'][^>]+rel=["']canonical["']/i);
+  return m?.[1] ?? null;
+}
+
+const OG_RE = [
+  /<meta[^>]+property=["']og:image(?::url)?["'][^>]+content=["']([^"']+)["']/i,
+  /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image(?::url)?["']/i,
+  /<meta[^>]+name=["']twitter:image(?::src)?["'][^>]+content=["']([^"']+)["']/i,
+  /<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image(?::src)?["']/i,
+];
+
+const SKIP_IMG = /thumb(?:nail)?|small|icon|logo|avatar|banner|spacer|blank|pixel|1x1|tracking|ads?[/_-]/i;
+
+function extractBestImage(html, requestUrl) {
+  const base = getCanonical(html) ?? requestUrl;
+
+  // 1. og:image / twitter:image
+  for (const re of OG_RE) {
+    const m = html.match(re);
+    const resolved = resolveUrl(m?.[1], base);
+    if (resolved) return resolved;
+  }
+
+  // 2. Body <img> — pick the widest that isn't a decoration
+  const IMG_TAG = /<img([^>]+)>/gi;
+  const SRC_RE  = /\bsrc=["']([^"']+)["']/i;
+  const W_RE    = /\bwidth=["']?(\d+)["']?/i;
+
+  let best = null;
+  let bestW = 0;
+  let tag;
+
+  while ((tag = IMG_TAG.exec(html)) !== null) {
+    const attrs = tag[1];
+    const srcM  = SRC_RE.exec(attrs);
+    if (!srcM) continue;
+    const src = srcM[1];
+    if (SKIP_IMG.test(src)) continue;
+
+    const resolved = resolveUrl(src, base);
+    if (!resolved) continue;
+
+    const w = parseInt(W_RE.exec(attrs)?.[1] ?? '0');
+    if (w > 0 && w < 200) continue; // too small
+
+    if (w > bestW) { bestW = w; best = resolved; }
+    else if (!best) best = resolved;
+  }
+
+  return best;
+}
+
+async function tryFetch(proxy, url) {
+  const res = await fetch(proxy + encodeURIComponent(url), {
+    signal: AbortSignal.timeout(5000)
+  });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  return res.text();
+}
 
 async function fetchOgImage(url) {
   if (ogCache.has(url)) return ogCache.get(url);
 
+  let html = null;
   try {
-    const res = await fetch(PROXY + encodeURIComponent(url), {
-      signal: AbortSignal.timeout(8000)
-    });
-    if (!res.ok) throw new Error();
-    const html = await res.text();
-
-    // Patterns tried in priority order
-    const matchers = [
-      /<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i,
-      /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i,
-      /<meta[^>]+name=["']twitter:image(?::src)?["'][^>]+content=["']([^"']+)["']/i,
-      /<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image(?::src)?["']/i,
-      /<img[^>]+src=["'](https?:[^"']+)["']/i,
-    ];
-
-    let imgUrl = null;
-    for (const re of matchers) {
-      const m = html.match(re);
-      if (m?.[1]?.startsWith('http')) { imgUrl = m[1]; break; }
-    }
-    ogCache.set(url, imgUrl);
-    return imgUrl;
+    html = await tryFetch(PROXY_A, url);
   } catch {
-    ogCache.set(url, null);
-    return null;
+    try {
+      html = await tryFetch(PROXY_B, url);
+    } catch {
+      ogCache.set(url, null);
+      return null;
+    }
   }
+
+  // [DEV] debug — remove when no longer needed
+  console.log('[star] url:', url.slice(0, 90));
+  console.log('[star] html preview:', html.slice(0, 600));
+
+  const imgUrl = extractBestImage(html, url);
+  console.log('[star] image →', imgUrl);
+
+  ogCache.set(url, imgUrl);
+  return imgUrl;
 }
 
-// ── IntersectionObserver for lazy og:image loading ──────────────────────────
+// ── IntersectionObserver — lazy og:image ─────────────────────────────────────
 
 function setupLazyImageFetch() {
   const thumbs = grid.querySelectorAll('[data-lazy-url]');
@@ -73,11 +150,10 @@ function setupLazyImageFetch() {
           thumb.innerHTML = '';
           thumb.appendChild(img);
         };
-        img.onerror = () => { /* keep gradient placeholder */ };
         img.src = imgUrl;
       });
     }
-  }, { rootMargin: '300px' });  // start fetching before card scrolls into view
+  }, { rootMargin: '300px' });
 
   thumbs.forEach(el => observer.observe(el));
 }
@@ -127,7 +203,6 @@ function thumbHtml(item) {
         onerror="this.parentElement.classList.add('card-thumb--empty');this.remove()">
     </div>`;
   }
-  // No thumbnail — lazy-fetch og:image when card enters viewport
   return `<div class="card-thumb card-thumb--empty card-thumb--lazy"
     data-lazy-url="${item.link}"></div>`;
 }
@@ -162,16 +237,21 @@ async function loadNews() {
     const items = await fetchCelebNews(currentCeleb, currentLang);
     renderCards(items);
     setStatus('ok', `${items.length}개 기사`);
-  } catch (e) {
+  } catch {
     setStatus('error', '로드 실패');
     grid.innerHTML = '<div class="empty-msg">뉴스를 불러오지 못했습니다. 잠시 후 다시 시도해주세요.</div>';
   }
   isLoading = false;
 }
 
+// ── Init ─────────────────────────────────────────────────────────────────────
+
+// Sync lang buttons with saved preference
 document.querySelectorAll('.lang-btn').forEach(btn => {
+  btn.classList.toggle('active', btn.dataset.lang === currentLang);
   btn.addEventListener('click', () => {
     currentLang = btn.dataset.lang;
+    saveLang(currentLang);
     document.querySelectorAll('.lang-btn').forEach(b =>
       b.classList.toggle('active', b.dataset.lang === currentLang)
     );
