@@ -1,5 +1,5 @@
-import { CELEBRITIES, DEFAULT_CELEB } from './config.js?v=4';
-import { fetchCelebNews } from './fetcher.js?v=4';
+import { CELEBRITIES, DEFAULT_CELEB } from './config.js?v=5';
+import { fetchCelebNews } from './fetcher.js?v=5';
 
 const PROXY_A = 'https://corsproxy.io/?';
 const PROXY_B = 'https://api.allorigins.win/raw?url=';
@@ -118,22 +118,18 @@ async function fetchOgImage(url) {
   return imgUrl;
 }
 
-// ── IntersectionObserver — lazy og:image ─────────────────────────────────────
+// ── og:image fetch — staggered eager load ────────────────────────────────────
 
 function setupLazyImageFetch() {
-  const thumbs = grid.querySelectorAll('[data-lazy-url]');
+  const thumbs = [...grid.querySelectorAll('[data-lazy-url]')];
   if (!thumbs.length) return;
 
-  const observer = new IntersectionObserver((entries) => {
-    for (const entry of entries) {
-      if (!entry.isIntersecting) continue;
-      const thumb = entry.target;
-      const url = thumb.dataset.lazyUrl;
-      if (!url) continue;
+  thumbs.forEach((thumb, idx) => {
+    const url = thumb.dataset.lazyUrl;
+    delete thumb.dataset.lazyUrl;
 
-      observer.unobserve(thumb);
-      delete thumb.dataset.lazyUrl;
-
+    // Stagger 150ms per card to avoid proxy rate limits
+    setTimeout(() => {
       fetchOgImage(url).then(imgUrl => {
         if (!imgUrl) return;
         const img = new Image();
@@ -146,10 +142,8 @@ function setupLazyImageFetch() {
         };
         img.src = imgUrl;
       });
-    }
-  }, { rootMargin: '300px' });
-
-  thumbs.forEach(el => observer.observe(el));
+    }, idx * 150);
+  });
 }
 
 // ── Tabs ─────────────────────────────────────────────────────────────────────
