@@ -1,6 +1,9 @@
 import { CELEBRITIES, DEFAULT_CELEB } from './config.js';
 import { fetchCelebNews } from './fetcher.js';
 
+const PROXY = 'https://corsproxy.io/?';
+const ogCache = new Map(); // articleUrl → imageUrl | null
+
 let currentLang = 'ko';
 let currentCeleb = CELEBRITIES.find(c => c.id === DEFAULT_CELEB) ?? CELEBRITIES[0];
 let isLoading = false;
@@ -10,11 +13,79 @@ const statusDot = document.getElementById('statusDot');
 const statusText = document.getElementById('statusText');
 const celebTabs = document.getElementById('celebTabs');
 
-function renderTabs() {
-  if (CELEBRITIES.length <= 1) {
-    celebTabs.hidden = true;
-    return;
+// ── og:image fetcher ────────────────────────────────────────────────────────
+
+async function fetchOgImage(url) {
+  if (ogCache.has(url)) return ogCache.get(url);
+
+  try {
+    const res = await fetch(PROXY + encodeURIComponent(url), {
+      signal: AbortSignal.timeout(8000)
+    });
+    if (!res.ok) throw new Error();
+    const html = await res.text();
+
+    // Patterns tried in priority order
+    const matchers = [
+      /<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']/i,
+      /<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']/i,
+      /<meta[^>]+name=["']twitter:image(?::src)?["'][^>]+content=["']([^"']+)["']/i,
+      /<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image(?::src)?["']/i,
+      /<img[^>]+src=["'](https?:[^"']+)["']/i,
+    ];
+
+    let imgUrl = null;
+    for (const re of matchers) {
+      const m = html.match(re);
+      if (m?.[1]?.startsWith('http')) { imgUrl = m[1]; break; }
+    }
+    ogCache.set(url, imgUrl);
+    return imgUrl;
+  } catch {
+    ogCache.set(url, null);
+    return null;
   }
+}
+
+// ── IntersectionObserver for lazy og:image loading ──────────────────────────
+
+function setupLazyImageFetch() {
+  const thumbs = grid.querySelectorAll('[data-lazy-url]');
+  if (!thumbs.length) return;
+
+  const observer = new IntersectionObserver((entries) => {
+    for (const entry of entries) {
+      if (!entry.isIntersecting) continue;
+      const thumb = entry.target;
+      const url = thumb.dataset.lazyUrl;
+      if (!url) continue;
+
+      observer.unobserve(thumb);
+      delete thumb.dataset.lazyUrl;
+
+      fetchOgImage(url).then(imgUrl => {
+        if (!imgUrl) return;
+        const img = new Image();
+        img.alt = '';
+        img.loading = 'lazy';
+        img.onload = () => {
+          thumb.classList.remove('card-thumb--empty', 'card-thumb--lazy');
+          thumb.innerHTML = '';
+          thumb.appendChild(img);
+        };
+        img.onerror = () => { /* keep gradient placeholder */ };
+        img.src = imgUrl;
+      });
+    }
+  }, { rootMargin: '300px' });  // start fetching before card scrolls into view
+
+  thumbs.forEach(el => observer.observe(el));
+}
+
+// ── Tabs ─────────────────────────────────────────────────────────────────────
+
+function renderTabs() {
+  if (CELEBRITIES.length <= 1) { celebTabs.hidden = true; return; }
   celebTabs.hidden = false;
   celebTabs.innerHTML = CELEBRITIES.map(c => `
     <button class="celeb-tab${c.id === currentCeleb.id ? ' active' : ''}" data-id="${c.id}">
@@ -29,6 +100,8 @@ function renderTabs() {
     });
   });
 }
+
+// ── Status / date helpers ────────────────────────────────────────────────────
 
 function setStatus(type, msg) {
   statusDot.className = 'status-dot ' + type;
@@ -45,6 +118,8 @@ function formatDate(d) {
   return d.toLocaleDateString('ko-KR', { month: 'short', day: 'numeric' });
 }
 
+// ── Card rendering ───────────────────────────────────────────────────────────
+
 function thumbHtml(item) {
   if (item.thumb) {
     return `<div class="card-thumb">
@@ -52,14 +127,9 @@ function thumbHtml(item) {
         onerror="this.parentElement.classList.add('card-thumb--empty');this.remove()">
     </div>`;
   }
-  if (item.favicon) {
-    return `<div class="card-thumb card-thumb--favicon">
-      <img class="favicon-img" src="${item.favicon}" alt="" loading="lazy"
-        onerror="this.parentElement.classList.add('card-thumb--empty');this.remove()">
-      <span class="favicon-domain">${item.domain || ''}</span>
-    </div>`;
-  }
-  return `<div class="card-thumb card-thumb--empty"></div>`;
+  // No thumbnail — lazy-fetch og:image when card enters viewport
+  return `<div class="card-thumb card-thumb--empty card-thumb--lazy"
+    data-lazy-url="${item.link}"></div>`;
 }
 
 function renderCards(items) {
@@ -77,7 +147,11 @@ function renderCards(items) {
       </div>
     </a>
   `).join('');
+
+  setupLazyImageFetch();
 }
+
+// ── Load ─────────────────────────────────────────────────────────────────────
 
 async function loadNews() {
   if (isLoading) return;

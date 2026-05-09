@@ -227,6 +227,12 @@ img { display: block; width: 100%; height: 100%; object-fit: cover; }
   overflow: hidden;
   background: var(--surface2);
   flex-shrink: 0;
+  position: relative;
+}
+.card-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 .card-thumb--empty {
   background: linear-gradient(135deg, var(--surface2) 0%, #0d1526 100%);
@@ -235,33 +241,25 @@ img { display: block; width: 100%; height: 100%; object-fit: cover; }
   justify-content: center;
   font-size: 2.5rem;
 }
-.card-thumb--empty::after { content: '⭐'; }
+.card-thumb--empty:not(.card-thumb--lazy)::after { content: '⭐'; }
 
-/* favicon fallback thumbnail */
-.card-thumb--favicon {
-  background: linear-gradient(135deg, #0d1526 0%, #111827 100%);
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 0.5rem;
+/* shimmer while og:image is being fetched */
+.card-thumb--lazy::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(255,255,255,0.05) 50%,
+    transparent 100%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.4s linear infinite;
 }
-.card-thumb--favicon .favicon-img {
-  width: 56px;
-  height: 56px;
-  object-fit: contain;
-  border-radius: 8px;
-  filter: drop-shadow(0 2px 8px rgba(0,0,0,.5));
-}
-.favicon-domain {
-  font-size: 0.65rem;
-  color: var(--text-muted);
-  letter-spacing: 0.06em;
-  text-align: center;
-  max-width: 90%;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+@keyframes shimmer {
+  0%   { background-position: -200% 0; }
+  100% { background-position:  200% 0; }
 }
 .card-body {
   padding: 0.875rem 1rem 1rem;
