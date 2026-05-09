@@ -120,13 +120,23 @@ async function fetchReddit(subreddit, limit = 20) {
 }
 
 function dedupe(items) {
-  const seen = new Set();
-  return items.filter(it => {
+  const seen = new Map(); // key → index in result
+  const result = [];
+  for (const it of items) {
     const key = it.title.toLowerCase().replace(/[^\w가-힣]/g, '').substring(0, 35);
-    if (seen.has(key)) return false;
-    seen.add(key);
-    return true;
-  });
+    const isGNews = it.link?.includes('news.google.com');
+    const existingIdx = seen.get(key);
+    if (existingIdx !== undefined) {
+      // Upgrade: replace a Google News redirect with a direct article URL
+      if (!isGNews && result[existingIdx]?.link?.includes('news.google.com')) {
+        result[existingIdx] = it;
+      }
+    } else {
+      seen.set(key, result.length);
+      result.push(it);
+    }
+  }
+  return result;
 }
 
 export async function fetchCelebNews(celeb, lang) {
@@ -142,9 +152,10 @@ export async function fetchCelebNews(celeb, lang) {
   const tasks = [
     ...queries.map(q => fetchRSS(rssBase + encodeURIComponent(q), { maxItems: 15 })),
     // Bing News KO: gives direct article URLs → lazy og:image fetch works
-    isKo
-      ? fetchBingNews(celeb.queries.ko, 'ko', { maxItems: 20 })
-      : Promise.resolve([]),
+    // Both KO queries to maximise direct-URL coverage
+    ...(isKo
+      ? [celeb.queries.ko, celeb.queries.ko2].filter(Boolean).map(q => fetchBingNews(q, 'ko', { maxItems: 15 }))
+      : []),
     !isKo && celeb.subreddit ? fetchReddit(celeb.subreddit, 20) : Promise.resolve([]),
     celeb.soompiUrl
       ? fetchRSS(celeb.soompiUrl, { keywords: celeb.keywords, maxItems: 15 })
