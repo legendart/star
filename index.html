@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JAVIS STAR</title>
+  <meta name="description" content="NCT 등 연예인 최신 뉴스 모음">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<nav class="javis-nav">
+  <a class="javis-nav__home" href="https://legendart.github.io/">⬡ JAVIS</a>
+  <div class="javis-nav__links">
+    <a href="https://legendart.github.io/news/">📡 <span class="nav-label">뉴스</span></a>
+    <a href="https://legendart.github.io/humor/">😂 <span class="nav-label">유머</span></a>
+    <a class="active" href="https://legendart.github.io/star/">⭐ <span class="nav-label">스타</span></a>
+  </div>
+</nav>
+
+<header class="header">
+  <div class="header-inner">
+    <div class="brand">
+      <div class="brand-logo">⭐</div>
+      <div>
+        <div class="brand-name">JAVIS STAR</div>
+        <div class="brand-sub">Celebrity News</div>
+      </div>
+    </div>
+    <div class="header-spacer"></div>
+    <div class="lang-toggle">
+      <button class="lang-btn active" data-lang="ko">KO</button>
+      <button class="lang-btn" data-lang="en">EN</button>
+    </div>
+  </div>
+</header>
+
+<div class="celeb-tabs" id="celebTabs" hidden></div>
+
+<div class="status-bar">
+  <span class="status-dot loading" id="statusDot"></span>
+  <span id="statusText">불러오는 중...</span>
+</div>
+
+<main class="grid" id="grid"></main>
+
+<footer>JAVIS STAR &mdash; 연예인 뉴스 aggregator</footer>
+
+<script type="module" src="js/main.js"></script>
+</body>
+</html>
