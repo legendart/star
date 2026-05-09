@@ -5,9 +5,12 @@ export const CELEBRITIES = [
     nameKo: 'NCT',
     queries: {
       ko: 'NCT 아이돌',
+      ko2: 'NCT127 OR NCT드림 OR 웨이션브이',
       en: 'NCT kpop'
     },
     subreddit: 'NCT',
+    soompiUrl: 'https://www.soompi.com/feed',
+    keywords: ['nct', '엔씨티', '엔시티'],
     color: '#00c851',
     emoji: '🎵'
   }

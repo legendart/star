@@ -41,7 +41,25 @@ function formatDate(d) {
   if (diff < 60) return '방금 전';
   if (diff < 3600) return `${Math.floor(diff / 60)}분 전`;
   if (diff < 86400) return `${Math.floor(diff / 3600)}시간 전`;
-  return `${Math.floor(diff / 86400)}일 전`;
+  if (diff < 86400 * 7) return `${Math.floor(diff / 86400)}일 전`;
+  return d.toLocaleDateString('ko-KR', { month: 'short', day: 'numeric' });
+}
+
+function thumbHtml(item) {
+  if (item.thumb) {
+    return `<div class="card-thumb">
+      <img src="${item.thumb}" alt="" loading="lazy"
+        onerror="this.parentElement.classList.add('card-thumb--empty');this.remove()">
+    </div>`;
+  }
+  if (item.favicon) {
+    return `<div class="card-thumb card-thumb--favicon">
+      <img class="favicon-img" src="${item.favicon}" alt="" loading="lazy"
+        onerror="this.parentElement.classList.add('card-thumb--empty');this.remove()">
+      <span class="favicon-domain">${item.domain || ''}</span>
+    </div>`;
+  }
+  return `<div class="card-thumb card-thumb--empty"></div>`;
 }
 
 function renderCards(items) {
@@ -51,11 +69,9 @@ function renderCards(items) {
   }
   grid.innerHTML = items.map(item => `
     <a class="card" href="${item.link}" target="_blank" rel="noopener noreferrer">
-      <div class="card-thumb${item.thumb ? '' : ' card-thumb--empty'}">
-        ${item.thumb ? `<img src="${item.thumb}" alt="" loading="lazy" onerror="this.parentElement.classList.add('card-thumb--empty');this.remove()">` : ''}
-      </div>
+      ${thumbHtml(item)}
       <div class="card-body">
-        <div class="card-source">${item.source ?? ''}</div>
+        <div class="card-source">${item.source || ''}</div>
         <div class="card-title">${item.title}</div>
         <div class="card-date">${formatDate(item.pubDate)}</div>
       </div>
