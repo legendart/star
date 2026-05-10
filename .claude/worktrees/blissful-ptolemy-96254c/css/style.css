@@ -1,0 +1,337 @@
+/* ── JAVIS Nav ──────────────────────────────────────────────────────────── */
+.javis-nav {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1.5rem;
+  background: rgba(10,14,26,0.95);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+  height: 48px;
+}
+.javis-nav__home {
+  font-weight: 700;
+  font-size: 1rem;
+  color: #7c83fd;
+  text-decoration: none;
+  letter-spacing: 0.05em;
+}
+.javis-nav__links { display: flex; height: 100%; }
+.javis-nav__links a {
+  color: rgba(255,255,255,0.55);
+  text-decoration: none;
+  font-size: 0.82rem;
+  font-weight: 500;
+  padding: 0 0.9rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  border-bottom: 2px solid transparent;
+  transition: color 0.2s, border-color 0.2s;
+}
+.javis-nav__links a:hover { color: #fff; }
+.javis-nav__links a.active {
+  color: #fff;
+  font-weight: 700;
+  border-bottom-color: #7c83fd;
+}
+@media (max-width: 600px) {
+  .javis-nav__links .nav-label { display: none; }
+  .javis-nav__links a { padding: 0 0.65rem; }
+}
+
+/* ── Reset & base ──────────────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+[hidden] { display: none !important; }
+
+:root {
+  --bg:        #0a0e1a;
+  --surface:   #111827;
+  --surface2:  #1a2235;
+  --border:    #1e2d45;
+  --accent:    #7c83fd;
+  --text:      #e2e8f0;
+  --text-muted:#64748b;
+  --radius:    10px;
+  --shadow:    0 4px 24px rgba(0,0,0,.4);
+}
+
+html { scroll-behavior: smooth; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  min-height: 100vh;
+}
+a { color: inherit; text-decoration: none; }
+img { display: block; width: 100%; height: 100%; object-fit: cover; }
+
+/* ── Header ────────────────────────────────────────────────────────────── */
+.header {
+  background: linear-gradient(135deg, #0d1526 0%, #0f1e38 100%);
+  border-bottom: 1px solid var(--border);
+  padding: 0 1.5rem;
+}
+.header-inner {
+  max-width: 1100px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  height: 64px;
+}
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  flex-shrink: 0;
+}
+.brand-logo {
+  font-size: 2rem;
+  line-height: 1;
+}
+.brand-name {
+  font-size: 1.1rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  background: linear-gradient(90deg, #fff 0%, var(--accent) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.brand-sub {
+  font-size: 0.62rem;
+  color: var(--text-muted);
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  line-height: 1;
+}
+.header-spacer { flex: 1; }
+.lang-toggle {
+  display: flex;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.lang-btn {
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  cursor: pointer;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  padding: 0.35rem 0.7rem;
+  transition: background 0.15s, color 0.15s;
+}
+.lang-btn.active {
+  background: var(--accent);
+  color: #fff;
+}
+.lang-btn:hover:not(.active) {
+  background: var(--surface2);
+  color: var(--text);
+}
+
+/* ── Celeb tabs ────────────────────────────────────────────────────────── */
+.celeb-tabs {
+  display: flex;
+  gap: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.celeb-tab {
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  color: var(--text-muted);
+  cursor: pointer;
+  font-size: 0.82rem;
+  font-weight: 600;
+  padding: 0.35rem 1rem;
+  transition: background 0.2s, color 0.2s, border-color 0.2s;
+}
+.celeb-tab.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+.celeb-tab:hover:not(.active) {
+  color: var(--text);
+  border-color: rgba(124,131,253,.4);
+}
+
+/* ── Status bar ────────────────────────────────────────────────────────── */
+.status-bar {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1.5rem;
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.status-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+.status-dot.loading { background: #f59e0b; animation: pulse 1.5s ease-in-out infinite; }
+.status-dot.ok      { background: #22c55e; }
+.status-dot.error   { background: #ef4444; }
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.35; }
+}
+
+/* ── Grid ──────────────────────────────────────────────────────────────── */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+  gap: 1.25rem;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0.5rem 1.5rem 2rem;
+}
+
+/* ── Card ──────────────────────────────────────────────────────────────── */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
+  box-shadow: var(--shadow);
+  cursor: pointer;
+}
+.card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 32px rgba(0,0,0,.5);
+  border-color: rgba(124,131,253,.35);
+}
+.card-thumb {
+  width: 100%;
+  height: 170px;
+  overflow: hidden;
+  background: var(--surface2);
+  flex-shrink: 0;
+  position: relative;
+}
+.card-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.card-thumb--empty {
+  background: linear-gradient(135deg, var(--surface2) 0%, #0d1526 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2.5rem;
+}
+.card-thumb--empty:not(.card-thumb--lazy)::after { content: '⭐'; }
+
+/* shimmer while og:image is being fetched */
+.card-thumb--lazy::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(255,255,255,0.05) 50%,
+    transparent 100%
+  );
+  background-size: 200% 100%;
+  animation: shimmer 1.4s linear infinite;
+}
+@keyframes shimmer {
+  0%   { background-position: -200% 0; }
+  100% { background-position:  200% 0; }
+}
+.card-body {
+  padding: 0.875rem 1rem 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  flex: 1;
+}
+.card-source {
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.card-title {
+  font-size: 0.92rem;
+  font-weight: 700;
+  line-height: 1.45;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  flex: 1;
+}
+.card:hover .card-title { color: var(--accent); }
+.card-date {
+  font-size: 0.7rem;
+  color: var(--text-muted);
+  margin-top: auto;
+}
+
+/* ── Loading / Empty ───────────────────────────────────────────────────── */
+.loading-wrap {
+  grid-column: 1 / -1;
+  display: flex;
+  justify-content: center;
+  padding: 4rem 0;
+}
+.spinner {
+  width: 38px;
+  height: 38px;
+  border: 3px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.75s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+.empty-msg {
+  grid-column: 1 / -1;
+  text-align: center;
+  color: var(--text-muted);
+  padding: 4rem 0;
+  font-size: 0.9rem;
+}
+
+/* ── Footer ────────────────────────────────────────────────────────────── */
+footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  color: var(--text-muted);
+  font-size: 0.75rem;
+  border-top: 1px solid var(--border);
+  margin-top: 1rem;
+}
+
+/* ── Responsive ────────────────────────────────────────────────────────── */
+@media (max-width: 640px) {
+  .header-inner { height: 56px; }
+  .grid { grid-template-columns: 1fr; padding: 0.5rem 1rem 2rem; }
+  .status-bar, .celeb-tabs { padding-left: 1rem; padding-right: 1rem; }
+}

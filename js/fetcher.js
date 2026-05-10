@@ -1,68 +1,52 @@
 const PROXY = 'https://corsproxy.io/?';
+const RSS2JSON = 'https://api.rss2json.com/v1/api.json?rss_url=';
 
 function getDomain(url) {
   try { return new URL(url).hostname.replace(/^www\./, ''); } catch { return ''; }
 }
 
-function extractImgFromHtml(html) {
-  const m = html?.match(/<img[^>]+src=["']([^"']+)["']/);
-  return m ? m[1] : null;
-}
-
-async function fetchRSS(rawUrl, { keywords = null, maxItems = 15 } = {}) {
-  const res = await fetch(PROXY + encodeURIComponent(rawUrl));
+// rss2json.com 기반 RSS fetch — 이미지(thumbnail) 자동 추출
+async function fetchRss2Json(rssUrl, { keywords = null, maxItems = 15 } = {}) {
+  const res = await fetch(RSS2JSON + encodeURIComponent(rssUrl), {
+    signal: AbortSignal.timeout(8000)
+  });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  const text = await res.text();
-  const doc = new DOMParser().parseFromString(text, 'text/xml');
-  if (doc.querySelector('parsererror')) throw new Error('XML parse error');
+  const json = await res.json();
+  if (json.status !== 'ok') throw new Error('rss2json error: ' + json.message);
 
-  let items = [...doc.querySelectorAll('item')];
+  let items = json.items ?? [];
 
   if (keywords?.length) {
     const kw = keywords.map(k => k.toLowerCase());
     items = items.filter(item => {
-      const t = (item.querySelector('title')?.textContent ?? '').toLowerCase();
-      const d = (item.querySelector('description')?.textContent ?? '').toLowerCase();
-      return kw.some(k => t.includes(k) || d.includes(k));
+      const text = ((item.title ?? '') + ' ' + (item.description ?? '')).toLowerCase();
+      return kw.some(k => text.includes(k));
     });
   }
 
+  const feedTitle = json.feed?.title ?? '';
+
   return items.slice(0, maxItems).map(item => {
-    const title = item.querySelector('title')?.textContent ?? '';
-    const link = item.querySelector('link')?.textContent ?? '';
-    const pubDate = item.querySelector('pubDate')?.textContent ?? '';
-
-    const sourceEl = item.querySelector('source');
-    let source = sourceEl?.textContent?.trim() ?? '';
-    if (!source && title.includes(' - ')) source = title.split(' - ').pop().trim();
-
-    const sourceUrl = sourceEl?.getAttribute('url') ?? '';
-    const domain = getDomain(sourceUrl) || getDomain(link);
-
-    const desc = item.querySelector('description')?.textContent ?? '';
-    const mediaContent =
-      item.querySelector('media\\:content') ??
-      item.querySelector('content') ??
-      null;
-    const thumb =
-      item.querySelector('enclosure')?.getAttribute('url') ??
-      mediaContent?.getAttribute('url') ??
-      extractImgFromHtml(desc) ??
-      null;
-
-    const favicon = domain ? `https://www.google.com/s2/favicons?domain=${domain}&sz=128` : null;
-
-    return { title, link, pubDate: pubDate ? new Date(pubDate) : null, source, domain, thumb, favicon };
+    const domain = getDomain(item.link ?? '');
+    return {
+      title: item.title ?? '',
+      link: item.link ?? '',
+      pubDate: item.pubDate ? new Date(item.pubDate) : null,
+      source: item.author || feedTitle || domain,
+      domain,
+      thumb: item.thumbnail || item.enclosure?.link || null,
+      favicon: domain ? `https://www.google.com/s2/favicons?domain=${domain}&sz=128` : null,
+    };
   });
 }
 
-// Bing News RSS — extracts the real article URL from Bing's redirect link
-// so lazy og:image fetch can reach actual news sites (not blocked like Google News)
-async function fetchBingNews(query, lang, { maxItems = 20 } = {}) {
+// Google News RSS (영어용 — 링크는 redirect지만 EN 소스로는 충분)
+async function fetchGoogleNews(query, lang, { maxItems = 15 } = {}) {
   const isKo = lang === 'ko';
-  const params = new URLSearchParams({ q: query, format: 'rss' });
-  if (isKo) { params.set('setlang', 'ko'); params.set('cc', 'KR'); }
-  const rssUrl = `https://www.bing.com/news/search?${params}`;
+  const base = isKo
+    ? 'https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR:ko&sort=date&q='
+    : 'https://news.google.com/rss/search?hl=en&gl=US&ceid=US:en&sort=date&q=';
+  const rssUrl = base + encodeURIComponent(query);
 
   const res = await fetch(PROXY + encodeURIComponent(rssUrl), { signal: AbortSignal.timeout(8000) });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
@@ -72,31 +56,18 @@ async function fetchBingNews(query, lang, { maxItems = 20 } = {}) {
 
   return [...doc.querySelectorAll('item')].slice(0, maxItems).map(item => {
     const title = item.querySelector('title')?.textContent ?? '';
-    const rawLink = item.querySelector('link')?.textContent ?? '';
+    const link  = item.querySelector('link')?.textContent ?? '';
     const pubDate = item.querySelector('pubDate')?.textContent ?? '';
-
-    // Unwrap Bing redirect → actual article URL
-    let link = rawLink;
-    try {
-      const u = new URL(rawLink);
-      link = u.searchParams.get('url') || rawLink;
-    } catch {}
-
-    // Source name from News:Source element or title suffix
-    const sourceEl = [...item.childNodes].find(n => n.localName === 'Source');
-    let source = sourceEl?.textContent?.trim() ?? '';
-    if (!source && title.includes(' - ')) source = title.split(' - ').pop().trim();
-
+    const sourceEl = item.querySelector('source');
+    const source = sourceEl?.textContent?.trim() ?? (title.includes(' - ') ? title.split(' - ').pop().trim() : '');
     const domain = getDomain(link);
-    const favicon = domain ? `https://www.google.com/s2/favicons?domain=${domain}&sz=128` : null;
-
-    return { title, link, pubDate: pubDate ? new Date(pubDate) : null, source, domain, thumb: null, favicon };
+    return { title, link, pubDate: pubDate ? new Date(pubDate) : null, source, domain, thumb: null, favicon: null };
   });
 }
 
 async function fetchReddit(subreddit, limit = 20) {
   const url = `https://www.reddit.com/r/${subreddit}/new.json?limit=${limit}`;
-  const res = await fetch(PROXY + encodeURIComponent(url));
+  const res = await fetch(PROXY + encodeURIComponent(url), { signal: AbortSignal.timeout(8000) });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   const json = await res.json();
   return json.data.children
@@ -120,19 +91,12 @@ async function fetchReddit(subreddit, limit = 20) {
 }
 
 function dedupe(items) {
-  const seen = new Map(); // key → index in result
+  const seen = new Set();
   const result = [];
   for (const it of items) {
     const key = it.title.toLowerCase().replace(/[^\w가-힣]/g, '').substring(0, 35);
-    const isGNews = it.link?.includes('news.google.com');
-    const existingIdx = seen.get(key);
-    if (existingIdx !== undefined) {
-      // Upgrade: replace a Google News redirect with a direct article URL
-      if (!isGNews && result[existingIdx]?.link?.includes('news.google.com')) {
-        result[existingIdx] = it;
-      }
-    } else {
-      seen.set(key, result.length);
+    if (!seen.has(key)) {
+      seen.add(key);
       result.push(it);
     }
   }
@@ -141,26 +105,24 @@ function dedupe(items) {
 
 export async function fetchCelebNews(celeb, lang) {
   const isKo = lang === 'ko';
-  const rssBase = isKo
-    ? 'https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR:ko&sort=date&q='
-    : 'https://news.google.com/rss/search?hl=en&gl=US&ceid=US:en&sort=date&q=';
 
-  const queries = isKo
-    ? [celeb.queries.ko, celeb.queries.ko2].filter(Boolean)
-    : [celeb.queries.en];
-
-  const tasks = [
-    ...queries.map(q => fetchRSS(rssBase + encodeURIComponent(q), { maxItems: 15 })),
-    // Bing News KO: gives direct article URLs → lazy og:image fetch works
-    // Both KO queries to maximise direct-URL coverage
-    ...(isKo
-      ? [celeb.queries.ko, celeb.queries.ko2].filter(Boolean).map(q => fetchBingNews(q, 'ko', { maxItems: 15 }))
-      : []),
-    !isKo && celeb.subreddit ? fetchReddit(celeb.subreddit, 20) : Promise.resolve([]),
-    celeb.soompiUrl
-      ? fetchRSS(celeb.soompiUrl, { keywords: celeb.keywords, maxItems: 15 })
-      : Promise.resolve([]),
-  ];
+  let tasks;
+  if (isKo) {
+    // 한국어: rss2json으로 한국 연예 RSS 직접 수집 → 이미지 포함
+    const koFeeds = celeb.koRssFeeds ?? [];
+    tasks = koFeeds.map(url =>
+      fetchRss2Json(url, { keywords: celeb.keywords, maxItems: 20 })
+    );
+  } else {
+    // 영어: Google News + Reddit + Soompi
+    tasks = [
+      fetchGoogleNews(celeb.queries.en, 'en', { maxItems: 20 }),
+      celeb.subreddit ? fetchReddit(celeb.subreddit, 20) : Promise.resolve([]),
+      celeb.soompiUrl
+        ? fetchRss2Json(celeb.soompiUrl, { keywords: celeb.keywords, maxItems: 20 })
+        : Promise.resolve([]),
+    ];
+  }
 
   const results = await Promise.allSettled(tasks);
   const all = [];

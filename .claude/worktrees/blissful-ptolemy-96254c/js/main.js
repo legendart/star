@@ -1,5 +1,5 @@
-import { CELEBRITIES, DEFAULT_CELEB } from './config.js?v=6';
-import { fetchCelebNews } from './fetcher.js?v=6';
+import { CELEBRITIES, DEFAULT_CELEB } from './config.js?v=5';
+import { fetchCelebNews } from './fetcher.js?v=5';
 
 const PROXY_A = 'https://corsproxy.io/?';
 const PROXY_B = 'https://api.allorigins.win/raw?url=';
@@ -118,36 +118,29 @@ async function fetchOgImage(url) {
   return imgUrl;
 }
 
-// ── og:image fetch — batch eager load ────────────────────────────────────────
+// ── og:image fetch — sequential batch fetch ──────────────────────────────────
 
-async function setupBatchImageFetch() {
-  const thumbs = [...grid.querySelectorAll('[data-lazy-url]')];
-  if (!thumbs.length) return;
+async function setupLazyImageFetch() {
+  const cards = [...document.querySelectorAll('[data-lazy-url]')];
+  if (!cards.length) return;
 
-  const BATCH = 5;
-  for (let i = 0; i < thumbs.length; i += BATCH) {
-    await Promise.allSettled(
-      thumbs.slice(i, i + BATCH).map(async thumb => {
-        const url = thumb.dataset.lazyUrl;
-        delete thumb.dataset.lazyUrl;
-
-        const imgUrl = await fetchOgImage(url);
-        if (!imgUrl) return;
-
-        await new Promise(resolve => {
-          const img = new Image();
-          img.alt = '';
-          img.onload = () => {
-            thumb.classList.remove('card-thumb--empty', 'card-thumb--lazy');
-            thumb.innerHTML = '';
-            thumb.appendChild(img);
-            resolve();
-          };
-          img.onerror = resolve;
-          img.src = imgUrl;
-        });
-      })
-    );
+  for (let i = 0; i < cards.length; i += 5) {
+    const batch = cards.slice(i, i + 5);
+    await Promise.allSettled(batch.map(async card => {
+      const url = card.dataset.lazyUrl;
+      try {
+        const proxied = 'https://corsproxy.io/?' + encodeURIComponent(url);
+        const res = await fetch(proxied, { signal: AbortSignal.timeout(5000) });
+        const html = await res.text();
+        const img = extractBestImage(html, url);
+        if (img) {
+          card.style.backgroundImage = `url(${img})`;
+          card.style.backgroundSize = 'cover';
+          card.style.backgroundPosition = 'center';
+          card.classList.remove('card-thumb--lazy');
+        }
+      } catch {}
+    }));
   }
 }
 
@@ -220,7 +213,7 @@ function renderCards(items) {
     </a>
   `).join('');
 
-  setupBatchImageFetch();
+  setupLazyImageFetch();
 }
 
 // ── Load ─────────────────────────────────────────────────────────────────────
