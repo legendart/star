@@ -118,32 +118,30 @@ async function fetchOgImage(url) {
   return imgUrl;
 }
 
-// ── og:image fetch — staggered eager load ────────────────────────────────────
+// ── og:image fetch — sequential batch fetch ──────────────────────────────────
 
-function setupLazyImageFetch() {
-  const thumbs = [...grid.querySelectorAll('[data-lazy-url]')];
-  if (!thumbs.length) return;
+async function setupLazyImageFetch() {
+  const cards = [...document.querySelectorAll('[data-lazy-url]')];
+  if (!cards.length) return;
 
-  thumbs.forEach((thumb, idx) => {
-    const url = thumb.dataset.lazyUrl;
-    delete thumb.dataset.lazyUrl;
-
-    // Stagger 150ms per card to avoid proxy rate limits
-    setTimeout(() => {
-      fetchOgImage(url).then(imgUrl => {
-        if (!imgUrl) return;
-        const img = new Image();
-        img.alt = '';
-        img.loading = 'lazy';
-        img.onload = () => {
-          thumb.classList.remove('card-thumb--empty', 'card-thumb--lazy');
-          thumb.innerHTML = '';
-          thumb.appendChild(img);
-        };
-        img.src = imgUrl;
-      });
-    }, idx * 150);
-  });
+  for (let i = 0; i < cards.length; i += 5) {
+    const batch = cards.slice(i, i + 5);
+    await Promise.allSettled(batch.map(async card => {
+      const url = card.dataset.lazyUrl;
+      try {
+        const proxied = 'https://corsproxy.io/?' + encodeURIComponent(url);
+        const res = await fetch(proxied, { signal: AbortSignal.timeout(5000) });
+        const html = await res.text();
+        const img = extractBestImage(html, url);
+        if (img) {
+          card.style.backgroundImage = `url(${img})`;
+          card.style.backgroundSize = 'cover';
+          card.style.backgroundPosition = 'center';
+          card.classList.remove('card-thumb--lazy');
+        }
+      } catch {}
+    }));
+  }
 }
 
 // ── Tabs ─────────────────────────────────────────────────────────────────────
