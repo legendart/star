@@ -93,9 +93,10 @@ function dedupe(items) {
   return result;
 }
 
-// 제목 정규화 (매칭 키 생성)
+// 제목 정규화 (매칭 키 생성) — 앞 괄호 태그([단독], [가요소식] 등) 제거
 function normKey(title) {
-  return title.toLowerCase().replace(/[^가-힣a-z0-9]/g, '').substring(0, 25);
+  const cleaned = title.replace(/^\[.*?\]\s*/g, '').replace(/^【.*?】\s*/g, '');
+  return cleaned.toLowerCase().replace(/[^가-힣a-z0-9]/g, '').substring(0, 25);
 }
 
 // Google News 항목에 한국 RSS 썸네일 매칭하여 이미지 보강
