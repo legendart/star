@@ -118,32 +118,37 @@ async function fetchOgImage(url) {
   return imgUrl;
 }
 
-// ── og:image fetch — staggered eager load ────────────────────────────────────
+// ── og:image fetch — batch eager load ────────────────────────────────────────
 
-function setupLazyImageFetch() {
+async function setupBatchImageFetch() {
   const thumbs = [...grid.querySelectorAll('[data-lazy-url]')];
   if (!thumbs.length) return;
 
-  thumbs.forEach((thumb, idx) => {
-    const url = thumb.dataset.lazyUrl;
-    delete thumb.dataset.lazyUrl;
+  const BATCH = 5;
+  for (let i = 0; i < thumbs.length; i += BATCH) {
+    await Promise.allSettled(
+      thumbs.slice(i, i + BATCH).map(async thumb => {
+        const url = thumb.dataset.lazyUrl;
+        delete thumb.dataset.lazyUrl;
 
-    // Stagger 150ms per card to avoid proxy rate limits
-    setTimeout(() => {
-      fetchOgImage(url).then(imgUrl => {
+        const imgUrl = await fetchOgImage(url);
         if (!imgUrl) return;
-        const img = new Image();
-        img.alt = '';
-        img.loading = 'lazy';
-        img.onload = () => {
-          thumb.classList.remove('card-thumb--empty', 'card-thumb--lazy');
-          thumb.innerHTML = '';
-          thumb.appendChild(img);
-        };
-        img.src = imgUrl;
-      });
-    }, idx * 150);
-  });
+
+        await new Promise(resolve => {
+          const img = new Image();
+          img.alt = '';
+          img.onload = () => {
+            thumb.classList.remove('card-thumb--empty', 'card-thumb--lazy');
+            thumb.innerHTML = '';
+            thumb.appendChild(img);
+            resolve();
+          };
+          img.onerror = resolve;
+          img.src = imgUrl;
+        });
+      })
+    );
+  }
 }
 
 // ── Tabs ─────────────────────────────────────────────────────────────────────
@@ -215,7 +220,7 @@ function renderCards(items) {
     </a>
   `).join('');
 
-  setupLazyImageFetch();
+  setupBatchImageFetch();
 }
 
 // ── Load ─────────────────────────────────────────────────────────────────────
