@@ -40,29 +40,20 @@ async function fetchRss2Json(rssUrl, { keywords = null, maxItems = 15 } = {}) {
   });
 }
 
-// Google News RSS (영어용 — 링크는 redirect지만 EN 소스로는 충분)
+// Google News RSS — rss2json으로 직접 파싱 (CORS 프록시 불필요)
 async function fetchGoogleNews(query, lang, { maxItems = 15 } = {}) {
-  const isKo = lang === 'ko';
-  const base = isKo
+  const base = lang === 'ko'
     ? 'https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR:ko&sort=date&q='
     : 'https://news.google.com/rss/search?hl=en&gl=US&ceid=US:en&sort=date&q=';
   const rssUrl = base + encodeURIComponent(query);
-
-  const res = await fetch(PROXY + encodeURIComponent(rssUrl), { signal: AbortSignal.timeout(8000) });
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
-  const text = await res.text();
-  const doc = new DOMParser().parseFromString(text, 'text/xml');
-  if (doc.querySelector('parsererror')) throw new Error('XML parse error');
-
-  return [...doc.querySelectorAll('item')].slice(0, maxItems).map(item => {
-    const title = item.querySelector('title')?.textContent ?? '';
-    const link  = item.querySelector('link')?.textContent ?? '';
-    const pubDate = item.querySelector('pubDate')?.textContent ?? '';
-    const sourceEl = item.querySelector('source');
-    const source = sourceEl?.textContent?.trim() ?? (title.includes(' - ') ? title.split(' - ').pop().trim() : '');
-    const domain = getDomain(link);
-    return { title, link, pubDate: pubDate ? new Date(pubDate) : null, source, domain, thumb: null, favicon: null };
-  });
+  // rss2json은 Google News에 직접 접근 가능 (CORS 프록시 없이)
+  const items = await fetchRss2Json(rssUrl, { maxItems });
+  // Google News 링크는 리다이렉트 URL — source를 title 뒤 " - 언론사명"에서 추출
+  return items.map(it => ({
+    ...it,
+    source: it.source || (it.title.includes(' - ') ? it.title.split(' - ').pop().trim() : it.domain),
+    title: it.title.includes(' - ') ? it.title.split(' - ').slice(0, -1).join(' - ').trim() : it.title,
+  }));
 }
 
 async function fetchReddit(subreddit, limit = 20) {
@@ -108,11 +99,14 @@ export async function fetchCelebNews(celeb, lang) {
 
   let tasks;
   if (isKo) {
-    // 한국어: rss2json으로 한국 연예 RSS 직접 수집 → 이미지 포함
+    // 한국어: Google News KO (NCT 특정 쿼리) + 한국 연예 RSS (이미지 포함)
     const koFeeds = celeb.koRssFeeds ?? [];
-    tasks = koFeeds.map(url =>
-      fetchRss2Json(url, { keywords: celeb.keywords, maxItems: 20 })
-    );
+    tasks = [
+      fetchGoogleNews(celeb.queries.ko, 'ko', { maxItems: 20 }),
+      ...koFeeds.map(url =>
+        fetchRss2Json(url, { keywords: celeb.keywords, maxItems: 20 })
+      ),
+    ];
   } else {
     // 영어: Google News + Reddit + Soompi
     tasks = [
