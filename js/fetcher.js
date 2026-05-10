@@ -145,20 +145,34 @@ export async function fetchCelebNews(celeb, lang) {
   const isKo = lang === 'ko';
 
   if (isKo) {
-    // 한국어: Google News KO(NCT 특정) + 한국 연예 RSS(썸네일 소스) 병렬 수집
-    const [gnResult, ...rssResults] = await Promise.allSettled([
-      fetchGoogleNews(celeb.queries.ko, 'ko', { maxItems: 20 }),
-      ...(celeb.koRssFeeds ?? []).map(url => fetchRss2Json(url, { maxItems: 20 })),
-    ]);
+    // 한국어: GitHub Actions가 사전 수집한 data/ko_news.json 우선 사용
+    try {
+      const cacheRes = await fetch('./data/ko_news.json', { signal: AbortSignal.timeout(5000) });
+      if (cacheRes.ok) {
+        const cached = await cacheRes.json();
+        if (Array.isArray(cached) && cached.length > 0) {
+          const kw = (celeb.keywords ?? []).map(k => k.toLowerCase());
+          const filtered = cached.filter(it => {
+            const text = (it.title + ' ' + (it.source || '')).toLowerCase();
+            return kw.some(k => text.includes(k));
+          });
+          if (filtered.length > 0) {
+            return filtered
+              .filter(it => it.title && it.link)
+              .map(it => ({
+                ...it,
+                pubDate: it.pubDate ? new Date(it.pubDate) : null,
+                domain: getDomain(it.link),
+              }));
+          }
+        }
+      }
+    } catch { /* fallthrough to live fetch */ }
 
-    const gnItems = gnResult.status === 'fulfilled' ? gnResult.value : [];
-    const rssPool = rssResults.flatMap(r => r.status === 'fulfilled' ? r.value : []);
-
-    // Google News 항목에 한국 RSS 썸네일 보강 적용
-    const all = enrichWithThumbnails(gnItems, rssPool, celeb.keywords);
-
-    return dedupe(all.filter(it => it.title && it.link))
-      .sort((a, b) => (b.pubDate?.getTime() ?? 0) - (a.pubDate?.getTime() ?? 0));
+    // Fallback: 라이브 Google News KO (이미지 없지만 뉴스는 표시)
+    try {
+      return await fetchGoogleNews(celeb.queries.ko, 'ko', { maxItems: 20 });
+    } catch { return []; }
   }
 
   // 영어: Google News + Reddit + Soompi

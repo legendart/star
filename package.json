@@ -1,0 +1,11 @@
+{
+  "name": "javis-star",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "fetch-ko": "node scripts/fetch-ko-news.mjs"
+  },
+  "dependencies": {
+    "google-news-url-decoder": "^1.1.0"
+  }
+}
