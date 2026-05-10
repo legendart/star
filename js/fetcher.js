@@ -46,7 +46,6 @@ async function fetchGoogleNews(query, lang, { maxItems = 15 } = {}) {
     ? 'https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR:ko&sort=date&q='
     : 'https://news.google.com/rss/search?hl=en&gl=US&ceid=US:en&sort=date&q=';
   const rssUrl = base + encodeURIComponent(query);
-  // rss2json은 Google News에 직접 접근 가능 (CORS 프록시 없이)
   const items = await fetchRss2Json(rssUrl, { maxItems });
   // Google News 링크는 리다이렉트 URL — source를 title 뒤 " - 언론사명"에서 추출
   return items.map(it => ({
@@ -94,29 +93,81 @@ function dedupe(items) {
   return result;
 }
 
+// 제목 정규화 (매칭 키 생성)
+function normKey(title) {
+  return title.toLowerCase().replace(/[^가-힣a-z0-9]/g, '').substring(0, 25);
+}
+
+// Google News 항목에 한국 RSS 썸네일 매칭하여 이미지 보강
+function enrichWithThumbnails(gnItems, rssPool, keywords) {
+  // RSS 풀에서 썸네일 있는 항목으로 제목→썸네일 맵 구성
+  const thumbMap = new Map();
+  for (const item of rssPool) {
+    if (!item.thumb) continue;
+    const key = normKey(item.title);
+    if (key.length >= 6 && !thumbMap.has(key)) {
+      thumbMap.set(key, { thumb: item.thumb, link: item.link });
+    }
+  }
+
+  // Google News 항목에 매칭 썸네일 적용
+  const enriched = gnItems.map(gnItem => {
+    if (gnItem.thumb) return gnItem;
+    const key = normKey(gnItem.title);
+    // 완전 매칭 시도
+    if (thumbMap.has(key)) {
+      const m = thumbMap.get(key);
+      return { ...gnItem, thumb: m.thumb, link: m.link };
+    }
+    // 부분 매칭: GN 제목 앞부분이 RSS 키에 포함되거나 그 반대
+    for (const [k, v] of thumbMap) {
+      if (key.length >= 10 && (k.startsWith(key.substring(0, 10)) || key.startsWith(k.substring(0, 10)))) {
+        return { ...gnItem, thumb: v.thumb, link: v.link };
+      }
+    }
+    return gnItem;
+  });
+
+  // RSS 풀에서 NCT 키워드 포함 항목 중 Google News에 없는 것 추가
+  const kw = (keywords ?? []).map(k => k.toLowerCase());
+  const gnKeys = new Set(enriched.map(i => normKey(i.title)));
+  const extraNct = rssPool.filter(item => {
+    if (gnKeys.has(normKey(item.title))) return false;
+    const text = (item.title + ' ' + (item.description || '')).toLowerCase();
+    return kw.some(k => text.includes(k));
+  });
+
+  return [...enriched, ...extraNct];
+}
+
 export async function fetchCelebNews(celeb, lang) {
   const isKo = lang === 'ko';
 
-  let tasks;
   if (isKo) {
-    // 한국어: Google News KO (NCT 특정 쿼리) + 한국 연예 RSS (이미지 포함)
-    const koFeeds = celeb.koRssFeeds ?? [];
-    tasks = [
+    // 한국어: Google News KO(NCT 특정) + 한국 연예 RSS(썸네일 소스) 병렬 수집
+    const [gnResult, ...rssResults] = await Promise.allSettled([
       fetchGoogleNews(celeb.queries.ko, 'ko', { maxItems: 20 }),
-      ...koFeeds.map(url =>
-        fetchRss2Json(url, { keywords: celeb.keywords, maxItems: 20 })
-      ),
-    ];
-  } else {
-    // 영어: Google News + Reddit + Soompi
-    tasks = [
-      fetchGoogleNews(celeb.queries.en, 'en', { maxItems: 20 }),
-      celeb.subreddit ? fetchReddit(celeb.subreddit, 20) : Promise.resolve([]),
-      celeb.soompiUrl
-        ? fetchRss2Json(celeb.soompiUrl, { keywords: celeb.keywords, maxItems: 20 })
-        : Promise.resolve([]),
-    ];
+      ...(celeb.koRssFeeds ?? []).map(url => fetchRss2Json(url, { maxItems: 20 })),
+    ]);
+
+    const gnItems = gnResult.status === 'fulfilled' ? gnResult.value : [];
+    const rssPool = rssResults.flatMap(r => r.status === 'fulfilled' ? r.value : []);
+
+    // Google News 항목에 한국 RSS 썸네일 보강 적용
+    const all = enrichWithThumbnails(gnItems, rssPool, celeb.keywords);
+
+    return dedupe(all.filter(it => it.title && it.link))
+      .sort((a, b) => (b.pubDate?.getTime() ?? 0) - (a.pubDate?.getTime() ?? 0));
   }
+
+  // 영어: Google News + Reddit + Soompi
+  const tasks = [
+    fetchGoogleNews(celeb.queries.en, 'en', { maxItems: 20 }),
+    celeb.subreddit ? fetchReddit(celeb.subreddit, 20) : Promise.resolve([]),
+    celeb.soompiUrl
+      ? fetchRss2Json(celeb.soompiUrl, { keywords: celeb.keywords, maxItems: 20 })
+      : Promise.resolve([]),
+  ];
 
   const results = await Promise.allSettled(tasks);
   const all = [];

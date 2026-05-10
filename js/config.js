@@ -9,11 +9,12 @@ export const CELEBRITIES = [
     },
     // 한국어 키워드 (RSS 필터링용)
     keywords: ['nct', 'nct127', 'nct dream', 'wayv', '엔씨티', '엔시티', '웨이션브이', 'nct드림'],
-    // 한국 연예 뉴스 RSS (rss2json으로 이미지 포함 파싱) — 2026-05 검증된 피드
+    // 한국 연예 뉴스 RSS — 썸네일 매칭용 (rss2json 검증 완료)
     koRssFeeds: [
+      'https://www.newsen.com/rss.php',                 // 뉴센 (10/10 썸네일)
+      'https://www.hani.co.kr/rss/culture/',            // 한겨레 문화 (10/10 썸네일)
       'https://www.yna.co.kr/rss/entertainment.xml',   // 연합뉴스 연예
-      'https://www.mk.co.kr/rss/30000023/',             // 매일경제 문화/연예
-      'https://www.topstarnews.net/rss/allArticle.xml', // 탑스타뉴스
+      'https://www.mk.co.kr/rss/30000023/',             // 매일경제 문화
       'https://www.hankyung.com/feed/entertainment',    // 한국경제 연예
     ],
     subreddit: 'NCT',
