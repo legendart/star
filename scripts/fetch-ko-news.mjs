@@ -1,18 +1,29 @@
-// GitHub Actions script: fetch NCT Korean news, decode Google News URLs, extract og:image
-// Runs every 30 min → saves to data/ko_news.json → frontend reads static file (no CORS issues)
+// GitHub Actions script: fetch Korean news for each celeb group
+// Decodes Google News URLs, extracts og:image, saves per-group JSON
 import { GoogleDecoder } from 'google-news-url-decoder';
-import { writeFileSync, readFileSync, existsSync } from 'fs';
+import { writeFileSync, readFileSync, existsSync, mkdirSync } from 'fs';
 
-const NCT_QUERIES_KO = ['NCT', 'NCT WISH', 'NCT 127', '엔씨티'];
-const KEYWORDS = ['nct', 'nct127', 'nct dream', 'wayv', '엔씨티', '엔시티', '웨이션브이', 'nct드림', 'nct위시'];
 const MAX_ARTICLES = 40;
-const OUTPUT_PATH = 'data/ko_news.json';
+
+const CELEBS = [
+  {
+    id: 'nct',
+    queries: ['NCT', 'NCT WISH', 'NCT 127', '엔씨티'],
+    keywords: ['nct', 'nct127', 'nct dream', 'wayv', '엔씨티', '엔시티', '웨이션브이', 'nct드림', 'nct위시'],
+    outputPath: 'data/nct_news.json',
+  },
+  {
+    id: 'bts',
+    queries: ['BTS', '방탄소년단', 'BTS 정국', 'BTS 지민'],
+    keywords: ['bts', '방탄소년단', '방탄', 'bangtan', 'jungkook', 'jimin', 'taehyung', 'j-hope', '제이홉', '정국', '뷔', '슈가'],
+    outputPath: 'data/bts_news.json',
+  },
+];
 
 function getDomain(url) {
   try { return new URL(url).hostname.replace(/^www\./, ''); } catch { return ''; }
 }
 
-// Fetch Google News KO RSS directly (server-side, no proxy needed)
 async function fetchGoogleNewsKO(query) {
   const url = `https://news.google.com/rss/search?hl=ko&gl=KR&ceid=KR:ko&sort=date&q=${encodeURIComponent(query)}`;
   const res = await fetch(url, {
@@ -34,20 +45,14 @@ async function fetchGoogleNewsKO(query) {
 
     if (!link || !link.includes('news.google.com')) continue;
 
-    // Clean: strip " - 언론사" suffix and leading [태그] brackets
     const noSrc = title.includes(' - ') ? title.split(' - ').slice(0, -1).join(' - ').trim() : title;
     const clean = noSrc.replace(/^\[.*?\]\s*/g, '').replace(/^【.*?】\s*/g, '').trim() || noSrc;
-
-    // Only include if title contains NCT keywords
-    const lower = clean.toLowerCase();
-    if (!KEYWORDS.some(k => lower.includes(k))) continue;
 
     items.push({ title: clean, link, pubDate, source });
   }
   return items;
 }
 
-// Extract og:image / twitter:image from article HTML
 async function getOgImage(url) {
   const res = await fetch(url, {
     headers: {
@@ -81,17 +86,19 @@ function dedupe(items) {
   });
 }
 
-async function main() {
-  console.log('[fetch-ko-news] Starting...');
-  const gd = new GoogleDecoder();
+async function processCeleb(celeb, gd) {
+  console.log(`\n[${celeb.id}] Fetching...`);
   const allItems = [];
 
-  // Fetch all NCT queries
-  for (const query of NCT_QUERIES_KO) {
+  for (const query of celeb.queries) {
     try {
       const items = await fetchGoogleNewsKO(query);
-      console.log(`  Query "${query}": ${items.length} NCT items`);
-      allItems.push(...items);
+      const filtered = items.filter(it => {
+        const lower = it.title.toLowerCase();
+        return celeb.keywords.some(k => lower.includes(k));
+      });
+      console.log(`  Query "${query}": ${filtered.length} items`);
+      allItems.push(...filtered);
     } catch (e) {
       console.warn(`  Query "${query}" failed: ${e.message}`);
     }
@@ -99,19 +106,17 @@ async function main() {
   }
 
   const deduped = dedupe(allItems).slice(0, MAX_ARTICLES);
-  console.log(`[fetch-ko-news] ${deduped.length} unique NCT items to process`);
+  console.log(`[${celeb.id}] ${deduped.length} unique items to process`);
 
-  // Load existing cache to preserve articles we already have images for
   let existing = [];
-  if (existsSync(OUTPUT_PATH)) {
-    try { existing = JSON.parse(readFileSync(OUTPUT_PATH, 'utf8')); } catch {}
+  if (existsSync(celeb.outputPath)) {
+    try { existing = JSON.parse(readFileSync(celeb.outputPath, 'utf8')); } catch {}
   }
   const existingMap = new Map(existing.map(it => [
     it.title.toLowerCase().replace(/[^\w가-힣]/g, '').substring(0, 35),
     it
   ]));
 
-  // Decode + fetch og:image in batches of 5
   const results = [];
   const BATCH = 5;
 
@@ -119,7 +124,6 @@ async function main() {
     const batch = deduped.slice(i, i + BATCH);
     const batchResults = await Promise.allSettled(
       batch.map(async (item) => {
-        // Check if we already have this article with an image
         const cacheKey = item.title.toLowerCase().replace(/[^\w가-힣]/g, '').substring(0, 35);
         const cached = existingMap.get(cacheKey);
         if (cached?.thumb) {
@@ -162,7 +166,6 @@ async function main() {
     }
   }
 
-  // Sort newest first
   results.sort((a, b) => {
     const da = a.pubDate ? new Date(a.pubDate).getTime() : 0;
     const db = b.pubDate ? new Date(b.pubDate).getTime() : 0;
@@ -170,10 +173,22 @@ async function main() {
   });
 
   const withImg = results.filter(r => r.thumb).length;
-  console.log(`[fetch-ko-news] Done: ${results.length} articles, ${withImg} with images`);
+  console.log(`[${celeb.id}] Done: ${results.length} articles, ${withImg} with images`);
 
-  writeFileSync(OUTPUT_PATH, JSON.stringify(results, null, 2));
-  console.log(`[fetch-ko-news] Saved to ${OUTPUT_PATH}`);
+  mkdirSync('data', { recursive: true });
+  writeFileSync(celeb.outputPath, JSON.stringify(results, null, 2));
+  console.log(`[${celeb.id}] Saved to ${celeb.outputPath}`);
+}
+
+async function main() {
+  console.log('[fetch-ko-news] Starting for all groups...');
+  const gd = new GoogleDecoder();
+
+  for (const celeb of CELEBS) {
+    await processCeleb(celeb, gd);
+  }
+
+  console.log('\n[fetch-ko-news] All groups complete.');
 }
 
 main().catch(e => { console.error('[fetch-ko-news] FATAL:', e); process.exit(1); });

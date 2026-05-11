@@ -7,22 +7,28 @@ export const CELEBRITIES = [
       ko: 'NCT',
       en: 'NCT kpop'
     },
-    // 한국어 키워드 (RSS 필터링용)
-    keywords: ['nct', 'nct127', 'nct dream', 'wayv', '엔씨티', '엔시티', '웨이션브이', 'nct드림'],
-    // 한국 연예 뉴스 RSS — 썸네일 매칭용 (rss2json 검증 완료)
-    koRssFeeds: [
-      'https://www.newsen.com/rss.php',                 // 뉴센 (10/10 썸네일)
-      'https://www.hani.co.kr/rss/culture/',            // 한겨레 문화 (10/10 썸네일)
-      'https://www.yna.co.kr/rss/entertainment.xml',   // 연합뉴스 연예
-      'https://www.mk.co.kr/rss/30000023/',             // 매일경제 문화
-      'https://www.hankyung.com/feed/entertainment',    // 한국경제 연예
-    ],
+    keywords: ['nct', 'nct127', 'nct dream', 'wayv', '엔씨티', '엔시티', '웨이션브이', 'nct드림', 'nct위시'],
     subreddit: 'NCT',
     soompiUrl: 'https://www.soompi.com/feed',
     color: '#00c851',
-    emoji: '🎵'
+    emoji: '🎵',
+    dataFile: 'data/nct_news.json',
+  },
+  {
+    id: 'bts',
+    name: 'BTS',
+    nameKo: 'BTS',
+    queries: {
+      ko: 'BTS',
+      en: 'BTS kpop'
+    },
+    keywords: ['bts', '방탄소년단', '방탄', 'bangtan', 'jungkook', 'jimin', 'taehyung', 'j-hope', '제이홉', '정국', '뷔', '슈가'],
+    subreddit: 'bangtan',
+    soompiUrl: 'https://www.soompi.com/feed',
+    color: '#7c3aed',
+    emoji: '💜',
+    dataFile: 'data/bts_news.json',
   }
-  // 여기에 연예인 추가: koRssFeeds와 keywords만 맞게 설정하면 됨
 ];
 
 export const DEFAULT_CELEB = 'nct';

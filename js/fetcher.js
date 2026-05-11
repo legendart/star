@@ -145,9 +145,9 @@ export async function fetchCelebNews(celeb, lang) {
   const isKo = lang === 'ko';
 
   if (isKo) {
-    // 한국어: GitHub Actions가 사전 수집한 data/ko_news.json 우선 사용
+    // 한국어: GitHub Actions가 사전 수집한 celeb별 data 파일 우선 사용
     try {
-      const cacheRes = await fetch('./data/ko_news.json', { signal: AbortSignal.timeout(5000) });
+      const cacheRes = await fetch('./' + (celeb.dataFile ?? 'data/ko_news.json'), { signal: AbortSignal.timeout(5000) });
       if (cacheRes.ok) {
         const cached = await cacheRes.json();
         if (Array.isArray(cached) && cached.length > 0) {

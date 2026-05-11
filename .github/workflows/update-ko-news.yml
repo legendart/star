@@ -24,12 +24,12 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Fetch NCT Korean news
+      - name: Fetch Korean news (all groups)
         run: node scripts/fetch-ko-news.mjs
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/ko_news.json
+          git add data/nct_news.json data/bts_news.json
           git diff --staged --quiet || (git commit -m "chore: update ko news cache [skip ci]" && git push)
