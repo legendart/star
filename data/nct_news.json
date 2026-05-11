@@ -16,14 +16,6 @@
     "thumb": null
   },
   {
-    "title": "NCT 텐, '샤프한 비주얼'",
-    "link": "https://www.etnews.com/20260512000001",
-    "pubDate": "Mon, 11 May 2026 15:00:48 GMT",
-    "source": "전자신문",
-    "domain": "etnews.com",
-    "thumb": "https://img.etnews.com/news/article/2026/05/12/cms_temp_stats_1778511609390278090.jpg"
-  },
-  {
     "title": "NCT 텐, '가득한 설렘'",
     "link": "https://www.etnews.com/20260511000484",
     "pubDate": "Mon, 11 May 2026 14:59:37 GMT",
@@ -96,20 +88,20 @@
     "thumb": "http://file.osen.co.kr/article_thumb/2026/05/11/202605112050775712_6a01c28425ac3_300x.jpg"
   },
   {
-    "title": "'마이클' 찾은 NCT 텐",
-    "link": "http://www.osen.co.kr/article/G1112799213",
-    "pubDate": "Mon, 11 May 2026 11:50:00 GMT",
-    "source": "osen.co.kr",
-    "domain": "osen.co.kr",
-    "thumb": "http://file.osen.co.kr/article_thumb/2026/05/11/202605112050773399_6a01c27cf408d_300x.jpg"
-  },
-  {
     "title": "\"남자도 예쁘다\"…NCT 텐, 러블리 볼하트",
     "link": "https://www.dispatch.co.kr/2342531",
     "pubDate": "Mon, 11 May 2026 11:47:00 GMT",
     "source": "디스패치",
     "domain": "dispatch.co.kr",
     "thumb": "https://dispatch.cdnser.be/cms-content/uploads/2026/05/11/ccc0ed10-6cbd-429d-86fc-fee533fbe8d7.jpg"
+  },
+  {
+    "title": "NCT 텐, 마이클 재슨 처럼",
+    "link": "https://www.news1.kr/photos/7900141",
+    "pubDate": "Mon, 11 May 2026 10:54:19 GMT",
+    "source": "뉴스1",
+    "domain": "news1.kr",
+    "thumb": "https://image.news1.kr/system/photos/2026/5/11/7900141/high.jpg"
   },
   {
     "title": "NCT WISH The 1st Album ‘Ode to Love’ 발매 기념 ‘VIDEO CALL EVENT’ – 5/19(화) 점프업이엔티",
@@ -160,6 +152,14 @@
     "thumb": "https://image.inews24.com/v1/f88b3cb2041377.jpg"
   },
   {
+    "title": "10주년 NCT, 5월 15일 대규모 팝업 개최…\"♥시즈니 모여라\"",
+    "link": "https://www.xportsnews.com/article/2147483",
+    "pubDate": "Mon, 11 May 2026 05:39:49 GMT",
+    "source": "엑스포츠뉴스",
+    "domain": "xportsnews.com",
+    "thumb": "https://image.xportsnews.com/contents/images/upload/article/2026/0511/1778477672657988.webp"
+  },
+  {
     "title": "'컴백 D-7' NCT 태용, 정규 1집서 진솔함 꺼낸다…웰메이드 앨범 예고",
     "link": "https://www.xportsnews.com/article/2147482",
     "pubDate": "Mon, 11 May 2026 05:29:47 GMT",
@@ -176,20 +176,20 @@
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/aj/2026/05/11/20260511141158592514.jpg"
   },
   {
+    "title": "Imagen de NCT WISH de Weverse - #2026.05.11 #HAPPY SION DAY 🎉",
+    "link": "https://weverse.io/nctwish/media/3-229374119?hl=es",
+    "pubDate": "Mon, 11 May 2026 05:21:26 GMT",
+    "source": "Weverse",
+    "domain": "weverse.io",
+    "thumb": null
+  },
+  {
     "title": "NCT 도영, 형 공명 ‘은밀한 감사’ OST 참여…형제 시너지",
     "link": "https://www.segye.com/newsView/20260511509243",
     "pubDate": "Mon, 11 May 2026 04:47:15 GMT",
     "source": "세계일보",
     "domain": "segye.com",
     "thumb": "https://www.segye.com/content/image/2026/05/11/20260511509261.jpg"
-  },
-  {
-    "title": "위버스 NCT WISH 이미지 - #2026.05.11 #HAPPY SI",
-    "link": "https://weverse.io/nctwish/media/3-229374119?hl=ko",
-    "pubDate": "Mon, 11 May 2026 04:23:45 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
   },
   {
     "title": "Weverse NCT WISH Image - #2026.05.11 #HA",
@@ -216,9 +216,9 @@
     "thumb": "https://image.starnewskorea.com/21/2026/05/2026051111164633577_1.jpg"
   },
   {
-    "title": "NCT 도영, 형 공명 위해 '은밀한 감사' OST 지원사격…특별한 형제 협업",
-    "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008555063",
-    "pubDate": "Mon, 11 May 2026 02:13:00 GMT",
+    "title": "NCT DOYOUNG Lends His Voice to Brother Gong Myung's Drama Soundtrack: A Special Sibling Collaboration",
+    "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008555064",
+    "pubDate": "Mon, 11 May 2026 02:08:00 GMT",
     "source": "SBS 뉴스",
     "domain": "news.sbs.co.kr",
     "thumb": "https://img.sbs.co.kr/newsnet/etv/upload/2026/05/11/30001061304_16v9.jpg"
