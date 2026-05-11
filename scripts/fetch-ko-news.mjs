@@ -18,6 +18,12 @@ const CELEBS = [
     keywords: ['bts', '방탄소년단', '방탄', 'bangtan', 'jungkook', 'jimin', 'taehyung', 'j-hope', '제이홉', '정국', '뷔', '슈가'],
     outputPath: 'data/bts_news.json',
   },
+  {
+    id: 'wonyoung',
+    queries: ['장원영', '장원영 IVE', '장원영 솔로'],
+    keywords: ['장원영', 'wonyoung', '원영', 'ive 장원영'],
+    outputPath: 'data/wonyoung_news.json',
+  },
 ];
 
 function getDomain(url) {

@@ -28,6 +28,21 @@ export const CELEBRITIES = [
     color: '#7c3aed',
     emoji: '💜',
     dataFile: 'data/bts_news.json',
+  },
+  {
+    id: 'wonyoung',
+    name: 'Jang Wonyoung',
+    nameKo: '장원영',
+    queries: {
+      ko: '장원영',
+      en: 'Jang Wonyoung'
+    },
+    keywords: ['장원영', 'wonyoung', '원영', 'ive 장원영'],
+    subreddit: 'IVE',
+    soompiUrl: 'https://www.soompi.com/feed',
+    color: '#f43f7a',
+    emoji: '🩷',
+    dataFile: 'data/wonyoung_news.json',
   }
 ];
 
