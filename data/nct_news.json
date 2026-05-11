@@ -104,14 +104,6 @@
     "thumb": "http://file.osen.co.kr/article_thumb/2026/05/11/202605112050773399_6a01c27cf408d_300x.jpg"
   },
   {
-    "title": "'마이클' 만나러 가는 NCT 텐",
-    "link": "http://www.osen.co.kr/article/G1112799212",
-    "pubDate": "Mon, 11 May 2026 11:50:00 GMT",
-    "source": "osen.co.kr",
-    "domain": "osen.co.kr",
-    "thumb": "http://file.osen.co.kr/article_thumb/2026/05/11/202605112050774566_6a01c2740f4d1_300x.jpg"
-  },
-  {
     "title": "\"남자도 예쁘다\"…NCT 텐, 러블리 볼하트",
     "link": "https://www.dispatch.co.kr/2342531",
     "pubDate": "Mon, 11 May 2026 11:47:00 GMT",
@@ -318,5 +310,13 @@
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img0.yna.co.kr/etc/inner/KR/2026/05/08/AKR20260508056600005_01_i_P4.jpg"
+  },
+  {
+    "title": "NCT 위시, 中에서도 뜨겁다",
+    "link": "https://www.bntnews.co.kr/article/view/bnt202605080079",
+    "pubDate": "Fri, 08 May 2026 00:11:03 GMT",
+    "source": "bntnews.co.kr",
+    "domain": "bntnews.co.kr",
+    "thumb": "https://www.bntnews.co.kr/data/bnt/image/2026/05/08/bnt202605080150.jpg"
   }
 ]
