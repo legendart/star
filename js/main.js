@@ -1,5 +1,5 @@
-import { CELEBRITIES, DEFAULT_CELEB } from './config.js?v=12';
-import { fetchCelebNews } from './fetcher.js?v=12';
+import { CELEBRITIES, DEFAULT_CELEB } from './config.js?v=13';
+import { fetchCelebNews } from './fetcher.js?v=13';
 
 const PROXY_A = 'https://corsproxy.io/?';
 const PROXY_B = 'https://api.allorigins.win/raw?url=';

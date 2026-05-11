@@ -24,6 +24,12 @@ const CELEBS = [
     keywords: ['장원영', 'wonyoung', '원영', 'ive 장원영'],
     outputPath: 'data/wonyoung_news.json',
   },
+  {
+    id: 'iu',
+    queries: ['아이유', '아이유 신곡', '아이유 드라마'],
+    keywords: ['아이유', '이지은', 'iu '],
+    outputPath: 'data/iu_news.json',
+  },
 ];
 
 function getDomain(url) {

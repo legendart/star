@@ -43,6 +43,21 @@ export const CELEBRITIES = [
     color: '#f43f7a',
     emoji: '🩷',
     dataFile: 'data/wonyoung_news.json',
+  },
+  {
+    id: 'iu',
+    name: 'IU',
+    nameKo: '아이유',
+    queries: {
+      ko: '아이유',
+      en: 'IU kpop singer'
+    },
+    keywords: ['아이유', 'iu ', '이지은', ' iu,', 'iu('],
+    subreddit: 'IU',
+    soompiUrl: 'https://www.soompi.com/feed',
+    color: '#f59e0b',
+    emoji: '🎤',
+    dataFile: 'data/iu_news.json',
   }
 ];
 
