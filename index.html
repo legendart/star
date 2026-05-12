@@ -8,18 +8,9 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap">
   <link rel="stylesheet" href="css/style.css">
+  <script src="https://legendart.github.io/nav.js?v=1" defer></script>
 </head>
 <body>
-
-<nav class="javis-nav">
-  <a class="javis-nav__home" href="https://legendart.github.io/">⬡ JAVIS</a>
-  <div class="javis-nav__links">
-    <a href="https://legendart.github.io/news/">📡 <span class="nav-label">뉴스</span></a>
-    <a href="https://legendart.github.io/humor/">😂 <span class="nav-label">유머</span></a>
-    <a class="active" href="https://legendart.github.io/star/">⭐ <span class="nav-label">스타</span></a>
-    <a href="https://legendart.github.io/hotdeal/">🔥 <span class="nav-label">핫딜</span></a>
-  </div>
-</nav>
 
 <header class="header">
   <div class="header-inner">
@@ -50,5 +41,6 @@
 <footer>JAVIS STAR &mdash; 연예인 뉴스 aggregator</footer>
 
 <script type="module" src="js/main.js?v=13"></script>
+<script>document.addEventListener("DOMContentLoaded",function(){JavisNav.init("star")});</script>
 </body>
 </html>
