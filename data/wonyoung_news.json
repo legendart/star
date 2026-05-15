@@ -117,7 +117,7 @@
     "pubDate": "Fri, 15 May 2026 01:07:40 GMT",
     "source": "더파워",
     "domain": "thepowernews.co.kr",
-    "thumb": null
+    "thumb": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&amp;idx=999&amp;simg=202605151007190844802d6fc79969211234202120.jpg&amp;nmt=7"
   },
   {
     "title": "아이브 장원영, 흐흐",
@@ -150,6 +150,14 @@
     "source": "newsen.com",
     "domain": "m.newsen.com",
     "thumb": null
+  },
+  {
+    "title": "\"믿을 수 없어\"...장원영, 살아있는 요정",
+    "link": "https://www.dispatch.co.kr/2342704",
+    "pubDate": "Fri, 15 May 2026 00:10:00 GMT",
+    "source": "디스패치",
+    "domain": "dispatch.co.kr",
+    "thumb": "https://dispatch.cdnser.be/cms-content/uploads/2026/05/15/f91caa8b-dd95-4763-86f8-46574bc0031d.jpg"
   },
   {
     "title": "장원영 맞아요",
@@ -232,6 +240,14 @@
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/aa/2026/05/15/news-p.v1.20260515.022927bc3f744e97877ed1e4d9e8e58a_P1.jpg"
   },
   {
+    "title": "장원영 '미안해하는 모습도 귀여워'[엑's HD포토]",
+    "link": "https://news.nate.com/view/20260515n05538",
+    "pubDate": "Thu, 14 May 2026 23:58:00 GMT",
+    "source": "네이트",
+    "domain": "news.nate.com",
+    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/xs/2026/05/15/1778803039844686.jpg"
+  },
+  {
     "title": "장원영, 마스크를 써도 예쁘다",
     "link": "http://www.osen.co.kr/article/G1112801814",
     "pubDate": "Thu, 14 May 2026 23:57:00 GMT",
@@ -248,14 +264,6 @@
     "thumb": "https://dispatch.cdnser.be/cms-content/uploads/2026/05/15/585fb74e-f009-4791-9c09-5b22c6283614.jpg"
   },
   {
-    "title": "장원영 '긴 다리 때문에~ 내리는데도 한참'",
-    "link": "https://m.news.nate.com/view/20260515n05466?mid=e01&list=recent&cpcd=",
-    "pubDate": "Thu, 14 May 2026 23:56:00 GMT",
-    "source": "네이트",
-    "domain": "m.news.nate.com",
-    "thumb": "https://news.nateimg.co.kr/orgImg/tv/2026/05/15/1778802903_1786575.jpg"
-  },
-  {
     "title": "장원영, 프리티걸",
     "link": "http://www.osen.co.kr/article/G1112801811",
     "pubDate": "Thu, 14 May 2026 23:55:00 GMT",
@@ -264,12 +272,12 @@
     "thumb": "http://file.osen.co.kr/article_thumb/2026/05/15/202605150855775360_6a0660e26791a_300x.jpg"
   },
   {
-    "title": "장원영 '팬들 바라보는 사랑스러운 모습'[엑's HD포토]",
-    "link": "https://news.nate.com/view/20260515n05426",
-    "pubDate": "Thu, 14 May 2026 23:55:00 GMT",
+    "title": "장원영, 블랙 드레스가 '찰떡'…과감한 오프숄더",
+    "link": "https://news.nate.com/view/20260515n02492",
+    "pubDate": "Thu, 14 May 2026 21:08:00 GMT",
     "source": "네이트",
     "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/xs/2026/05/15/1778802888505149.jpg"
+    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/my/2026/05/15/2026051408345802625_l.png"
   },
   {
     "title": "아이브 장원영, '클로즈업 부르는 미모'(불가리 BVLGARI)",
@@ -278,14 +286,6 @@
     "source": "gukjenews.com",
     "domain": "gukjenews.com",
     "thumb": "https://cdn.gukjenews.com/news/thumbnail/202605/3582560_3737972_1555_v150.jpg"
-  },
-  {
-    "title": "장원영, 크로셰 셋업 앞에서 뷰티풀 비주얼",
-    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16060477",
-    "pubDate": "Thu, 14 May 2026 05:38:44 GMT",
-    "source": "톱스타뉴스",
-    "domain": "topstarnews.net",
-    "thumb": "https://cdn.topstarnews.net/news/photo/202605/16060477_1921545_3836_crop.jpg"
   },
   {
     "title": "장원영이 마신 그 밀크티⋯대기 666잔 '차지' 열풍 왜",
