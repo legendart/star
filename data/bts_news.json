@@ -64,14 +64,6 @@
     "thumb": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/05/15/hye_20260515_1.jpg"
   },
   {
-    "title": "\"BTS 공연 휘발유 투척\" 협박 댓글 50대, 1심서 집행유예",
-    "link": "https://www.newspim.com/news/view/20260515000800",
-    "pubDate": "Fri, 15 May 2026 05:01:00 GMT",
-    "source": "뉴스핌",
-    "domain": "newspim.com",
-    "thumb": "https://img.newspim.com/news/2025/04/25/250425163340712_t1.jpg"
-  },
-  {
     "title": "멕시코가 BTS에 열광하는 이유",
     "link": "http://www.incheonin.com/news/articleView.html?idxno=117893",
     "pubDate": "Fri, 15 May 2026 04:54:06 GMT",
@@ -102,14 +94,6 @@
     "source": "Chosunbiz",
     "domain": "biz.chosun.com",
     "thumb": "https://biz.chosun.com/resizer/v2/GA4WEMLFGVRGIMDFMUZGMZRTMU.jpg?auth=4366fd3ddc9a83c4b9119bf4d950b223bad344e4e59a8c75da3741bd8867cca1&amp;width=1200&amp;height=630&amp;smart=true"
-  },
-  {
-    "title": "'최초에 최초' BTS, 새 족적 남기기",
-    "link": "https://v.daum.net/v/20260515133754873",
-    "pubDate": "Fri, 15 May 2026 04:37:54 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/15/ked/20260515134619632exwg.jpg"
   },
   {
     "title": "“생수병에 휘발유 투척” BTS 컴백공연 테러 협박, 50대 집유",
@@ -152,6 +136,14 @@
     "thumb": "https://img1.newsis.com/2026/03/21/NISI20260321_0021217368_web.jpg"
   },
   {
+    "title": "리사 열고 BTS가 끝내고… 올 월드컵, K팝이 다 한다",
+    "link": "https://www.munhwa.com/article/11589190",
+    "pubDate": "Fri, 15 May 2026 02:55:52 GMT",
+    "source": "문화일보",
+    "domain": "munhwa.com",
+    "thumb": "https://wimg.munhwa.com/news/cms/2026/05/15/news-p.v1.20260515.b933bc996f7447d5ab949e63eaaa3476_R.jpg"
+  },
+  {
     "title": "미국 라스베이거스 주요 명소, BTS ‘아리랑’ 테마로 변신",
     "link": "https://v.daum.net/v/20260515114817422",
     "pubDate": "Fri, 15 May 2026 02:48:17 GMT",
@@ -174,6 +166,14 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/15/yonhap/20260515110214617qwkv.jpg"
+  },
+  {
+    "title": "美 최대 구형 공연장 스피어 BTS ‘아리랑’ 테마로 변신",
+    "link": "https://www.sedaily.com/article/20044457",
+    "pubDate": "Fri, 15 May 2026 01:45:46 GMT",
+    "source": "서울경제",
+    "domain": "sedaily.com",
+    "thumb": null
   },
   {
     "title": "“나를 잊지마” 방탄소년단 뷔, 멕시코의 추억 공개…“오늘을 함께 하며 건배”",
@@ -200,12 +200,12 @@
     "thumb": "https://cdn.coenworks.com/Files/30/News/202605/2890_20260514235539839.jpg"
   },
   {
-    "title": "BTS, 마돈나·샤키라와 월드컵 결승 하프타임 쇼 장식… 하이브 주가 7.2% 폭등",
-    "link": "https://www.g-enews.com/article/Global-Biz/2026/05/202605150807594500c8c1c064d_1",
-    "pubDate": "Thu, 14 May 2026 23:09:55 GMT",
-    "source": "글로벌이코노믹",
-    "domain": "g-enews.com",
-    "thumb": "https://nimage.g-enews.com/phpwas/restmb_allidxmake.php?idx=5&amp;simg=20260515080914009870c8c1c064d22114611240.jpg"
+    "title": "\"지민, 우리의 형제여!\" 방탄소년단 지민, 멕시코 레전드 프로레슬러도 푹~♥",
+    "link": "https://news.nate.com/view/20260515n03593",
+    "pubDate": "Thu, 14 May 2026 22:37:00 GMT",
+    "source": "네이트",
+    "domain": "news.nate.com",
+    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/tn/2026/05/15/2026051507330345710_1.jpg"
   },
   {
     "title": "슈퍼볼·코첼라·그래미까지…‘BTS 2.0 ’의 다음 목표는?",
@@ -225,7 +225,7 @@
   },
   {
     "title": "BTS, 마돈나·샤키라와 월드컵 결승전 하프타임쇼 장식한다",
-    "link": "https://www.fifa.com/ko/articles/madonna-shakira-bts-co-headline-historic-final-halftime-show-ko",
+    "link": "https://www.fifa.com/ko/tournaments/mens/worldcup/canadamexicousa2026/articles/madonna-shakira-bts-co-headline-historic-final-halftime-show-ko",
     "pubDate": "Thu, 14 May 2026 17:00:00 GMT",
     "source": "FIFA",
     "domain": "fifa.com",
@@ -272,6 +272,22 @@
     "thumb": null
   },
   {
+    "title": "BTS 정국도 챙겨보는 스타일디[주간SD]",
+    "link": "https://sports.donga.com/ent/article/all/20260514/133921131/1",
+    "pubDate": "Thu, 14 May 2026 06:05:38 GMT",
+    "source": "sports.donga.com",
+    "domain": "sports.donga.com",
+    "thumb": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/05/14/133922433.1.png"
+  },
+  {
+    "title": "BTS, 월드컵 결승 무대 선다…역사상 하프타임 쇼 첫 주인공",
+    "link": "https://news.jtbc.co.kr/article/NB12298279",
+    "pubDate": "Thu, 14 May 2026 06:03:00 GMT",
+    "source": "JTBC",
+    "domain": "news.jtbc.co.kr",
+    "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202605/14/cf9e4988-82eb-42fc-bdfb-5c44152f46ac.jpg"
+  },
+  {
     "title": "李대통령, 멕시코 대통령과 통화… \"BTS 보기 위해 수만명 모여\"",
     "link": "https://www.chosun.com/politics/politics_general/2026/05/14/362MKVU6ERCXRE7NWTPGPZULZQ/",
     "pubDate": "Thu, 14 May 2026 05:09:32 GMT",
@@ -288,28 +304,12 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/14/segye/20260514102018307vphi.jpg"
   },
   {
-    "title": "중남미 뒤흔든 방탄소년단…멕시코·브라질 K팝 '큰손' 부상",
-    "link": "https://www.asiae.co.kr/article/2026051408191586004",
-    "pubDate": "Wed, 13 May 2026 23:19:14 GMT",
-    "source": "아시아경제",
-    "domain": "asiae.co.kr",
-    "thumb": "https://cphoto.asiae.co.kr/listimglink/1/2026051408041062085_1778713450.jpg"
-  },
-  {
     "title": "BTS에 열광하는 중남미…브라질·멕시코 스트리밍 韓 앞질러",
     "link": "https://www.yna.co.kr/view/AKR20260512167800005",
     "pubDate": "Wed, 13 May 2026 22:00:03 GMT",
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img7.yna.co.kr/etc/inner/KR/2026/05/12/AKR20260512167800005_05_i_P4.jpg"
-  },
-  {
-    "title": "BTS 정국-기업인 명의 도용, 380억 턴 中총책 압송",
-    "link": "https://www.donga.com/news/Society/article/all/20260514/133918292/2",
-    "pubDate": "Wed, 13 May 2026 19:30:00 GMT",
-    "source": "동아일보",
-    "domain": "donga.com",
-    "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/13/133914930.1.jpg"
   },
   {
     "title": "BTS 정국 주식 84억 탈취 시도…중국인 총책 타이서 송환",
