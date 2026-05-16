@@ -112,14 +112,6 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/16/mydaily/20260516083402041neeb.jpg"
   },
   {
-    "title": "BTS 진, 못 말리는 '물회 사랑'…\"미국에서 만들어 먹어\"",
-    "link": "https://v.daum.net/v/20260516082503767",
-    "pubDate": "Fri, 15 May 2026 23:25:03 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/16/mydaily/20260516082504388knuk.jpg"
-  },
-  {
     "title": "5월 3주, '메이플스토리'서 BTS '진' 만나자…넥슨 외 3가지 게임",
     "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5021279",
     "pubDate": "Fri, 15 May 2026 23:00:00 GMT",
@@ -128,20 +120,20 @@
     "thumb": "https://cdn.shinailbo.co.kr/news/photo/202605/5021279_2019858_1913.jpg"
   },
   {
-    "title": "멕시코 홀린 '테리우스 왕자님'..방탄소년단 지민, 완벽한 품격",
-    "link": "https://www.starnewskorea.com/music/2026/05/16/2026051607322553564",
-    "pubDate": "Fri, 15 May 2026 22:35:42 GMT",
-    "source": "starnewskorea.com",
-    "domain": "starnewskorea.com",
-    "thumb": "https://image.starnewskorea.com/21/2026/05/2026051607322553564_1.jpg"
-  },
-  {
     "title": "방탄소년단 '스윔', 英 싱글차트 8주 연속 톱60…마이클 잭슨 열풍 계속",
     "link": "https://www.newsis.com/view/NISX20260516_0003632147",
     "pubDate": "Fri, 15 May 2026 22:32:58 GMT",
     "source": "뉴시스",
     "domain": "newsis.com",
     "thumb": "https://img1.newsis.com/2026/05/09/NISI20260509_0002131041_web.jpg"
+  },
+  {
+    "title": "\"I'm feeling like BTS\" 방탄소년단 뷔, 드레이크 샤라웃에 깜짝 반응",
+    "link": "https://www.starnewskorea.com/music/2026/05/16/2026051607063495672",
+    "pubDate": "Fri, 15 May 2026 22:10:17 GMT",
+    "source": "starnewskorea.com",
+    "domain": "starnewskorea.com",
+    "thumb": "https://image.starnewskorea.com/21/2026/05/2026051607063495672_1.jpg"
   },
   {
     "title": "플레이브 노아, 방탄소년단(BTS) 정국 꺾고 ‘보컬 매치’ 1위",
@@ -200,12 +192,12 @@
     "thumb": "https://flexible.img.hani.co.kr/flexible/normal/827/551/imgdb/original/2026/0515/20260515501029.webp"
   },
   {
-    "title": "\"지민, 우리의 형제여!\" 방탄소년단 지민, 멕시코 레전드 프로레슬러도 푹~♥",
-    "link": "https://news.nate.com/view/20260515n03593",
-    "pubDate": "Thu, 14 May 2026 22:37:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/tn/2026/05/15/2026051507330345710_1.jpg"
+    "title": "美 라스베이거스 명물 스피어, BTS '아리랑'으로 물든다",
+    "link": "https://v.daum.net/v/20260515110214329",
+    "pubDate": "Fri, 15 May 2026 02:02:14 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/15/yonhap/20260515110214617qwkv.jpg"
   },
   {
     "title": "BTS, 마돈나·샤키라와 월드컵 결승전 하프타임쇼 장식한다",
@@ -262,6 +254,14 @@
     "source": "한겨레",
     "domain": "hani.co.kr",
     "thumb": "https://flexible.img.hani.co.kr/flexible/normal/970/546/imgdb/original/2026/0514/20260514502099.webp"
+  },
+  {
+    "title": "BTS, 마돈나·샤키라와 북중미 월드컵 하프타임쇼 무대 선다",
+    "link": "https://www.khan.co.kr/article/202605141619001",
+    "pubDate": "Thu, 14 May 2026 07:19:00 GMT",
+    "source": "경향신문",
+    "domain": "khan.co.kr",
+    "thumb": "https://img.khan.co.kr/news/2026/05/14/news-p.v1.20260514.a1b960e6946e427198b7f3e04b1eab37_P1.jpg"
   },
   {
     "title": "BTS, 마돈나와 함께 월드컵 결승전 ‘하프타임 쇼’ 오른다",
