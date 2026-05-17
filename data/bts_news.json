@@ -1,13 +1,5 @@
 [
   {
-    "title": "\"허영만이 BTS고 블랙핑크\" 손 바들바들 떠는 찐팬 만나 (백반기행)",
-    "link": "https://m.news.nate.com/view/20260517n16484?issue_sq=9009&mid=e0608",
-    "pubDate": "Sun, 17 May 2026 11:40:00 GMT",
-    "source": "네이트",
-    "domain": "m.news.nate.com",
-    "thumb": "https://news.nateimg.co.kr/orgImg/nn/2026/05/17/202605172038151710_1.jpg"
-  },
-  {
     "title": "\"태형아 안녕?\" 박서준, 마트서 발견한 BTS 뷔에 반가움 ('꽃청춘')",
     "link": "https://m.news.nate.com/view/20260517n16447?issue_sq=9009&mid=e0608",
     "pubDate": "Sun, 17 May 2026 11:35:00 GMT",
@@ -144,6 +136,14 @@
     "thumb": "https://www.elle.co.kr/resources/online/thumbnail/hf/2026/05/15/1d46e80f-d41f-4404-a87b-5d29dfbd7a8f.jpg"
   },
   {
+    "title": "하이브, BTS 복귀 효과로 1분기 최대 매출…의존도 과제는 여전",
+    "link": "https://www.bizhankook.com/bk/article/32270",
+    "pubDate": "Fri, 15 May 2026 06:37:10 GMT",
+    "source": "비즈한국",
+    "domain": "bizhankook.com",
+    "thumb": "https://www.bizhankook.com/upload/bk/article/202605/thumb/32270-78188-sample.jpg"
+  },
+  {
     "title": "'BTS 공연에 휘발유 투척' 협박 댓글 50대 징역형 집행유예",
     "link": "https://imnews.imbc.com/news/2026/society/article/6822731_36918.html",
     "pubDate": "Fri, 15 May 2026 05:13:40 GMT",
@@ -256,14 +256,6 @@
     "thumb": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/dz7gp4wnvxulryr27lfc"
   },
   {
-    "title": "BTS, 월드컵 결승전 무대 선다…첫 하프타임쇼 출격",
-    "link": "https://news.jtbc.co.kr/article/NB12298313",
-    "pubDate": "Thu, 14 May 2026 11:00:00 GMT",
-    "source": "JTBC",
-    "domain": "news.jtbc.co.kr",
-    "thumb": "https://thumb.jtbc.co.kr/photo/r600x0/news/cms/etc/2026/05/14/20260514195956607001.jpg"
-  },
-  {
     "title": "월드컵 결승에 BTS 뜬다…마돈나·샤키라와 하프타임 쇼 무대",
     "link": "https://www.hani.co.kr/arti/culture/music/1258655.html",
     "pubDate": "Thu, 14 May 2026 09:49:00 GMT",
@@ -318,5 +310,13 @@
     "source": "대한민국 정책브리핑",
     "domain": "m.korea.kr",
     "thumb": "https://www.korea.kr/images/event/korea_logo_2024.jpg"
+  },
+  {
+    "title": "멕시코 광장 뒤덮은 ‘아미’... BTS 보러 5만명 모였다",
+    "link": "https://www.chosun.com/international/mideast-africa-latin/2026/05/07/4FVVI4L2P5DARBTTX2RNR3M2CY/",
+    "pubDate": "Thu, 07 May 2026 07:00:00 GMT",
+    "source": "조선일보",
+    "domain": "chosun.com",
+    "thumb": "https://www.chosun.com/resizer/v2/M6RECKD7TJHBFHHSETSU4IUOBY.gif?auth=1794e27b927215fd818cfcb36c85e04d4efb3c031d7e18f68ce2d9edf08070b4&amp;width=480&amp;height=252&amp;focal=226,142"
   }
 ]

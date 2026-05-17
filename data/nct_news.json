@@ -192,8 +192,8 @@
     "thumb": "https://pimg.mk.co.kr/news/cms/202605/15/news-p.v1.20260515.34487271eba746e296876e5895ddde7d_R.png"
   },
   {
-    "title": "Multimedia de NCT 127 de Weverse - ─ ⊹ ⊱ 이태용의 장미 주는 집 ⊰ ⊹ ─ 내일부터 꽃다발 배송합니다",
-    "link": "https://weverse.io/nct127/media/1-174504491?hl=es",
+    "title": "Weverse NCT 127 Media - ─ ⊹ ⊱ 이태용의 장미 주는 집 ⊰ ⊹ ─ 내일부터 꽃다발 배송합니다",
+    "link": "https://weverse.io/nct127/media/1-174504491",
     "pubDate": "Thu, 14 May 2026 07:30:00 GMT",
     "source": "Weverse",
     "domain": "weverse.io",
@@ -256,6 +256,14 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/12/bntnews/20260512100053567yyjs.jpg"
   },
   {
+    "title": "NCT 10TH ANNIVERSARY [NCT 2026] POP UP : NEO GROUND VISITOR GUIDE NOTICE",
+    "link": "https://weverse.io/nct127/notice/35744",
+    "pubDate": "Mon, 11 May 2026 15:04:49 GMT",
+    "source": "Weverse",
+    "domain": "weverse.io",
+    "thumb": null
+  },
+  {
     "title": "NCT 텐, '가득한 설렘'",
     "link": "https://www.etnews.com/20260511000484",
     "pubDate": "Mon, 11 May 2026 14:59:37 GMT",
@@ -278,14 +286,6 @@
     "source": "매일경제",
     "domain": "mk.co.kr",
     "thumb": "https://pimg.mk.co.kr/news/cms/202605/11/news-p.v1.20260511.bb620978066c438097351e184b06e6b9_R.jpg"
-  },
-  {
-    "title": "NCT 10TH ANNIVERSARY ‘[NCT 2026] POP UP : NEO GROUND’ NCTzen WISH 회차 팬클럽 참여 안내",
-    "link": "https://weverse.io/nctwish/notice/35753",
-    "pubDate": "Mon, 11 May 2026 04:03:35 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
   },
   {
     "title": "NCT, 10주년 대규모 팝업 개막",
