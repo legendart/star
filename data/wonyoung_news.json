@@ -1,27 +1,107 @@
 [
   {
+    "title": "장원영, '워너비 아이콘'의 품격",
+    "link": "https://www.asiaartistawards.com/news/detail/180480/all",
+    "pubDate": "Thu, 21 May 2026 02:57:47 GMT",
+    "source": "ASIA ARTIST AWARDS 2025",
+    "domain": "asiaartistawards.com",
+    "thumb": "https://image.starnewskorea.com/21/2026/05/2026052109124720857_1.jpg"
+  },
+  {
+    "title": "장원영 \"'럭키 비키'', 힘든 상황에서도 작은 행복 찾으려는 태도\" [화보]",
+    "link": "https://enews.imbc.com/News/RetrieveNewsInfo/505711",
+    "pubDate": "Thu, 21 May 2026 02:20:00 GMT",
+    "source": "iMBC 연예",
+    "domain": "enews.imbc.com",
+    "thumb": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/05/21/7a0ddfd9-f042-4d61-baf3-ae4353336c5d.jpg"
+  },
+  {
+    "title": "여인이 된 장원영…실크 드레스·초미니 원피스 완벽 소화 [N화보]",
+    "link": "https://www.news1.kr/entertain/nstyle/6173661",
+    "pubDate": "Thu, 21 May 2026 02:05:12 GMT",
+    "source": "뉴스1",
+    "domain": "news1.kr",
+    "thumb": "https://i3n.news1.kr/system/photos/2026/5/21/7917950/high.jpg"
+  },
+  {
+    "title": "장원영, 럭키비키 오해 바로잡았다 \"항상 행복해야 한다는 의미 아냐\"[스타화보]",
+    "link": "https://news.nate.com/view/20260521n12878",
+    "pubDate": "Thu, 21 May 2026 01:51:00 GMT",
+    "source": "네이트",
+    "domain": "news.nate.com",
+    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/05/21/202605211047356310_2.jpg"
+  },
+  {
+    "title": "아이브 장원영, ‘에스콰이어’ 커버 장식…“가장 소중한 건 지금 이 순간”",
+    "link": "https://www.gpkorea.com/news/articleView.html?idxno=143000",
+    "pubDate": "Thu, 21 May 2026 00:59:22 GMT",
+    "source": "지피코리아",
+    "domain": "gpkorea.com",
+    "thumb": "https://cdn.gpkorea.com/news/photo/202605/143000_303253_235.jpg"
+  },
+  {
+    "title": "아이브 장원영도 ‘럭키비키’ 안 될 때 있다니(P) [화보]",
+    "link": "https://sports.donga.com/ent/article/all/20260521/133965890/1",
+    "pubDate": "Thu, 21 May 2026 00:47:50 GMT",
+    "source": "스포츠동아",
+    "domain": "sports.donga.com",
+    "thumb": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/05/21/133965883.1.jpg"
+  },
+  {
+    "title": "아이브(IVE) 장원영 화보, 대체불가 럭셔리 비주얼 과시..이러니 안 빠져?",
+    "link": "https://www.breaknews.com/1208792",
+    "pubDate": "Thu, 21 May 2026 00:30:00 GMT",
+    "source": "브레이크뉴스",
+    "domain": "breaknews.com",
+    "thumb": "https://www.breaknews.com/imgdata/breaknews_com/202605/2026052132374746.jpg"
+  },
+  {
+    "title": "아이브 장원영, “작은 행복 찾으려는 나의 태도”…럭셔리 화보로 전한 철학",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16067317",
+    "pubDate": "Thu, 21 May 2026 00:14:26 GMT",
+    "source": "톱스타뉴스",
+    "domain": "topstarnews.net",
+    "thumb": "https://cdn.topstarnews.net/news/photo/202605/16067317_1926278_1419_crop.jpg"
+  },
+  {
+    "title": "아이브 장원영, “지금 이 순간이 제일 귀해”…에스콰이어 화보에서 밝힌 철학",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16067306",
+    "pubDate": "Thu, 21 May 2026 00:11:43 GMT",
+    "source": "톱스타뉴스",
+    "domain": "topstarnews.net",
+    "thumb": "https://cdn.topstarnews.net/news/photo/202605/16067306_1926268_1136_crop.jpg"
+  },
+  {
+    "title": "장원영, \"불편한 상황에도 작은 행복 찾으려 해\" 럭키비키 마인드셋 (화보) - 조선비즈",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/05/21/GBQWKZLCHA3DIMBZMMYTEYJZMQ/",
+    "pubDate": "Thu, 21 May 2026 00:11:00 GMT",
+    "source": "Chosunbiz",
+    "domain": "biz.chosun.com",
+    "thumb": "https://biz.chosun.com/resizer/v2/MMZWCMJYHA2DIOBWGYZDEOJWMY.jpg?auth=af14937fb0e921a949d40ffcd716eb98b7cf0cd421086e989945481364d62294&amp;width=900&amp;height=472&amp;smart=true"
+  },
+  {
+    "title": "아이브 장원영, '루시드 드림' 앞두고 불가리 럭셔리 화보 공개",
+    "link": "https://www.slist.kr/news/articleView.html?idxno=740506",
+    "pubDate": "Thu, 21 May 2026 00:08:33 GMT",
+    "source": "싱글리스트",
+    "domain": "slist.kr",
+    "thumb": "https://cdn.slist.kr/news/thumbnail/202605/740506_1136524_830_v150.jpg"
+  },
+  {
+    "title": "장원영, 깊어진 눈빛으로 완성한 고혹美 [화보]",
+    "link": "https://www.bntnews.co.kr/article/view/bnt202605210067",
+    "pubDate": "Thu, 21 May 2026 00:03:03 GMT",
+    "source": "bntnews.co.kr",
+    "domain": "bntnews.co.kr",
+    "thumb": "https://www.bntnews.co.kr/data/bnt/image/2026/05/21/bnt202605210158.jpg"
+  },
+  {
     "title": "IVE 장원영이 생각하는 신체와 정신",
     "link": "https://www.esquirekorea.co.kr/article/1902873",
     "pubDate": "Wed, 20 May 2026 23:00:00 GMT",
     "source": "esquirekorea.co.kr",
     "domain": "esquirekorea.co.kr",
     "thumb": "https://www.esquirekorea.co.kr/resources/online/thumbnail/hf/2026/05/20/08387e82-3ed4-4406-9557-3804190c66a5.jpg"
-  },
-  {
-    "title": "장다아, 장원영 닮았나요",
-    "link": "https://enews.imbc.com/News/RetrieveNewsInfo/505641",
-    "pubDate": "Wed, 20 May 2026 11:56:00 GMT",
-    "source": "iMBC 연예",
-    "domain": "enews.imbc.com",
-    "thumb": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/05/20/bf139a5c-b552-4a21-b832-5c9c2f9aaff0.jpg"
-  },
-  {
-    "title": "장다아, 동생 장원영 능가하는 압도적 각선미…'청출어람 비주얼'",
-    "link": "https://news.nate.com/view/20260520n36309",
-    "pubDate": "Wed, 20 May 2026 11:11:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/aa/2026/05/20/news-p.v1.20260520.f0cd93ea60f44ac0b1c6628534d88b30_P1.jpg"
   },
   {
     "title": "장다아 '동생 장원영만큼 엄청난 비율'",
@@ -32,92 +112,28 @@
     "thumb": "https://news.nateimg.co.kr/orgImg/pt/2026/05/20/202605201956777420_6a0d934fedfa1.jpg"
   },
   {
-    "title": "장원영 언니 장다아 ‘물 오른 미모’ [MK포토]",
-    "link": "https://www.mk.co.kr/news/entertain/12053599",
-    "pubDate": "Wed, 20 May 2026 10:52:50 GMT",
-    "source": "매일경제",
-    "domain": "mk.co.kr",
-    "thumb": "https://pimg.mk.co.kr/news/cms/202605/20/news-p.v1.20260520.a9fd88b4e26b471980f526b683ad7d55_R.jpg"
+    "title": "아이브 장원영, ‘AAA 2026’ MC 확정… 전무후무 ‘6년 연속’ 퀸의 귀환",
+    "link": "https://mhnse.com/news/articleView.html?idxno=1381690",
+    "pubDate": "Tue, 19 May 2026 08:25:18 GMT",
+    "source": "mhnse.com",
+    "domain": "mhnse.com",
+    "thumb": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/05/bc4cc29b-7664-49c7-b65d-ac217b3510aa.jpg"
   },
   {
-    "title": "대림家 4세 이주영, 장원영→이병헌♥이민정과도 친분…인맥 어마어마",
-    "link": "https://news.nate.com/view/20260520n33848",
-    "pubDate": "Wed, 20 May 2026 09:44:00 GMT",
+    "title": "'AAA 2026' 장원영 MC 선정, 12월 5~6일 가오슝서 개최",
+    "link": "https://news.nate.com/view/20260519n24320",
+    "pubDate": "Tue, 19 May 2026 06:39:00 GMT",
     "source": "네이트",
     "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/05/20/202605201830526310_1.jpg"
+    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/yn/2026/05/19/202605191535465634_d.jpg"
   },
   {
-    "title": "'대림家' 4세 이주영, 장원영과 다정한 투샷 공개…'어마무시'한 인맥 또 화제 [RE:스타]",
-    "link": "https://news.nate.com/view/20260520n30054",
-    "pubDate": "Wed, 20 May 2026 08:00:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/tr/2026/05/20/f7a72247-0c69-4e57-b0ee-4e41145e48f0.jpg"
-  },
-  {
-    "title": "1위 방탄소년단 지민, 2위 아이브 장원영, 3위 방탄소년단 정국",
-    "link": "https://m.news.nate.com/view/20260520n04596?issue_sq=9009&mid=e0608",
-    "pubDate": "Tue, 19 May 2026 22:52:00 GMT",
-    "source": "네이트",
-    "domain": "m.news.nate.com",
-    "thumb": "https://news.nateimg.co.kr/orgImg/tn/2026/05/20/2026052007434454546_4.jpg"
-  },
-  {
-    "title": "'장발 파워' BTS 지민, 장원영·정국 제치고 아이돌 개인 브랜드평판 1위",
-    "link": "https://www.slist.kr/news/articleView.html?idxno=740142",
-    "pubDate": "Tue, 19 May 2026 21:57:22 GMT",
-    "source": "싱글리스트",
-    "domain": "slist.kr",
-    "thumb": "https://cdn.slist.kr/news/thumbnail/202605/740142_1135965_5615_v150.jpg"
-  },
-  {
-    "title": "지민, 아이돌 개인 또 1위…장원영 2위",
-    "link": "https://www.bntnews.co.kr/article/view/bnt202605200016",
-    "pubDate": "Tue, 19 May 2026 21:50:05 GMT",
-    "source": "bntnews.co.kr",
-    "domain": "bntnews.co.kr",
-    "thumb": "https://www.bntnews.co.kr/data/bnt/image/2026/05/20/bnt202605200038.png"
-  },
-  {
-    "title": "\"이러니 살 안찌지\" 장원영, 집에서도 '이렇게' 생활…루틴 살펴보니",
-    "link": "https://news.nate.com/view/20260519n35708",
-    "pubDate": "Tue, 19 May 2026 12:05:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/kr/2026/05/19/das.jpeg"
-  },
-  {
-    "title": "장원영 ‘AAA’ 6년째 출근",
-    "link": "https://sports.khan.co.kr/article/202605191612013",
-    "pubDate": "Tue, 19 May 2026 07:12:00 GMT",
-    "source": "스포츠경향",
-    "domain": "sports.khan.co.kr",
-    "thumb": null
-  },
-  {
-    "title": "장원영, 'AAA 2026' MC 발탁…6년 연속 진행 이끈다",
-    "link": "https://www.news1.kr/entertain/celebrity-topic/6171443",
-    "pubDate": "Tue, 19 May 2026 06:56:34 GMT",
-    "source": "뉴스1",
-    "domain": "news1.kr",
-    "thumb": "https://i3n.news1.kr/system/photos/2026/5/12/7902178/high.jpg"
-  },
-  {
-    "title": "장원영, 아시아 아티스트 어워즈 MC 맡는다",
-    "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=817502",
-    "pubDate": "Tue, 19 May 2026 02:41:59 GMT",
-    "source": "SPOTV NEWS",
-    "domain": "spotvnews.co.kr",
-    "thumb": "https://cdn.spotvnews.co.kr/news/thumbnail/202605/817502_1337966_375_v150.jpg"
-  },
-  {
-    "title": "장원영, 마른 이유 있었다… 집에서 ‘이것’ 하던데?",
-    "link": "https://m.health.chosun.com/svc/news_view.html?contid=2026051901421",
-    "pubDate": "Tue, 19 May 2026 01:35:00 GMT",
-    "source": "헬스조선",
-    "domain": "m.health.chosun.com",
-    "thumb": "https://m.health.chosun.com/site/data/img_dir/2026/05/19/2026051901417_0.jpg"
+    "title": "아이브 장원영, AAA 6년 연속 MC… 퀸의 위엄",
+    "link": "http://www.atstar1.com/news/articleView.html?idxno=6035183",
+    "pubDate": "Tue, 19 May 2026 02:19:27 GMT",
+    "source": "앳스타일",
+    "domain": "atstar1.com",
+    "thumb": "https://cdn.atstar1.com/news/thumbnail/202605/6035183_110887_1731_v150.jpg"
   },
   {
     "title": "아이브 장원영, 옆구리 뻥 뚫린 셔츠 입고…아슬아슬한 반전 매력 [스타★샷]",
@@ -128,12 +144,28 @@
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sw/2026/05/19/20260519505505.jpg"
   },
   {
-    "title": "타미진스, 앰배서더 장원영과 데님 스타일 서머 프레피 룩 선봬",
-    "link": "https://fashionbiz.co.kr/article/226352",
-    "pubDate": "Tue, 19 May 2026 00:20:46 GMT",
-    "source": "패션비즈",
-    "domain": "fashionbiz.co.kr",
-    "thumb": "https://www.fashionbiz.co.kr/images/articleImg/mainImg/1779149955508-12001.jpg"
+    "title": "아이브 장원영, 6년 연속 AAA MC 발탁",
+    "link": "https://news.nate.com/view/20260519n05822",
+    "pubDate": "Tue, 19 May 2026 00:00:00 GMT",
+    "source": "네이트",
+    "domain": "news.nate.com",
+    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sz/2026/05/19/536090_567554_5932.jpg"
+  },
+  {
+    "title": "장원영, ‘AAA 2026’ MC 확정..6년 연속 빛낸 ‘AAA 퀸’",
+    "link": "https://www.frame-less.co.kr/news/articleView.html?idxno=3365",
+    "pubDate": "Mon, 18 May 2026 23:50:55 GMT",
+    "source": "frame-less.co.kr",
+    "domain": "frame-less.co.kr",
+    "thumb": "https://cdn.frame-less.co.kr/news/photo/202605/3365_9172_5326.png"
+  },
+  {
+    "title": "장원영, 'AAA 2026' MC 발탁...6년 연속 'AAA 퀸' - 머니투데이",
+    "link": "https://www.mt.co.kr/entertainment/2026/05/19/2026051908377227554",
+    "pubDate": "Mon, 18 May 2026 23:37:47 GMT",
+    "source": "머니투데이",
+    "domain": "mt.co.kr",
+    "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=1648,fit=cover,bg=whilte,f=auto,quality=high,sharpen=2,g=face/21/2026/05/2026051908377227554_1.jpg"
   },
   {
     "title": "'AAA 퀸' 장원영, 가오슝 또 간다… 6년 연속 MC",
@@ -160,44 +192,12 @@
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/tn/2026/05/19/2026051804113064365_1.jpg"
   },
   {
-    "title": "장원영, 침대에서도 화보 같아…묘하게 달라보이네",
-    "link": "https://v.daum.net/v/FMTgrxb0mK",
-    "pubDate": "Mon, 18 May 2026 21:09:01 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/19/mydaily/20260519060902700nwaq.png"
-  },
-  {
-    "title": "장원영 \"이제 잘 시간이야\"…근접 셀카 공개",
-    "link": "https://www.newsis.com/view/NISX20260518_0003634528",
-    "pubDate": "Mon, 18 May 2026 08:55:16 GMT",
-    "source": "뉴시스",
-    "domain": "newsis.com",
-    "thumb": "https://img1.newsis.com/2026/05/18/NISI20260518_0002138839_web.jpg"
-  },
-  {
-    "title": "장원영, 청량 데님 여신…경쾌한 썸머 프레피룩 [화보] - 조선비즈",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/05/18/HBTGCOLFGYYDONRZMM4WCMDCMQ/",
-    "pubDate": "Mon, 18 May 2026 01:51:00 GMT",
-    "source": "Chosunbiz",
-    "domain": "biz.chosun.com",
-    "thumb": "https://biz.chosun.com/resizer/v2/HBTDGNBWGRTDONZXMQ3DSN3CMY.jpg?auth=904a4c73d190605ac670b4bb3406a4dceb160244be51fc8b8df650eb2240c014&amp;width=900&amp;height=472&amp;smart=true"
-  },
-  {
-    "title": "데님, 그리고 장원영의 여름",
-    "link": "https://news.nate.com/view/20260518n10956",
-    "pubDate": "Mon, 18 May 2026 01:25:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/kz/2026/05/18/news-p.v1.20260518.2c564ab454894b06ae29ff915d85f562_P1.jpg"
-  },
-  {
-    "title": "장원영·김지원, 명품 미모..·변우석까지 '비주얼 쓰리샷' 자랑",
-    "link": "https://www.starnewskorea.com/star/2026/05/17/2026051718345794967",
-    "pubDate": "Sun, 17 May 2026 09:47:48 GMT",
-    "source": "starnewskorea.com",
-    "domain": "starnewskorea.com",
-    "thumb": "https://image.starnewskorea.com/21/2026/05/2026051718345794967_1.jpg"
+    "title": "아이브 장원영, 침대 위 누워도 굴욕 없는 미모…‘현실판 공주님’ [스타★샷]",
+    "link": "https://www.sportsworldi.com/newsView/20260518518018",
+    "pubDate": "Mon, 18 May 2026 11:45:58 GMT",
+    "source": "스포츠월드",
+    "domain": "sportsworldi.com",
+    "thumb": "https://www.sportsworldi.com/content/image/2026/05/18/20260518518089.jpg"
   },
   {
     "title": "1위 장원영, 2위 제니, 3위 카리나",
@@ -208,115 +208,115 @@
     "thumb": "https://image.starnewskorea.com/21/2026/05/2026051708425518193_4.jpg"
   },
   {
-    "title": "장원영X김지원, 예쁜 애 옆에 예쁜 애…'눈이 번쩍'",
-    "link": "https://v.daum.net/v/20260517010200770",
-    "pubDate": "Sat, 16 May 2026 16:02:00 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/17/mydaily/20260517010202658ovna.jpg"
+    "title": "장원영은 속옷도 다르네…’150만원대 팬티’→새깅 패션 “너 좀 맘에 든다”",
+    "link": "https://tvreport.co.kr/entertainment/article/1045096/",
+    "pubDate": "Sat, 16 May 2026 23:41:48 GMT",
+    "source": "TV리포트",
+    "domain": "tvreport.co.kr",
+    "thumb": "https://d3h3k01ny8mjr.cloudfront.net/tv-report/2026/05/17081507/CP-2022-0227-37229676-thumb.jpg"
   },
   {
-    "title": "가슴골 사라진 장원영…현장 포토콜 vs 브랜드 제공컷 차이 확연하네",
-    "link": "https://www.chosun.com/entertainments/enter_general/2026/05/16/HFSTGNDCHAZWMMJRGY3WMMJRGI/",
-    "pubDate": "Sat, 16 May 2026 09:31:39 GMT",
-    "source": "조선일보",
-    "domain": "chosun.com",
-    "thumb": "https://www.chosun.com/resizer/v2/MRTDIMDBME4GCNBYGY3WKMJTMQ.jpg?auth=e144add6515802f5f1a18b1b9caf20554164db3528196e66dd71c48805e7fba9&amp;width=700&amp;height=367&amp;smart=true"
+    "title": "장원영, 흑백 사진 속 주얼리 눈부신 밤",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16062734",
+    "pubDate": "Sat, 16 May 2026 12:53:30 GMT",
+    "source": "톱스타뉴스",
+    "domain": "topstarnews.net",
+    "thumb": "https://cdn.topstarnews.net/news/photo/202605/16062734_1923039_5323_crop.jpg"
   },
   {
-    "title": "아이브 장원영, 새깅 패션도 귀엽게 소화..비주얼 열일중",
-    "link": "https://www.chosun.com/entertainments/music/2026/05/16/ME4TGZTCMY2WKMTGMFSDENLEMM/",
-    "pubDate": "Sat, 16 May 2026 08:42:00 GMT",
-    "source": "조선일보",
-    "domain": "chosun.com",
-    "thumb": "https://www.chosun.com/resizer/v2/HA3TIZRUMEYTMNJTHAZTCOBSGY.jpg?auth=45b056dd3ff7341a8bb5c0181ef7188c5a58ecc5ca2ae761f7f384ceb357ac1e&amp;width=530&amp;height=278&amp;smart=true"
+    "title": "장원영, 블랙 톱으로 드러낸 눈빛…월드 투어 속 근황",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16062733",
+    "pubDate": "Sat, 16 May 2026 12:53:14 GMT",
+    "source": "톱스타뉴스",
+    "domain": "topstarnews.net",
+    "thumb": "https://cdn.topstarnews.net/news/photo/202605/16062733_1923038_536_crop.jpg"
   },
   {
-    "title": "장원영, 속옷 드러낸 새깅 패션…독보적 늘씬 몸매 [N샷]",
-    "link": "https://www.news1.kr/entertain/celebrity-topic/6168772",
-    "pubDate": "Sat, 16 May 2026 06:56:53 GMT",
-    "source": "뉴스1",
-    "domain": "news1.kr",
-    "thumb": "https://i3n.news1.kr/system/photos/2026/5/16/7909431/high.jpg"
+    "title": "아이브 장원영, ‘사람이 어떻게 체리? 원영이니까’ (김포공항 출국)",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16062600",
+    "pubDate": "Sat, 16 May 2026 07:55:00 GMT",
+    "source": "톱스타뉴스",
+    "domain": "topstarnews.net",
+    "thumb": "https://cdn.topstarnews.net/news/photo/202605/16062600_1922903_5931_crop.jpg"
   },
   {
-    "title": "장원영이 직접 알려주는 해외 투어 비하인드",
-    "link": "https://www.esquirekorea.co.kr/article/1902212",
-    "pubDate": "Sat, 16 May 2026 06:01:00 GMT",
-    "source": "esquirekorea.co.kr",
-    "domain": "esquirekorea.co.kr",
-    "thumb": "https://www.esquirekorea.co.kr/resources/online/thumbnail/hf/2026/05/16/99b9f5e2-e567-41fa-92a0-b350d08b8a3b.jpg"
+    "title": "장원영, 도심 뷰 품은 셀카…럭키 메시지 전했다",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16062206",
+    "pubDate": "Fri, 15 May 2026 13:03:36 GMT",
+    "source": "톱스타뉴스",
+    "domain": "topstarnews.net",
+    "thumb": "https://cdn.topstarnews.net/news/photo/202605/16062206_1922507_328_crop.jpg"
   },
   {
-    "title": "에스콰이어 일일 에디터 장원영, 첫 출근에 일어난 일?",
-    "link": "https://www.esquirekorea.co.kr/article/1902662",
-    "pubDate": "Sat, 16 May 2026 06:00:00 GMT",
-    "source": "esquirekorea.co.kr",
-    "domain": "esquirekorea.co.kr",
-    "thumb": "https://www.esquirekorea.co.kr/resources/online/thumbnail/hf/2026/05/16/18a1513c-ed86-49d3-b4c1-4fbbba8200ac.jpg"
+    "title": "장원영, 내 반쪽은?",
+    "link": "http://www.osen.co.kr/article/G1112801885",
+    "pubDate": "Fri, 15 May 2026 01:16:00 GMT",
+    "source": "osen.co.kr",
+    "domain": "osen.co.kr",
+    "thumb": "http://file.osen.co.kr/article_thumb/2026/05/15/202605151016773482_6a0673e200b04_300x.jpg"
   },
   {
-    "title": "장원영, 팬티 노출 패션도 찰떡…151만원 명품 새깅 ‘깜짝’",
-    "link": "https://isplus.com/article/view/isp202605160006",
-    "pubDate": "Sat, 16 May 2026 00:34:00 GMT",
-    "source": "일간스포츠",
-    "domain": "isplus.com",
-    "thumb": "https://isplus.com/data/isp/image/2026/05/16/isp20260516000009.800x.0.jpg"
+    "title": "장원영, 안녕",
+    "link": "http://www.osen.co.kr/article/G1112801883",
+    "pubDate": "Fri, 15 May 2026 01:16:00 GMT",
+    "source": "osen.co.kr",
+    "domain": "osen.co.kr",
+    "thumb": "http://file.osen.co.kr/article_thumb/2026/05/15/202605151016776567_6a0673d6963a0_300x.jpg"
   },
   {
-    "title": "장원영, 새깅 패션 눈길…팬티 가격 151만원",
-    "link": "https://www.donga.com/news/Entertainment/article/all/20260516/133934485/1",
-    "pubDate": "Sat, 16 May 2026 00:20:54 GMT",
-    "source": "동아일보",
-    "domain": "donga.com",
-    "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/05/16/133934486.1.jpg"
+    "title": "장원영, 머릿결 넘기며",
+    "link": "http://www.osen.co.kr/article/G1112801882",
+    "pubDate": "Fri, 15 May 2026 01:16:00 GMT",
+    "source": "osen.co.kr",
+    "domain": "osen.co.kr",
+    "thumb": "http://file.osen.co.kr/article_thumb/2026/05/15/202605151015770582_6a0673d3d4967_300x.jpg"
   },
   {
-    "title": "장원영, 바지 위로 라인 노출된 팬티..가격은 151만 원 [스타이슈]",
-    "link": "https://www.starnewskorea.com/star/2026/05/15/2026051521520226512",
-    "pubDate": "Fri, 15 May 2026 13:06:17 GMT",
+    "title": "장원영, 해맑게",
+    "link": "http://www.osen.co.kr/article/G1112801878",
+    "pubDate": "Fri, 15 May 2026 01:15:00 GMT",
+    "source": "osen.co.kr",
+    "domain": "osen.co.kr",
+    "thumb": "http://file.osen.co.kr/article_thumb/2026/05/15/202605151015772901_6a0673afccd30_300x.jpg"
+  },
+  {
+    "title": "장원영, 인사 드립니다",
+    "link": "http://www.osen.co.kr/article/G1112801877",
+    "pubDate": "Fri, 15 May 2026 01:15:00 GMT",
+    "source": "osen.co.kr",
+    "domain": "osen.co.kr",
+    "thumb": "http://file.osen.co.kr/article_thumb/2026/05/15/202605151015771061_6a0673a974825_300x.jpg"
+  },
+  {
+    "title": "장원영, 스타일리시",
+    "link": "http://www.osen.co.kr/article/G1112801874",
+    "pubDate": "Fri, 15 May 2026 01:15:00 GMT",
+    "source": "osen.co.kr",
+    "domain": "osen.co.kr",
+    "thumb": "http://file.osen.co.kr/article_thumb/2026/05/15/202605151014772852_6a067396ef941_300x.jpg"
+  },
+  {
+    "title": "장원영, 오늘은 핑크가 포인트",
+    "link": "http://www.osen.co.kr/article/G1112801879",
+    "pubDate": "Fri, 15 May 2026 01:15:00 GMT",
+    "source": "osen.co.kr",
+    "domain": "osen.co.kr",
+    "thumb": "http://file.osen.co.kr/article_thumb/2026/05/15/202605151015774650_6a0673b35a2e1_300x.jpg"
+  },
+  {
+    "title": "장원영 전생, 공주였다..외로움에 눈물 \"그리워\"[앜아이브]",
+    "link": "https://www.starnewskorea.com/music/2026/05/03/2026050312004229552",
+    "pubDate": "Sun, 03 May 2026 07:00:00 GMT",
     "source": "starnewskorea.com",
     "domain": "starnewskorea.com",
-    "thumb": "https://image.starnewskorea.com/21/2026/05/2026051521520226512_1.jpg"
+    "thumb": "https://image.starnewskorea.com/21/2026/05/2026050312004229552_1.jpg"
   },
   {
-    "title": "장원영, 살짝 내려간 바지…150만원대 팬티 노출 ‘화들짝’",
-    "link": "https://m.seoul.co.kr/news/entertainment/starinterN/2026/05/15/20260515500191",
-    "pubDate": "Fri, 15 May 2026 07:07:31 GMT",
-    "source": "서울신문",
-    "domain": "m.seoul.co.kr",
-    "thumb": "https://img.seoul.co.kr/img/upload/2026/05/15/SSC_20260515160729.png"
-  },
-  {
-    "title": "장원영, 150만 원대 팬티 입고 새깅…러블리의 정수",
-    "link": "https://news.nate.com/view/20260515n13953",
-    "pubDate": "Fri, 15 May 2026 02:45:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/kz/2026/05/15/news-p.v1.20260515.8a4b4b70f5d74ba6ae1a7576407c7637_P1.png"
-  },
-  {
-    "title": "장원영, 하트와 함께 출국",
-    "link": "https://www.news1.kr/photos/7907575",
-    "pubDate": "Fri, 15 May 2026 01:23:36 GMT",
-    "source": "뉴스1",
-    "domain": "news1.kr",
-    "thumb": "https://image.news1.kr/system/photos/2026/5/15/7907575/high.jpg"
-  },
-  {
-    "title": "장원영, ‘꾸안꾸’ 봄 패션 떴다",
-    "link": "https://v.daum.net/v/20260514094537142",
-    "pubDate": "Thu, 14 May 2026 00:45:37 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/14/sportskhan/20260514094539361hvzf.jpg"
-  },
-  {
-    "title": "장원영의 봄, 장원영이 봄[화보]",
-    "link": "https://v.daum.net/v/20260507093234542?f=p",
-    "pubDate": "Thu, 07 May 2026 00:32:34 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/07/sportskhan/20260507093235777agzd.jpg"
+    "title": "아이브(IVE) 장원영, 세브란스에 2억 원 기부",
+    "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=73821",
+    "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT",
+    "source": "히트뉴스",
+    "domain": "hitnews.co.kr",
+    "thumb": "https://cdn.hitnews.co.kr/news/thumbnail/202602/73821_100421_3424_v150.jpg"
   }
 ]
