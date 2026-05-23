@@ -1,11 +1,19 @@
 [
   {
-    "title": "BTS 끌고 코르티스 밀고…형 만한 아우들의 활약",
-    "link": "https://news.nate.com/view/20260524n02003",
-    "pubDate": "Sat, 23 May 2026 22:02:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sw/2026/05/24/20260523506962.jpg"
+    "title": "빅히트 뮤직, BTS·TXT·CORTIS 삼각편대로 ‘글로벌 톱 레이블’ 입증",
+    "link": "https://sports.khan.co.kr/article/202605240742003",
+    "pubDate": "Sat, 23 May 2026 22:42:00 GMT",
+    "source": "스포츠경향",
+    "domain": "sports.khan.co.kr",
+    "thumb": null
+  },
+  {
+    "title": "BTS 슈가, 무대 위 카리스마-일상 모습 '반전 매력' 포착",
+    "link": "https://www.ppss.kr/news/articleView.html?idxno=296941",
+    "pubDate": "Sat, 23 May 2026 22:08:06 GMT",
+    "source": "ppss.kr",
+    "domain": "ppss.kr",
+    "thumb": "https://cdn.ppss.kr/news/photo/202605/296941_114642_640.jpg"
   },
   {
     "title": "방탄소년단, 5년 만에 '아메리칸 뮤직 어워즈' 대상 받을까",
@@ -56,14 +64,6 @@
     "thumb": "https://www.chosun.com/resizer/v2/GFSTENTDGRRWGMZWGFRDMOBXG4.jpg?auth=aa25439a9c65d8f4e3b219d16ccf030aad7e114d8d2c77240808e7b7731dbc10&amp;width=650&amp;height=341&amp;smart=true"
   },
   {
-    "title": "빅히트뮤직, BTS·TXT·코르티스로 상반기 글로벌 차트 장악",
-    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16069477",
-    "pubDate": "Sat, 23 May 2026 02:04:27 GMT",
-    "source": "톱스타뉴스",
-    "domain": "topstarnews.net",
-    "thumb": "https://cdn.topstarnews.net/news/photo/202605/16069477_1927915_419_crop.jpg"
-  },
-  {
     "title": "뷔 한 마디에 또…BTS 다녀간 美 피자집, 14년 만 역대급 난리",
     "link": "https://www.mk.co.kr/news/world/12056157",
     "pubDate": "Sat, 23 May 2026 01:00:48 GMT",
@@ -110,6 +110,14 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/23/sportsdonga/20260523071910342pdtn.jpg"
+  },
+  {
+    "title": "“10대 아미, 20년 뒤 韓 GDP 높인다”…‘방탄노믹스 효과’ 깜짝",
+    "link": "https://v.daum.net/v/20260523070316208",
+    "pubDate": "Fri, 22 May 2026 22:03:16 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/23/joongang/20260523070316507druw.jpg"
   },
   {
     "title": "\"바가지 막겠다\"던 부산시…BTS 숙박 요금 폭등 여전, 왜?",
@@ -224,14 +232,6 @@
     "thumb": "https://i3n.news1.kr/system/photos/2026/5/22/7921095/high.jpg"
   },
   {
-    "title": "라스베이거스, ‘보라해가스’됐다…BTS 맞이에 한창",
-    "link": "https://v.daum.net/v/20260522114317378",
-    "pubDate": "Fri, 22 May 2026 02:43:17 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/ned/20260522114317901yedg.jpg"
-  },
-  {
     "title": "BTS 정국-기업인 등 휴대전화 ‘유심 복제’… 알뜰폰 새로 만들어 코인 등 484억 빼돌려",
     "link": "https://v.daum.net/v/20260522043301821",
     "pubDate": "Thu, 21 May 2026 19:33:01 GMT",
@@ -288,20 +288,20 @@
     "thumb": "https://img.khan.co.kr/news/2026/05/21/news-p.v1.20260515.071a6706524841958b3b8129bec22ea1_P1.png"
   },
   {
-    "title": "\"부산서는 돈 안 쓴다\"…BTS 공연 앞두고 ‘바가지’에 팬들 분노",
-    "link": "https://news.jtbc.co.kr/article/NB12299261",
-    "pubDate": "Thu, 21 May 2026 02:31:00 GMT",
-    "source": "JTBC",
-    "domain": "news.jtbc.co.kr",
-    "thumb": "https://thumb.jtbc.co.kr/photo/r600x0/news/cms/etc/2026/05/21/20260521223901556001.png"
-  },
-  {
     "title": "BTS, 25일 美 ‘아메리칸 뮤직 어워즈’ 특별 출연",
     "link": "https://www.chosun.com/culture-life/culture_general/2026/05/21/AWLQ4XE2SJB3HG3O2SCTYN7XBQ/",
     "pubDate": "Thu, 21 May 2026 02:09:22 GMT",
     "source": "조선일보",
     "domain": "chosun.com",
     "thumb": "https://www.chosun.com/resizer/v2/G4ZGCZTFGNRWEMRVHE4WIZRWG4.jpg?auth=93c0c18866a6681a419582ed04336bab358af4fdc4f525c0ae817eda6da740db&amp;width=1200&amp;height=630&amp;smart=true"
+  },
+  {
+    "title": "“부산서 1원도 써주지 말자” BTS팬들의 분노 이유",
+    "link": "https://www.munhwa.com/article/11590343",
+    "pubDate": "Wed, 20 May 2026 21:03:30 GMT",
+    "source": "문화일보",
+    "domain": "munhwa.com",
+    "thumb": "https://wimg.munhwa.com/news/cms/2026/05/21/news-p.v1.20260520.02ff120c5f1947bba10e4f4e0f2b1efe_R.png"
   },
   {
     "title": "BTS 뷔 '크리스마스 트리', 스포티파이 5억 스트리밍",
