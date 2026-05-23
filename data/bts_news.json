@@ -120,14 +120,6 @@
     "thumb": "https://www.chosun.com/resizer/v2/MQ3TCNTDHA2GENLFMM3TCOJUMM.jpg?auth=0878b072354bd204b5c91f98e068c20c9f4aeebc3a46689d938765fc95d706e6&amp;width=650&amp;height=341&amp;smart=true"
   },
   {
-    "title": "BTS ‘아리랑’, 스포티파이 주간앨범 차트 ‘톱 3’→日오리콘 3위",
-    "link": "https://www.slist.kr/news/articleView.html?idxno=740877",
-    "pubDate": "Fri, 22 May 2026 22:19:47 GMT",
-    "source": "싱글리스트",
-    "domain": "slist.kr",
-    "thumb": "https://cdn.slist.kr/news/thumbnail/202605/740877_1137105_1549_v150.jpg"
-  },
-  {
     "title": "BTS 뷔 “스탠퍼드 피자 최고”…한마디에 美 식당, 한마디로 대박",
     "link": "https://v.daum.net/v/20260523071908349",
     "pubDate": "Fri, 22 May 2026 22:19:08 GMT",
@@ -168,6 +160,14 @@
     "thumb": "https://kcms.knn.co.kr/mam/data/CI2016123000000000006/CI2017072513315301673/2026/05/22/26052254398/catalog/6.jpg"
   },
   {
+    "title": "BTS 공연 숙박난에 부산경남 사찰 숙소 지원나서",
+    "link": "https://news.knn.co.kr/news/article/188099",
+    "pubDate": "Fri, 22 May 2026 11:10:00 GMT",
+    "source": "knn.co.kr",
+    "domain": "news.knn.co.kr",
+    "thumb": "https://kcms.knn.co.kr/mam/data/CI2016123000000000006/CI2017072513315301673/2026/05/22/26052254395/26052254395.jpg"
+  },
+  {
     "title": "단속 비웃는 ‘BTS 특수’ 숙박료 10배 폭등… 법 개정 미비에 부산시 ‘속수무책’",
     "link": "https://v.daum.net/v/20260522185411478",
     "pubDate": "Fri, 22 May 2026 09:54:11 GMT",
@@ -184,20 +184,20 @@
     "thumb": "http://news.kbs.co.kr/data/fckeditor/vod/2026/05/22/306611779437044917.png"
   },
   {
-    "title": "‘바가지 요금 NO' BTS 맞이하는 부산, 불교계 필두로 '공정숙박 챌린지' 확산",
-    "link": "https://v.daum.net/v/20260522164043345",
-    "pubDate": "Fri, 22 May 2026 07:40:43 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/551750-8jup1yA/20260522173702936tmat.jpg"
-  },
-  {
     "title": "BTS '숙박대란', 부산·경남 사찰이 품는다",
     "link": "https://www.hyunbulnews.com/news/articleView.html?idxno=503575",
     "pubDate": "Fri, 22 May 2026 07:35:23 GMT",
     "source": "현대불교",
     "domain": "hyunbulnews.com",
     "thumb": "https://cdn.hyunbulnews.com/news/photo/202605/503575_217257_3437.jpg"
+  },
+  {
+    "title": "BTS 부산 월드투어에 범어사 등 외국인 관광객 무료 템플스테이",
+    "link": "https://www.chosun.com/national/regional/2026/05/22/RY4ODSRJAFFPHB3LT7QXH2O5EE/",
+    "pubDate": "Fri, 22 May 2026 07:05:04 GMT",
+    "source": "조선일보",
+    "domain": "chosun.com",
+    "thumb": "https://www.chosun.com/resizer/v2/GPS52AQ4KNHZNH6HITASYBFPGE.JPG?auth=d2ae7819ccbc7dabc5c9915bee61065eb53362794a8aff9a6958f97fb27c2ceb&amp;width=1200&amp;height=630&amp;smart=true"
   },
   {
     "title": "BTS 부산 공연에…경남 숙박업소 “예약 알박기 피해”",
@@ -238,14 +238,6 @@
     "source": "뉴스1",
     "domain": "news1.kr",
     "thumb": "https://i3n.news1.kr/system/photos/2026/5/22/7921095/high.jpg"
-  },
-  {
-    "title": "라스베이거스, ‘보라해가스’됐다…BTS 맞이에 한창",
-    "link": "https://v.daum.net/v/20260522114317378",
-    "pubDate": "Fri, 22 May 2026 02:43:17 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/ned/20260522114317901yedg.jpg"
   },
   {
     "title": "BTS 정국-기업인 등 휴대전화 ‘유심 복제’… 알뜰폰 새로 만들어 코인 등 484억 빼돌려",
@@ -318,5 +310,13 @@
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img2.yna.co.kr/etc/inner/KR/2026/05/19/AKR20260519051400017_01_i_P4.jpg"
+  },
+  {
+    "title": "BTS, 마돈나·샤키라와 FIFA 월드컵 최초 결승전 '하프타임 쇼' 공연",
+    "link": "https://www.olympics.com/ko/news/bts-shakira-madonna-the-first-fifa-world-cup-final-half-time-show",
+    "pubDate": "Thu, 14 May 2026 07:00:00 GMT",
+    "source": "olympics.com",
+    "domain": "olympics.com",
+    "thumb": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/dz7gp4wnvxulryr27lfc"
   }
 ]
