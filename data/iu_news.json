@@ -56,14 +56,6 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/22/fnnewsi/20260522070517029zumj.jpg"
   },
   {
-    "title": "아이유·변우석 사과 이어…‘대군부인’ 파장 확산, 콘진원 “역사 고증 의무화”",
-    "link": "https://www.joongang.co.kr/article/25430358",
-    "pubDate": "Thu, 21 May 2026 11:43:56 GMT",
-    "source": "중앙일보",
-    "domain": "joongang.co.kr",
-    "thumb": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202605/21/7d0bed3d-3620-4a1a-af30-34a368d34cc9.jpg"
-  },
-  {
     "title": "'218억' 아이유 아파트 새 주인, 89년생 CEO였다",
     "link": "https://news.nate.com/view/20260521n33485",
     "pubDate": "Thu, 21 May 2026 08:55:00 GMT",
@@ -136,22 +128,6 @@
     "thumb": "https://www.chosun.com/resizer/v2/7JUYPCWPMJPGBDOVDANAWPLU7A.jpg?auth=f98d5420631da27d457cd777adfc867c1fb5567b548791464dd5df391f12b0fb&amp;width=1200&amp;height=630&amp;smart=true"
   },
   {
-    "title": "아이유·변우석→감독·작가도 \"죄송하다\"…'대군부인' 작감배 사과 릴레이[종합]",
-    "link": "https://v.daum.net/v/20260519185153370",
-    "pubDate": "Tue, 19 May 2026 09:51:53 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/19/spotvnews/20260519185155792kexl.jpg"
-  },
-  {
-    "title": "아이유 사는 ‘에테르노 청담’ 첫 매매 거래…218억원에 팔려",
-    "link": "https://www.hani.co.kr/arti/economy/property/1259416.html",
-    "pubDate": "Tue, 19 May 2026 08:23:00 GMT",
-    "source": "한겨레",
-    "domain": "hani.co.kr",
-    "thumb": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/child/2026/0519/53_17791788440186_20260519503094.webp"
-  },
-  {
     "title": "'대군부인' 감독 \"아이유 연기, 드라마에 힘 줬다…입체적 디테일\"[인터뷰③]",
     "link": "https://v.daum.net/v/20260519125217038",
     "pubDate": "Tue, 19 May 2026 03:52:17 GMT",
@@ -192,6 +168,14 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/19/SpoHankook/20260519094404185tdoa.jpg"
   },
   {
+    "title": "아이유·변우석, ‘21세기 대군부인’ 역사 왜곡 논란 사과",
+    "link": "https://news.jtbc.co.kr/article/NB12298796",
+    "pubDate": "Mon, 18 May 2026 08:33:00 GMT",
+    "source": "JTBC",
+    "domain": "news.jtbc.co.kr",
+    "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202605/18/cc79cdc4-750e-4b98-95e9-0004dc44ea2f.jpg"
+  },
+  {
     "title": "‘21세기 대군부인’ 역사왜곡 논란에 아이유·변우석 공식 사과",
     "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=334510",
     "pubDate": "Mon, 18 May 2026 08:11:00 GMT",
@@ -222,6 +206,14 @@
     "source": "경향신문",
     "domain": "khan.co.kr",
     "thumb": "https://img.khan.co.kr/news/2026/05/18/news-p.v1.20260518.bbd96dfa775c4fc5ae3104f43700898f_P1.jpg"
+  },
+  {
+    "title": "\"부끄러워\"...변우석·아이유, '21세기 대군부인' 역사 왜곡 논란에 나란히 사과",
+    "link": "https://www.tjb.co.kr/news03/category/view/id/98358/version/1",
+    "pubDate": "Mon, 18 May 2026 06:36:19 GMT",
+    "source": "티제이비",
+    "domain": "tjb.co.kr",
+    "thumb": "https://www.tjb.co.kr/html1/images/noimg.png"
   },
   {
     "title": "변우석·아이유 '대군부인' 역사왜곡 논란에 사과 \"부끄러워\"",
@@ -264,6 +256,14 @@
     "thumb": "https://thumb.jtbc.co.kr/photo/r600x0/news/cms/etc/2026/05/18/20260518080735848001.jpg"
   },
   {
+    "title": "천세·면류관 논란 속 '대군부인' 종영…아이유 '내 잘못\" 눈물",
+    "link": "https://www.news1.kr/entertain/celebrity-topic/6169446",
+    "pubDate": "Sun, 17 May 2026 22:35:07 GMT",
+    "source": "뉴스1",
+    "domain": "news1.kr",
+    "thumb": "https://i3n.news1.kr/system/photos/2026/4/6/7839902/high.jpg"
+  },
+  {
     "title": "아이유 데뷔이래 첫 '90도사과+눈물'..'21세기대군부인' 논란에 \"실망드려 죄송\" [핫피플]",
     "link": "http://www.osen.co.kr/article/G1112803582",
     "pubDate": "Sun, 17 May 2026 21:59:00 GMT",
@@ -272,20 +272,28 @@
     "thumb": "http://file.osen.co.kr/article_thumb/2026/05/17/202605172240774950_6a09ca9b462c3_300x.jpg"
   },
   {
+    "title": "아이유, 생일 맞아 ‘아이유애나’ 이름으로 3억원 기부",
+    "link": "https://www.hani.co.kr/arti/society/society_general/1258974.html",
+    "pubDate": "Sun, 17 May 2026 11:58:00 GMT",
+    "source": "한겨레",
+    "domain": "hani.co.kr",
+    "thumb": "https://flexible.img.hani.co.kr/flexible/normal/850/510/imgdb/original/2026/0516/20260516500499.webp"
+  },
+  {
+    "title": "‘21세기 대군부인’ 역사 왜곡 논란 속 종영…아이유 “다 제 잘못”",
+    "link": "https://www.joongang.co.kr/article/25428996",
+    "pubDate": "Sun, 17 May 2026 08:26:16 GMT",
+    "source": "중앙일보",
+    "domain": "joongang.co.kr",
+    "thumb": "https://pds.joongang.co.kr/news/FbMetaImage/202605/d8e0d924-2677-4dbe-805a-2f19e750b393.jpg"
+  },
+  {
     "title": "역사 왜곡 논란 속 종영한 ‘대군부인’…아이유 “미흡한 모습 제 잘못”",
     "link": "https://www.khan.co.kr/article/202605171706001",
     "pubDate": "Sun, 17 May 2026 08:06:00 GMT",
     "source": "경향신문",
     "domain": "khan.co.kr",
     "thumb": "https://img.khan.co.kr/news/2026/05/17/news-p.v1.20260517.3201590e3e2b4939a00fe339c51b11f6_P1.jpg"
-  },
-  {
-    "title": "'대군부인' 역사왜곡 논란 속 종영에…아이유 \"미흡한건 제 잘못\"",
-    "link": "https://www.yna.co.kr/view/AKR20260517040000005",
-    "pubDate": "Sun, 17 May 2026 06:56:53 GMT",
-    "source": "연합뉴스",
-    "domain": "yna.co.kr",
-    "thumb": "https://img4.yna.co.kr/photo/yna/YH/2026/04/06/PYH2026040613830001300_P4.jpg"
   },
   {
     "title": "“더 잘하지 못한 제 잘못”…아이유, ‘21세기 대군부인’ 논란 눈물로 사과",
@@ -302,14 +310,6 @@
     "source": "한겨레",
     "domain": "hani.co.kr",
     "thumb": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0515/20260515501997.webp"
-  },
-  {
-    "title": "아이유, ♥이종석과 4년째 열애 또 소신발언..\"사랑은 알아주길 바라는게 아냐\" [핫피플]",
-    "link": "https://www.chosun.com/entertainments/broadcast/2026/05/13/MRSGKYJYGMYGKNDFMVTDMNBXMQ/",
-    "pubDate": "Wed, 13 May 2026 07:00:00 GMT",
-    "source": "조선일보",
-    "domain": "chosun.com",
-    "thumb": "https://www.chosun.com/resizer/v2/GVSDMNLEMU2DSZBVMYYGGMZWMM.jpg?auth=0eb2f4a8d1a2eabcfef0aec8d5703822f085d5ed720b264be73f98911d9655b2&amp;width=647&amp;height=339&amp;smart=true"
   },
   {
     "title": "아이유·변우석 ‘21세기 대군부인’ 촬영지, ‘도깨비’ 공유의 그 집이었어?",
