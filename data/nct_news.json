@@ -160,14 +160,6 @@
     "thumb": "https://cdn.slist.kr/news/thumbnail/202605/740968_1137241_019_v150.jpg"
   },
   {
-    "title": "‘NCT 127’의 달콤한 매력을 마구 발산하는 무대 ‘TOUCH’",
-    "link": "https://programs.sbs.co.kr/programTemplate/amp/vod/gayo/22000268377",
-    "pubDate": "Sat, 23 May 2026 09:12:22 GMT",
-    "source": "sbs.co.kr",
-    "domain": "programs.sbs.co.kr",
-    "thumb": null
-  },
-  {
     "title": "‘불후의 명곡’ 서스페 특집, 이찬원·지누션·채연·스테이씨·NCT 위시 등 총출동",
     "link": "https://enter.etoday.co.kr/news/view/297677",
     "pubDate": "Sat, 23 May 2026 09:05:00 GMT",
@@ -216,6 +208,14 @@
     "thumb": "https://www.segye.com/content/image/2026/05/22/20260522506332.jpg"
   },
   {
+    "title": "태용 \"NCT 정산, 확실히 팀 나눠서 진행\" [집대성]",
+    "link": "https://news.nate.com/view/20260522n26221",
+    "pubDate": "Fri, 22 May 2026 09:50:00 GMT",
+    "source": "네이트",
+    "domain": "news.nate.com",
+    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/tn/2026/05/22/2026052218203271756_1.jpg"
+  },
+  {
     "title": "NCT 태용 \"해군 홍보대 근무, 50회 '찐 전국투어' 공연\" [집대성]",
     "link": "https://www.starnewskorea.com/star/2026/05/22/2026052218014555928",
     "pubDate": "Fri, 22 May 2026 09:21:00 GMT",
@@ -232,20 +232,20 @@
     "thumb": "https://cdn.slist.kr/news/thumbnail/202605/740727_1136858_2854_v150.jpg"
   },
   {
-    "title": "NCT WISH Community Post - 2년 만에 대구에 올 수",
-    "link": "https://weverse.io/nctwish/artist/4-230526904",
-    "pubDate": "Thu, 21 May 2026 18:54:23 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
-  },
-  {
     "title": "텐, 계약 종료 후 첫 셀카 근황…NCT와 솔로 행보 예고",
     "link": "https://www.topstarnews.net/news/articleView.html?idxno=16068233",
     "pubDate": "Thu, 21 May 2026 17:11:47 GMT",
     "source": "톱스타뉴스",
     "domain": "topstarnews.net",
     "thumb": "https://cdn.topstarnews.net/news/photo/202605/16068233_1927051_1140_crop.jpg"
+  },
+  {
+    "title": "엔시티 127 정우 '질주' (NCT 127 JUNGWOO '2 Baddies' FaceCam)",
+    "link": "https://programs.sbs.co.kr/programTemplate/amp/vod/gayo/22000470941",
+    "pubDate": "Thu, 21 May 2026 07:54:24 GMT",
+    "source": "sbs.co.kr",
+    "domain": "programs.sbs.co.kr",
+    "thumb": null
   },
   {
     "title": "NCT 태용, 음방→서재페 출격",
@@ -304,17 +304,17 @@
     "thumb": null
   },
   {
-    "title": "NCT WISH “5/8 (금) KBS 뮤직뱅크 ‘Ode to Love’ 사전녹화” 참여 안내",
-    "link": "https://weverse.io/nctwish/notice/35617",
-    "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
+    "title": "NCT WISH “5/3 (일) SBS 인기가요 ‘Ode to Love’ 사전녹화” 참여 안내",
+    "link": "https://weverse.io/nctwish/notice/35510",
+    "pubDate": "Sun, 03 May 2026 07:00:00 GMT",
     "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
   },
   {
-    "title": "NCT WISH “5/3 (일) SBS 인기가요 ‘Ode to Love’ 사전녹화” 참여 안내",
-    "link": "https://weverse.io/nctwish/notice/35510",
-    "pubDate": "Sun, 03 May 2026 07:00:00 GMT",
+    "title": "NCT WISH 팝업스토어 ’Ode to Love’ NCTzen WISH 회차 팬클럽 참여 안내",
+    "link": "https://weverse.io/nctwish/notice/34804",
+    "pubDate": "Tue, 21 Apr 2026 07:00:00 GMT",
     "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
