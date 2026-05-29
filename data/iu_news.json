@@ -64,14 +64,6 @@
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/iz/2026/05/17/b164c08b-9324-40dc-ab04-55a488043c87.jpg"
   },
   {
-    "title": "'순천향 아이유' 오재은 등장에 박명수-전현무 화들짝…미모의 전공의 출격 (사당귀)",
-    "link": "https://news.nate.com/view/20260517n19037",
-    "pubDate": "Fri, 29 May 2026 05:43:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/iz/2026/05/17/6b687720-b481-455a-bf85-6fa41de5cbc9.jpg"
-  },
-  {
     "title": "아이유, 어린이날 1억→오늘(16일) 생일 맞아 3억 기부",
     "link": "https://news.nate.com/view/20260516n13631",
     "pubDate": "Fri, 29 May 2026 05:29:00 GMT",
@@ -102,6 +94,14 @@
     "source": "iMBC 연예",
     "domain": "enews.imbc.com",
     "thumb": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/05/28/443f8c8f-62a4-4966-a1c6-f8fd6ad5372a.jpg"
+  },
+  {
+    "title": "홍성윤, “서울예대 아이유였다” 훈남 선배와 재회한 이유",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16073827",
+    "pubDate": "Thu, 28 May 2026 04:08:45 GMT",
+    "source": "톱스타뉴스",
+    "domain": "topstarnews.net",
+    "thumb": "https://cdn.topstarnews.net/news/photo/202605/16073827_1931412_838_crop.jpg"
   },
   {
     "title": "\"아이유·장원영 나와도 안봤는데\"…김선태가 찍은 광고에 열광하는 이유",
@@ -152,14 +152,6 @@
     "thumb": "https://isplus.com/data/isp/image/2026/05/26/isp20260526000069.800x.0.jpg"
   },
   {
-    "title": "아이유·변우석 ‘대군부인’ 국회로 회부···“폐기하라” 청원 5만 달성",
-    "link": "https://sports.khan.co.kr/article/202605260925003",
-    "pubDate": "Tue, 26 May 2026 00:25:00 GMT",
-    "source": "스포츠경향",
-    "domain": "sports.khan.co.kr",
-    "thumb": null
-  },
-  {
     "title": "가수도 배우도 정상… 아이유가 만든 ‘가장 한국적인 글로벌 성공’",
     "link": "https://www.newscj.com/news/articleView.html?idxno=3403606",
     "pubDate": "Sun, 24 May 2026 23:46:22 GMT",
@@ -182,6 +174,14 @@
     "source": "뉴스1",
     "domain": "news1.kr",
     "thumb": "https://i3n.news1.kr/system/photos/2026/5/21/7917553/high.jpg"
+  },
+  {
+    "title": "아이유·변우석 이어 ‘대군부인’ 작가도 사과 “자료조사·고증 부족해 죄송”",
+    "link": "https://www.chosun.com/culture-life/k-culture/2026/05/19/BCJZEH7GTVDCFEUKRNHKDU5F7U/",
+    "pubDate": "Tue, 19 May 2026 07:00:00 GMT",
+    "source": "조선일보",
+    "domain": "chosun.com",
+    "thumb": "https://www.chosun.com/resizer/v2/7JUYPCWPMJPGBDOVDANAWPLU7A.jpg?auth=f98d5420631da27d457cd777adfc867c1fb5567b548791464dd5df391f12b0fb&amp;width=1200&amp;height=630&amp;smart=true"
   },
   {
     "title": "서경덕 교수, 아이유·변우석 ‘대군부인’ 강력 비판···“중국 동북공정 빌미 제공”",
@@ -240,20 +240,28 @@
     "thumb": "https://cdn.mediatoday.co.kr/news/thumbnail/202605/334510_478765_146_v150.jpg"
   },
   {
+    "title": "사과는 배우 몫, 책임은 나몰라라? 아이유·변우석 뒤에 숨은 작가 [신영은의 만화경] - 스타투데이",
+    "link": "https://www.mk.co.kr/news/broadcasting-service/12051096",
+    "pubDate": "Mon, 18 May 2026 07:00:00 GMT",
+    "source": "매일경제",
+    "domain": "mk.co.kr",
+    "thumb": "https://pimg.mk.co.kr/news/cms/202605/18/news-p.v1.20260518.e9893ff599e84edb8ea3abd21de15627_R.png"
+  },
+  {
+    "title": "'동북공정' 논란...'대군부인' 아이유 \"변명의 여지 없어, 사과드린다\" - 머니투데이",
+    "link": "https://www.mt.co.kr/society/2026/05/18/2026051814525817956",
+    "pubDate": "Mon, 18 May 2026 07:00:00 GMT",
+    "source": "머니투데이",
+    "domain": "mt.co.kr",
+    "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=834,fit=cover,bg=whilte,f=auto,quality=high,sharpen=2,g=face/21/2026/05/2026051814525817956_1.jpg"
+  },
+  {
     "title": "‘21세기 대군부인’ 역사왜곡 논란에 아이유도 입 열었다 [소셜픽]",
     "link": "https://news.jtbc.co.kr/article/NB12298695",
     "pubDate": "Mon, 18 May 2026 07:00:00 GMT",
     "source": "JTBC",
     "domain": "news.jtbc.co.kr",
     "thumb": "https://thumb.jtbc.co.kr/photo/r600x0/news/cms/etc/2026/05/18/20260518080735848001.jpg"
-  },
-  {
-    "title": "‘21세기 대군부인’ 역사 왜곡 논란, 변우석·아이유 사과문에 중국 동북공정 의혹까지 번진 이유는? 😮‍💨📺",
-    "link": "https://newneek.co/@newneek/article/40674",
-    "pubDate": "Mon, 18 May 2026 07:00:00 GMT",
-    "source": "뉴닉",
-    "domain": "newneek.co",
-    "thumb": "https://d2phebdq64jyfk.cloudfront.net/media/article/87f3f306fbca452db1f301e20f9108d9.jpg"
   },
   {
     "title": "변우석·아이유 '대군부인' 역사왜곡 논란에 사과 \"부끄러워\"",
@@ -280,20 +288,20 @@
     "thumb": "https://pimg.mk.co.kr/news/cms/202605/17/news-p.v1.20260517.26adaea59e684c309d7dd733b8938926_R.jpg"
   },
   {
-    "title": "아이유, ‘대군부인’ 논란에 “제 잘못, 더 노력하겠다”",
-    "link": "https://www.chosun.com/culture-life/k-culture/2026/05/17/DZST7QGPXVDYFDAEUA4W4GMFH4/",
-    "pubDate": "Sun, 17 May 2026 07:00:00 GMT",
-    "source": "조선일보",
-    "domain": "chosun.com",
-    "thumb": "https://www.chosun.com/resizer/v2/IR7QCMIN2VLP7CIVZRONICYRMI.jpg?auth=6e2ae48583ce1a418edfff7dd8c849ed0c103f96fffa6ee596a2aa2e6773948e&amp;width=1200&amp;height=630&amp;focal=918,598"
-  },
-  {
     "title": "‘21세기 대군부인’ 역사 왜곡 논란 속 종영…아이유 “다 제 잘못”",
     "link": "https://www.joongang.co.kr/article/25428996",
     "pubDate": "Sun, 17 May 2026 07:00:00 GMT",
     "source": "중앙일보",
     "domain": "joongang.co.kr",
     "thumb": "https://pds.joongang.co.kr/news/FbMetaImage/202605/d8e0d924-2677-4dbe-805a-2f19e750b393.jpg"
+  },
+  {
+    "title": "아이유, ‘대군부인’ 논란에 “제 잘못, 더 노력하겠다”",
+    "link": "https://www.chosun.com/culture-life/k-culture/2026/05/17/DZST7QGPXVDYFDAEUA4W4GMFH4/",
+    "pubDate": "Sun, 17 May 2026 07:00:00 GMT",
+    "source": "조선일보",
+    "domain": "chosun.com",
+    "thumb": "https://www.chosun.com/resizer/v2/IR7QCMIN2VLP7CIVZRONICYRMI.jpg?auth=6e2ae48583ce1a418edfff7dd8c849ed0c103f96fffa6ee596a2aa2e6773948e&amp;width=1200&amp;height=630&amp;focal=918,598"
   },
   {
     "title": "아이유, ♥이종석과 4년째 열애 또 소신발언..\"사랑은 알아주길 바라는게 아냐\" [핫피플]",
@@ -310,13 +318,5 @@
     "source": "경향신문",
     "domain": "khan.co.kr",
     "thumb": "https://img.khan.co.kr/news/2026/05/06/news-p.v1.20260506.74434d11d5ca414b8e4d96f45ff3f02c_P1.jpg"
-  },
-  {
-    "title": "아이유, 어린이날 맞아 1억원 기부",
-    "link": "https://www.yna.co.kr/view/AKR20260505036400005",
-    "pubDate": "Tue, 05 May 2026 07:00:00 GMT",
-    "source": "연합뉴스",
-    "domain": "yna.co.kr",
-    "thumb": "https://img6.yna.co.kr/etc/inner/KR/2026/05/05/AKR20260505036400005_01_i_P4.jpg"
   }
 ]
