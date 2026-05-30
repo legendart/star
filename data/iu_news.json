@@ -64,36 +64,20 @@
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/iz/2026/05/18/1a8d1931-3bd9-4127-a548-6e174c400b2e.jpg"
   },
   {
-    "title": "아이유, '21세기 대군부인' 종영 후 눈물의 팬미팅…\"더 책임감 갖고 보답할 것\" 진심 전했다",
-    "link": "https://news.nate.com/view/20260518n36980",
-    "pubDate": "Fri, 29 May 2026 05:50:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/iz/2026/05/18/5ec6a693-7aab-4c2d-9b08-4a0b5887dc10.jpg"
-  },
-  {
-    "title": "MBC '21세기 대군부인' 아이유♥변우석, 찐 해피엔딩…자체 최고 기록으로 마무리",
-    "link": "https://news.nate.com/view/20260517n19088",
-    "pubDate": "Fri, 29 May 2026 05:46:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/iz/2026/05/17/80da82cf-0343-4aa3-9b31-7eb8eddc913f.jpg"
-  },
-  {
-    "title": "MBC '21세기 대군부인' 변우석, 군주제 완료 선포…♥아이유와 키스 엔딩",
-    "link": "https://news.nate.com/view/20260517n19046",
-    "pubDate": "Fri, 29 May 2026 05:43:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/iz/2026/05/17/b164c08b-9324-40dc-ab04-55a488043c87.jpg"
-  },
-  {
     "title": "\"아이유·장원영 나와도 안봤는데\"…김선태가 찍은 광고에 열광하는 이유",
     "link": "https://www.hankookilbo.com/news/article/A2026051919570005446",
     "pubDate": "Wed, 27 May 2026 01:01:04 GMT",
     "source": "한국일보",
     "domain": "hankookilbo.com",
     "thumb": "https://www.hankookilbo.com/public-image/og/article/article_premium_og_1200x630.jpg"
+  },
+  {
+    "title": "아이유·변우석 '대군부인' 폐기 청원, 닷새만 5만 돌파→국회 회부 [스타이슈]",
+    "link": "https://www.starnewskorea.com/broadcast-drama/2026/05/26/2026052613291840106",
+    "pubDate": "Tue, 26 May 2026 04:48:33 GMT",
+    "source": "starnewskorea.com",
+    "domain": "starnewskorea.com",
+    "thumb": "https://image.starnewskorea.com/21/2026/05/2026052613291840106_1.jpg"
   },
   {
     "title": "아이유·변우석 사과에도…＂드라마 폐기해야＂",
@@ -192,14 +176,6 @@
     "thumb": "https://thumb.jtbc.co.kr/photo/r600x0/news/cms/etc/2026/05/18/20260518080735848001.jpg"
   },
   {
-    "title": "변우석·아이유 “역사 고민 부족했다” 사과문…고개 숙인 대군 부부",
-    "link": "https://www.hani.co.kr/arti/society/society_general/1259194.html",
-    "pubDate": "Mon, 18 May 2026 07:00:00 GMT",
-    "source": "한겨레",
-    "domain": "hani.co.kr",
-    "thumb": "https://flexible.img.hani.co.kr/flexible/normal/897/538/imgdb/child/2026/0518/53_17790875082104_20260518502497.webp"
-  },
-  {
     "title": "아이유, '대군부인' 역사왜곡 사과 \"스스로가 부끄러워\"",
     "link": "https://www.newsis.com/view/NISX20260518_0003634236",
     "pubDate": "Mon, 18 May 2026 07:00:00 GMT",
@@ -208,12 +184,20 @@
     "thumb": "https://img1.newsis.com/2026/05/16/NISI20260516_0002137294_web.jpg"
   },
   {
-    "title": "천세·면류관 논란 속 '대군부인' 종영…아이유 '내 잘못\" 눈물",
-    "link": "https://www.news1.kr/entertain/celebrity-topic/6169446",
+    "title": "‘21세기 대군부인’ 역사왜곡 논란에 아이유·변우석 공식 사과",
+    "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=334510",
     "pubDate": "Mon, 18 May 2026 07:00:00 GMT",
-    "source": "뉴스1",
-    "domain": "news1.kr",
-    "thumb": "https://i3n.news1.kr/system/photos/2026/4/6/7839902/high.jpg"
+    "source": "미디어오늘",
+    "domain": "mediatoday.co.kr",
+    "thumb": "https://cdn.mediatoday.co.kr/news/thumbnail/202605/334510_478765_146_v150.jpg"
+  },
+  {
+    "title": "변우석·아이유 “역사 고민 부족했다” 사과문…고개 숙인 대군 부부",
+    "link": "https://www.hani.co.kr/arti/society/society_general/1259194.html",
+    "pubDate": "Mon, 18 May 2026 07:00:00 GMT",
+    "source": "한겨레",
+    "domain": "hani.co.kr",
+    "thumb": "https://flexible.img.hani.co.kr/flexible/normal/897/538/imgdb/child/2026/0518/53_17790875082104_20260518502497.webp"
   },
   {
     "title": "“스스로 부끄러워”···‘대군부인’ 역사 왜곡 논란에 변우석·아이유 입 열었다",
@@ -224,12 +208,12 @@
     "thumb": "https://img.khan.co.kr/news/2026/05/18/news-p.v1.20260518.bbd96dfa775c4fc5ae3104f43700898f_P1.jpg"
   },
   {
-    "title": "‘21세기 대군부인’ 역사왜곡 논란에 아이유·변우석 공식 사과",
-    "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=334510",
+    "title": "사과는 배우 몫, 책임은 나몰라라? 아이유·변우석 뒤에 숨은 작가 [신영은의 만화경] - 스타투데이",
+    "link": "https://www.mk.co.kr/news/broadcasting-service/12051096",
     "pubDate": "Mon, 18 May 2026 07:00:00 GMT",
-    "source": "미디어오늘",
-    "domain": "mediatoday.co.kr",
-    "thumb": "https://cdn.mediatoday.co.kr/news/thumbnail/202605/334510_478765_146_v150.jpg"
+    "source": "매일경제",
+    "domain": "mk.co.kr",
+    "thumb": "https://pimg.mk.co.kr/news/cms/202605/18/news-p.v1.20260518.e9893ff599e84edb8ea3abd21de15627_R.png"
   },
   {
     "title": "변우석·아이유 '대군부인' 역사왜곡 논란에 사과 \"부끄러워\"",
@@ -248,20 +232,20 @@
     "thumb": "http://file.osen.co.kr/article_thumb/2026/05/17/202605172240774950_6a09ca9b462c3_300x.jpg"
   },
   {
-    "title": "역사 왜곡 논란 속 종영한 ‘대군부인’…아이유 “미흡한 모습 제 잘못”",
-    "link": "https://www.khan.co.kr/article/202605171706001",
-    "pubDate": "Sun, 17 May 2026 07:00:00 GMT",
-    "source": "경향신문",
-    "domain": "khan.co.kr",
-    "thumb": "https://img.khan.co.kr/news/2026/05/17/news-p.v1.20260517.3201590e3e2b4939a00fe339c51b11f6_P1.jpg"
-  },
-  {
     "title": "아이유, ‘대군부인’ 논란에 “제 잘못, 더 노력하겠다”",
     "link": "https://www.chosun.com/culture-life/k-culture/2026/05/17/DZST7QGPXVDYFDAEUA4W4GMFH4/",
     "pubDate": "Sun, 17 May 2026 07:00:00 GMT",
     "source": "조선일보",
     "domain": "chosun.com",
     "thumb": "https://www.chosun.com/resizer/v2/IR7QCMIN2VLP7CIVZRONICYRMI.jpg?auth=6e2ae48583ce1a418edfff7dd8c849ed0c103f96fffa6ee596a2aa2e6773948e&amp;width=1200&amp;height=630&amp;focal=918,598"
+  },
+  {
+    "title": "역사 왜곡 논란 속 종영한 ‘대군부인’…아이유 “미흡한 모습 제 잘못”",
+    "link": "https://www.khan.co.kr/article/202605171706001",
+    "pubDate": "Sun, 17 May 2026 07:00:00 GMT",
+    "source": "경향신문",
+    "domain": "khan.co.kr",
+    "thumb": "https://img.khan.co.kr/news/2026/05/17/news-p.v1.20260517.3201590e3e2b4939a00fe339c51b11f6_P1.jpg"
   },
   {
     "title": "“더 잘하지 못한 제 잘못”…아이유, ‘21세기 대군부인’ 논란 눈물로 사과",
@@ -302,6 +286,22 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/12/bntnews/20260512064648502mhgj.jpg"
+  },
+  {
+    "title": "아이유, 비녀 꽂은 대군부인",
+    "link": "https://www.news1.kr/photos/7899429",
+    "pubDate": "Mon, 11 May 2026 07:00:00 GMT",
+    "source": "뉴스1",
+    "domain": "news1.kr",
+    "thumb": "https://image.news1.kr/system/photos/2026/5/11/7899429/high.jpg"
+  },
+  {
+    "title": "아이유, '대군부인' 배우·스태프에 플렉스..이연 \"집에 선물 가득\"",
+    "link": "https://v.daum.net/v/20260508154104567",
+    "pubDate": "Fri, 08 May 2026 07:00:00 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/08/starnews/20260508154106075chxt.jpg"
   },
   {
     "title": "아이유·변우석 ‘21세기 대군부인’ 촬영지, ‘도깨비’ 공유의 그 집이었어?",
