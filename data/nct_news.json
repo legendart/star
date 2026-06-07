@@ -24,12 +24,20 @@
     "thumb": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/06/07/fbeae32d-7658-4c8b-9b35-69206ab9d63d.jpg"
   },
   {
-    "title": "공명 “군 복무 중인 친동생 NCT 도영이 차 사줬다” 유재석도 깜짝(핑계고)",
-    "link": "https://m.newsen.com/news_view.php?uid=202606061359092510",
-    "pubDate": "Sat, 06 Jun 2026 05:29:28 GMT",
-    "source": "newsen.com",
-    "domain": "m.newsen.com",
-    "thumb": null
+    "title": "공명 \"친동생 NCT 도영, 우리집 회장님… 생일에 차 선물 받았다\"",
+    "link": "https://www.hankookilbo.com/news/article/A2026060615130000244",
+    "pubDate": "Sat, 06 Jun 2026 07:04:00 GMT",
+    "source": "한국일보",
+    "domain": "hankookilbo.com",
+    "thumb": "https://newsimg.hankookilbo.com/2026/06/06/a477d2d6-5f0c-4879-9bcd-e19052e62d70.png"
+  },
+  {
+    "title": "'핑계고' 공명 \"동생 NCT 도영, 군대에 있는데 생일선물로 차 사줘\"",
+    "link": "https://www.news1.kr/entertain/celebrity-topic/6189381",
+    "pubDate": "Sat, 06 Jun 2026 04:46:19 GMT",
+    "source": "뉴스1",
+    "domain": "news1.kr",
+    "thumb": "https://i3n.news1.kr/system/photos/2026/6/6/7945649/high.jpg"
   },
   {
     "title": "공명, ‘친동생’ NCT 도영에 차 선물 받았다..“저희 집 회장님, 강원도로 모닝 인사” (‘핑계고’)",
@@ -38,14 +46,6 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/06/poctan/20260606130507856fogs.jpg"
-  },
-  {
-    "title": "공명 \"군대 간 친동생 NCT도영, 내 생일에 자동차 선물\"...특급 우애 자랑 [RE:뷰]",
-    "link": "https://v.daum.net/v/20260606115916276",
-    "pubDate": "Sat, 06 Jun 2026 02:59:16 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/06/tvreport/20260606115919636glqv.jpg"
   },
   {
     "title": "\"동생 NCT 도영이 차 사줬다\"…공명, '집안 통장 서열 1위' 스케일에 유재석도 기절초풍",
@@ -224,6 +224,14 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/04/nocut/20260604114211836mtww.jpg"
   },
   {
+    "title": "'NCT 탈퇴' 마크, 새 챕터 예고…아티스트 넘어 공동 대표로 '어퍼룸' 설립 - 조선비즈",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/06/04/GM4TIZBSGMYTMNJXMVSWIMTGGM/",
+    "pubDate": "Thu, 04 Jun 2026 02:42:00 GMT",
+    "source": "Chosunbiz",
+    "domain": "biz.chosun.com",
+    "thumb": "https://biz.chosun.com/resizer/v2/GE2DOMTFGAZWGZJUGQYWMYRSGQ.jpg?auth=6b547ff54010bf0bac2dac21eefe57ab1a8fd06f865662b7c39384127ffcb139&amp;width=900&amp;height=472&amp;smart=true"
+  },
+  {
     "title": "NCT 탈퇴 마크, 1인 기획사 어퍼룸 설립…독자 행보 예고",
     "link": "https://isplus.com/article/view/isp202606040052",
     "pubDate": "Thu, 04 Jun 2026 02:34:00 GMT",
@@ -296,20 +304,12 @@
     "thumb": "https://cdn.spotvnews.co.kr/news/thumbnail/202606/820384_1343824_5122_v150.jpg"
   },
   {
-    "title": "NCT WISH The 1st Album ‘Ode to Love’ 발매 기념 ‘VIDEO CALL EVENT’ – 5/29(금) 점프업이엔티",
-    "link": "https://weverse.io/nctwish/notice/36135",
-    "pubDate": "Mon, 25 May 2026 10:08:38 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
-  },
-  {
-    "title": "NCT WISH The 1st Album ‘Ode to Love’ 발매 기념 사인회 – 5/25(월) 뮤직아트",
-    "link": "https://weverse.io/nctwish/notice/35976",
-    "pubDate": "Mon, 25 May 2026 07:00:00 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
+    "title": "‘은밀한 감사’ 공명 “동생 NCT 도영, 입대 2주 전 OST 불러”",
+    "link": "https://news.jtbc.co.kr/article/NB12300935",
+    "pubDate": "Mon, 01 Jun 2026 09:40:00 GMT",
+    "source": "JTBC",
+    "domain": "news.jtbc.co.kr",
+    "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202606/01/a03d6274-9598-462d-8ec3-5c8097d60523.jpg"
   },
   {
     "title": "NCT 10TH ANNIVERSARY [NCT 2026] POP UP : NEO GROUND VISITOR GUIDE NOTICE",
