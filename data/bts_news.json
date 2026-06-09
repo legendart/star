@@ -1,5 +1,101 @@
 [
   {
+    "title": "\"사랑해요 BTS\"",
+    "link": "https://www.news1.kr/photos/7950327",
+    "pubDate": "Tue, 09 Jun 2026 06:41:28 GMT",
+    "source": "뉴스1",
+    "domain": "news1.kr",
+    "thumb": "https://image.news1.kr/system/photos/2026/6/9/7950327/high.jpg"
+  },
+  {
+    "title": "\"별 거지 같은\"…일본 BTS팬 문의에 욕설 날리고 예약 취소한 부산 호텔",
+    "link": "https://www.yonhapnewstv.co.kr/news/AKR202606091534013Ob",
+    "pubDate": "Tue, 09 Jun 2026 06:34:03 GMT",
+    "source": "연합뉴스TV",
+    "domain": "yonhapnewstv.co.kr",
+    "thumb": "https://media.yonhapnewstv.co.kr/article/AKR/20260609/AKR202606091534013Ob_01_i.jpg"
+  },
+  {
+    "title": "일본인 BTS 팬 문의에 욕설 응대한 숙소…부산시 \"경위 파악중\"",
+    "link": "https://v.daum.net/v/20260609153252864",
+    "pubDate": "Tue, 09 Jun 2026 06:32:52 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/09/yonhap/20260609153252895eskg.jpg"
+  },
+  {
+    "title": "BTS, 관광도시 부산 깨우다",
+    "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260608010002502",
+    "pubDate": "Tue, 09 Jun 2026 06:32:13 GMT",
+    "source": "아시아투데이",
+    "domain": "asiatoday.co.kr",
+    "thumb": "https://img.asiatoday.co.kr/file/2026y/06m/10d/2026060801000472400025021.jpg"
+  },
+  {
+    "title": "부산시, BTS 공연 특수 ‘빅세일 주간’ 운영",
+    "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1063816",
+    "pubDate": "Tue, 09 Jun 2026 06:21:30 GMT",
+    "source": "울산매일",
+    "domain": "iusm.co.kr",
+    "thumb": "https://cdn.iusm.co.kr/news/thumbnail/202606/1063816_622446_2505_v150.jpg"
+  },
+  {
+    "title": "롯데면세점, BTS 참여 식품 브랜드 '아리' 면세업계 단독 판매",
+    "link": "https://www.etnews.com/20260609000302",
+    "pubDate": "Tue, 09 Jun 2026 05:50:51 GMT",
+    "source": "전자신문",
+    "domain": "etnews.com",
+    "thumb": "https://img.etnews.com/news/article/2026/06/09/news-p.v1.20260609.9213cf8aedda4f95adb299c5f4333e40_P1.jpg"
+  },
+  {
+    "title": "부산이 보라색으로 물드는 이유… 유통업계가 BTS에 거는 기대",
+    "link": "http://www.newsian.co.kr/news/articleView.html?idxno=90700",
+    "pubDate": "Tue, 09 Jun 2026 05:42:29 GMT",
+    "source": "뉴시안",
+    "domain": "newsian.co.kr",
+    "thumb": "https://cdn.newsian.co.kr/news/thumbnail/202606/90700_83477_368_v150.jpg"
+  },
+  {
+    "title": "BTS 부산 공연 D-3'..“바가지 숙박 요금 반드시 잡는다”",
+    "link": "https://www.datasom.co.kr/news/articleView.html?idxno=208841",
+    "pubDate": "Tue, 09 Jun 2026 04:30:32 GMT",
+    "source": "데이터솜",
+    "domain": "datasom.co.kr",
+    "thumb": "https://cdn.datasom.co.kr/news/thumbnail/202606/208841_38192_253_v150.jpg"
+  },
+  {
+    "title": "日 관광객 문의에 “별 거지 같은 XXX”…BTS 콘서트 앞두고 ‘예약 강제 취소’한 부산 숙소",
+    "link": "https://www.seoul.co.kr/news/society/2026/06/09/20260609500106",
+    "pubDate": "Tue, 09 Jun 2026 03:24:54 GMT",
+    "source": "서울신문",
+    "domain": "seoul.co.kr",
+    "thumb": "https://img.seoul.co.kr//img/upload/2026/06/09/SSC_20260609122453_O2.jpg"
+  },
+  {
+    "title": "BTS 신곡 'KEEP SWIMMING' 적힌 모래 작품",
+    "link": "https://www.yna.co.kr/amp/view/PYH20260609114100051",
+    "pubDate": "Tue, 09 Jun 2026 03:04:37 GMT",
+    "source": "연합뉴스",
+    "domain": "yna.co.kr",
+    "thumb": "https://img4.yna.co.kr/photo/yna/YH/2026/06/09/PYH2026060911410005100_P4.jpg"
+  },
+  {
+    "title": "10만 '아미' 맞는 부산…도시 전체가 BTS 축제장 준비",
+    "link": "https://www.jayupress.com/news/articleView.html?idxno=51488",
+    "pubDate": "Tue, 09 Jun 2026 02:57:12 GMT",
+    "source": "자유일보",
+    "domain": "jayupress.com",
+    "thumb": "https://cdn.jayupress.com/news/photo/202606/51488_66863_5506.jpg"
+  },
+  {
+    "title": "롯데면세점, BTS 참여 식음료 브랜드 아리 판매",
+    "link": "https://www.busan.com/view/busan/view.php?code=2026060911372153830",
+    "pubDate": "Tue, 09 Jun 2026 02:38:10 GMT",
+    "source": "부산일보",
+    "domain": "busan.com",
+    "thumb": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/06/09/2026060911325104399_l.jpg"
+  },
+  {
     "title": "곽규택 \"천마산 전망대, BTS 전망대로 특화하자\"",
     "link": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260609.99099002293",
     "pubDate": "Tue, 09 Jun 2026 02:36:00 GMT",
@@ -45,23 +141,7 @@
     "pubDate": "Tue, 09 Jun 2026 01:52:45 GMT",
     "source": "부산일보",
     "domain": "busan.com",
-    "thumb": null
-  },
-  {
-    "title": "'BTS 부산 공연' 공공숙박 26곳 1,771명 확보…홈스테이 21가구 46명 매칭",
-    "link": "http://news.lghellovision.net/news/articleView.html?idxno=545022",
-    "pubDate": "Tue, 09 Jun 2026 01:46:35 GMT",
-    "source": "LG헬로비전",
-    "domain": "news.lghellovision.net",
-    "thumb": "https://cdn.news.lghellovision.net/news/thumbnail/202606/545022_179990_4419_v150.jpg"
-  },
-  {
-    "title": "경찰, BTS 공연 대비 현장 경찰관 역량강화 자료 제작",
-    "link": "https://www.fnnews.com/news/202606091032046678",
-    "pubDate": "Tue, 09 Jun 2026 01:40:36 GMT",
-    "source": "파이낸셜뉴스",
-    "domain": "fnnews.com",
-    "thumb": "https://image.fnnews.com/resource/media/image/2026/06/09/202606091038094950_l.png"
+    "thumb": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/04/13/2026041317240563947_l.jpg"
   },
   {
     "title": "BTS 공연 인파사고 막는다… 부산경찰 플래시 카드 배포",
@@ -70,14 +150,6 @@
     "source": "BBS불교방송",
     "domain": "news.bbsi.co.kr",
     "thumb": "https://cdn.news.bbsi.co.kr/news/thumbnail/202606/4088072_736971_292_v150.jpg"
-  },
-  {
-    "title": "부산경찰청, BTS 부산 공연 앞두고 ‘재난위험경감 체계’ 가동",
-    "link": "https://www.wbcb.co.kr/news/articleView.html?idxno=103095",
-    "pubDate": "Tue, 09 Jun 2026 01:27:27 GMT",
-    "source": "복지TV부울경방송",
-    "domain": "wbcb.co.kr",
-    "thumb": "https://cdn.wbcb.co.kr/news/thumbnail/202606/103095_131654_2524_v150.jpg"
   },
   {
     "title": "\"BTS 부산 온다\" … 10만 아미에 호텔·편의점·백화점까지 들썩",
@@ -104,14 +176,6 @@
     "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/06/2026060908553241828_1.jpg"
   },
   {
-    "title": "BTS 효과 통했다…4월 방한객 소비 1조3000억원 돌파 ‘역대 최고’",
-    "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=236122",
-    "pubDate": "Tue, 09 Jun 2026 00:51:51 GMT",
-    "source": "이지경제",
-    "domain": "ezyeconomy.com",
-    "thumb": "https://cdn.ezyeconomy.com/news/thumbnail/202606/236122_137532_4413_v150.jpg"
-  },
-  {
     "title": "hy·팔도, BTS 협업 브랜드 '아리' … 롯데면세점·월마트 등 국내외 공략 본격화",
     "link": "https://biz.newdaily.co.kr/site/data/html/2026/06/09/2026060900064.html",
     "pubDate": "Tue, 09 Jun 2026 00:51:33 GMT",
@@ -128,20 +192,20 @@
     "thumb": "https://img.khan.co.kr/news/2026/06/09/news-p.v1.20260609.e62b6bddea1a4f4f823410263ffef1f2_P1.png"
   },
   {
-    "title": "코리아넷뉴스 - 해외 학생들, BTS·K-드라마로 한국어 배운다",
-    "link": "https://www.korean-culture.org/koreanet/view.do?seq=1054677&page=1&pageSize=10&photoPageSize=6&totalCount=0&searchType=null&searchText=&searchCondition=1&cateCode=",
-    "pubDate": "Tue, 09 Jun 2026 00:45:06 GMT",
-    "source": "문화체육관광부 한국문화원",
-    "domain": "korean-culture.org",
-    "thumb": null
+    "title": "BTS 부산 공연에 숙소 내준 찜질방…'공정 숙박' 확산",
+    "link": "https://v.daum.net/v/5i2xtrrNDW",
+    "pubDate": "Tue, 09 Jun 2026 00:46:35 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/09/mbn/20260609094636704gplw.jpg"
   },
   {
-    "title": "BTS 공연 연계 '부산 빅세일 주간' 운영",
-    "link": "https://news.skbroadband.com/news/articleView.html?idxno=228904",
-    "pubDate": "Tue, 09 Jun 2026 00:42:12 GMT",
-    "source": "B world",
-    "domain": "news.skbroadband.com",
-    "thumb": "https://cdn.news.skbroadband.com/news/photo/202606/228904_233493_415.jpg"
+    "title": "BTS 온다, 그놈도 온다… 부산, 바가지요금과의 전쟁",
+    "link": "https://www.asiae.co.kr/article/2026060909350729462",
+    "pubDate": "Tue, 09 Jun 2026 00:35:07 GMT",
+    "source": "아시아경제",
+    "domain": "asiae.co.kr",
+    "thumb": "https://cphoto.asiae.co.kr/listimglink/1/2026060909312092460_1780965080.jpg"
   },
   {
     "title": "곽규택 의원 \"천마산 복합전망대를 'BTS 전망대'로 특화\" 제안",
@@ -150,6 +214,14 @@
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img0.yna.co.kr/etc/inner/KR/2026/06/09/AKR20260609046600051_01_i_P4.jpg"
+  },
+  {
+    "title": "\"별 거지같은 XXX이\"⋯부산 숙박업소, BTS 일본 팬에 욕설 응대 논란",
+    "link": "https://www.inews24.com/view/1974912",
+    "pubDate": "Tue, 09 Jun 2026 00:25:48 GMT",
+    "source": "아이뉴스24",
+    "domain": "inews24.com",
+    "thumb": "https://image.inews24.com/v1/4b008add13404e.jpg"
   },
   {
     "title": "李 “BTS 콘서트 예정 벨기에, 미래 세대 잇는 협력 깊어질 것”",
@@ -184,20 +256,20 @@
     "thumb": null
   },
   {
+    "title": "부산시, BTS 공연 맞춰 부산 전역 '빅세일'… 지역경제 활성화 총력",
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202606081731159320526",
+    "pubDate": "Mon, 08 Jun 2026 23:49:20 GMT",
+    "source": "대한경제",
+    "domain": "dnews.co.kr",
+    "thumb": "https://image.dnews.co.kr/photo/photo/2026/06/08/202606081731159320526-2-670042.png"
+  },
+  {
     "title": "면세점서도 BTS 푸드 판다…롯데免, 팔도·hy '아리' 출시",
     "link": "https://www.news1.kr/industry/distribution/6191395",
     "pubDate": "Mon, 08 Jun 2026 23:36:29 GMT",
     "source": "뉴스1",
     "domain": "news1.kr",
     "thumb": "https://i3n.news1.kr/system/photos/2026/6/9/7948981/high.jpg"
-  },
-  {
-    "title": "여성소비자신문 모바일 사이트, 삼성전자-CGV, BTS 부산 공연 팬 맞춤 프로그램 운영",
-    "link": "http://www.wsobi.com/news/articleView.html?idxno=313308",
-    "pubDate": "Mon, 08 Jun 2026 23:13:18 GMT",
-    "source": "통신일보",
-    "domain": "wsobi.com",
-    "thumb": "http://www.wsobi.com/news/photo/202606/313308_187367_5138.jpg"
   },
   {
     "title": "‘BTS 효과’…4월 방한객 소비액 1조3000억원 ‘역대 최대’",
@@ -214,30 +286,6 @@
     "source": "KBS 뉴스",
     "domain": "news.kbs.co.kr",
     "thumb": "http://news.kbs.co.kr/data/news/title_image/newsmp4/busan/newsplaza/2026/06/09/90_8581272.jpg"
-  },
-  {
-    "title": "BTS 돌아오자 4월 방한객 소비 1.3조원 ‘역대 최대’…전년보다 54.6% 급증",
-    "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=60205",
-    "pubDate": "Mon, 08 Jun 2026 22:33:55 GMT",
-    "source": "뉴스로드",
-    "domain": "newsroad.co.kr",
-    "thumb": "https://cdn.newsroad.co.kr/news/thumbnail/202606/60205_80996_3324_v150.jpg"
-  },
-  {
-    "title": "'BTS 효과' 외국인 몰려들더니…'1조3000억 잭팟' 터졌다",
-    "link": "https://www.hankyung.com/article/2026060946037",
-    "pubDate": "Mon, 08 Jun 2026 22:29:55 GMT",
-    "source": "한국경제",
-    "domain": "hankyung.com",
-    "thumb": "https://img.hankyung.com/photo/202606/01.44580639.1.jpg"
-  },
-  {
-    "title": "BTS 공연 앞두고 바가지 논란…부산이 뭉쳤다",
-    "link": "https://v.daum.net/v/20260609053836734",
-    "pubDate": "Mon, 08 Jun 2026 20:38:36 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/09/newsy/20260609053836564dins.jpg"
   },
   {
     "title": "위버스 BTS Media - Jung Kook's NORMAL LOG #2026BTSFESTA",
@@ -264,59 +312,11 @@
     "thumb": "https://kcms.knn.co.kr/mam/data/CI2016123000000000006/CI2017072513315301673/2026/06/08/26060854960/catalog/10.jpg"
   },
   {
-    "title": "BTS OFFICIAL LIGHT STICK VER.4 펌웨어 업데이트 안내",
-    "link": "https://weverse.io/bts/notice/36536?hl=es",
-    "pubDate": "Mon, 08 Jun 2026 07:40:39 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
-  },
-  {
-    "title": "BTS, 3년 8개월 만 부산 공연…부산 글로벌 '핫플'로",
-    "link": "https://v.daum.net/v/20260608162658780",
-    "pubDate": "Mon, 08 Jun 2026 07:26:58 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/08/551750-8jup1yA/20260608162659655kmsb.jpg"
-  },
-  {
-    "title": "BTS 신곡·히트곡 총망라…데뷔 13주년 부산에서 `새 역사`",
-    "link": "https://www.busan.com/view/busan/view.php?code=2026060815034983785",
-    "pubDate": "Mon, 08 Jun 2026 07:26:37 GMT",
-    "source": "부산일보",
-    "domain": "busan.com",
-    "thumb": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/06/02/2026060215402409071_l.jpg"
-  },
-  {
-    "title": "“하이브 부산지부 인력사무소?”…BTS 콘서트 공무원 차출 논란 [잇슈#태그]",
-    "link": "https://v.daum.net/v/20260608140103200",
-    "pubDate": "Mon, 08 Jun 2026 05:01:03 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/08/kbs/20260608140105345xsoo.png"
-  },
-  {
     "title": "韓 틱톡 최다 '좋아요'..방탄소년단 뷔, 틱톡 '좋아요' 2000만개",
     "link": "https://www.starnewskorea.com/music/2026/06/08/2026060807350728578",
     "pubDate": "Sun, 07 Jun 2026 22:37:27 GMT",
     "source": "starnewskorea.com",
     "domain": "starnewskorea.com",
     "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=1599,fit=cover,q=high,sharpen=2/21/2026/06/2026060807350728578_1.jpg"
-  },
-  {
-    "title": "위버스 BTS Media - SUGA's NORMAL LOG #2026B",
-    "link": "https://weverse.io/bts/media/0-175674921?hl=ko",
-    "pubDate": "Sun, 07 Jun 2026 06:12:18 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
-  },
-  {
-    "title": "위버스 BTS Media - RM's NORMAL LOG #2026BTS",
-    "link": "https://weverse.io/bts/media/2-175691680?hl=ko",
-    "pubDate": "Sun, 07 Jun 2026 02:36:50 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
   }
 ]
