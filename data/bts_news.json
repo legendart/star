@@ -13,7 +13,7 @@
     "pubDate": "Tue, 09 Jun 2026 12:05:27 GMT",
     "source": "harpersbazaar.co.kr",
     "domain": "harpersbazaar.co.kr",
-    "thumb": null
+    "thumb": "https://www.harpersbazaar.co.kr/resources/online/thumbnail/hf/2026/06/09/96d0f58d-fbff-4e93-97dc-345b7f6da74c.jpg"
   },
   {
     "title": "부산, 12~13일 BTS 공연 앞두고 손님맞이 분주",
@@ -32,7 +32,7 @@
     "thumb": "https://wimg.kyeongin.com/news/cms/2026/06/09/news-p.v1.20260409.0d691110830246669428c9ff1ef8c42d_R.jpg"
   },
   {
-    "title": "`하이브 인력사무소냐`…BTS 부산공연, 공무원 900여명 차출 논란에 `철회`",
+    "title": "`하이브 인력사무소냐`…공무원 900여명, BTS 부산공연 차출 논란에 `철회`",
     "link": "https://www.imaeil.com/page/view/2026060920365847443",
     "pubDate": "Tue, 09 Jun 2026 11:37:08 GMT",
     "source": "매일신문",
@@ -48,14 +48,6 @@
     "thumb": "https://img.seoul.co.kr/img/upload/2026/06/09/SSC_20260609192808.jpg"
   },
   {
-    "title": "“BTS가 맞아주네요” 글로벌 아미 성지된 부산역",
-    "link": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260610.22002002435",
-    "pubDate": "Tue, 09 Jun 2026 10:21:00 GMT",
-    "source": "국제신문",
-    "domain": "kookje.co.kr",
-    "thumb": "https://db.kookje.co.kr/news2000/photo/2026/0610/L20260610.22002002435i1.jpg?0"
-  },
-  {
     "title": "BTS 부산 공연 앞 인천공항 ‘비상’…“외국인 입국 하루 1만명씩 늘어”",
     "link": "https://www.hani.co.kr/arti/area/capital/1262693.html",
     "pubDate": "Tue, 09 Jun 2026 10:07:00 GMT",
@@ -64,12 +56,12 @@
     "thumb": "https://flexible.img.hani.co.kr/flexible/normal/701/526/imgdb/original/2026/0609/20260609503149.webp"
   },
   {
-    "title": "\"아미 오세요\"..부산시민, BTS 공연 맞아 '홈스테이' 신청",
-    "link": "https://www.starnewskorea.com/music/2026/06/09/2026060918275511988",
-    "pubDate": "Tue, 09 Jun 2026 09:38:16 GMT",
-    "source": "starnewskorea.com",
-    "domain": "starnewskorea.com",
-    "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=656,fit=cover,q=high,sharpen=2/21/2026/06/2026060918275511988_1.jpg"
+    "title": "BTS 업고 미국 간 hy·팔도…'아리'로 해외서 新성공 방정식 쓸까",
+    "link": "https://v.daum.net/v/20260609175545465",
+    "pubDate": "Tue, 09 Jun 2026 08:55:45 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/09/552779-26fvic8/20260609175547507vucl.png"
   },
   {
     "title": "월마트 흥행 이어 한국 상륙…롯데免, BTS `아리` 단독 판매",
@@ -112,6 +104,14 @@
     "thumb": "https://cdn.kado.net/news/photo/202606/2054771_861504_0209.jpg"
   },
   {
+    "title": "\"별 거지같은 XXX\"…BTS 일본인 팬 문의에 욕설 응대",
+    "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008602147",
+    "pubDate": "Tue, 09 Jun 2026 08:00:00 GMT",
+    "source": "SBS 뉴스",
+    "domain": "news.sbs.co.kr",
+    "thumb": "https://img.sbs.co.kr/newimg/news/20260609/202191092_1280.jpg"
+  },
+  {
     "title": "“하이브 인력사무소냐”…BTS 부산 공연에 공무원 대규모 투입 논란",
     "link": "https://v.daum.net/v/20260609165742089",
     "pubDate": "Tue, 09 Jun 2026 07:57:42 GMT",
@@ -120,12 +120,20 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/09/donga/20260609165744006fehp.jpg"
   },
   {
-    "title": "BTS 부산공연에 공무원 차출 논란…부산시, 자원자 투입으로 선회",
+    "title": "BTS 부산공연에 공무원 차출 논란…시, 자원자 투입으로 선회",
     "link": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260609.99099002486",
     "pubDate": "Tue, 09 Jun 2026 07:49:00 GMT",
     "source": "국제신문",
     "domain": "kookje.co.kr",
-    "thumb": "https://db.kookje.co.kr/news2000/photo/2026/0609/L20260609.99099002486i1.jpg?6"
+    "thumb": "https://db.kookje.co.kr/news2000/photo/2026/0609/L20260609.99099002486i1.jpg?51"
+  },
+  {
+    "title": "BTS 일본인 팬 예약 문의에 \"거지 같은 XXX\" 욕설 응대한 부산 숙소",
+    "link": "https://www.ytn.co.kr/_ln/0103_202606091632421322",
+    "pubDate": "Tue, 09 Jun 2026 07:32:00 GMT",
+    "source": "YTN",
+    "domain": "ytn.co.kr",
+    "thumb": "https://image.ytn.co.kr/general/jpg/2026/0609/202606091632421322_t.jpg"
   },
   {
     "title": "“별 거지같은 XXX이 다있노”⋯BTS 日 팬 숙소 예약 문의에 욕설로 응대 논란",
@@ -160,6 +168,14 @@
     "thumb": "https://media.yonhapnewstv.co.kr/article/AKR/20260609/AKR202606091534013Ob_01_i.jpg"
   },
   {
+    "title": "BTS, 관광도시 부산 깨우다",
+    "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260608010002502",
+    "pubDate": "Tue, 09 Jun 2026 06:32:13 GMT",
+    "source": "아시아투데이",
+    "domain": "asiatoday.co.kr",
+    "thumb": "https://img.asiatoday.co.kr/file/2026y/06m/10d/2026060801000472400025021.jpg"
+  },
+  {
     "title": "일본인 BTS 팬 문의에 욕설 응대한 숙소…부산시 \"경위 파악중\"",
     "link": "https://www.yna.co.kr/view/AKR20260609127600051",
     "pubDate": "Tue, 09 Jun 2026 06:31:03 GMT",
@@ -168,28 +184,12 @@
     "thumb": "https://img6.yna.co.kr/etc/inner/KR/2026/06/09/AKR20260609127600051_01_i_P4.jpg"
   },
   {
-    "title": "“BTS 부산 공연 관람”…전 세계 팬 20여만명 인천공항 몰린다",
-    "link": "https://go.seoul.co.kr/news/newsView.php?id=20260609500177",
-    "pubDate": "Tue, 09 Jun 2026 06:17:44 GMT",
-    "source": "서울Pn",
-    "domain": "go.seoul.co.kr",
-    "thumb": "//imggo.seoul.co.kr/img/go_share.png"
-  },
-  {
     "title": "부산이 보라색으로 물드는 이유… 유통업계가 BTS에 거는 기대",
     "link": "http://www.newsian.co.kr/news/articleView.html?idxno=90700",
     "pubDate": "Tue, 09 Jun 2026 05:42:29 GMT",
     "source": "뉴시안",
     "domain": "newsian.co.kr",
     "thumb": "https://cdn.newsian.co.kr/news/thumbnail/202606/90700_83477_368_v150.jpg"
-  },
-  {
-    "title": "BTS 부산 콘서트 '공무원 차출' 논란 [스타이슈]",
-    "link": "https://www.starnewskorea.com/music/2026/06/09/2026060913371310819",
-    "pubDate": "Tue, 09 Jun 2026 04:56:35 GMT",
-    "source": "starnewskorea.com",
-    "domain": "starnewskorea.com",
-    "thumb": "https://image.starnewskorea.com/21/2026/06/2026060913371310819_1.jpg"
   },
   {
     "title": "BTS가 부른 10만 인파…부산이 들썩인다",
@@ -256,12 +256,12 @@
     "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/08/134069075.2.jpg"
   },
   {
-    "title": "BTS 공연 앞둔 부산시 \"바가지요금 강력 대응\"",
-    "link": "https://www.newsis.com/view/NISX20260609_0003661452",
-    "pubDate": "Tue, 09 Jun 2026 00:00:49 GMT",
-    "source": "뉴시스",
-    "domain": "newsis.com",
-    "thumb": "https://img1.newsis.com/2026/05/30/NISI20260530_0002148888_web.jpg"
+    "title": "‘BTS 효과’ 4월 방한객 소비액 1.3조원으로 역대 최대",
+    "link": "https://www.koreadaily.com/article/20260608165530936",
+    "pubDate": "Mon, 08 Jun 2026 23:54:00 GMT",
+    "source": "미주중앙일보",
+    "domain": "koreadaily.com",
+    "thumb": "https://www.koreadaily.com/data/photo/thumbnail/2026/06/09/6053f9fc-e694-43b9-ba0f-8a6f5731261b.jpg"
   },
   {
     "title": "면세점서도 BTS 푸드 판다…롯데免, 팔도·hy '아리' 출시",
@@ -280,25 +280,17 @@
     "thumb": "https://img9.yna.co.kr/etc/inner/KR/2026/06/09/AKR20260609026400030_01_i_P4.jpg"
   },
   {
-    "title": "BTS 공연 앞둔 부산...도시 전체가 손님맞이 준비",
-    "link": "https://www.ytn.co.kr/_ln/0115_202606090033501953",
-    "pubDate": "Mon, 08 Jun 2026 15:33:00 GMT",
-    "source": "YTN",
-    "domain": "ytn.co.kr",
-    "thumb": "https://image.ytn.co.kr/general/jpg/2026/0609/202606090033501953_t.jpg"
+    "title": "\"거지 같은 씨XX\"…BTS 일본 팬에 욕설 퍼부은 부산 호텔 '나라 망신'",
+    "link": "https://www.news1.kr/society/general-society/6190682",
+    "pubDate": "Mon, 08 Jun 2026 20:00:00 GMT",
+    "source": "뉴스1",
+    "domain": "news1.kr",
+    "thumb": "https://i3n.news1.kr/system/photos/2026/6/9/7950319/high.jpg"
   },
   {
-    "title": "위버스 BTS Media - SUGA's NORMAL LOG #2026B",
-    "link": "https://weverse.io/bts/media/0-175674921?hl=ko",
-    "pubDate": "Sun, 07 Jun 2026 06:12:18 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
-  },
-  {
-    "title": "위버스 BTS Media - RM's NORMAL LOG #2026BTS",
-    "link": "https://weverse.io/bts/media/2-175691680?hl=ko",
-    "pubDate": "Sun, 07 Jun 2026 02:36:50 GMT",
+    "title": "위버스 BTS Media - Jung Kook's NORMAL LOG #2026BTSFESTA",
+    "link": "https://www.weverse.io/bts/media/3-232063404?hl=ko",
+    "pubDate": "Mon, 08 Jun 2026 15:44:33 GMT",
     "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
@@ -318,5 +310,13 @@
     "source": "Samsung",
     "domain": "news.samsung.com",
     "thumb": "https://img.kr.news.samsung.com/kr/wp-content/uploads/2026/06/05074132/Samsung_Galaxy_BTS_Busan_Arirang_KV.jpg"
+  },
+  {
+    "title": "BTS Weverse LIVE - 남준 - RM",
+    "link": "https://weverse.io/bts/live/4-231300716",
+    "pubDate": "Thu, 28 May 2026 07:00:00 GMT",
+    "source": "Weverse",
+    "domain": "weverse.io",
+    "thumb": null
   }
 ]
