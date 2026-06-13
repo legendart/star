@@ -1,29 +1,5 @@
 [
   {
-    "title": "장원영, 추구미 '성숙·섹시' 됐나…군살 없는 각선미 '압도'",
-    "link": "https://news.nate.com/view/20260612n21967",
-    "pubDate": "Fri, 12 Jun 2026 05:57:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/kz/2026/06/12/news-p.v1.20260612.46a6379ccc6a4665bf571da2665e8ced_P1.png"
-  },
-  {
-    "title": "장원영, 독보적인 비주얼 여신 [MK포토앨범]",
-    "link": "https://news.nate.com/view/20260612n19724",
-    "pubDate": "Fri, 12 Jun 2026 05:05:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/tt/2026/06/12/news-p.v1.20260612.bae65da7e5bd4cb5a1a5c052050b2cfc_P1.jpg"
-  },
-  {
-    "title": "장원영, 공항 태도 논란 후 첫 공식석상…\"예쁜 말씀 감사합니다\" 인사까지 [엑's 이슈]",
-    "link": "https://v.daum.net/v/20260612135700888",
-    "pubDate": "Fri, 12 Jun 2026 04:57:00 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/12/xportsnews/20260612135701906aniy.jpg"
-  },
-  {
     "title": "'장원영 언니' 장다아와 한솥밥 먹더니..한소은, 새 프로필 공개",
     "link": "https://www.starnewskorea.com/star/2026/06/12/2026061211443638291",
     "pubDate": "Fri, 12 Jun 2026 02:52:12 GMT",
@@ -40,6 +16,14 @@
     "thumb": "https://cdn.ilyoseoul.co.kr/news/photo/202606/518384_477189_5645.jpg"
   },
   {
+    "title": "아이브(IVE) 장원영, ‘눈부신 미모’",
+    "link": "https://www.cbci.co.kr/news/articleView.html?idxno=581405",
+    "pubDate": "Thu, 11 Jun 2026 12:49:08 GMT",
+    "source": "CBC뉴스",
+    "domain": "cbci.co.kr",
+    "thumb": "https://www.cbci.co.kr/news/thumbnail/202606/581405_394913_4831_v150.jpg"
+  },
+  {
     "title": "백화점 등장한 장원영, 물오른 미모",
     "link": "https://biz.newdaily.co.kr/site/data/html/2026/06/11/2026061100304.html",
     "pubDate": "Thu, 11 Jun 2026 10:45:58 GMT",
@@ -54,6 +38,22 @@
     "source": "newsen.com",
     "domain": "newsen.com",
     "thumb": "https://photo.newsen.com/news_photo/2026/06/11/202606111917183510_1.jpg"
+  },
+  {
+    "title": "장원영(Jang Wonyoung), '포즈 부자 눈빛에 홀린다' - 다음 루프",
+    "link": "https://video.daum.net/shorts/view/463543285?slot=daum_channel_short",
+    "pubDate": "Thu, 11 Jun 2026 09:13:26 GMT",
+    "source": "video.daum.net",
+    "domain": "video.daum.net",
+    "thumb": "http://img1.kakaocdn.net/kakaotv/KAKAOACCOUNT/1932629703/thumb/20260611163641"
+  },
+  {
+    "title": "'공항 태도 해프닝' 장원영, 떠날 때까지 4분 40초…역대급 쇼타임",
+    "link": "https://v.daum.net/v/20260611171921222",
+    "pubDate": "Thu, 11 Jun 2026 08:19:21 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/11/mydaily/20260611171922633jmbg.jpg"
   },
   {
     "title": "아이브 장원영, '화이트 뮤즈'",
@@ -136,6 +136,22 @@
     "thumb": "https://img.seoul.co.kr/img/upload/2026/06/11/SSI_20260611141737.jpg"
   },
   {
+    "title": "장원영, 숨 막히는 미모...'화보 그 자체' [TF사진관]",
+    "link": "https://v.daum.net/v/20260611144347769",
+    "pubDate": "Thu, 11 Jun 2026 05:43:47 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/11/THEFACT/20260611144348842gihm.jpg"
+  },
+  {
+    "title": "장원영, '팬들 환호에 손키스 선물'",
+    "link": "https://www.chosun.com/entertainments/entertain_photo/2026/06/11/MY2TINZSMUYWINLEGM2TEZTDGA/",
+    "pubDate": "Thu, 11 Jun 2026 05:42:00 GMT",
+    "source": "조선일보",
+    "domain": "chosun.com",
+    "thumb": "https://www.chosun.com/resizer/v2/GVQWMY3EMI2WKYTBMQ2DQYRSMU.jpg?auth=e6470999ecd68fa185279d993d0a33b7fa7a2eed5e970858b58f0b84a164acf8&amp;width=530&amp;height=278&amp;smart=true"
+  },
+  {
     "title": "장원영, '윙크에 볼콕까지'",
     "link": "https://www.chosun.com/entertainments/entertain_photo/2026/06/11/HEZWGZRUGA2TANRSMIYGKY3FMQ/",
     "pubDate": "Thu, 11 Jun 2026 05:41:00 GMT",
@@ -174,14 +190,6 @@
     "source": "디스패치",
     "domain": "dispatch.co.kr",
     "thumb": "https://dispatch.cdnser.be/cms-content/uploads/2026/06/11/31d244c7-b448-4566-83a5-e45200939600.jpg"
-  },
-  {
-    "title": "아이브 장원영, 공주님의 은혜로운 볼 하트",
-    "link": "https://www.news1.kr/photos/7954170",
-    "pubDate": "Thu, 11 Jun 2026 05:27:37 GMT",
-    "source": "뉴스1",
-    "domain": "news1.kr",
-    "thumb": "https://image.news1.kr/system/photos/2026/6/11/7954170/high.jpg"
   },
   {
     "title": "\"동화 찢고 나왔어\"...장원영, 순백의 공주님",
@@ -240,14 +248,6 @@
     "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/05/134054462.1.jpg"
   },
   {
-    "title": "공항 태도 논란 휘말린 장원영, 다른 각도 촬영분도 공개 “논란될 만하다” VS “억지다” 갑론을박",
-    "link": "https://sports.khan.co.kr/article/202606050828003",
-    "pubDate": "Thu, 04 Jun 2026 23:28:00 GMT",
-    "source": "스포츠경향",
-    "domain": "sports.khan.co.kr",
-    "thumb": null
-  },
-  {
     "title": "팔짱 끼고 여권 한 손으로…장원영, 공항 태도 논란에 갑론을박 '활활' [엑's 이슈]",
     "link": "https://v.daum.net/v/xKRz2IyOt0",
     "pubDate": "Thu, 04 Jun 2026 08:03:15 GMT",
@@ -272,6 +272,14 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/04/mydaily/20260604125804233hein.jpg"
   },
   {
+    "title": "장원영, 흰티에 청바지 입었을 뿐인데 ‘여신 미모’",
+    "link": "https://www.twig24.com/news/entertainments/celebrity/2026/06/01/20260601500169",
+    "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
+    "source": "twig24.com",
+    "domain": "twig24.com",
+    "thumb": "https://img.seoul.co.kr//img/upload/2026/06/01/SSC_20260601142514.jpg.webp"
+  },
+  {
     "title": "장원영부터 저스틴 비버까지, 셀럽이 사랑하는 듄 소파",
     "link": "https://www.vogue.co.kr/2026/06/01/%EC%9E%A5%EC%9B%90%EC%98%81%EB%B6%80%ED%84%B0-%EC%A0%80%EC%8A%A4%ED%8B%B4-%EB%B9%84%EB%B2%84%EA%B9%8C%EC%A7%80-%EC%85%80%EB%9F%BD%EC%9D%B4-%EC%82%AC%EB%9E%91%ED%95%98%EB%8A%94-%EB%93%84-%EC%86%8C/",
     "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
@@ -294,14 +302,6 @@
     "source": "뉴스1",
     "domain": "news1.kr",
     "thumb": "https://image.news1.kr/system/photos/2026/5/29/7932003/high.jpg"
-  },
-  {
-    "title": "173㎝ 장원영, 슬리퍼 질질 끌고 나와도 이 정도‥굽 없이도 황금 비율",
-    "link": "https://m.newsen.com/news_view.php?uid=202605260855075710",
-    "pubDate": "Tue, 26 May 2026 07:00:00 GMT",
-    "source": "newsen.com",
-    "domain": "m.newsen.com",
-    "thumb": null
   },
   {
     "title": "김지원·장원영과 딱 붙어 친분 과시…명품 브랜드 CEO의 황금 인맥",
