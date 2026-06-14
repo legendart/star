@@ -1,5 +1,13 @@
 [
   {
+    "title": "NCT 재희·하투하 유하, '사랑의 하츄핑2’ OST ‘눈을 떠봐’ 듀엣",
+    "link": "https://www.slist.kr/news/articleView.html?idxno=745240",
+    "pubDate": "Sun, 14 Jun 2026 22:32:56 GMT",
+    "source": "싱글리스트",
+    "domain": "slist.kr",
+    "thumb": "https://cdn.slist.kr/news/thumbnail/202606/745240_1143817_328_v150.jpg"
+  },
+  {
     "title": "EXO, 'EXhOrizon' 현장 공개… NCT WISH와 특별한 만남",
     "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000042289",
     "pubDate": "Sun, 14 Jun 2026 09:13:37 GMT",
@@ -48,14 +56,6 @@
     "thumb": "https://i3n.news1.kr/system/photos/2026/3/23/7813185/high.jpg"
   },
   {
-    "title": "NCT 제노X재민, 내일(13일) 첫 亞 팬미팅 투어 개막",
-    "link": "https://m.newsen.com/news_view.php?uid=202606121039580410",
-    "pubDate": "Fri, 12 Jun 2026 01:47:13 GMT",
-    "source": "newsen.com",
-    "domain": "m.newsen.com",
-    "thumb": null
-  },
-  {
     "title": "NCT JNJM, 첫 아시아 팬미팅 투어 내일(13일) 서울 포문",
     "link": "https://www.newstown.co.kr/news/articleView.html?idxno=705977",
     "pubDate": "Fri, 12 Jun 2026 01:33:00 GMT",
@@ -64,12 +64,12 @@
     "thumb": "http://www.newstown.co.kr/news/thumbnail/202606/705977_659787_3156_v150.jpg"
   },
   {
-    "title": "NCT JNJM, 첫 아시아 팬미팅 투어 서울서 시작",
-    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16089504",
-    "pubDate": "Fri, 12 Jun 2026 01:08:51 GMT",
-    "source": "TopStarNews",
-    "domain": "topstarnews.net",
-    "thumb": "https://cdn.topstarnews.net/news/photo/202606/16089504_1941417_842_crop.jpg"
+    "title": "NCT JNJM, 서울서 팬미팅 투어 시작",
+    "link": "https://www.bntnews.co.kr/article/view/bnt202606120131",
+    "pubDate": "Fri, 12 Jun 2026 01:07:25 GMT",
+    "source": "bntnews.co.kr",
+    "domain": "bntnews.co.kr",
+    "thumb": "https://www.bntnews.co.kr/data/bnt/image/2026/06/12/bnt202606120258.jpg"
   },
   {
     "title": "유재석 “NCT 도영, 형 공명에 차 선물..내 사이즈에 자책” (‘미니 핑계고’)",
@@ -104,6 +104,14 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/10/poctan/20260610062450808cnnc.png"
   },
   {
+    "title": "NCT 떠난 마크, 새 레이블 어퍼룸 설립하고 새출발",
+    "link": "https://news.jtbc.co.kr/article/NB12301518",
+    "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT",
+    "source": "JTBC",
+    "domain": "news.jtbc.co.kr",
+    "thumb": null
+  },
+  {
     "title": "NCT 도영, 벅스 페이버릿 소통왕 투표 1위 [Favorite]",
     "link": "https://www.joongang.co.kr/article/25434124",
     "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT",
@@ -128,6 +136,14 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/04/NEWS1/20260604151147712pnin.jpg"
   },
   {
+    "title": "NCT 출신 마크, ‘1인 기획사’로 새 출발",
+    "link": "https://www.munhwa.com/article/11593313",
+    "pubDate": "Thu, 04 Jun 2026 06:09:57 GMT",
+    "source": "문화일보",
+    "domain": "munhwa.com",
+    "thumb": "https://wimg.munhwa.com/news/cms/2026/06/04/news-p.v1.20260604.628ce21c2d574122a7fe63d7d575ef09_R.jpg"
+  },
+  {
     "title": "NCT 출신 마크, 1인 기획사 어퍼룸 설립…공동대표 맡아",
     "link": "https://www.yna.co.kr/view/AKR20260604149200005",
     "pubDate": "Thu, 04 Jun 2026 06:05:12 GMT",
@@ -142,6 +158,22 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/04/nocut/20260604114211836mtww.jpg"
+  },
+  {
+    "title": "‘은밀한 감사’ 공명 “동생 NCT 도영, 입대 2주 전 OST 불러”",
+    "link": "https://news.jtbc.co.kr/article/NB12300935",
+    "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
+    "source": "JTBC",
+    "domain": "news.jtbc.co.kr",
+    "thumb": null
+  },
+  {
+    "title": "“NCT 보려고요” 팬심서 비롯된 한국 정착기",
+    "link": "https://www.khan.co.kr/article/202606011954005",
+    "pubDate": "Mon, 01 Jun 2026 07:00:00 GMT",
+    "source": "경향신문",
+    "domain": "khan.co.kr",
+    "thumb": "https://img.khan.co.kr/spko/company/Khan_CI_180212.jpg"
   },
   {
     "title": "사전예약 4분 만에 마감...IPX 'NCT 위시니니 하우스' 팝업 가보니",
@@ -184,12 +216,28 @@
     "thumb": null
   },
   {
-    "title": "NCT WISH “4/26 (일) SBS 인기가요 ‘Ode to Love’ 방송 – 4/22 (수) 사전녹화” 참여 안내",
-    "link": "https://weverse.io/nctwish/notice/35086",
-    "pubDate": "Sun, 26 Apr 2026 07:00:00 GMT",
+    "title": "NCT WISH “5/2 (토) MBC 쇼! 음악중심 ‘Ode to Love’ 방송 – 4/30 (목) 사전녹화” 참여 안내",
+    "link": "https://weverse.io/nctwish/notice/35358",
+    "pubDate": "Sat, 02 May 2026 07:00:00 GMT",
     "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
+  },
+  {
+    "title": "QUIET AUTHORITY / NCT 지성",
+    "link": "https://www.allurekorea.com/2026/04/28/quiet-authority-nct-%EC%A7%80%EC%84%B1/",
+    "pubDate": "Tue, 28 Apr 2026 07:00:00 GMT",
+    "source": "allure Korea",
+    "domain": "allurekorea.com",
+    "thumb": "https://www.allurekorea.com/wp_data/allure/2026/04/style_69eb3212dbbac-1920x1080.jpg?x=1280&y=964"
+  },
+  {
+    "title": "NCT 태용과 함께한 EPT ‘컴포트 컴플리트’ 캠페인 공개",
+    "link": "https://hypebeast.kr/2026/4/ept-unveils-comfort-complete-campaign-featuring-ncts-taeyong",
+    "pubDate": "Mon, 27 Apr 2026 07:00:00 GMT",
+    "source": "Hypebeast.KR",
+    "domain": "hypebeast.kr",
+    "thumb": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fkr.hypebeast.com&#x25;2Ffiles&#x25;2F2026&#x25;2F04&#x25;2F27&#x25;2FEPT-Unveils-&#x25;E2&#x25;80&#x25;98COMFORT-COMPLETE-Campaign-Featuring-NCTs-Taeyong-tw.jpg&#x3F;w&#x3D;1080&amp;cbr&#x3D;1&amp;q&#x3D;90&amp;fit&#x3D;max"
   },
   {
     "title": "NCT, 올해 10주년…앨범·투어·팝업 선보인다",
@@ -224,14 +272,6 @@
     "thumb": null
   },
   {
-    "title": "NCT 마크 SM 전속계약 해지…″꿈 찾아 몰두할 것″",
-    "link": "https://www.yonhapnewstv.co.kr/news/AKR20260403171019sxq",
-    "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
-    "source": "연합뉴스TV",
-    "domain": "yonhapnewstv.co.kr",
-    "thumb": "https://media.yonhapnewstv.co.kr/article/AKR/20260403/AKR20260403171019sxq_01_i.jpg"
-  },
-  {
     "title": "리쿠, 료, 재희가 말하는 오늘의 NCT WISH",
     "link": "https://www.elle.co.kr/article/1899718",
     "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT",
@@ -248,6 +288,14 @@
     "thumb": null
   },
   {
+    "title": "NCT WISH 첫 정규 컴백 전, 엘르에서 만나는 방법",
+    "link": "https://www.elle.co.kr/article/1899613",
+    "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
+    "source": "ELLE",
+    "domain": "elle.co.kr",
+    "thumb": null
+  },
+  {
     "title": "NCT WISH Community Post - 🍓🍒 - SION",
     "link": "https://weverse.io/nctwish/artist/3-223283896",
     "pubDate": "Sun, 15 Mar 2026 07:00:00 GMT",
@@ -256,17 +304,9 @@
     "thumb": null
   },
   {
-    "title": "NCT JNJM “3/7 (토) MBC 쇼! 음악중심 ‘BOTH SIDES’ 사전녹화” 참여 안내",
-    "link": "https://weverse.io/nctdream/notice/34064",
-    "pubDate": "Sat, 07 Mar 2026 08:00:00 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
-  },
-  {
-    "title": "NCT JNJM “3/1 (일) SBS 인기가요 ‘BOTH SI",
-    "link": "https://weverse.io/nctdream/notice/33981",
-    "pubDate": "Sun, 01 Mar 2026 08:00:00 GMT",
+    "title": "NCT JNJM “3/5 (목) Mnet 엠카운트다운 ‘BOTH SIDES’ 사전녹화” 참여 안내",
+    "link": "https://weverse.io/nctdream/notice/34016",
+    "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
     "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
@@ -275,46 +315,6 @@
     "title": "NCT WISH “2/11 (수) 2026 제2회 디 어워즈” 팬클럽 참여 안내",
     "link": "https://weverse.io/nctwish/notice/33586",
     "pubDate": "Wed, 11 Feb 2026 08:00:00 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
-  },
-  {
-    "title": "NCT WISH “12/31 (수) 2025 SBS 연기대",
-    "link": "https://weverse.io/nctwish/notice/32854",
-    "pubDate": "Wed, 31 Dec 2025 08:00:00 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
-  },
-  {
-    "title": "2025년, NCT가 증명한 ‘확장’의 스펙트럼",
-    "link": "https://magazine.weverse.io/article/view/1690?lang=ko",
-    "pubDate": "Mon, 29 Dec 2025 03:18:16 GMT",
-    "source": "magazine.weverse.io",
-    "domain": "magazine.weverse.io",
-    "thumb": "https://magazine.weverse.io/_next/static/media/magazine_ogtag.62c720a9.png"
-  },
-  {
-    "title": "NCT DREAM “12/25 (목) 2025 SBS 가요대전 생방송” 참여 안내",
-    "link": "https://weverse.io/nctdream/notice/32573",
-    "pubDate": "Thu, 25 Dec 2025 08:00:00 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
-  },
-  {
-    "title": "NCT WISH “12/25 (목) 2025 SBS 가요대",
-    "link": "https://weverse.io/nctwish/notice/32567",
-    "pubDate": "Thu, 25 Dec 2025 08:00:00 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
-  },
-  {
-    "title": "NCT DREAM “11/21 (금) KBS 뮤직뱅크 ‘Beat It Up’ 사전녹화” 참여 안내",
-    "link": "https://weverse.io/nctdream/notice/31921",
-    "pubDate": "Fri, 21 Nov 2025 08:00:00 GMT",
     "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
