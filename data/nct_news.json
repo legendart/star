@@ -72,38 +72,6 @@
     "thumb": "https://cdn.bosa.co.kr/news/photo/202605/3005329_405651_1630.jpg"
   },
   {
-    "title": "NCT 제노·재민→피프티피프티. 부천으로 가는 아이돌들",
-    "link": "https://m.newsen.com/news_view.php?uid=202606101827336710",
-    "pubDate": "Wed, 10 Jun 2026 09:32:15 GMT",
-    "source": "newsen.com",
-    "domain": "m.newsen.com",
-    "thumb": null
-  },
-  {
-    "title": "NCT 제노·재민부터 피프티피프티까지…킷츠 숏폼 영화, BIFAN 간다",
-    "link": "https://www.newspim.com/news/view/20260610000771",
-    "pubDate": "Wed, 10 Jun 2026 04:46:00 GMT",
-    "source": "뉴스핌",
-    "domain": "newspim.com",
-    "thumb": "https://img.newspim.com/news/2026/06/10/2606101339213490_537_tc.jpg"
-  },
-  {
-    "title": "NCT 제노·재민과 피프티피프티 주연작, 부천 영화제 진출",
-    "link": "https://www.mediapen.com/news/view/1103620",
-    "pubDate": "Wed, 10 Jun 2026 02:59:51 GMT",
-    "source": "미디어펜",
-    "domain": "mediapen.com",
-    "thumb": "https://image.mediapen.com/news/202606/news_1103620_1781060299_m.jpg"
-  },
-  {
-    "title": "NCT 제노·재민 ‘와인드업’, 부천국제판타스틱영화제 초청",
-    "link": "https://sports.donga.com/ent/article/all/20260610/134082673/1",
-    "pubDate": "Wed, 10 Jun 2026 00:45:30 GMT",
-    "source": "스포츠동아",
-    "domain": "sports.donga.com",
-    "thumb": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/06/10/134082698.1.jpeg"
-  },
-  {
     "title": "NCT 제노·재민 '와인드업'→피프피피프티 '방과후 퇴마클럽', 부천국제판타스틱영화제 상영",
     "link": "https://www.chosun.com/entertainments/broadcast/2026/06/10/MRRTMOJRMJTGMMBSGAZDKN3CGA/",
     "pubDate": "Wed, 10 Jun 2026 00:41:00 GMT",
@@ -166,6 +134,14 @@
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img5.yna.co.kr/photo/yna/YH/2025/07/14/PYH2025071410490001300_P4.jpg"
+  },
+  {
+    "title": "‘NCT 탈퇴’ 마크, 크리에이티브 컴퍼니 ‘어퍼룸’ 설립…독자 행보 본격화",
+    "link": "https://www.viva100.com/article/20260604500680",
+    "pubDate": "Thu, 04 Jun 2026 04:42:00 GMT",
+    "source": "브릿지경제",
+    "domain": "viva100.com",
+    "thumb": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/06/04/.cache/512/20260604500709.jpg?v=20260615031026"
   },
   {
     "title": "NCT와 SM 떠난 마크, 새 레이블 어퍼룸 설립…공동 대표 됐다",
@@ -280,6 +256,14 @@
     "thumb": null
   },
   {
+    "title": "마크가 데뷔 10년 만에 NCT를 떠나는 이유",
+    "link": "https://www.elle.co.kr/article/1900169",
+    "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
+    "source": "ELLE",
+    "domain": "elle.co.kr",
+    "thumb": null
+  },
+  {
     "title": "리쿠, 료, 재희가 말하는 오늘의 NCT WISH",
     "link": "https://www.elle.co.kr/article/1899718",
     "pubDate": "Mon, 30 Mar 2026 07:00:00 GMT",
@@ -296,9 +280,25 @@
     "thumb": null
   },
   {
+    "title": "NCT WISH 첫 정규 컴백 전, 엘르에서 만나는 방법",
+    "link": "https://www.elle.co.kr/article/1899613",
+    "pubDate": "Thu, 26 Mar 2026 07:00:00 GMT",
+    "source": "ELLE",
+    "domain": "elle.co.kr",
+    "thumb": null
+  },
+  {
     "title": "NCT WISH Community Post - 🍓🍒 - SION",
     "link": "https://weverse.io/nctwish/artist/3-223283896",
     "pubDate": "Sun, 15 Mar 2026 07:00:00 GMT",
+    "source": "Weverse",
+    "domain": "weverse.io",
+    "thumb": null
+  },
+  {
+    "title": "NCT JNJM “3/5 (목) Mnet 엠카운트다운 ‘BOTH SIDES’ 사전녹화” 참여 안내",
+    "link": "https://weverse.io/nctdream/notice/34016",
+    "pubDate": "Thu, 05 Mar 2026 08:00:00 GMT",
     "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
