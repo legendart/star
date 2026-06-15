@@ -40,14 +40,6 @@
     "thumb": "https://pimg.mk.co.kr/news/cms/202606/15/news-p.v1.20260615.4ed6d6a5dc11472983359ebfd2d1f6c3_R.jpg"
   },
   {
-    "title": "10돌 맞은 NCT드림, 8월 팬미팅 연다",
-    "link": "https://www.munhwa.com/article/11595674",
-    "pubDate": "Mon, 15 Jun 2026 07:47:23 GMT",
-    "source": "문화일보",
-    "domain": "munhwa.com",
-    "thumb": "https://wimg.munhwa.com/news/cms/2026/06/15/news-p.v1.20260615.6c2a77fdc7694c4bab37d8bead900eeb_R.jpg"
-  },
-  {
     "title": "NCT DREAM, 데뷔 10주년 기념 팬미팅 개최",
     "link": "https://news.nate.com/view/20260615n27835",
     "pubDate": "Mon, 15 Jun 2026 07:33:00 GMT",
@@ -160,28 +152,28 @@
     "thumb": "https://cdn.nc.press/news/photo/202606/618098_838235_4725.jpg"
   },
   {
-    "title": "엔시티 위시 재희, '훈훈한 출국길'",
-    "link": "https://www.chosun.com/entertainments/entertain_photo/2026/06/15/GMZDQYJQGNRWMZBXGVSTGOLFG4/",
-    "pubDate": "Mon, 15 Jun 2026 02:49:00 GMT",
-    "source": "조선일보",
-    "domain": "chosun.com",
-    "thumb": "https://www.chosun.com/resizer/v2/GVSTAYRSGU3TGMJRMFRTOOBSHE.jpg?auth=5e73beb357fac59d20470d2d742733999a65df2d96edbb396d5c5aa49977364f&amp;width=530&amp;height=278&amp;smart=true"
-  },
-  {
-    "title": "NCT WISH '파리 가요~'[포토엔HD]",
-    "link": "https://news.nate.com/view/20260615n16359",
-    "pubDate": "Mon, 15 Jun 2026 02:47:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/06/15/202606151146023510_1.jpg"
-  },
-  {
     "title": "NCT WISH 시온 ‘멜로 눈빛 장착’[포토엔HD]",
     "link": "https://m.newsen.com/news_view.php?uid=202606151143533510",
     "pubDate": "Mon, 15 Jun 2026 02:44:04 GMT",
     "source": "newsen.com",
     "domain": "m.newsen.com",
     "thumb": null
+  },
+  {
+    "title": "NCT WISH 리쿠 '상남자의 인사법'[포토엔HD]",
+    "link": "https://m.news.nate.com/view/20260615n15341?mid=e02&list=recent&cpcd=",
+    "pubDate": "Mon, 15 Jun 2026 02:29:00 GMT",
+    "source": "네이트",
+    "domain": "m.news.nate.com",
+    "thumb": "https://news.nateimg.co.kr/orgImg/nn/2026/06/15/202606151128063510_1.jpg"
+  },
+  {
+    "title": "출국 인사 전하는 엔시티 위시 - 조선비즈",
+    "link": "https://biz.chosun.com/entertainment/entertainment_photo/2026/06/15/HA3WINLBMIZDKYRWGY2DSN3FMM/",
+    "pubDate": "Mon, 15 Jun 2026 02:14:00 GMT",
+    "source": "Chosunbiz",
+    "domain": "biz.chosun.com",
+    "thumb": "https://biz.chosun.com/resizer/v2/GZQWCMJXMRQWIMJTMYZWKYZVMI.jpg?auth=df3b0adf8dfd829f4ac7ef689b71e1acfcf790cfcb537a410150e39c210805b5&amp;width=650&amp;height=341&amp;smart=true"
   },
   {
     "title": "NCT JNJM, 서울 팬미팅 성황리 마무리 \"오직 시즈니만 생각\"",
@@ -294,6 +286,14 @@
     "source": "뉴스1",
     "domain": "news1.kr",
     "thumb": "https://i3n.news1.kr/system/photos/2026/3/23/7813185/high.jpg"
+  },
+  {
+    "title": "NCT JNJM, 첫 아시아 팬미팅 투어 내일(13일) 서울 포문",
+    "link": "https://www.newstown.co.kr/news/articleView.html?idxno=705977",
+    "pubDate": "Fri, 12 Jun 2026 01:33:00 GMT",
+    "source": "뉴스타운",
+    "domain": "newstown.co.kr",
+    "thumb": "http://www.newstown.co.kr/news/thumbnail/202606/705977_659787_3156_v150.jpg"
   },
   {
     "title": "NCT JNJM, 서울서 팬미팅 투어 시작",
