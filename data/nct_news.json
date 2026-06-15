@@ -152,14 +152,6 @@
     "thumb": "https://cdn.nc.press/news/photo/202606/618098_838235_4725.jpg"
   },
   {
-    "title": "NCT WISH 시온 ‘멜로 눈빛 장착’[포토엔HD]",
-    "link": "https://m.newsen.com/news_view.php?uid=202606151143533510",
-    "pubDate": "Mon, 15 Jun 2026 02:44:04 GMT",
-    "source": "newsen.com",
-    "domain": "m.newsen.com",
-    "thumb": null
-  },
-  {
     "title": "NCT WISH 리쿠 '상남자의 인사법'[포토엔HD]",
     "link": "https://m.news.nate.com/view/20260615n15341?mid=e02&list=recent&cpcd=",
     "pubDate": "Mon, 15 Jun 2026 02:29:00 GMT",
@@ -200,20 +192,12 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/15/poctan/20260615111250247fklh.jpg"
   },
   {
-    "title": "엔시티 위시 리쿠, '가려도 한눈에'",
-    "link": "https://www.chosun.com/entertainments/entertain_photo/2026/06/15/G5QWCNRRHBQTMZTGMU4DIYJTMQ/",
-    "pubDate": "Mon, 15 Jun 2026 02:12:00 GMT",
-    "source": "조선일보",
-    "domain": "chosun.com",
-    "thumb": "https://www.chosun.com/resizer/v2/GVTGEYZQME3DENRYG5RGEZJVGU.jpg?auth=69db9e832ccee35ed8cc3588dd04ea1cbc747bf62da01c794050fb522049faf5&amp;width=530&amp;height=278&amp;smart=true"
-  },
-  {
-    "title": "엔시티 위시 시온, '훈훈함 뽐내며 출국'",
-    "link": "https://www.chosun.com/entertainments/entertain_photo/2026/06/15/HE2TCZDFHEYDMZLDGUZGEZTEMM/",
-    "pubDate": "Mon, 15 Jun 2026 02:03:00 GMT",
-    "source": "조선일보",
-    "domain": "chosun.com",
-    "thumb": "https://www.chosun.com/resizer/v2/MM3DKYTEMQ3TAYJXGAYDSYLBGA.jpg?auth=e6446fca25c1d9ceff819a4e12926c90fd4d34f8ba01ef7c61a523c47094d48c&amp;width=530&amp;height=278&amp;smart=true"
+    "title": "NCT WISH 사쿠야 ‘아이쿠 눈부셔’[포토엔HD]",
+    "link": "https://m.newsen.com/news_view.php?uid=202606151052213510",
+    "pubDate": "Mon, 15 Jun 2026 01:52:43 GMT",
+    "source": "newsen.com",
+    "domain": "m.newsen.com",
+    "thumb": null
   },
   {
     "title": "NCT 제노X재민, 서울 팬미팅 성료",
@@ -272,6 +256,14 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/14/551725-bDDlA7g/20260614165624258ngas.jpg"
   },
   {
+    "title": "유재석, NCT 도영 '형 공명에 차 선물' 미담에 자책… \"내 사이즈 이것뿐인가\" [MHN:픽]",
+    "link": "https://v.daum.net/v/20260613100325750",
+    "pubDate": "Sat, 13 Jun 2026 01:03:25 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/13/HockeyNewsKorea/20260613100327864xboe.jpg"
+  },
+  {
     "title": "NCT WISH The 1st Album ‘Ode to Love’ 발매 기념 ‘VIDEO CALL EVENT’ – 6/23(화) 애플뮤직",
     "link": "https://weverse.io/nctwish/notice/36678",
     "pubDate": "Fri, 12 Jun 2026 11:52:30 GMT",
@@ -318,5 +310,13 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/04/nocut/20260604114211836mtww.jpg"
+  },
+  {
+    "title": "NCT 10TH ANNIVERSARY [NCT 2026] POP UP : NEO GROUND VISITOR GUIDE NOTICE",
+    "link": "https://weverse.io/nct127/notice/35744",
+    "pubDate": "Mon, 11 May 2026 15:04:49 GMT",
+    "source": "Weverse",
+    "domain": "weverse.io",
+    "thumb": null
   }
 ]
