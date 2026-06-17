@@ -160,14 +160,6 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/15/starnews/20260615142337815eqkk.jpg"
   },
   {
-    "title": "NCT WISH 시온 ‘날렵한 턱선’[포토엔HD]",
-    "link": "https://www.newsen.com/news_view.php?uid=202606151153113510&code=199999",
-    "pubDate": "Mon, 15 Jun 2026 02:53:19 GMT",
-    "source": "newsen.com",
-    "domain": "newsen.com",
-    "thumb": "https://photo.newsen.com/news_photo/2026/06/15/202606151153113510_1.jpg"
-  },
-  {
     "title": "NCT 제노X재민, 서울 팬미팅 성료",
     "link": "https://v.daum.net/v/20260615093032623",
     "pubDate": "Mon, 15 Jun 2026 00:30:00 GMT",
@@ -222,6 +214,14 @@
     "source": "의학신문",
     "domain": "bosa.co.kr",
     "thumb": "https://cdn.bosa.co.kr/news/photo/202605/3005329_405651_1630.jpg"
+  },
+  {
+    "title": "NCT 떠난 마크, 새 레이블 어퍼룸 설립하고 새출발",
+    "link": "https://news.jtbc.co.kr/article/NB12301518",
+    "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT",
+    "source": "JTBC",
+    "domain": "news.jtbc.co.kr",
+    "thumb": null
   },
   {
     "title": "NCT 출신 마크, 1인 기획사 어퍼룸 설립…공동대표 맡아",
@@ -280,14 +280,6 @@
     "thumb": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fkr.hypebeast.com&#x25;2Ffiles&#x25;2F2026&#x25;2F04&#x25;2F27&#x25;2FEPT-Unveils-&#x25;E2&#x25;80&#x25;98COMFORT-COMPLETE-Campaign-Featuring-NCTs-Taeyong-tw.jpg&#x3F;w&#x3D;1080&amp;cbr&#x3D;1&amp;q&#x3D;90&amp;fit&#x3D;max"
   },
   {
-    "title": "NCT, 올해 10주년…앨범·투어·팝업 선보인다",
-    "link": "https://www.yna.co.kr/view/AKR20260409107600005",
-    "pubDate": "Thu, 09 Apr 2026 07:00:00 GMT",
-    "source": "연합뉴스",
-    "domain": "yna.co.kr",
-    "thumb": "https://img5.yna.co.kr/etc/inner/KR/2026/04/09/AKR20260409107600005_01_i_P4.jpg"
-  },
-  {
     "title": "NCT WISH Community Post - 생일 축하해줘서 고마워요〜",
     "link": "https://weverse.io/nctwish/artist/0-172453382",
     "pubDate": "Sun, 05 Apr 2026 07:00:00 GMT",
@@ -318,5 +310,13 @@
     "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
+  },
+  {
+    "title": "2025년, NCT가 증명한 ‘확장’의 스펙트럼",
+    "link": "https://magazine.weverse.io/article/view/1690?lang=ko",
+    "pubDate": "Mon, 29 Dec 2025 03:18:16 GMT",
+    "source": "Weverse Magazine",
+    "domain": "magazine.weverse.io",
+    "thumb": "https://magazine.weverse.io/_next/static/media/magazine_ogtag.62c720a9.png"
   }
 ]
