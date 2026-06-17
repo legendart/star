@@ -56,14 +56,6 @@
     "thumb": "https://cdn.spochoo.com/news/thumbnail/202606/126146_250764_42_v150.jpg"
   },
   {
-    "title": "일반인도 쓴 공항 마스크, 왜 장원영만 안되나…연예인 역차별[SC이슈]",
-    "link": "https://news.nate.com/view/20260617n05272?mid=e0608",
-    "pubDate": "Tue, 16 Jun 2026 23:31:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sc/2026/06/17/2026061701001143500073971.jpg"
-  },
-  {
     "title": "'장원영 출국 영상' 논란에 결국…김포공항 측 입장 냈다",
     "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008613627&plink=ORI&cooper=RSS",
     "pubDate": "Tue, 16 Jun 2026 23:26:00 GMT",
@@ -88,12 +80,12 @@
     "thumb": "http://news.kbs.co.kr/data/news/title_image/newsmp4/newsplaza_p1/2026/06/17/250_8588161.jpg"
   },
   {
-    "title": "‘모자 들고 마스크만 살짝’ 장원영 공항 논란에…공항공사 “식별 어려우면 추가 확인”",
-    "link": "https://www.segye.com/newsView/20260617501991",
-    "pubDate": "Tue, 16 Jun 2026 21:03:04 GMT",
-    "source": "세계일보",
-    "domain": "segye.com",
-    "thumb": "https://www.segye.com/content/image/2026/06/17/20260617502006.jpg"
+    "title": "\"장원영은 마스크 살짝 내리고도 통과?\"…논란에 공항공사 입 열었다",
+    "link": "http://weekly.chosun.com/news/articleView.html?idxno=52611",
+    "pubDate": "Tue, 16 Jun 2026 13:11:00 GMT",
+    "source": "조선일보",
+    "domain": "weekly.chosun.com",
+    "thumb": "https://cdn.weekly.chosun.com/news/thumbnail/202606/52611_82006_1018_v150.jpg"
   },
   {
     "title": "장원영 '마스크 출국 논란'...공항공사 \"신분 확인 안내 강화\"",
@@ -126,6 +118,14 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/16/imbc/20260616180410694aqft.jpg"
+  },
+  {
+    "title": "장원영, 모자 쓴채 ‘마스크 빼꼼’…공항 신원확인 논란",
+    "link": "https://www.donga.com/news/Society/article/all/20260616/134122729/2",
+    "pubDate": "Tue, 16 Jun 2026 08:48:00 GMT",
+    "source": "동아일보",
+    "domain": "donga.com",
+    "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/16/134122730.2.jpg"
   },
   {
     "title": "장원영 공항 신원확인 논란에…공항공사 “얼굴 식별 안되면 추가 요청”",
@@ -206,6 +206,14 @@
     "source": "Chosunbiz",
     "domain": "biz.chosun.com",
     "thumb": "https://biz.chosun.com/resizer/v2/JLR7PX3CU5ANRDQZSKPH2TK6XM.jpg?auth=0fe49062619f4a05da33f9377c3fef78bf306e5c92d5ee38e65da8794005c0e1&amp;width=1200&amp;height=630&amp;smart=true"
+  },
+  {
+    "title": "장원영 '출국 영상 논란'에…\"연예인은 이래도 통과?\" 민원 접수",
+    "link": "https://v.daum.net/v/ptQuuVV7c5",
+    "pubDate": "Tue, 16 Jun 2026 05:38:00 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/16/akn/20260616143833774ikyq.jpg"
   },
   {
     "title": "장원영, 태도 논란 홍역…'왕관의 무게' 치부하기엔[초점S]",
@@ -310,13 +318,5 @@
     "source": "매일경제",
     "domain": "mk.co.kr",
     "thumb": "https://pimg.mk.co.kr/news/cms/202606/11/news-p.v1.20260611.226f11b7d4a249f69e6728e6780d61ed_R.jpg"
-  },
-  {
-    "title": "장원영 ‘공항 태도 논란’ 속상했나…베이징덕 먹방 속 ‘울고’ 문구 ‘눈길’",
-    "link": "https://sports.khan.co.kr/article/202606041516003",
-    "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-    "source": "스포츠경향",
-    "domain": "sports.khan.co.kr",
-    "thumb": null
   }
 ]
