@@ -16,14 +16,6 @@
     "thumb": "https://cdn.nbnnews.co.kr/news/thumbnail/202606/1035668_1084519_1615_v150.jpg"
   },
   {
-    "title": "임윤아·도경수·지수·박지훈·NCT WISH, 글로벌 팬심 경쟁 돌입",
-    "link": "https://www.purpress.com/bbs/board.php?bo_table=culture&wr_id=1503",
-    "pubDate": "Wed, 17 Jun 2026 03:18:40 GMT",
-    "source": "e뉴스페이퍼",
-    "domain": "purpress.com",
-    "thumb": null
-  },
-  {
     "title": "임윤아·도경수→박지훈·NCT WISH…'서울드라마어워즈' 글로벌 팬 투표",
     "link": "https://news.nate.com/view/20260617n07105",
     "pubDate": "Wed, 17 Jun 2026 00:20:00 GMT",
@@ -72,12 +64,28 @@
     "thumb": "https://cdn.slist.kr/news/thumbnail/202606/745584_1144359_4414_v150.jpg"
   },
   {
+    "title": "'NCT 작곡가' 주니, 데뷔 첫 국내 단독 공연 마쳤다",
+    "link": "https://www.tenasia.co.kr/article/2026061683984",
+    "pubDate": "Tue, 16 Jun 2026 00:58:00 GMT",
+    "source": "텐아시아",
+    "domain": "tenasia.co.kr",
+    "thumb": "https://img.tenasia.co.kr/photo/202606/BF.44655097.1.jpg"
+  },
+  {
     "title": "NCT 데뷔할 뻔?! 우적, '너만 보이는 날'로 '금의환향'",
     "link": "https://www.etnews.com/20260616000063",
     "pubDate": "Tue, 16 Jun 2026 00:45:31 GMT",
     "source": "전자신문",
     "domain": "etnews.com",
     "thumb": "https://img.etnews.com/news/article/2026/06/16/article_16094426872442.jpg"
+  },
+  {
+    "title": "'닥터 섬보이' 감독이 직접 프로듀싱 나섰다…크러쉬→NCT 이어 도유카, OST 주자 출격",
+    "link": "https://www.tenasia.co.kr/article/2026061570914",
+    "pubDate": "Mon, 15 Jun 2026 08:29:00 GMT",
+    "source": "텐아시아",
+    "domain": "tenasia.co.kr",
+    "thumb": "https://img.tenasia.co.kr/photo/202606/BF.44661293.1.jpg"
   },
   {
     "title": "NCT 드림, 데뷔 10주년 맞아 8월 팬미팅 개최 - 스타투데이",
@@ -142,22 +150,6 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/15/bntnews/20260615093033330ggky.jpg"
-  },
-  {
-    "title": "NCT JNJM, “첫 유닛 팬미팅 오래 기억되길”…서울 공연 후 아시아 투어 행보",
-    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16093926",
-    "pubDate": "Mon, 15 Jun 2026 00:15:03 GMT",
-    "source": "톱스타뉴스",
-    "domain": "topstarnews.net",
-    "thumb": "https://cdn.topstarnews.net/news/photo/202606/16093926_1942748_1454_crop.jpg"
-  },
-  {
-    "title": "‘사랑의 하츄핑: 고래보석의 전설’ 티저 공개…NCT WISH 재희·Hearts2Hearts 유하 OST 참여",
-    "link": "https://www.newscj.com/news/articleView.html?idxno=3409211",
-    "pubDate": "Sun, 14 Jun 2026 23:59:14 GMT",
-    "source": "천지일보",
-    "domain": "newscj.com",
-    "thumb": "https://cdn.newscj.com/news/thumbnail/202606/3409211_3512831_5452_v150.jpg"
   },
   {
     "title": "NCT WISH 사쿠야, 교복 입고 은발 변신… 日 신곡 티저 공개",
@@ -238,6 +230,14 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202605/11/bntnews/20260511102851435rmob.jpg"
+  },
+  {
+    "title": "NCT WISH “5/4 (월) 불후의 명곡 - 서울스프링페스티",
+    "link": "https://weverse.io/nctwish/notice/35346",
+    "pubDate": "Mon, 04 May 2026 07:00:00 GMT",
+    "source": "Weverse",
+    "domain": "weverse.io",
+    "thumb": null
   },
   {
     "title": "NCT WISH “5/3 (일) SBS 인기가요 ‘Ode to Love’ 사전녹화” 참여 안내",

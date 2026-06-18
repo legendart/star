@@ -1,5 +1,13 @@
 [
   {
+    "title": "이재부터 블랙핑크 리사·BTS까지…월드컵으로 무대 확장한 K팝",
+    "link": "https://www.newspim.com/news/view/20260615000848",
+    "pubDate": "Thu, 18 Jun 2026 21:19:00 GMT",
+    "source": "뉴스핌",
+    "domain": "newspim.com",
+    "thumb": "https://img.newspim.com/news/2026/06/11/2606112316593480_434_tc.jpg"
+  },
+  {
     "title": "“BTS 덕분” 관광특수 누린 부산… 관광기념품 매출 136% 급증",
     "link": "https://www.kmib.co.kr/article/view.asp?arcid=1781766654",
     "pubDate": "Thu, 18 Jun 2026 15:53:00 GMT",
@@ -40,14 +48,6 @@
     "thumb": null
   },
   {
-    "title": "BTS에 들썩인 부산, 글로벌 관광지 가능성 재확인",
-    "link": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260619.22010005487",
-    "pubDate": "Thu, 18 Jun 2026 10:09:00 GMT",
-    "source": "국제신문",
-    "domain": "kookje.co.kr",
-    "thumb": "https://db.kookje.co.kr/news2000/photo/2026/0619/L20260619.22010005487i1.jpg?0"
-  },
-  {
     "title": "BTS로 들썩인 부산… 11만 외국인 채운 'K관광무대' 됐다",
     "link": "https://www.fnnews.com/news/202606181835404297",
     "pubDate": "Thu, 18 Jun 2026 09:35:49 GMT",
@@ -62,14 +62,6 @@
     "source": "한국방송뉴스",
     "domain": "ikbn.news",
     "thumb": "https://www.ikbn.news/data/design/logo/default_image_share_20181128175117.jpg"
-  },
-  {
-    "title": "BTS 뷔 자작곡, 프랑스 대통령 SNS에 등장",
-    "link": "https://v.daum.net/v/20260618182703582",
-    "pubDate": "Thu, 18 Jun 2026 09:27:03 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/18/poctan/20260618182704604tzli.jpg"
   },
   {
     "title": "BTS 공연 특수, 김해공항서만 외국인 3만 명 입국",
@@ -120,6 +112,14 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/18/ohmynews/20260618172802010mdpj.jpg"
   },
   {
+    "title": "조국이냐, ‘보랏빛’ BTS의 나라 한국이냐…‘한멕전’ 앞둔 멕시코 아미들의 고민",
+    "link": "https://sports.khan.co.kr/article/202606181643003",
+    "pubDate": "Thu, 18 Jun 2026 07:43:00 GMT",
+    "source": "스포츠경향",
+    "domain": "sports.khan.co.kr",
+    "thumb": null
+  },
+  {
     "title": "BTS 공연으로 들썩인 부산…기념품 매출 136% 급증",
     "link": "http://news.lghellovision.net/news/articleView.html?idxno=545991",
     "pubDate": "Thu, 18 Jun 2026 07:35:11 GMT",
@@ -142,22 +142,6 @@
     "source": "매일신문",
     "domain": "imaeil.com",
     "thumb": "https://www.imaeil.com/photos/2026/06/18/2026061815471535071_l.jpg"
-  },
-  {
-    "title": "방탄소년단 뷔 자작곡 '인투 더 선'…G7 정상회의 환영 영상에 등장",
-    "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008616046",
-    "pubDate": "Thu, 18 Jun 2026 06:15:00 GMT",
-    "source": "SBS 뉴스",
-    "domain": "news.sbs.co.kr",
-    "thumb": "https://img.sbs.co.kr/newsnet/etv/upload/2023/08/16/30000868786_16v9.jpg"
-  },
-  {
-    "title": "佛 대통령이 선택한 BTS…G7 정상회의 영상서 뷔 자작곡 나왔다",
-    "link": "https://v.daum.net/v/20260618143318501",
-    "pubDate": "Thu, 18 Jun 2026 05:33:18 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/18/segye/20260618143318415xlzr.jpg"
   },
   {
     "title": "보넥도·라이즈·BTS…편의점이 ‘남돌’에 빠진 이유? [언박싱]",
@@ -216,28 +200,12 @@
     "thumb": "https://cdn.newsian.co.kr/news/thumbnail/202606/91103_84007_4524_v150.jpg"
   },
   {
-    "title": "11만 몰린 ‘BTS 특수’ 제대로 터졌다…부산 연계행사 20만 돌파, 기념품 매출 136% 급증",
-    "link": "https://www.munhwa.com/article/11596381",
-    "pubDate": "Wed, 17 Jun 2026 23:38:04 GMT",
-    "source": "문화일보",
-    "domain": "munhwa.com",
-    "thumb": "https://wimg.munhwa.com/news/cms/2026/06/18/news-p.v1.20260618.91019f94bff34161bf756fad240a0614_R.png"
-  },
-  {
     "title": "BTS 공연 이틀간 부산에 11만명 방문…관광 파급효과 '대박'",
     "link": "https://www.yna.co.kr/view/AKR20260618024300051",
     "pubDate": "Wed, 17 Jun 2026 22:55:35 GMT",
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img1.yna.co.kr/photo/yna/YH/2026/06/14/PYH2026061405050005100_P4.jpg"
-  },
-  {
-    "title": "첫 소절이면 충분! 방탄소년단 지민, '도입부 장인' 투표 1위",
-    "link": "https://www.starnewskorea.com/music/2026/06/18/2026061807282746424",
-    "pubDate": "Wed, 17 Jun 2026 22:31:22 GMT",
-    "source": "starnewskorea.com",
-    "domain": "starnewskorea.com",
-    "thumb": "https://image.starnewskorea.com/21/2026/06/2026061807282746424_1.jpg"
   },
   {
     "title": "그래미, 아시안팝 부문 신설…BTS 수상 청신호?",
@@ -248,12 +216,20 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/18/kbs/20260618070728745drxs.jpg"
   },
   {
-    "title": "BTS, 드디어 그래미 품을까…아시안 팝 부문 신설",
-    "link": "https://v.daum.net/v/20260618053619409",
-    "pubDate": "Wed, 17 Jun 2026 20:36:19 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/18/newsy/20260618053619511xswz.jpg"
+    "title": "그래미 ‘아시안 팝’ 신설…BTS, 초대 수상 가능성↑",
+    "link": "https://www.sedaily.com/article/20057078",
+    "pubDate": "Wed, 17 Jun 2026 22:00:09 GMT",
+    "source": "서울경제",
+    "domain": "sedaily.com",
+    "thumb": null
+  },
+  {
+    "title": "방탄소년단 진, 팬들과 유쾌한 소통 릴레이..진정한 '팬사랑꾼'",
+    "link": "https://www.starnewskorea.com/music/2026/06/18/2026061806510068225",
+    "pubDate": "Wed, 17 Jun 2026 21:52:59 GMT",
+    "source": "starnewskorea.com",
+    "domain": "starnewskorea.com",
+    "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=1547,fit=cover,q=high,sharpen=2/21/2026/06/2026061806510068225_1.jpg"
   },
   {
     "title": "그래미 ‘아시안 팝’ 부문 신설… BTS와 K팝에게 독일까 득일까",
@@ -262,6 +238,14 @@
     "source": "조선일보",
     "domain": "chosun.com",
     "thumb": "https://www.chosun.com/resizer/v2/4G6V7ORAQNARZNKVCQWLYUM4OQ.png?auth=34ceb5c296abcceb7c80dbc78be9e1c773fbd67ec916524c7b419f6e83bd92c2&amp;width=644&amp;height=338&amp;smart=true"
+  },
+  {
+    "title": "BTS와 부산시 오래된 단짝이었다",
+    "link": "https://news.knn.co.kr/news/article_sns/1417",
+    "pubDate": "Wed, 17 Jun 2026 10:59:00 GMT",
+    "source": "knn.co.kr",
+    "domain": "news.knn.co.kr",
+    "thumb": "https://v.knn.co.kr/news/2026/06/17/550b9210-6f09-40d1-abaf-06145c325343.jpg"
   },
   {
     "title": "BTS Community Post - 이게 무슨일인지 해명해 줄 김석진 찾아요🥵 #jin #to_jin",
@@ -318,5 +302,21 @@
     "source": "조선일보",
     "domain": "chosun.com",
     "thumb": "https://www.chosun.com/resizer/v2/2CBQ37ZPNVBXBMHVI6KXNNCYOI.JPG?auth=28da506f7984074a69e8987246966fef840426c549c9d5ddfc2efbee8bd643df&amp;width=1200&amp;height=630&amp;focal=818,524"
+  },
+  {
+    "title": "10만 인파 몰렸다…BTS 공연에 보랏빛 물결로 가득 찬 부산",
+    "link": "https://www.yna.co.kr/view/AKR20260612124400051",
+    "pubDate": "Fri, 12 Jun 2026 06:58:40 GMT",
+    "source": "연합뉴스",
+    "domain": "yna.co.kr",
+    "thumb": "https://img5.yna.co.kr/photo/yna/YH/2026/06/12/PYH2026061209760005100_P4.jpg"
+  },
+  {
+    "title": "BTS, 13주년에 부산으로…\"좋은 날 한국서 공연해 행복\"",
+    "link": "https://www.yna.co.kr/view/AKR20260612111200005",
+    "pubDate": "Fri, 12 Jun 2026 06:10:31 GMT",
+    "source": "연합뉴스",
+    "domain": "yna.co.kr",
+    "thumb": "https://img0.yna.co.kr/etc/inner/KR/2026/06/12/AKR20260612111200005_01_i_P4.jpg"
   }
 ]
