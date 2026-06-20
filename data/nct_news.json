@@ -40,14 +40,6 @@
     "thumb": "https://cdn.slist.kr/news/thumbnail/202606/746446_1145575_4813_v150.jpg"
   },
   {
-    "title": "\"바쁘다 바빠!\"…NCT 위시, 쉴 틈 없는 대세돌",
-    "link": "https://www.dispatch.co.kr/2344263",
-    "pubDate": "Fri, 19 Jun 2026 12:00:00 GMT",
-    "source": "디스패치",
-    "domain": "dispatch.co.kr",
-    "thumb": "https://dispatch.cdnser.be/cms-content/uploads/2026/06/19/98a52cea-f143-4251-b975-4dfad7b0cc32.jpg"
-  },
-  {
     "title": "NCT 재현, 전역 후 더 빛나는 비주얼",
     "link": "https://www.bntnews.co.kr/article/view/bnt202606190203",
     "pubDate": "Fri, 19 Jun 2026 08:46:06 GMT",
@@ -192,6 +184,14 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/19/mydaily/20260619130503098abxn.jpg"
   },
   {
+    "title": "NCT 도영·이찬원·영탁, 뜻밖의 공통점 밝혀졌다…전현무도 감탄한 맛집 정체는 ('전현무계획')",
+    "link": "https://www.tenasia.co.kr/article/2026061833474",
+    "pubDate": "Thu, 18 Jun 2026 03:59:00 GMT",
+    "source": "텐아시아",
+    "domain": "tenasia.co.kr",
+    "thumb": "https://img.tenasia.co.kr/photo/202606/BF.44695321.1.jpg"
+  },
+  {
     "title": "NCT WISH Community Post - 🎁🔑✨ - SAKUYA",
     "link": "https://weverse.io/nctwish/artist/4-233205140",
     "pubDate": "Thu, 18 Jun 2026 02:09:41 GMT",
@@ -238,14 +238,6 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/15/poctan/20260615161056854xxfu.jpg"
-  },
-  {
-    "title": "NCT WISH(엔시티 위시), 숨길 수 없는 매력 미소(출국)[뉴스엔TV]",
-    "link": "https://m.newsen.com/news_view.php?uid=202606151425431310",
-    "pubDate": "Mon, 15 Jun 2026 05:25:52 GMT",
-    "source": "newsen.com",
-    "domain": "m.newsen.com",
-    "thumb": null
   },
   {
     "title": "NCT DREAM, 마크 탈퇴 후 첫 팬미팅..6人 체제 첫 공식 석상",
@@ -315,6 +307,14 @@
     "title": "NCT WISH “5/3 (일) SBS 인기가요 ‘Ode to Love’ 사전녹화” 참여 안내",
     "link": "https://weverse.io/nctwish/notice/35510",
     "pubDate": "Sun, 03 May 2026 07:00:00 GMT",
+    "source": "Weverse",
+    "domain": "weverse.io",
+    "thumb": null
+  },
+  {
+    "title": "NCT WISH Community Post - 생일 축하해줘서 고마워요〜",
+    "link": "https://weverse.io/nctwish/artist/0-172453382",
+    "pubDate": "Sun, 05 Apr 2026 07:00:00 GMT",
     "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
