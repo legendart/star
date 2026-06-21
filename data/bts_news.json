@@ -32,6 +32,14 @@
     "thumb": "https://image.fnnews.com/resource/media/image/2026/06/14/202606141546292491_l.jpg"
   },
   {
+    "title": "방탄소년단 정국, 직속후배 코르티스에 푹 빠졌다",
+    "link": "https://m.newsen.com/news_view.php?uid=202606211618430410",
+    "pubDate": "Sun, 21 Jun 2026 07:18:53 GMT",
+    "source": "newsen.com",
+    "domain": "m.newsen.com",
+    "thumb": null
+  },
+  {
     "title": "BTS 부산 콘서트 연계 ‘대구 케이로드’로 글로벌 팬덤 발길 붙잡았다",
     "link": "https://www.gyeongsangtoday.com/news/view.php?idx=267359",
     "pubDate": "Sun, 21 Jun 2026 05:33:44 GMT",
@@ -112,6 +120,14 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/21/newsy/20260621060143495euwz.jpg"
   },
   {
+    "title": "BTS 지민, 6월 보이그룹 개인 브랜드평판 1위!",
+    "link": "https://m.anewsa.com/article_sub3.php?number=3170168",
+    "pubDate": "Sat, 20 Jun 2026 15:00:00 GMT",
+    "source": "아시아뉴스통신",
+    "domain": "m.anewsa.com",
+    "thumb": "https://www.anewsa.com/news_images/2024/10/16/mark/20241016193455.jpg"
+  },
+  {
     "title": "BTS RM, 국립중앙박물관 글로벌 홍보대사로…\"한국 문화유산 알린다\"",
     "link": "https://www.newspim.com/news/view/20260620000084",
     "pubDate": "Sat, 20 Jun 2026 08:54:00 GMT",
@@ -150,14 +166,6 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/20/kbs/20260620103017832lncw.jpg"
-  },
-  {
-    "title": "BTS 신곡 '컴 오버', 英 오피셜 싱글 차트 진입…52위 기록",
-    "link": "https://www.news1.kr/entertain/music/6203174",
-    "pubDate": "Sat, 20 Jun 2026 01:03:46 GMT",
-    "source": "뉴스1",
-    "domain": "news1.kr",
-    "thumb": "https://i3n.news1.kr/system/photos/2026/6/20/7968277/high.jpg"
   },
   {
     "title": "BTS RM, 국립중앙박물관 첫 글로벌 홍보 대사 됐다",
@@ -264,28 +272,12 @@
     "thumb": "https://img8.yna.co.kr/etc/inner/KR/2026/06/19/AKR20260619054300005_02_i_P4.jpg"
   },
   {
-    "title": "\"BTS만 보러 온 게 아니네\"…외국인들 부산서 지갑 열었다",
-    "link": "https://v.daum.net/v/20260619085831382",
-    "pubDate": "Thu, 18 Jun 2026 23:58:00 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/19/NEWS1/20260619085833515nfiu.jpg"
-  },
-  {
     "title": "\"손흥민, BTS의 나라\"…한국전 앞둔 멕시코 아미들 ‘멘붕’",
     "link": "https://news.jtbc.co.kr/article/NB12303883",
     "pubDate": "Thu, 18 Jun 2026 10:48:00 GMT",
     "source": "JTBC",
     "domain": "news.jtbc.co.kr",
     "thumb": null
-  },
-  {
-    "title": "BTS에 들썩인 부산, 글로벌 관광지 가능성 재확인",
-    "link": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260619.22010005487",
-    "pubDate": "Thu, 18 Jun 2026 10:09:00 GMT",
-    "source": "국제신문",
-    "domain": "kookje.co.kr",
-    "thumb": "https://db.kookje.co.kr/news2000/photo/2026/0619/L20260619.22010005487i1.jpg?32"
   },
   {
     "title": "BTS 공연 특수, 김해공항서만 외국인 3만 명 입국",
@@ -318,5 +310,13 @@
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img8.yna.co.kr/photo/yna/YH/2026/06/12/PYH2026061209710005100_P4.jpg"
+  },
+  {
+    "title": "BTS 부산 공연 75분 지연... 하이브 \"큰 불편 끼쳐 사과\"",
+    "link": "https://www.chosun.com/culture-life/performance-arts/2026/06/13/OQ4TISKNHNFZ3IAI4OAWUG664Y/",
+    "pubDate": "Sat, 13 Jun 2026 07:00:00 GMT",
+    "source": "조선일보",
+    "domain": "chosun.com",
+    "thumb": "https://www.chosun.com/resizer/v2/2CBQ37ZPNVBXBMHVI6KXNNCYOI.JPG?auth=28da506f7984074a69e8987246966fef840426c549c9d5ddfc2efbee8bd643df&amp;width=1200&amp;height=630&amp;focal=818,524"
   }
 ]
