@@ -96,14 +96,6 @@
     "thumb": "https://news.nateimg.co.kr/orgImg/iz/2026/06/19/227bf46f-23a5-4fae-915d-771906145c78.jpg"
   },
   {
-    "title": "NCT 재현,'멋진 출국길'",
-    "link": "https://www.chosun.com/entertainments/entertain_photo/2026/06/19/G4YGEZTEGNRDKM3GMVQTAOJRGM/",
-    "pubDate": "Fri, 19 Jun 2026 05:27:00 GMT",
-    "source": "조선일보",
-    "domain": "chosun.com",
-    "thumb": "https://www.chosun.com/resizer/v2/HA4WGZJRMU4TAMZRGVSDSNZVMU.jpg?auth=1bf7c106aba87dcfb089036c7696b3a18c749b56d276a094a8ba04a49acfead0&amp;width=530&amp;height=278&amp;smart=true"
-  },
-  {
     "title": "NCT 재현,'여심 사로잡는 매력'",
     "link": "https://news.nate.com/view/20260619n20178",
     "pubDate": "Fri, 19 Jun 2026 05:22:00 GMT",
@@ -136,6 +128,14 @@
     "thumb": "https://news.nateimg.co.kr/orgImg/hm/2026/06/19/news-p.v1.20260619.3f0b2241d0014d9c93f902b8cfc65e38_P1.jpg"
   },
   {
+    "title": "NCT 재현,'청량한 출국길'",
+    "link": "https://www.chosun.com/entertainments/entertain_photo/2026/06/19/GI3DKZDGGVQTGOBXMEYTGMBYMU/",
+    "pubDate": "Fri, 19 Jun 2026 04:30:00 GMT",
+    "source": "조선일보",
+    "domain": "chosun.com",
+    "thumb": "https://www.chosun.com/resizer/v2/GZTDGNBRMM4GIMRQGRTGENZVGI.jpg?auth=13053f6ab49ec4bf72c369ed5fce548dcf231ac9659b113a020f358f7afbe61f&amp;width=530&amp;height=278&amp;smart=true"
+  },
+  {
     "title": "NCT 재현, 훈훈 보조개 왕자",
     "link": "https://enews.imbc.com/News/RetrieveNewsInfo/508812",
     "pubDate": "Fri, 19 Jun 2026 04:09:00 GMT",
@@ -160,12 +160,28 @@
     "thumb": "https://isplus.com/data/isp/image/2026/06/19/isp20260619000110.800x.0.jpg"
   },
   {
+    "title": "NCT 재현 '청량감 넘치는 패션'",
+    "link": "https://news.nate.com/view/20260619n17274",
+    "pubDate": "Fri, 19 Jun 2026 04:06:00 GMT",
+    "source": "네이트",
+    "domain": "news.nate.com",
+    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/my/2026/06/19/2026061913054667125_l.jpg"
+  },
+  {
     "title": "NCT 재현 '팬에게 손인사'",
     "link": "https://v.daum.net/v/20260619130501542",
     "pubDate": "Fri, 19 Jun 2026 04:05:01 GMT",
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/19/mydaily/20260619130503098abxn.jpg"
+  },
+  {
+    "title": "NCT 도영·이찬원·영탁, 뜻밖의 공통점 밝혀졌다…전현무도 감탄한 맛집 정체는 ('전현무계획')",
+    "link": "https://www.tenasia.co.kr/article/2026061833474",
+    "pubDate": "Thu, 18 Jun 2026 03:59:00 GMT",
+    "source": "텐아시아",
+    "domain": "tenasia.co.kr",
+    "thumb": "https://img.tenasia.co.kr/photo/202606/BF.44695321.1.jpg"
   },
   {
     "title": "태민·NCT 위시, 파리 홀린다…‘인기가요 인 파리’ 26일 방송",
@@ -216,20 +232,20 @@
     "thumb": "https://image.starnewskorea.com/21/2026/06/2026061514165095713_1.jpg"
   },
   {
-    "title": "NCT JNJM, 첫 팬미팅 서울 공연 성료..'극과 극 매력' 통했다",
-    "link": "https://www.koreadaily.com/article/20260614191315525",
-    "pubDate": "Mon, 15 Jun 2026 02:12:00 GMT",
-    "source": "미주중앙일보",
-    "domain": "koreadaily.com",
-    "thumb": "https://www.koreadaily.com/data/photo/thumbnail/2026/06/15/1e978228-2cd5-422a-983a-c0b6507577c4.jpg"
-  },
-  {
     "title": "NCT WISH The 1st Album ‘Ode to Love’ 발매 기념 ‘VIDEO CALL EVENT’ – 6/23(화) 애플뮤직",
     "link": "https://weverse.io/nctwish/notice/36678",
     "pubDate": "Fri, 12 Jun 2026 11:52:30 GMT",
     "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
+  },
+  {
+    "title": "NCT와 SM 떠난 마크, 새 레이블 어퍼룸 설립…공동 대표 됐다",
+    "link": "https://v.daum.net/v/20260604114209136?f=p",
+    "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/04/nocut/20260604114211836mtww.jpg"
   },
   {
     "title": "NCT 떠난 마크, 새 레이블 어퍼룸 설립하고 새출발",
@@ -246,14 +262,6 @@
     "source": "문화일보",
     "domain": "munhwa.com",
     "thumb": "https://wimg.munhwa.com/news/cms/2026/06/04/news-p.v1.20260604.628ce21c2d574122a7fe63d7d575ef09_R.jpg"
-  },
-  {
-    "title": "NCT와 SM 떠난 마크, 새 레이블 어퍼룸 설립…공동 대표 됐다",
-    "link": "https://v.daum.net/v/20260604114209136?f=p",
-    "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/04/nocut/20260604114211836mtww.jpg"
   },
   {
     "title": "NCT 출신 마크, 1인 기획사 어퍼룸 설립…공동대표 맡아",
@@ -275,14 +283,6 @@
     "title": "NCT WISH The 1st Album ‘Ode to Love’ 발매 기념 사인회 – 5/10(일) 뮤직아트",
     "link": "https://weverse.io/nctwish/notice/35568",
     "pubDate": "Sun, 10 May 2026 07:00:00 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
-  },
-  {
-    "title": "NCT WISH “5/4 (월) 불후의 명곡 - 서울스프링페스티",
-    "link": "https://weverse.io/nctwish/notice/35346",
-    "pubDate": "Mon, 04 May 2026 07:00:00 GMT",
     "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
