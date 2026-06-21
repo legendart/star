@@ -48,14 +48,6 @@
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/06/20/202606202045446110_1.jpg"
   },
   {
-    "title": "베이비돈크라이 이현, ‘분당 리틀 아이유’였다",
-    "link": "https://www.slist.kr/news/articleView.html?idxno=746585",
-    "pubDate": "Sat, 20 Jun 2026 12:39:10 GMT",
-    "source": "싱글리스트",
-    "domain": "slist.kr",
-    "thumb": "https://cdn.slist.kr/news/thumbnail/202606/746585_1145777_3817_v150.jpg"
-  },
-  {
     "title": "문소리 \"'AAA'서 '폭싹' 팀 만나 든든..아이유, 강단 있고 단단\" [인터뷰②]",
     "link": "https://v.daum.net/v/20260620070200075",
     "pubDate": "Fri, 19 Jun 2026 22:02:00 GMT",
@@ -168,6 +160,14 @@
     "thumb": "https://image.ytn.co.kr/general/jpg/2026/0608/202606080940015740_t.jpg"
   },
   {
+    "title": "잠실 집회 참가자들 \"커피 사달라\"...아이유·박보영 댓글창 무슨 일? [지금이뉴스]",
+    "link": "https://www.ytn.co.kr/_ln/0134_202606081723346645",
+    "pubDate": "Mon, 08 Jun 2026 07:00:00 GMT",
+    "source": "YTN",
+    "domain": "ytn.co.kr",
+    "thumb": "https://image.ytn.co.kr/general/jpg/2026/0608/202606081723346645_t.jpg"
+  },
+  {
     "title": "\"잠실에 스벅 보내라\" 아이유·박보영·이동욱에 ‘악성 댓글’",
     "link": "https://news.jtbc.co.kr/article/NB12301897",
     "pubDate": "Sun, 07 Jun 2026 07:00:00 GMT",
@@ -184,6 +184,14 @@
     "thumb": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0607/20260607500486.webp"
   },
   {
+    "title": "\"잠실 시위, 아이유가 왜 거기서 나와\"…SNS 찾아가 커피 지원 요구 논란",
+    "link": "https://www.news1.kr/life-culture/general-cultural/6189584",
+    "pubDate": "Sun, 07 Jun 2026 07:00:00 GMT",
+    "source": "뉴스1",
+    "domain": "news1.kr",
+    "thumb": "https://i3n.news1.kr/system/photos/2026/6/7/7946014/high.jpg"
+  },
+  {
     "title": "\"탄핵 집회 땐 커피 줬잖아\"…아이유 SNS에 쏟아진 댓글 읽어보니",
     "link": "http://weekly.chosun.com/news/articleView.html?idxno=52302",
     "pubDate": "Sun, 07 Jun 2026 07:00:00 GMT",
@@ -198,22 +206,6 @@
     "source": "YTN",
     "domain": "ytn.co.kr",
     "thumb": "https://image.ytn.co.kr/general/jpg/2026/0607/202606071230481920_t.jpg"
-  },
-  {
-    "title": "\"잠실 시위, 아이유가 왜 거기서 나와\"…SNS 찾아가 커피 지원 요구 논란",
-    "link": "https://www.news1.kr/life-culture/general-cultural/6189584",
-    "pubDate": "Sun, 07 Jun 2026 07:00:00 GMT",
-    "source": "뉴스1",
-    "domain": "news1.kr",
-    "thumb": "https://i3n.news1.kr/system/photos/2026/6/7/7946014/high.jpg"
-  },
-  {
-    "title": "“아이유, 잠실에 커피 선결제 좀~ 좌파시위만 국민?” 댓글테러 난무",
-    "link": "https://www.munhwa.com/article/11593754",
-    "pubDate": "Sun, 07 Jun 2026 06:53:36 GMT",
-    "source": "문화일보",
-    "domain": "munhwa.com",
-    "thumb": "https://wimg.munhwa.com/news/cms/2026/06/07/news-b.v1.20260607.a05eb43b7b594960b1b63ec3eb6df6bc_R.png"
   },
   {
     "title": "“우리도 스벅 선결제 해줘” 잠실 시위대, 아이유 SNS 몰려가 요구",
@@ -248,28 +240,12 @@
     "thumb": "https://wimg.munhwa.com/news/cms/2026/06/06/news-a.v1.20260606.50567dabb99e443fab20828662d962ea_T1.jpg"
   },
   {
-    "title": "“잠실 시위대에 빵·커피 보내달라” 아이유에 선결제 요구…이동욱도 ‘불똥’",
-    "link": "https://www.seoul.co.kr/news/politics/2026/06/06/20260606500030",
-    "pubDate": "Sat, 06 Jun 2026 07:00:00 GMT",
-    "source": "서울신문",
-    "domain": "seoul.co.kr",
-    "thumb": "https://img.seoul.co.kr//img/upload/2026/06/06/SSC_20260606200856_O2.jpg"
-  },
-  {
     "title": "\"탄핵 때처럼 스벅 선결제 해달라\"…아이유 SNS '테러', 왜?",
     "link": "https://www.hankyung.com/article/2026060609677",
     "pubDate": "Sat, 06 Jun 2026 07:00:00 GMT",
     "source": "한국경제",
     "domain": "hankyung.com",
     "thumb": "https://img.hankyung.com/photo/202606/ZN.44236365.1.jpg"
-  },
-  {
-    "title": "\"잠실 스벅 선결제해줘\" 투표용지 사태에 아이유 SNS 불똥",
-    "link": "https://www.newsis.com/view/NISX20260606_0003658809",
-    "pubDate": "Sat, 06 Jun 2026 07:00:00 GMT",
-    "source": "뉴시스",
-    "domain": "newsis.com",
-    "thumb": "https://img1.newsis.com/2026/05/11/NISI20260511_0021279156_web.jpg"
   },
   {
     "title": "“잠실 스벅 선결제 해달라” 아이유, 또 좌표 찍혔다",
@@ -296,12 +272,36 @@
     "thumb": "https://img3.yna.co.kr/etc/inner/KR/2026/05/30/AKR20260530022100004_01_i_P4.jpg"
   },
   {
+    "title": "아이유·변우석까지 사과했지만... 끝나지 않은 '대군부인' 후폭풍",
+    "link": "https://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0003236635",
+    "pubDate": "Fri, 22 May 2026 07:00:00 GMT",
+    "source": "오마이뉴스",
+    "domain": "ohmynews.com",
+    "thumb": "https://ojsfile.ohmynews.com/CRI_T_IMG/2026/0522/A0003236635_T.jpg"
+  },
+  {
+    "title": "변우석·아이유 '대군부인' 역사왜곡 논란에 사과 \"부끄러워\"",
+    "link": "https://www.yna.co.kr/view/AKR20260518113600005",
+    "pubDate": "Mon, 18 May 2026 07:00:00 GMT",
+    "source": "연합뉴스",
+    "domain": "yna.co.kr",
+    "thumb": "https://img5.yna.co.kr/etc/inner/KR/2026/05/18/AKR20260518113600005_02_i_P4.jpg"
+  },
+  {
     "title": "역사 왜곡 논란 속 종영한 ‘대군부인’…아이유 “미흡한 모습 제 잘못”",
     "link": "https://www.khan.co.kr/article/202605171706001",
     "pubDate": "Sun, 17 May 2026 07:00:00 GMT",
     "source": "경향신문",
     "domain": "khan.co.kr",
     "thumb": "https://img.khan.co.kr/news/2026/05/17/news-p.v1.20260517.3201590e3e2b4939a00fe339c51b11f6_P1.jpg"
+  },
+  {
+    "title": "아이유, 생일 맞아 ‘아이유애나’ 이름으로 3억원 기부",
+    "link": "https://www.khan.co.kr/article/202605161235001",
+    "pubDate": "Sat, 16 May 2026 07:00:00 GMT",
+    "source": "경향신문",
+    "domain": "khan.co.kr",
+    "thumb": "https://img.khan.co.kr/news/2026/05/16/news-p.v1.20260516.aba30efd7e1d4409b43ee49d24f890ab_P1.jpg"
   },
   {
     "title": "아이유·변우석 ‘21세기 대군부인’ 촬영지, ‘도깨비’ 공유의 그 집이었어?",
