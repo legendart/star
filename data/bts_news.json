@@ -1,5 +1,85 @@
 [
   {
+    "title": "BTS '컴 오버', 美 빌보드 '핫 100' 69위·디지털 송 세일즈 1위",
+    "link": "https://www.news1.kr/entertain/music/6207357",
+    "pubDate": "Wed, 24 Jun 2026 08:18:31 GMT",
+    "source": "뉴스1",
+    "domain": "news1.kr",
+    "thumb": "https://i3n.news1.kr/system/photos/2026/6/24/7975035/high.jpg"
+  },
+  {
+    "title": "BTS·보이넥스트도어 동반 질주···빌보드서 K팝 존재감",
+    "link": "https://news.nate.com/view/20260624n30215",
+    "pubDate": "Wed, 24 Jun 2026 07:58:00 GMT",
+    "source": "네이트",
+    "domain": "news.nate.com",
+    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sm/2026/06/24/146959_251377_2947.png"
+  },
+  {
+    "title": "BTS ‘다이너마이트’ 뮤직비디오, 유튜브 21억 뷰 돌파",
+    "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1268453",
+    "pubDate": "Wed, 24 Jun 2026 07:39:10 GMT",
+    "source": "전국매일신문",
+    "domain": "jeonmae.co.kr",
+    "thumb": "https://www.jeonmae.co.kr/news/thumbnail/202606/1268453_990877_3755_v150.jpg"
+  },
+  {
+    "title": "BTS·세븐틴 티켓값 ‘뻥튀기’…‘14만원→120만원’ 암표 거래 적발",
+    "link": "https://www.nongmin.com/article/20260624500188",
+    "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+    "source": "농민신문",
+    "domain": "nongmin.com",
+    "thumb": "https://www.nongmin.com/-/raw/srv-nongmin/data2/content/image/2026/06/24/.cache/512/20260624500185.jpg"
+  },
+  {
+    "title": "컴포즈커피, BTS 뷔와 3년째 동행…재계약 비용 중 30억 점주 분담(종합)",
+    "link": "https://news.nate.com/view/20260624n26819",
+    "pubDate": "Wed, 24 Jun 2026 06:46:00 GMT",
+    "source": "네이트",
+    "domain": "news.nate.com",
+    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/ns/2026/06/24/NISI20260410_0002107420_web.jpg"
+  },
+  {
+    "title": "'21억 뷰' 대기록…BTS '다이너마이트'로 자체 최고 신기록 경신",
+    "link": "https://m.news.nate.com/view/20260624n25690?issue_sq=9009&mid=e0608",
+    "pubDate": "Wed, 24 Jun 2026 06:24:00 GMT",
+    "source": "네이트",
+    "domain": "m.news.nate.com",
+    "thumb": "https://news.nateimg.co.kr/orgImg/sw/2026/06/24/20260624513873.jpg"
+  },
+  {
+    "title": "BTS 등 콘서트 티켓 무더기 되팔기, 결국 경찰행",
+    "link": "https://v.daum.net/v/20260624151346064",
+    "pubDate": "Wed, 24 Jun 2026 06:13:46 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/24/fnnewsi/20260624151346778zzsl.jpg"
+  },
+  {
+    "title": "BTS '다이너마이트' 뮤비 유튜브 21억뷰",
+    "link": "https://www.yna.co.kr/view/AKR20260624118300005?section=culture/all",
+    "pubDate": "Wed, 24 Jun 2026 06:03:17 GMT",
+    "source": "연합뉴스",
+    "domain": "yna.co.kr",
+    "thumb": "https://img0.yna.co.kr/etc/inner/KR/2026/06/24/AKR20260624118300005_01_i_P4.jpg"
+  },
+  {
+    "title": "1,000대 드론으로 그린 BTS",
+    "link": "https://www.wbcb.co.kr/news/articleView.html?idxno=103551",
+    "pubDate": "Wed, 24 Jun 2026 05:37:43 GMT",
+    "source": "복지TV부울경방송",
+    "domain": "wbcb.co.kr",
+    "thumb": "https://cdn.wbcb.co.kr/news/thumbnail/202606/103551_132477_628_v150.jpg"
+  },
+  {
+    "title": "외국인 관광객 1000만명 돌파…‘BTS 효과’도 한몫",
+    "link": "https://www.segye.com/newsView/20260624505750?OutUrl=google",
+    "pubDate": "Wed, 24 Jun 2026 05:29:32 GMT",
+    "source": "세계일보",
+    "domain": "segye.com",
+    "thumb": "https://www.segye.com/content/image/2026/06/24/20260624511195.jpg"
+  },
+  {
     "title": "'BTS 공연 한 명이 10장 넘게 판매'‥암표 의심 15명 적발·수사의뢰",
     "link": "https://imnews.imbc.com/news/2026/econo/article/6832521_36932.html",
     "pubDate": "Wed, 24 Jun 2026 04:47:10 GMT",
@@ -8,36 +88,12 @@
     "thumb": "https://image.imnews.imbc.com/news/2026/econo/article/__icsFiles/afieldfile/2026/06/24/ljm_20260624_12.jpg"
   },
   {
-    "title": "BTS 공연 등 티켓을 120만원에…문체부, 암표 판매 15명 경찰 수사 의뢰",
-    "link": "https://news.nate.com/view/20260624n17367",
-    "pubDate": "Wed, 24 Jun 2026 02:46:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sw/2026/06/24/20260624509011.jpg"
-  },
-  {
-    "title": "문체부, 암표상 15명 경찰 수사 의뢰…BTS·세븐틴 등 아이돌 공연 8배 ↑",
-    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16109755",
-    "pubDate": "Wed, 24 Jun 2026 02:40:58 GMT",
-    "source": "TopStarNews",
-    "domain": "topstarnews.net",
-    "thumb": "https://cdn.topstarnews.net/news/photo/202606/16109755_1948442_4034_crop.jpeg"
-  },
-  {
     "title": "넥스, BTS와 손잡고 인터랙티브 경험 선보인다",
     "link": "http://www.sukbakmagazine.com/news/articleView.html?idxno=68639",
     "pubDate": "Wed, 24 Jun 2026 02:09:21 GMT",
     "source": "숙박매거진",
     "domain": "sukbakmagazine.com",
     "thumb": "https://cdn.sukbakmagazine.com/news/thumbnail/202606/68639_516804_91_v150.jpg"
-  },
-  {
-    "title": "BTS 뷔, 모시느라 등골 휘는 점주들… 저가 커피의 서글픈 민낯",
-    "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=4022546",
-    "pubDate": "Wed, 24 Jun 2026 02:00:00 GMT",
-    "source": "내외경제TV",
-    "domain": "nbntv.co.kr",
-    "thumb": "https://cdn.nbntv.co.kr/news/photo/202606/4022546_296016_5112.jpg"
   },
   {
     "title": "BTS RM이 받은 '대동여지도' 족자, 한정판으로 나온다",
@@ -56,14 +112,6 @@
     "thumb": "https://img.etnews.com/news/article/2026/06/24/article_24100153841201.jpg"
   },
   {
-    "title": "암표 판매 의심 15명 경찰 수사 의뢰…야구·BTS 티켓 싹쓸이 정황",
-    "link": "https://news.skbroadband.com/news/articleView.html?idxno=230258",
-    "pubDate": "Wed, 24 Jun 2026 00:42:43 GMT",
-    "source": "B world",
-    "domain": "news.skbroadband.com",
-    "thumb": "https://cdn.news.skbroadband.com/news/photo/202606/230258_235168_251.jpg"
-  },
-  {
     "title": "BTS RM이 받은 대동여지도 '1호 족자', 일반 판매 시작된다",
     "link": "https://www.asiae.co.kr/article/2026062409300949043",
     "pubDate": "Wed, 24 Jun 2026 00:30:09 GMT",
@@ -78,30 +126,6 @@
     "source": "뉴스1",
     "domain": "news1.kr",
     "thumb": "https://i3n.news1.kr/system/photos/2026/6/24/7973290/high.jpg"
-  },
-  {
-    "title": "BTS 지민, 디올 글로벌 앰배서더의 품격 뽐내며 출국",
-    "link": "https://fashionbiz.co.kr/article/227307",
-    "pubDate": "Wed, 24 Jun 2026 00:14:16 GMT",
-    "source": "패션비즈",
-    "domain": "fashionbiz.co.kr",
-    "thumb": "https://www.fashionbiz.co.kr/images/articleImg/mainImg/1782259832263-[%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C%20%EC%9D%B4%EB%AF%B8%EC%A7%80]%20_%EB%94%94%EC%98%AC%20%EC%87%BC%20%EC%B0%B8%EC%84%9D%EC%B0%A8%20%EC%B6%9C%EA%B5%AD_%20BTS%20%EC%A7%80%EB%AF%BC,%20%EA%B3%B5%ED%95%AD%EC%9D%84%20%EB%B9%9B%EB%82%B8%20%EB%8F%85%EB%B3%B4%EC%A0%81%EC%9D%B8%20%EC%A1%B4%EC%9E%AC%EA%B0%90%20(1)-side.jpg"
-  },
-  {
-    "title": "방탄소년단 신곡 '컴 오버', 美 빌보드 '핫 100' 69위",
-    "link": "https://www.hankyung.com/article/202606244398H",
-    "pubDate": "Wed, 24 Jun 2026 00:13:36 GMT",
-    "source": "한국경제",
-    "domain": "hankyung.com",
-    "thumb": "https://img.hankyung.com/photo/202606/01.44770334.1.jpg"
-  },
-  {
-    "title": "BTS RM이 받은 ‘1번 족자’…뮷즈, ‘대동여지도’ 한정판 공개",
-    "link": "https://sports.donga.com/ent/article/all/20260624/134171017/1",
-    "pubDate": "Wed, 24 Jun 2026 00:06:21 GMT",
-    "source": "sports.donga.com",
-    "domain": "sports.donga.com",
-    "thumb": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/06/24/134171074.1.png"
   },
   {
     "title": "BTS 공연 웃돈 8배…문체부, 암표상 15명 경찰 수사 의뢰",
@@ -120,12 +144,12 @@
     "thumb": "https://cdn.snakorea.com/news/thumbnail/202606/1031162_974828_569_v150.jpg"
   },
   {
-    "title": "BTS, 신곡 내놓더니 또 빌보드로…'Come Over' HOT100 69위",
-    "link": "https://www.tenasia.co.kr/article/2026062441694",
-    "pubDate": "Tue, 23 Jun 2026 23:44:00 GMT",
-    "source": "텐아시아",
-    "domain": "tenasia.co.kr",
-    "thumb": "https://img.tenasia.co.kr/photo/202606/BF.44685274.1.jpg"
+    "title": "BTS '아리랑', 해외 주요 매체서 '올해 최고의 앨범' 선정",
+    "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008624351",
+    "pubDate": "Tue, 23 Jun 2026 23:23:00 GMT",
+    "source": "SBS 뉴스",
+    "domain": "news.sbs.co.kr",
+    "thumb": "https://img.sbs.co.kr/newimg/news/20260624/202195639_1280.jpg"
   },
   {
     "title": "BTS 정국, ‘세븐’으로 또 신기록…스포티파이 30억 스트리밍",
@@ -192,14 +216,6 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/23/nocut/20260623182705348foim.jpg"
   },
   {
-    "title": "BTS 정국 '세븐'…스포티파이 30억 스트리밍 돌파",
-    "link": "https://v.daum.net/v/20260623162345891",
-    "pubDate": "Tue, 23 Jun 2026 07:23:45 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/23/newsy/20260623162345573pkyz.jpg"
-  },
-  {
     "title": "BTS 지민, '세련된 패션 감각'",
     "link": "https://www.etnews.com/20260623000393",
     "pubDate": "Tue, 23 Jun 2026 06:42:28 GMT",
@@ -208,28 +224,28 @@
     "thumb": "https://img.etnews.com/news/article/2026/06/23/cms_temp_stats_17821968601477098570.jpg"
   },
   {
+    "title": "BTS 지민, '오늘 분위기도 완벽'",
+    "link": "https://www.etnews.com/20260623000390",
+    "pubDate": "Tue, 23 Jun 2026 06:40:20 GMT",
+    "source": "전자신문",
+    "domain": "etnews.com",
+    "thumb": "https://img.etnews.com/news/article/2026/06/23/cms_temp_stats_1782196763698650652.jpg"
+  },
+  {
+    "title": "BTS 정국 ‘세븐’, 스포티파이 30억 스트리밍 돌파…한국 가수 최초",
+    "link": "https://news.kbs.co.kr/news/view.do?ncd=8592821",
+    "pubDate": "Tue, 23 Jun 2026 06:18:00 GMT",
+    "source": "KBS 뉴스",
+    "domain": "news.kbs.co.kr",
+    "thumb": "http://news.kbs.co.kr/data/news/2026/06/23/20260623_qYIPOd.png"
+  },
+  {
     "title": "BTS 정국 '세븐', 한국 가수 첫 스포티파이 30억 스트리밍",
     "link": "https://www.yna.co.kr/view/AKR20260623114200005",
     "pubDate": "Tue, 23 Jun 2026 05:51:50 GMT",
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img8.yna.co.kr/photo/yna/YH/2026/06/13/PYH2026061304180001300_P4.jpg"
-  },
-  {
-    "title": "'BTS 굿즈'가 쇠젓가락인 이유 있었네…신기한 한중일 '젓가락 문화' 차이",
-    "link": "https://news.nate.com/view/20260623n21765",
-    "pubDate": "Tue, 23 Jun 2026 05:45:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sg/2026/06/23/20260619513473.jpg"
-  },
-  {
-    "title": "BTS '아리랑', 美 롤링스톤·英 NME '2026 최고의 앨범' 선정",
-    "link": "https://www.yna.co.kr/view/AKR20260623040000005",
-    "pubDate": "Tue, 23 Jun 2026 00:59:20 GMT",
-    "source": "연합뉴스",
-    "domain": "yna.co.kr",
-    "thumb": "https://img9.yna.co.kr/etc/inner/KR/2026/06/23/AKR20260623040000005_01_i_P4.jpg"
   },
   {
     "title": "BTS 정국 집 ‘100m 접근 금지’에도 또 찾아간 외국인 여성의 최후",
@@ -246,14 +262,6 @@
     "source": "iMBC 연예",
     "domain": "enews.imbc.com",
     "thumb": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/06/23/3b2b9a4a-33cd-4559-a7e6-d085aa10cc77.jpg"
-  },
-  {
-    "title": "BTS 정국, 출국",
-    "link": "https://www.news1.kr/photos/7971333",
-    "pubDate": "Tue, 23 Jun 2026 00:01:25 GMT",
-    "source": "뉴스1",
-    "domain": "news1.kr",
-    "thumb": "https://image.news1.kr/system/photos/2026/6/23/7971333/high.jpg"
   },
   {
     "title": "BTS 정국 자택 침입한 브라질 여성, 1심서 징역형 집행유예",
@@ -296,12 +304,12 @@
     "thumb": "https://image.inews24.com/v1/3090c79650ee1c.jpg"
   },
   {
-    "title": "BTS 제이홉, 슬리퍼 사이로 빼꼼…하트 양말 포인트 '남친룩'",
-    "link": "https://v.daum.net/v/20260622111141197",
-    "pubDate": "Mon, 22 Jun 2026 02:11:41 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/22/NEWS1/20260622111141672fbuu.jpg"
+    "title": "코리아넷뉴스 - BTS RM, 국중박 홍보대사 위촉···\"문화유산 아름다움 알릴 것\"",
+    "link": "https://www.korean-culture.org/koreanet/view.do?seq=1054797&page=1&pageSize=10&photoPageSize=6&totalCount=0&searchType=null&searchText=&searchCondition=1&cateCode=",
+    "pubDate": "Mon, 22 Jun 2026 04:04:29 GMT",
+    "source": "문화체육관광부 한국문화원",
+    "domain": "korean-culture.org",
+    "thumb": null
   },
   {
     "title": "“BTS 보고 싶은데 가불 좀” 편지 쓴 가사도우미…고용주가 준 ‘특별 선물’",
@@ -310,13 +318,5 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/22/joongang/20260622095121389vzzi.jpg"
-  },
-  {
-    "title": "BTS 5집 '아리랑', 빌보드 앨범 차트 '톱 10' 복귀",
-    "link": "https://www.yna.co.kr/amp/view/AKR20260622021600005",
-    "pubDate": "Sun, 21 Jun 2026 23:36:07 GMT",
-    "source": "연합뉴스",
-    "domain": "yna.co.kr",
-    "thumb": "https://img8.yna.co.kr/etc/inner/KR/2026/06/22/AKR20260622021600005_01_i_P4.jpg"
   }
 ]
