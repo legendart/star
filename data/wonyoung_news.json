@@ -40,6 +40,14 @@
     "thumb": "https://cdn.dongponews.net/news/thumbnail/202606/58958_214225_2340_v150.jpg"
   },
   {
+    "title": "BTS 정국, 'K-브랜드지수' 아이돌 개인 1위⋯장원영 2위",
+    "link": "https://news.nate.com/view/20260626n08882?mid=e0608&isq=10098",
+    "pubDate": "Fri, 26 Jun 2026 01:01:00 GMT",
+    "source": "네이트",
+    "domain": "news.nate.com",
+    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/jn/2026/06/26/a487db88c31610.jpg"
+  },
+  {
     "title": "지드래곤, 장원영·제니·지민에 밀려 K-브랜드지수 K-POP 개인 부문 5위...정국 1위 영예",
     "link": "https://www.socialvalue.kr/news/view/1065570995607237",
     "pubDate": "Fri, 26 Jun 2026 00:01:01 GMT",
@@ -94,14 +102,6 @@
     "source": "데일리안",
     "domain": "dailian.co.kr",
     "thumb": "https://cdnimage.dailian.co.kr/news/202606/news_1782348649_1659694_m_1.jpg"
-  },
-  {
-    "title": "제니·장원영·정국, 글로벌 팬덤 앞세워 K-브랜드지수 2026 상반기 광고모델 톱10 진입",
-    "link": "https://www.socialvalue.kr/news/view/1065571100574924",
-    "pubDate": "Thu, 25 Jun 2026 00:03:18 GMT",
-    "source": "소셜밸류",
-    "domain": "socialvalue.kr",
-    "thumb": "http://www.socialvalue.kr/news/data/20260625/p1065571100574924_500_thum.jpg"
   },
   {
     "title": "\"멤버들 다 가렸는데\"...장원영, '특혜 논란' 의식했나 '맨얼굴'로 공항 등장",
@@ -200,6 +200,14 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/23/mydaily/20260623214423553gtfs.jpg"
   },
   {
+    "title": "장원영, 화장기 없어도 이 정도…청순 비주얼 ‘감탄’ [DA★]",
+    "link": "https://sports.donga.com/ent/article/all/20260623/134169831/1",
+    "pubDate": "Tue, 23 Jun 2026 12:23:04 GMT",
+    "source": "스포츠동아",
+    "domain": "sports.donga.com",
+    "thumb": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/06/23/134169818.1.jpg"
+  },
+  {
     "title": "결국 ‘장원영이 바꿨다’···“마스크 내려주세요” 명문화",
     "link": "https://sports.khan.co.kr/article/202606201423003",
     "pubDate": "Sat, 20 Jun 2026 05:23:00 GMT",
@@ -240,20 +248,20 @@
     "thumb": "https://img1.yna.co.kr/photo/cms/2025/02/25/72/PCM20250225000072050_P4.jpg"
   },
   {
-    "title": "장원영 출국 영상 보더니…“마스크 기준이 뭐죠?” 민원 [잇슈 키워드]",
-    "link": "https://news.kbs.co.kr/news/view.do?ncd=8587100",
-    "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
-    "source": "KBS 뉴스",
-    "domain": "news.kbs.co.kr",
-    "thumb": "http://news.kbs.co.kr/data/news/title_image/newsmp4/newsplaza_p1/2026/06/16/320_8587100.jpg"
-  },
-  {
     "title": "장원영 태도 논란‥다른 영상 통해 '일단락'",
     "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6830459_37012.html",
     "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
     "source": "MBC 뉴스",
     "domain": "imnews.imbc.com",
     "thumb": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/06/16/today_20260616_065501_2_15_Large.jpg"
+  },
+  {
+    "title": "장원영 출국 영상 보더니…“마스크 기준이 뭐죠?” 민원 [잇슈 키워드]",
+    "link": "https://news.kbs.co.kr/news/view.do?ncd=8587100",
+    "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
+    "source": "KBS 뉴스",
+    "domain": "news.kbs.co.kr",
+    "thumb": "http://news.kbs.co.kr/data/news/title_image/newsmp4/newsplaza_p1/2026/06/16/320_8587100.jpg"
   },
   {
     "title": "장원영 출국 심사 후폭풍, 결국 안내 방침 바꾼다",
@@ -310,13 +318,5 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/11/segye/20260611093036324vuao.jpg"
-  },
-  {
-    "title": "장원영 ‘공항 태도 논란’ 속상했나…베이징덕 먹방 속 ‘울고’ 문구 ‘눈길’",
-    "link": "https://sports.khan.co.kr/article/202606041516003",
-    "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT",
-    "source": "스포츠경향",
-    "domain": "sports.khan.co.kr",
-    "thumb": null
   }
 ]
