@@ -1,5 +1,13 @@
 [
   {
+    "title": "BTS, 6월 가수 브랜드평판 1위!",
+    "link": "https://m.anewsa.com/article_sub3.php?number=3172581",
+    "pubDate": "Sat, 27 Jun 2026 15:00:00 GMT",
+    "source": "아시아뉴스통신",
+    "domain": "m.anewsa.com",
+    "thumb": "https://www.anewsa.com/news_images/2026/03/22/mark/20260322104713.jpg"
+  },
+  {
     "title": "BTS '아리랑', 14주 연속 스포티파이 앨범차트 최상위권 기록",
     "link": "https://news.nate.com/view/20260627n13093?mid=e1200",
     "pubDate": "Sat, 27 Jun 2026 14:52:00 GMT",
@@ -14,14 +22,6 @@
     "source": "한국강사신문",
     "domain": "lecturernews.com",
     "thumb": "https://cdn.lecturernews.com/news/thumbnail/202606/205047_472702_35_v150.jpg"
-  },
-  {
-    "title": "BTS 정국, 브랜드 평판도 독주…K-POP 개인 부문 1위 등극",
-    "link": "https://www.ppss.kr/news/articleView.html?idxno=300005",
-    "pubDate": "Sat, 27 Jun 2026 07:22:37 GMT",
-    "source": "ppss.kr",
-    "domain": "ppss.kr",
-    "thumb": "https://cdn.ppss.kr/news/photo/202606/300005_118868_1829.jpg"
   },
   {
     "title": "韓 의원들 만난 테더 “BTS·아이유처럼 스테이블코인 공존 가능”",
@@ -64,6 +64,14 @@
     "thumb": "https://www.breaknews.com/imgdata/breaknews_com/202606/2026062042218929.jpg"
   },
   {
+    "title": "‘방탄소년단·리센느·임영웅’ 6월 평판 TOP 3… 예능 강세 리센느의 무서운 도약",
+    "link": "https://mhnse.com/news/articleView.html?idxno=1443838",
+    "pubDate": "Sat, 27 Jun 2026 02:23:05 GMT",
+    "source": "mhnse.com",
+    "domain": "mhnse.com",
+    "thumb": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/06/cb769c0f-e6b5-4e5a-9313-b061d5b0538a.jpg"
+  },
+  {
     "title": "BTS '아리랑', 英 앨범 차트서 39위…14주 연속 차트 인",
     "link": "https://www.edaily.co.kr/News/Read?newsId=02371446645485984&mediaCodeNo=257",
     "pubDate": "Sat, 27 Jun 2026 02:19:11 GMT",
@@ -78,14 +86,6 @@
     "source": "스포츠경향",
     "domain": "sports.khan.co.kr",
     "thumb": null
-  },
-  {
-    "title": "BTS '아리랑', 글로벌 흥행 계속…英 앨범 차트 14주 연속 진입",
-    "link": "https://m.news.nate.com/view/20260627n05236?issue_sq=9009&mid=e0608",
-    "pubDate": "Sat, 27 Jun 2026 01:41:00 GMT",
-    "source": "네이트",
-    "domain": "m.news.nate.com",
-    "thumb": "https://news.nateimg.co.kr/orgImg/sw/2026/06/27/20260627503314.jpg"
   },
   {
     "title": "\"BTS '아리랑', 영국 차트에 14주 연속 진입… K팝 열풍 계속\"",
@@ -112,28 +112,20 @@
     "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=1715,fit=cover,q=high,sharpen=2/21/2026/06/2026062709413371442_4.jpg"
   },
   {
+    "title": "방탄소년단 ‘아리랑’ 글로벌 장기 흥행",
+    "link": "https://news.jtbc.co.kr/article/NB12305317",
+    "pubDate": "Fri, 26 Jun 2026 23:25:00 GMT",
+    "source": "JTBC",
+    "domain": "news.jtbc.co.kr",
+    "thumb": null
+  },
+  {
     "title": "\"몇 잔 팔아야 하나\"…BTS 광고에 커피업계 술렁이는 이유",
     "link": "https://m.news.nate.com/view/20260627n03156?issue_sq=11002",
     "pubDate": "Fri, 26 Jun 2026 23:01:00 GMT",
     "source": "네이트",
     "domain": "m.news.nate.com",
     "thumb": "https://news.nateimg.co.kr/orgImg/hk/2026/06/27/01.44804892.1.jpg"
-  },
-  {
-    "title": "방탄소년단 '아리랑' 스포티파이 주간 차트 2위..장기 롱런ing",
-    "link": "https://www.starnewskorea.com/music/2026/06/27/2026062707384018645",
-    "pubDate": "Fri, 26 Jun 2026 22:41:16 GMT",
-    "source": "starnewskorea.com",
-    "domain": "starnewskorea.com",
-    "thumb": "https://image.starnewskorea.com/21/2026/06/2026062707384018645_1.jpg"
-  },
-  {
-    "title": "방탄소년단 지민, 디올 남성 컬렉션서 왕족 분위기 뽐낸 근황",
-    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16113839",
-    "pubDate": "Fri, 26 Jun 2026 22:12:54 GMT",
-    "source": "TopStarNews",
-    "domain": "topstarnews.net",
-    "thumb": "https://cdn.topstarnews.net/news/photo/202606/16113839_1950438_1245_crop.jpeg"
   },
   {
     "title": "방탄소년단 진, 마이원픽 121주 연속 1위…독보적 '월드와이드 인기'",
@@ -168,20 +160,20 @@
     "thumb": "https://www.chosun.com/resizer/v2/UEJ6JK4LDZIJNEMBFQNNOTFFNE.JPG?auth=25529c9ca16a6f3cb41dc40c22d6a74e754fdf2151e7ccf41e36585fc8c88ac6&amp;width=1200&amp;height=630&amp;smart=true"
   },
   {
-    "title": "컴포즈커피, BTS 뷔 모델료 40% 가맹점에 분담... 점주들 의견 분분",
-    "link": "http://woman.chosun.com/news/articleView.html?idxno=126219",
-    "pubDate": "Fri, 26 Jun 2026 04:18:03 GMT",
-    "source": "여성조선",
-    "domain": "woman.chosun.com",
-    "thumb": "https://cdn.woman.chosun.com/news/thumbnail/202606/126219_154832_1610_v150.jpg"
-  },
-  {
     "title": "장원영·제니 제쳤다…BTS 정국, K-브랜드지수 'K-POP 개인 부문' 1위",
     "link": "https://www.dongponews.net/news/articleView.html?idxno=58958",
     "pubDate": "Fri, 26 Jun 2026 04:04:08 GMT",
     "source": "재외동포신문",
     "domain": "dongponews.net",
     "thumb": "https://cdn.dongponews.net/news/thumbnail/202606/58958_214225_2340_v150.jpg"
+  },
+  {
+    "title": "지드래곤, 장원영·제니·지민에 밀려 K-브랜드지수 K-POP 개인 부문 5위...정국 1위 영예",
+    "link": "https://www.socialvalue.kr/news/view/1065570995607237",
+    "pubDate": "Fri, 26 Jun 2026 00:01:01 GMT",
+    "source": "소셜밸류",
+    "domain": "socialvalue.kr",
+    "thumb": "http://www.socialvalue.kr/news/data/20260626/p1065570995607237_711_thum.jpg"
   },
   {
     "title": "BTS 뷔 모델료 가맹점에 분담한 컴포즈커피…“74억 중 30억은 점주 몫”",
@@ -200,6 +192,14 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/kedtv/20260625220202031pcml.png"
   },
   {
+    "title": "\"BTS 뷔도 빠졌다\"…10만원짜리 '국민 애착인형' 뭐길래",
+    "link": "https://m.news.nate.com/view/20260625n35650?sect=sisa&list=rank&cate=interest",
+    "pubDate": "Thu, 25 Jun 2026 10:06:00 GMT",
+    "source": "네이트",
+    "domain": "m.news.nate.com",
+    "thumb": "https://news.nateimg.co.kr/orgImg/hk/2026/06/25/01.44793731.1.jpg"
+  },
+  {
     "title": "“BTS도 논문이 된다” 세계 연구자들, 전북대서 BTS 현상 해부",
     "link": "http://www.domin.co.kr/news/articleView.html?idxno=1559873",
     "pubDate": "Thu, 25 Jun 2026 08:14:14 GMT",
@@ -208,12 +208,12 @@
     "thumb": "http://www.domin.co.kr/news/thumbnail/202606/1559873_769961_4043_v150.jpg"
   },
   {
-    "title": "日 오리콘 상반기 랭킹서 BTS '아리랑' 2관왕",
-    "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5034451",
-    "pubDate": "Thu, 25 Jun 2026 07:32:11 GMT",
-    "source": "신아일보",
-    "domain": "shinailbo.co.kr",
-    "thumb": "https://cdn.shinailbo.co.kr/news/photo/202606/5034451_2033044_1643.jpg"
+    "title": "전 세계서 가장 유명한 김..'잘생김 정석' BTS 진, 스타랭킹 男아이돌 3위",
+    "link": "https://www.starnewskorea.com/star/2026/06/25/2026062515454692666",
+    "pubDate": "Thu, 25 Jun 2026 06:59:38 GMT",
+    "source": "starnewskorea.com",
+    "domain": "starnewskorea.com",
+    "thumb": "https://image.starnewskorea.com/21/2026/06/2026062515454692666_1.jpg"
   },
   {
     "title": "BTS, 일본 오리콘 차트 상반기 랭킹 2관왕",
@@ -222,14 +222,6 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/kbs/20260625140604490mbxg.png"
-  },
-  {
-    "title": "방탄소년단·아미 관계 조명…'BTS 글로벌 학술대회', 내달 전주서 열린다",
-    "link": "https://www.newsis.com/view/NISX20260625_0003683172",
-    "pubDate": "Thu, 25 Jun 2026 03:55:44 GMT",
-    "source": "뉴시스",
-    "domain": "newsis.com",
-    "thumb": "https://img1.newsis.com/2026/06/13/NISI20260613_0002160172_web.jpg"
   },
   {
     "title": "내달 제5회 BTS 글로벌 학술대회…넷플릭스 다큐 감독 인터뷰도",
@@ -248,14 +240,6 @@
     "thumb": "https://wimg.sedaily.com/news/cms/2026/06/25/news-p.v1.20260625.1b797f6261f14c10bc06ca6739b6ce64_R.png"
   },
   {
-    "title": "괴르네의 '섬집 아기'와 BTS의 '아리랑'",
-    "link": "https://www.newspim.com/news/view/20260625000478",
-    "pubDate": "Thu, 25 Jun 2026 02:03:00 GMT",
-    "source": "뉴스핌",
-    "domain": "newspim.com",
-    "thumb": "https://img.newspim.com/news/2026/06/25/2606251056392680_416_tc.jpg"
-  },
-  {
     "title": "컴포즈커피 'BTS 뷔' 재계약 추진…광고비 40% 가맹점주들 분담",
     "link": "https://www.hankyung.com/article/202606245230g",
     "pubDate": "Thu, 25 Jun 2026 01:52:00 GMT",
@@ -272,20 +256,12 @@
     "thumb": "https://img.etnews.com/news/article/2026/06/25/news-p.v1.20260625.8f774aa8e4b84ee998137809adbf8069_P1.png"
   },
   {
-    "title": "아메리카노 53잔 팔아야 하는데 “뷔 계속 쓰려면 돈 더 내라”…월 7만9000원 광고비에 나뉜 컴포즈 점주들",
-    "link": "https://www.sedaily.com/article/20059919",
-    "pubDate": "Thu, 25 Jun 2026 00:44:52 GMT",
-    "source": "서울경제",
-    "domain": "sedaily.com",
-    "thumb": "https://wimg.sedaily.com/news/cms/2026/06/25/news-p.v1.20260101.1dcd66aceeed4b5f8670df39787d8f66_R.png"
-  },
-  {
-    "title": "BTS·세븐틴 티켓값 ‘뻥튀기’…‘14만원→120만원’ 암표 거래 적발",
-    "link": "https://www.nongmin.com/article/20260624500188",
-    "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
-    "source": "농민신문",
-    "domain": "nongmin.com",
-    "thumb": "https://www.nongmin.com/-/raw/srv-nongmin/data2/content/image/2026/06/24/.cache/512/20260624500185.jpg"
+    "title": "방탄소년단 진, 아이돌픽 남돌 부문 57주 연속 1위..위클리 전체 부문 1위",
+    "link": "https://www.starnewskorea.com/music/2026/06/25/2026062506495919203",
+    "pubDate": "Wed, 24 Jun 2026 21:52:16 GMT",
+    "source": "starnewskorea.com",
+    "domain": "starnewskorea.com",
+    "thumb": "https://image.starnewskorea.com/21/2026/06/2026062506495919203_1.jpg"
   },
   {
     "title": "'BTS 공연 한 명이 10장 넘게 판매'‥암표 의심 15명 적발·수사의뢰",
@@ -312,11 +288,35 @@
     "thumb": "https://img.khan.co.kr/news/2026/06/23/l_2026062401000706000071741.jpg"
   },
   {
+    "title": "BTS 정국 '세븐', 한국 가수 첫 스포티파이 30억 스트리밍",
+    "link": "https://www.yna.co.kr/view/AKR20260623114200005",
+    "pubDate": "Tue, 23 Jun 2026 05:51:50 GMT",
+    "source": "연합뉴스",
+    "domain": "yna.co.kr",
+    "thumb": "https://img8.yna.co.kr/photo/yna/YH/2026/06/13/PYH2026061304180001300_P4.jpg"
+  },
+  {
+    "title": "BTS '아리랑', 美 롤링스톤·英 NME '2026 최고의 앨범' 선정",
+    "link": "https://www.yna.co.kr/view/AKR20260623040000005",
+    "pubDate": "Tue, 23 Jun 2026 00:59:20 GMT",
+    "source": "연합뉴스",
+    "domain": "yna.co.kr",
+    "thumb": "https://img9.yna.co.kr/etc/inner/KR/2026/06/23/AKR20260623040000005_01_i_P4.jpg"
+  },
+  {
     "title": "BTS 커뮤니티 포스트 - 오랜만에 파리가네요!!! 잘 다녀올게요!!! 바로 자야지...ㅎ🤤😴 - 제이홉",
     "link": "https://weverse.io/bts/artist/3-233612535?hl=ko",
     "pubDate": "Mon, 22 Jun 2026 10:14:09 GMT",
     "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
+  },
+  {
+    "title": "BTS 월드 투어 티켓 사기 기승 … 수천달러 피해 본 동남아 팬들",
+    "link": "https://www.bbc.com/korean/articles/cp8lzymgj74o",
+    "pubDate": "Mon, 22 Jun 2026 08:20:24 GMT",
+    "source": "BBC",
+    "domain": "bbc.com",
+    "thumb": "https://ichef.bbci.co.uk/news/1200/branded_korean/1174/live/46ac82e0-6d53-11f1-960f-c792c2ba639f.jpg"
   }
 ]
