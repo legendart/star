@@ -24,14 +24,6 @@
     "thumb": "http://news.nateimg.co.kr/etc/cms/2026/06/27/1782551993_388.jpg"
   },
   {
-    "title": "인'스타'그램 세상|NCT 재현, 휴가 영상 열애설 해명…\"사랑하는 사촌동생\"",
-    "link": "https://m.news.zum.com/photo/58287739/106346902?cm=news_edit&r=1&thumb=1",
-    "pubDate": "Sat, 27 Jun 2026 09:10:47 GMT",
-    "source": "ZUM 뉴스",
-    "domain": "m.news.zum.com",
-    "thumb": "https://newszum.zumst.com/news/뉴시스/2026/06/27/NISI20260627_0002171791_web_20260627180957.jpg"
-  },
-  {
     "title": "NCT JNJM, ‘제노&amp;재민’ 유닛 팬미팅 투어 ‘DUALITY’ 시작(출국)[뉴스엔TV]",
     "link": "https://m.newsen.com/news_view.php?uid=202606261856171310",
     "pubDate": "Fri, 26 Jun 2026 09:58:36 GMT",
@@ -72,12 +64,20 @@
     "thumb": "https://img.seoul.co.kr//img/upload/2026/06/26/SSC_20260626171352.jpg.webp"
   },
   {
-    "title": "NCT 재현X유타, 올해도 유럽 패션위크 접수",
-    "link": "https://v.daum.net/v/20260626114416559",
-    "pubDate": "Fri, 26 Jun 2026 02:44:16 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/26/bntnews/20260626114417278rmha.jpg"
+    "title": "“사촌동생” NCT 재현, 비키니女와 럽스타 걸린 줄..열애설 터지자 바로 해명",
+    "link": "https://www.sportschosun.com/entertainment/2026-06-26/202606260100187160012349",
+    "pubDate": "Fri, 26 Jun 2026 06:58:42 GMT",
+    "source": "sportschosun.com",
+    "domain": "sportschosun.com",
+    "thumb": "https://www.sportschosun.com/article/html/2026/06/26/2026062601001871600123493_w.jpg"
+  },
+  {
+    "title": "\"가려도, 청량해\"…NCT 위시, 만찢 소년들",
+    "link": "https://www.dispatch.co.kr/2344514",
+    "pubDate": "Fri, 26 Jun 2026 04:16:00 GMT",
+    "source": "디스패치",
+    "domain": "dispatch.co.kr",
+    "thumb": "https://dispatch.cdnser.be/cms-content/uploads/2026/06/26/c0181383-622a-4bd8-884c-43f1876f06d1.jpg"
   },
   {
     "title": "'10주년 팬미팅' NCT DREAM, 선예매부터 '전석 매진'",
@@ -93,7 +93,7 @@
     "pubDate": "Thu, 25 Jun 2026 00:50:00 GMT",
     "source": "JTBC",
     "domain": "news.jtbc.co.kr",
-    "thumb": null
+    "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202606/25/c1c496a5-77bf-4ff5-8fa6-ac5c5fac9e40.jpg"
   },
   {
     "title": "마크 없어도 이상無…NCT DREAM, 데뷔 10주년 팬미팅 ‘티켓 파워’ 활활",
@@ -200,14 +200,6 @@
     "thumb": "https://pimg.mk.co.kr/news/cms/202606/24/news-p.v1.20260624.cfeca1ffa03a4d969ed55299c0b58e66_R.jpg"
   },
   {
-    "title": "NCT 출신 마크, '인종차별 상징' 의상 논란 일파만파…결국 사과",
-    "link": "https://www.news1.kr/entertain/celebrity-topic/6206350",
-    "pubDate": "Tue, 23 Jun 2026 23:23:28 GMT",
-    "source": "뉴스1",
-    "domain": "news1.kr",
-    "thumb": "https://i3n.news1.kr/system/photos/2025/11/24/7616252/high.jpg"
-  },
-  {
     "title": "NCT 출신 마크, ‘인종차별 문양’ 티셔츠 논란…“실망 드려 죄송”",
     "link": "https://www.donga.com/news/Society/article/all/20260624/134170817/1",
     "pubDate": "Tue, 23 Jun 2026 22:59:00 GMT",
@@ -237,7 +229,15 @@
     "pubDate": "Tue, 23 Jun 2026 15:21:30 GMT",
     "source": "중앙일보",
     "domain": "joongang.co.kr",
-    "thumb": null
+    "thumb": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202606/24/30467c63-0dc6-4a03-a862-125e895a84df.jpg"
+  },
+  {
+    "title": "공명, 동생 NCT 도영에게 차 선물 받고도 여유…\"도영 생일 다가와도 안 불편해\" [인터뷰②]",
+    "link": "https://v.daum.net/v/20260623172216324",
+    "pubDate": "Tue, 23 Jun 2026 08:22:16 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/23/10asia/20260623172217868wqqk.jpg"
   },
   {
     "title": "''NCT 탈퇴' 마크 향한 리더 태용의 한마디…\"좋아보여서 다행이다\"",
@@ -253,7 +253,7 @@
     "pubDate": "Tue, 23 Jun 2026 06:30:00 GMT",
     "source": "JTBC",
     "domain": "news.jtbc.co.kr",
-    "thumb": null
+    "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202606/23/159a4f71-995b-4745-aeb9-554d229d46a7.jpg"
   },
   {
     "title": "슈주·NCT의 이집트 생존 여행…'왕자와 거지' 7월 27일 첫 방송",
@@ -309,7 +309,7 @@
     "pubDate": "Mon, 22 Jun 2026 00:18:00 GMT",
     "source": "JTBC",
     "domain": "news.jtbc.co.kr",
-    "thumb": null
+    "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202606/22/dc9be6b2-61d3-439f-99ce-134e2893f5c9.jpg"
   },
   {
     "title": "NCT 10TH ANNIVERSARY [NCT 2026] POP UP : NEO GROUND VISITOR GUIDE NOTICE",
