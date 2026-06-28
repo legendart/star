@@ -1,5 +1,13 @@
 [
   {
+    "title": "NCT, 도쿄 팬미팅 열기 후끈… 10주년 기념 무대 '성공적'",
+    "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000046059",
+    "pubDate": "Sun, 28 Jun 2026 15:14:52 GMT",
+    "source": "진일보",
+    "domain": "jnilbo.com",
+    "thumb": "https://cdn.jnilbo.com/news/photo/202606/90000046059_555356_3352.jpg"
+  },
+  {
     "title": "NCT 재현, 여성과 함께한 휴가 영상 공개…열애설에 \"사촌\" 해명 - 머니투데이",
     "link": "https://www.mt.co.kr/entertainment/2026/06/27/2026062719435549961",
     "pubDate": "Sat, 27 Jun 2026 10:52:53 GMT",
@@ -40,14 +48,6 @@
     "thumb": "https://cdn.ggilbo.com/news/photo/202606/1165186_1017327_4053.jpg"
   },
   {
-    "title": "'BTS 정국 절친' NCT 재현, '해변 럽스타' 의혹 커지자 선 그었다…\"여친 아니고 사촌\"",
-    "link": "https://www.tenasia.co.kr/article/2026062609084",
-    "pubDate": "Fri, 26 Jun 2026 10:12:00 GMT",
-    "source": "텐아시아",
-    "domain": "tenasia.co.kr",
-    "thumb": "https://img.tenasia.co.kr/photo/202606/BF.38117332.1.jpg"
-  },
-  {
     "title": "NCT JNJM, ‘제노&amp;재민’ 유닛 팬미팅 투어 ‘DUALITY’ 시작(출국)[뉴스엔TV]",
     "link": "https://m.newsen.com/news_view.php?uid=202606261856171310",
     "pubDate": "Fri, 26 Jun 2026 09:58:36 GMT",
@@ -86,14 +86,6 @@
     "source": "twig24.com",
     "domain": "twig24.com",
     "thumb": "https://img.seoul.co.kr//img/upload/2026/06/26/SSC_20260626171352.jpg.webp"
-  },
-  {
-    "title": "NCT 재현, 휴가 영상에 럽스타 오해..“사촌동생” 재빠른 해명 [Oh!쎈 이슈]",
-    "link": "http://www.osen.co.kr/article/G1112829141",
-    "pubDate": "Fri, 26 Jun 2026 07:51:00 GMT",
-    "source": "osen.co.kr",
-    "domain": "osen.co.kr",
-    "thumb": "http://file.osen.co.kr/article_thumb/2026/06/26/202606261618776418_6a3e2dc2f1f42_300x.jpg"
   },
   {
     "title": "“사촌동생” NCT 재현, 비키니女와 럽스타 걸린 줄..열애설 터지자 바로 해명",
@@ -150,6 +142,14 @@
     "source": "SBS 뉴스",
     "domain": "news.sbs.co.kr",
     "thumb": "https://img.sbs.co.kr/newimg/news/20260625/202196038_1280.jpg"
+  },
+  {
+    "title": "NCT 탈퇴 마크…인종차별 상징 티셔츠 논란에 사과",
+    "link": "https://v.daum.net/v/20260624162702051",
+    "pubDate": "Wed, 24 Jun 2026 07:27:02 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/24/newsy/20260624162702992cutf.jpg"
   },
   {
     "title": "“단순 빈티지” NCT 출신 마크 의상에 팬들 ‘분노’…결국 사과 [이런뉴스]",
@@ -240,6 +240,14 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/23/mydaily/20260623162634429lphr.jpg"
   },
   {
+    "title": "슈주 이특·신동에 NCT 쟈니·지성…‘왕자와 거지’ 여행 간다",
+    "link": "https://news.jtbc.co.kr/article/NB12304636",
+    "pubDate": "Tue, 23 Jun 2026 06:30:00 GMT",
+    "source": "JTBC",
+    "domain": "news.jtbc.co.kr",
+    "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202606/23/159a4f71-995b-4745-aeb9-554d229d46a7.jpg"
+  },
+  {
     "title": "슈주·NCT의 이집트 생존 여행…'왕자와 거지' 7월 27일 첫 방송",
     "link": "https://www.ytn.co.kr/_sn/0117_202606231136002329",
     "pubDate": "Tue, 23 Jun 2026 02:36:00 GMT",
@@ -270,14 +278,6 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/22/JTBC/20260622091814446jyry.jpg"
-  },
-  {
-    "title": "10돌 맞은 NCT드림, 8월 팬미팅 연다",
-    "link": "https://www.munhwa.com/article/11595674",
-    "pubDate": "Mon, 15 Jun 2026 07:00:00 GMT",
-    "source": "문화일보",
-    "domain": "munhwa.com",
-    "thumb": "https://wimg.munhwa.com/news/cms/2026/06/15/news-p.v1.20260615.6c2a77fdc7694c4bab37d8bead900eeb_R.jpg"
   },
   {
     "title": "NCT WISH The 1st Album ‘Ode to Love’ 발매 기념 ‘VIDEO CALL EVENT’ – 6/23(화) 애플뮤직",
