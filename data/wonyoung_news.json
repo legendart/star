@@ -48,20 +48,20 @@
     "thumb": "https://img.tenasia.co.kr/photo/202606/BF.44830475.1.jpg"
   },
   {
-    "title": "'사당귀' 엄지인, 프로필 사진 공개 \"장원영 닮았다고\"…김숙 '정색'",
-    "link": "https://enews.imbc.com/News/RetrieveNewsInfo/509753",
-    "pubDate": "Sun, 28 Jun 2026 12:02:00 GMT",
-    "source": "iMBC 연예",
-    "domain": "enews.imbc.com",
-    "thumb": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/06/28/b84b9aef-9736-478f-849a-be34d60ce273.png"
-  },
-  {
     "title": "장원영, 힘 뺀 눈화장…묘하게 달라 보여",
     "link": "https://v.daum.net/v/20260628040200957",
     "pubDate": "Sat, 27 Jun 2026 19:02:00 GMT",
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/28/mydaily/20260628040203182lkph.png"
+  },
+  {
+    "title": "\"장원영은 왜 마스크 안벗어?\"…민폐와 특혜 사이 '연예인 공항 논란'",
+    "link": "https://news.tvchosun.com/site/data/html_dir/2026/06/26/2026062690260.html",
+    "pubDate": "Fri, 26 Jun 2026 07:00:00 GMT",
+    "source": "TV조선뉴스",
+    "domain": "news.tvchosun.com",
+    "thumb": "https://img.tvchosun.com/sitedata/image/202606/26/2026062690260_0.jpg"
   },
   {
     "title": "장원영·제니 제쳤다…BTS 정국, K-브랜드지수 'K-POP 개인 부문' 1위",
@@ -96,14 +96,6 @@
     "thumb": "https://image.fnnews.com/resource/media/image/2026/06/24/202606242022311458_l.jpg"
   },
   {
-    "title": "장원영, \"두 손으로 여권 건네며\" 달라진 공항 입국장 풍경",
-    "link": "https://v.daum.net/v/20260624235721208?f=m",
-    "pubDate": "Wed, 24 Jun 2026 14:57:21 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/25/HockeyNewsKorea/20260625090720113rsrf.jpg"
-  },
-  {
     "title": "‘마스크 벗어주세요’ 명문화에…장원영 ‘노마스크·노모자’",
     "link": "https://v.daum.net/v/20260624171118394",
     "pubDate": "Wed, 24 Jun 2026 08:11:18 GMT",
@@ -120,20 +112,12 @@
     "thumb": "https://wimg.heraldcorp.com/news/cms/2026/06/24/news-p.v1.20260624.70e770dbe5884ec4b7352c1edd12029c_T1.png"
   },
   {
-    "title": "장원영, '공항 특혜 논란' 의식했나…마스크 벗고 확 달라진 모습",
+    "title": "장원영, '공항 특혜 논란' 의식했나…마스크 벗고 확 달라진 모습 - 머니투데이",
     "link": "https://www.mt.co.kr/entertainment/2026/06/24/2026062410380251372",
     "pubDate": "Wed, 24 Jun 2026 02:13:23 GMT",
     "source": "머니투데이",
     "domain": "mt.co.kr",
     "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=789,fit=cover,bg=whilte,f=auto,quality=high,sharpen=2,g=face/21/2026/06/2026062410380251372_1.jpg"
-  },
-  {
-    "title": "장원영, ‘공항 특혜 논란’ 후 비행기 탑승해 환한 미소",
-    "link": "https://www.seoul.co.kr/news/entertainment/starinterN/2026/06/24/20260624500088",
-    "pubDate": "Wed, 24 Jun 2026 02:09:14 GMT",
-    "source": "서울신문",
-    "domain": "seoul.co.kr",
-    "thumb": "https://img.seoul.co.kr/img/upload/2026/06/24/SSC_20260624110911.jpg.webp"
   },
   {
     "title": "장원영, ‘특혜 논란’에 맨얼굴 미소로 답했다…“억울했을 텐데” 응원 쏟아져 [스경X이슈]",
@@ -296,6 +280,14 @@
     "thumb": null
   },
   {
+    "title": "장원영 출국 심사, 민원으로 번졌다?",
+    "link": "https://www.ytn.co.kr/_ln/0117_202606151541072283",
+    "pubDate": "Mon, 15 Jun 2026 07:00:00 GMT",
+    "source": "YTN",
+    "domain": "ytn.co.kr",
+    "thumb": "https://image.ytn.co.kr/general/jpg/2026/0615/202606151541072283_t.jpg"
+  },
+  {
     "title": "장원영, 동화 속 공주님 그 자체..꽃보다 아름다운 ‘미모’",
     "link": "https://v.daum.net/v/20260614204501201",
     "pubDate": "Sun, 14 Jun 2026 07:00:00 GMT",
@@ -318,5 +310,13 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/11/segye/20260611093036324vuao.jpg"
+  },
+  {
+    "title": "장원영 ‘공항 태도 논란’ 속상했나…베이징덕 먹방 속 ‘울고’ 문구 ‘눈길’",
+    "link": "https://sports.khan.co.kr/article/202606041516003",
+    "pubDate": "Thu, 04 Jun 2026 07:00:00 GMT",
+    "source": "스포츠경향",
+    "domain": "sports.khan.co.kr",
+    "thumb": null
   }
 ]
