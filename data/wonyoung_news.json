@@ -144,6 +144,14 @@
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/aj/2026/06/30/20260630125948926621.jpg"
   },
   {
+    "title": "장원영, 셀렘 자극하는 러블리 매력",
+    "link": "https://www.artkoreatv.com/news/articleView.html?idxno=103250",
+    "pubDate": "Tue, 30 Jun 2026 03:09:03 GMT",
+    "source": "아트코리아방송",
+    "domain": "artkoreatv.com",
+    "thumb": "https://cdn.artkoreatv.com/news/thumbnail/202606/103250_328588_623_v150.jpg"
+  },
+  {
     "title": "아이브 장원영, '옆모습도 놓칠 수 없어'",
     "link": "https://m.news.nate.com/view/20260630n17608?mid=e01&list=recent&cpcd=",
     "pubDate": "Tue, 30 Jun 2026 02:36:00 GMT",
@@ -160,28 +168,12 @@
     "thumb": "https://www.cbci.co.kr/news/thumbnail/202606/585562_398022_3219_v150.jpg"
   },
   {
-    "title": "아이브 장원영, 밝은 미소 : 네이트 연예",
-    "link": "https://news.nate.com/view/20260630n17215?mid=n0100",
-    "pubDate": "Tue, 30 Jun 2026 02:30:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/na/2026/06/30/7983522_high.jpg"
-  },
-  {
     "title": "아이브 장원영 ‘극세사 몸매’ [MK포토]",
     "link": "https://www.mk.co.kr/news/entertain/12086471",
     "pubDate": "Tue, 30 Jun 2026 02:28:12 GMT",
     "source": "매일경제",
     "domain": "mk.co.kr",
     "thumb": "https://pimg.mk.co.kr/news/cms/202606/30/news-p.v1.20260630.1417cc68e0774855887939d7661fc302_R.jpg"
-  },
-  {
-    "title": "아이브 장원영, 심쿵 눈맞춤 : 네이트 연예",
-    "link": "https://news.nate.com/view/20260630n17035?mid=n0100",
-    "pubDate": "Tue, 30 Jun 2026 02:27:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/na/2026/06/30/7983516_high.jpg"
   },
   {
     "title": "포즈 취하는 아이브 장원영",
@@ -232,20 +224,20 @@
     "thumb": "https://file.sportsseoul.com/news/cms/2026/06/30/news-p.v1.20260630.0eeae4c10c0047fc84660cd72273a6dc_P1.png"
   },
   {
-    "title": "장원영, 와인잔 들고 윙크했는데…시선은 '뼈말라' 몸매에 쏠렸다",
-    "link": "https://news.nate.com/view/20260630n03816?mid=e1100",
-    "pubDate": "Mon, 29 Jun 2026 21:04:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/my/2026/06/30/2026062917100492308_l.png"
-  },
-  {
     "title": "장원영, 호피무늬 스커트로 '청순+섹시' 반전 매력",
     "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000045788",
     "pubDate": "Sun, 28 Jun 2026 07:00:00 GMT",
     "source": "진일보",
     "domain": "jnilbo.com",
     "thumb": "https://cdn.jnilbo.com/news/photo/202606/90000045788_555291_2933.png"
+  },
+  {
+    "title": "장원영·제니 제쳤다…BTS 정국, K-브랜드지수 'K-POP 개인 부문' 1위",
+    "link": "https://www.dongponews.net/news/articleView.html?idxno=58958",
+    "pubDate": "Fri, 26 Jun 2026 04:04:08 GMT",
+    "source": "재외동포신문",
+    "domain": "dongponews.net",
+    "thumb": "https://cdn.dongponews.net/news/thumbnail/202606/58958_214225_2340_v150.jpg"
   },
   {
     "title": "결국 ‘장원영이 바꿨다’···“마스크 내려주세요” 명문화",
@@ -270,6 +262,14 @@
     "source": "경향신문",
     "domain": "khan.co.kr",
     "thumb": "https://img.khan.co.kr/news/2026/06/18/news-p.v1.20260618.809a22bad2c34ba7a3f7c30d5b88a82b_P1.png"
+  },
+  {
+    "title": "‘출국 태도 논란’ 장원영 소속사 “악플러 강경 대응”",
+    "link": "https://www.donga.com/news/Society/article/all/20260618/134137228/2",
+    "pubDate": "Thu, 18 Jun 2026 07:00:00 GMT",
+    "source": "동아일보",
+    "domain": "donga.com",
+    "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/18/134137220.3.jpg"
   },
   {
     "title": "마스크 쓴 장원영 공항 신분확인 논란…공항공사 \"절차안내 강화\"",
@@ -309,7 +309,7 @@
     "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
     "source": "중앙일보",
     "domain": "joongang.co.kr",
-    "thumb": null
+    "thumb": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202606/16/7395ee3e-f58f-464d-a18e-2bc2676a870d.jpg"
   },
   {
     "title": "“기준이 뭐냐” 장원영 출국 심사, 민원으로 번졌다",
