@@ -1,5 +1,13 @@
 [
   {
+    "title": "NCT 쟈니 \"다가오기 쉬운 외모 아냐…무섭게 생겨\"",
+    "link": "https://news.nate.com/view/20260630n39641?mid=n0100",
+    "pubDate": "Tue, 30 Jun 2026 13:16:00 GMT",
+    "source": "네이트",
+    "domain": "news.nate.com",
+    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/iz/2026/06/30/27d116da-05b8-470b-ba78-415fddd2b92a.png"
+  },
+  {
     "title": "NCT 쟈니 \"변우석과 AAA서 재회..'선업튀' 패러디 찍었다\"[살롱드립]",
     "link": "https://www.starnewskorea.com/star/2026/06/30/2026063018041760081",
     "pubDate": "Tue, 30 Jun 2026 11:23:07 GMT",
@@ -32,6 +40,14 @@
     "thumb": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/06/30/134206116.1.png"
   },
   {
+    "title": "'왕자와 거지' 슈주→NCT 이집트 극과 극 여행...방송일은?",
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3621226",
+    "pubDate": "Mon, 29 Jun 2026 12:55:02 GMT",
+    "source": "gukjenews.com",
+    "domain": "gukjenews.com",
+    "thumb": "https://cdn.gukjenews.com/news/thumbnail/202606/3621226_3782919_5448_v150.jpg"
+  },
+  {
     "title": "슈주부터 NCT까지, 이집트서 생존 게임 시작…'왕자와 거지' 티저 공개",
     "link": "https://star.ytn.co.kr/_sn/0117_202606291809364698",
     "pubDate": "Mon, 29 Jun 2026 09:09:00 GMT",
@@ -40,28 +56,12 @@
     "thumb": "https://image.ytn.co.kr/general/jpg/2026/0629/202606291809364698_t.jpg"
   },
   {
-    "title": "슈주·NCT→김요한 '왕자와 거지', 콘셉트 충실 여행 시작",
-    "link": "https://news.tf.co.kr/read/entertain/2337417.htm",
-    "pubDate": "Mon, 29 Jun 2026 02:02:44 GMT",
-    "source": "더팩트",
-    "domain": "news.tf.co.kr",
-    "thumb": "https://img.tf.co.kr/article/home/2026/06/29/202681631782698423.jpeg"
-  },
-  {
     "title": "슈주부터 NCT까지, '왕자와 거지' 극과 극 여행 예고",
     "link": "https://v.daum.net/v/20260629103235699",
     "pubDate": "Mon, 29 Jun 2026 01:32:35 GMT",
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/29/JTBC/20260629103236922rjkx.jpg"
-  },
-  {
-    "title": "NCT, 도쿄 팬미팅 열기 후끈… 10주년 기념 무대 '성공적'",
-    "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000046059",
-    "pubDate": "Sun, 28 Jun 2026 15:14:52 GMT",
-    "source": "진일보",
-    "domain": "jnilbo.com",
-    "thumb": "https://cdn.jnilbo.com/news/photo/202606/90000046059_555356_3352.jpg"
   },
   {
     "title": "NCT 재현, 여성과 함께한 휴가 영상 공개…열애설에 \"사촌\" 해명 - 머니투데이",
@@ -86,6 +86,14 @@
     "source": "네이트",
     "domain": "news.nate.com",
     "thumb": "http://news.nateimg.co.kr/etc/cms/2026/06/27/1782551993_388.jpg"
+  },
+  {
+    "title": "NCT 재현, 의문의 여성과 휴가지 포착? \"사랑하는 사촌\" 해명",
+    "link": "https://www.news1.kr/entertain/celebrity-topic/6210232",
+    "pubDate": "Sat, 27 Jun 2026 07:41:25 GMT",
+    "source": "뉴스1",
+    "domain": "news1.kr",
+    "thumb": "https://i3n.news1.kr/system/photos/2026/6/27/7979662/high.jpg"
   },
   {
     "title": "NCT JNJM, ‘제노&amp;재민’ 유닛 팬미팅 투어 ‘DUALITY’ 시작(출국)[뉴스엔TV]",
@@ -184,14 +192,6 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/24/kado/20260624111955920aiao.png"
   },
   {
-    "title": "NCT 출신 마크, ‘인종차별 상징’ 논란에 내린 결정",
-    "link": "https://www.seoul.co.kr/news/society/accident/2026/06/24/20260624500078",
-    "pubDate": "Wed, 24 Jun 2026 01:55:22 GMT",
-    "source": "서울신문",
-    "domain": "seoul.co.kr",
-    "thumb": "https://img.seoul.co.kr//img/upload/2026/06/24/SSC_20260624105522_O2.jpg"
-  },
-  {
     "title": "그룹 NCT 출신 마크, 인종차별 문양 착용 논란에 고개 숙여",
     "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000044827",
     "pubDate": "Wed, 24 Jun 2026 01:10:30 GMT",
@@ -253,7 +253,7 @@
     "pubDate": "Mon, 22 Jun 2026 00:18:00 GMT",
     "source": "JTBC",
     "domain": "news.jtbc.co.kr",
-    "thumb": null
+    "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202606/22/dc9be6b2-61d3-439f-99ce-134e2893f5c9.jpg"
   },
   {
     "title": "10돌 맞은 NCT드림, 8월 팬미팅 연다",
