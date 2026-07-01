@@ -184,14 +184,6 @@
     "thumb": "https://biz.chosun.com/resizer/v2/MQ4TANLCMVSDMMJUGUYDSMDBMY.jpg?auth=294ba515ce8a71d71f43c8bccab73b28f737f72dd94d7798c4d6a6fdf4a988ee&amp;width=572&amp;height=300&amp;smart=true"
   },
   {
-    "title": "아이브 장원영 '말라도 너무 말랐어' [MK포토]",
-    "link": "https://news.nate.com/view/20260630n16022",
-    "pubDate": "Tue, 30 Jun 2026 02:14:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/aa/2026/06/30/news-p.v1.20260630.db4ba0d8ae3145bbab8a675a50873b82_P1.jpg"
-  },
-  {
     "title": "장원영 '화사한 미소 등장'",
     "link": "https://m.news.nate.com/view/20260630n15835?mid=e01&list=recent&cpcd=",
     "pubDate": "Tue, 30 Jun 2026 02:11:00 GMT",
@@ -216,12 +208,28 @@
     "thumb": "https://cdn.jnilbo.com/news/photo/202606/90000045788_555291_2933.png"
   },
   {
+    "title": "장원영·제니 제쳤다…BTS 정국, K-브랜드지수 'K-POP 개인 부문' 1위",
+    "link": "https://www.dongponews.net/news/articleView.html?idxno=58958",
+    "pubDate": "Fri, 26 Jun 2026 04:04:08 GMT",
+    "source": "재외동포신문",
+    "domain": "dongponews.net",
+    "thumb": "https://cdn.dongponews.net/news/thumbnail/202606/58958_214225_2340_v150.jpg"
+  },
+  {
     "title": "‘마스크 벗어주세요’ 명문화에…장원영 ‘노마스크·노모자’",
     "link": "https://www.kmib.co.kr/article/view.asp?arcid=0030015491",
     "pubDate": "Wed, 24 Jun 2026 08:10:00 GMT",
     "source": "국민일보",
     "domain": "kmib.co.kr",
     "thumb": "https://image.kmib.co.kr/online_image/2026/0624/2026062417034678889_1782288226_0030015491.png"
+  },
+  {
+    "title": "공항 태도 논란 의식했나?…장원영, 모자·마스크 없이 출국",
+    "link": "https://www.ytn.co.kr/_ln/0117_202606241033143538",
+    "pubDate": "Wed, 24 Jun 2026 01:33:00 GMT",
+    "source": "YTN",
+    "domain": "ytn.co.kr",
+    "thumb": "https://image.ytn.co.kr/general/jpg/2026/0624/202606241033143538_t.jpg"
   },
   {
     "title": "장원영, 화장기 없어도 이 정도…청순 비주얼 ‘감탄’ [DA★]",
@@ -256,14 +264,6 @@
     "thumb": null
   },
   {
-    "title": "장원영, 악플에 전쟁 선언…스타쉽 \"법적 대응\"",
-    "link": "https://www.newsis.com/view/NISX20260618_0003674524",
-    "pubDate": "Thu, 18 Jun 2026 07:00:00 GMT",
-    "source": "뉴시스",
-    "domain": "newsis.com",
-    "thumb": "https://img1.newsis.com/2026/04/23/NISI20260423_0021256715_web.jpg"
-  },
-  {
     "title": "장원영 비방 콘텐츠 유포자 추적···소속사 “국제 공조로 끝까지 찾는다”",
     "link": "https://www.khan.co.kr/article/202606181504011",
     "pubDate": "Thu, 18 Jun 2026 07:00:00 GMT",
@@ -288,12 +288,12 @@
     "thumb": "https://img1.yna.co.kr/photo/cms/2025/02/25/72/PCM20250225000072050_P4.jpg"
   },
   {
-    "title": "장원영 출국 영상 보더니…“마스크 기준이 뭐죠?” 민원 [잇슈 키워드]",
-    "link": "https://news.kbs.co.kr/news/view.do?ncd=8587100",
+    "title": "장원영 출국 심사 후폭풍, 결국 안내 방침 바꾼다",
+    "link": "https://sports.khan.co.kr/article/202606161146003",
     "pubDate": "Tue, 16 Jun 2026 07:00:00 GMT",
-    "source": "KBS 뉴스",
-    "domain": "news.kbs.co.kr",
-    "thumb": "http://news.kbs.co.kr/data/news/title_image/newsmp4/newsplaza_p1/2026/06/16/320_8587100.jpg"
+    "source": "스포츠경향",
+    "domain": "sports.khan.co.kr",
+    "thumb": null
   },
   {
     "title": "“기준이 뭐냐” 장원영 출국 심사, 민원으로 번졌다",
