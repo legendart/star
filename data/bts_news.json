@@ -48,6 +48,14 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/02/poctan/20260702162306579vcxw.jpg"
   },
   {
+    "title": "무더위 날리는 페달 밟기, 방탄소년단(BTS) RM의 '자연 속 멘탈 케어' 트렌드",
+    "link": "https://news.nate.com/view/20260702n28379",
+    "pubDate": "Thu, 02 Jul 2026 07:16:00 GMT",
+    "source": "네이트",
+    "domain": "news.nate.com",
+    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sg/2026/07/02/20260702514435.png"
+  },
+  {
     "title": "BTS 뷔, 월드 투어 중 사생활 보호 요청 “호텔 방문 자제 부탁”",
     "link": "https://www.koreaes.com/news/articleView.html?idxno=405081",
     "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
@@ -88,12 +96,20 @@
     "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=1850,fit=cover,q=high,sharpen=2/21/2026/07/2026070215071913277_1.jpg"
   },
   {
-    "title": "컴포즈커피, BTS 뷔 손글씨 굿즈 공개…프리퀀시 이벤트 진행",
-    "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=43289",
-    "pubDate": "Thu, 02 Jul 2026 05:46:56 GMT",
-    "source": "파이낸셜리뷰",
-    "domain": "financialreview.co.kr",
-    "thumb": "http://www.financialreview.co.kr/news/thumbnail/202607/43289_63330_4254_v150.jpg"
+    "title": "방탄소년단-르세라핌, 2026 아이하트라디오 뮤직 페스티벌 출격",
+    "link": "https://www.vogue.co.kr/2026/07/02/%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8-%EB%A5%B4%EC%84%B8%EB%9D%BC%ED%95%8C-2026-%EC%95%84%EC%9D%B4%ED%95%98%ED%8A%B8%EB%9D%BC%EB%94%94%EC%98%A4-%EB%AE%A4%EC%A7%81-%ED%8E%98%EC%8A%A4%ED%8B%B0/",
+    "pubDate": "Thu, 02 Jul 2026 06:15:49 GMT",
+    "source": "Vogue korea",
+    "domain": "vogue.co.kr",
+    "thumb": null
+  },
+  {
+    "title": "BTS 뷔, 월드 투어 중 사생활 침해 호소 \"호텔 앞 방문 자제해주길\"",
+    "link": "https://www.news1.kr/entertain/celebrity-topic/6215888",
+    "pubDate": "Thu, 02 Jul 2026 06:06:38 GMT",
+    "source": "뉴스1",
+    "domain": "news1.kr",
+    "thumb": "https://i3n.news1.kr/system/photos/2025/10/15/7543766/high.jpg"
   },
   {
     "title": "BTS 뷔, 수면시간 고작 2시간27분..\"호텔 앞까지 찾아와, 배려 부탁\"",
@@ -102,14 +118,6 @@
     "source": "sportschosun.com",
     "domain": "sportschosun.com",
     "thumb": "https://www.sportschosun.com/article/html/2026/07/02/2026070201000153000007022.jpg"
-  },
-  {
-    "title": "BTS 뷔 “호텔까지 찾아오는 건 자제해달라”…팬들에 사생활 존중 호소",
-    "link": "https://www.viva100.com/article/20260702500846",
-    "pubDate": "Thu, 02 Jul 2026 05:00:00 GMT",
-    "source": "브릿지경제",
-    "domain": "viva100.com",
-    "thumb": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/02/.cache/512/20260702500850.jpg?v=20260703010341"
   },
   {
     "title": "그룹 방탄소년단 ⑯ㅣ월드투어·페스티벌·차트…K팝 영향력 확대",
@@ -144,14 +152,6 @@
     "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=858,fit=cover,q=high,sharpen=2/21/2026/07/2026070210254992873_1.jpg"
   },
   {
-    "title": "\"호텔까지 찾아오지 말아달라\"…BTS 뷔, 팬들에 호소 - 머니투데이",
-    "link": "https://www.mt.co.kr/entertainment/2026/07/02/2026070210223265699",
-    "pubDate": "Thu, 02 Jul 2026 01:45:16 GMT",
-    "source": "머니투데이",
-    "domain": "mt.co.kr",
-    "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/07/2026070210223265699_1.jpg"
-  },
-  {
     "title": "BTS 뷔 “숙소까지 공유하고 싶진 않아”…투어 중 사생활 보호 요청",
     "link": "https://biz.heraldcorp.com/article/10795434",
     "pubDate": "Thu, 02 Jul 2026 01:31:04 GMT",
@@ -176,28 +176,20 @@
     "thumb": "http://news.kbs.co.kr/data/news/2026/07/02/20260702_qvDlMe.png"
   },
   {
-    "title": "BTS·르세라핌, 美 '아이하트라디오 뮤직 페스티벌' 출연",
-    "link": "https://v.daum.net/v/20260702095535621",
-    "pubDate": "Thu, 02 Jul 2026 00:55:35 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/02/yonhap/20260702095535642lojf.jpg"
-  },
-  {
-    "title": "컴포즈커피, BTS 뷔 손글씨 담은 테이블웨어 증정 프리퀀시 이벤트",
-    "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4092653",
-    "pubDate": "Thu, 02 Jul 2026 00:49:17 GMT",
-    "source": "BBS불교방송",
-    "domain": "news.bbsi.co.kr",
-    "thumb": "https://cdn.news.bbsi.co.kr/news/thumbnail/202607/4092653_743698_4911_v150.jpg"
-  },
-  {
     "title": "르세라핌, BTS와 함께 美 '아이하트라디오 뮤직페스티벌' 출격…K팝 걸그룹 최초",
     "link": "https://www.sportschosun.com/entertainment/2026-07-02/202607020100013040000561",
     "pubDate": "Thu, 02 Jul 2026 00:32:26 GMT",
     "source": "sportschosun.com",
     "domain": "sportschosun.com",
     "thumb": "https://www.sportschosun.com/article/html/2026/07/02/2026070201000130400005611_w.jpg"
+  },
+  {
+    "title": "BTS 뷔 \"호텔 찾아오지 말아달라\"…팬들에 간곡 호소 [소셜in]",
+    "link": "https://enews.imbc.com/News/RetrieveNewsInfo/510148",
+    "pubDate": "Thu, 02 Jul 2026 00:22:00 GMT",
+    "source": "iMBC 연예",
+    "domain": "enews.imbc.com",
+    "thumb": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/07/02/59cd3256-223a-4710-a6dc-0edeee267c11.jpg"
   },
   {
     "title": "BTS, 런던 전역이 무대 된다…'더 시티 아리랑' 화려한 개막 예고",
@@ -224,28 +216,12 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/02/JTBC/20260702084118204knhi.jpg"
   },
   {
-    "title": "BTS 브뤼셀 공연을 기다리는 아미들",
-    "link": "https://www.yna.co.kr/amp/view/PYH20260702007800098",
-    "pubDate": "Wed, 01 Jul 2026 23:20:24 GMT",
-    "source": "연합뉴스",
-    "domain": "yna.co.kr",
-    "thumb": "https://img1.yna.co.kr/photo/yna/YH/2026/07/02/PYH2026070200780009800_P4.jpg"
-  },
-  {
     "title": "\"국적 달라도 BTS로 하나죠\"…아미가 점령한 '유럽 수도' 브뤼셀",
     "link": "https://v.daum.net/v/20260702073910304",
     "pubDate": "Wed, 01 Jul 2026 22:39:10 GMT",
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/02/sbsi/20260702073911936kwia.jpg"
-  },
-  {
-    "title": "방탄소년단 진, 스페인 팬 홀린 완벽한 순간들..'MI GUAPO JIN EN MADRID'",
-    "link": "https://www.starnewskorea.com/music/2026/07/02/2026070207110478636",
-    "pubDate": "Wed, 01 Jul 2026 22:14:03 GMT",
-    "source": "starnewskorea.com",
-    "domain": "starnewskorea.com",
-    "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=959,fit=cover,q=high,sharpen=2/21/2026/07/2026070207110478636_1.jpg"
   },
   {
     "title": "방탄소년단 진, 마이원픽 122주 연속 1위…30개월 연속 월간 'No.1'",
@@ -288,12 +264,28 @@
     "thumb": "https://wimg.heraldcorp.com/news/cms/2026/07/01/news-p.v1.20260623.8181efa89e7f42c991f4e73eda4d1645_T1.jpg"
   },
   {
+    "title": "한달간 1978억원… 방탄소년단, 북미서 가장 많이 벌었다",
+    "link": "https://www.munhwa.com/article/11599500",
+    "pubDate": "Wed, 01 Jul 2026 02:44:45 GMT",
+    "source": "문화일보",
+    "domain": "munhwa.com",
+    "thumb": "https://wimg.munhwa.com/news/cms/2026/07/01/news-p.v1.20260701.7ad74100471d4f4695d95cd619dc405f_R.jpg"
+  },
+  {
     "title": "BTS 정국, 복근 드러낸 댄스 챌린지…하루 만에 5000만뷰 ‘훌쩍’",
     "link": "https://biz.heraldcorp.com/article/10794186",
     "pubDate": "Wed, 01 Jul 2026 01:44:31 GMT",
     "source": "헤럴드경제",
     "domain": "biz.heraldcorp.com",
     "thumb": "https://wimg.heraldcorp.com/news/cms/2026/07/01/news-p.v1.20260701.b69c3f44ce484138b9a64c912dc4aaa8_T1.jpg"
+  },
+  {
+    "title": "BTS, 두 달 매출 3000억 원…8주간 38억회 스트리밍",
+    "link": "https://www.busan.com/view/busan/view.php?code=2026070109575921584",
+    "pubDate": "Wed, 01 Jul 2026 00:59:53 GMT",
+    "source": "부산일보",
+    "domain": "busan.com",
+    "thumb": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/03/22/2026032210381871858_l.jpg"
   },
   {
     "title": "BTS, 5월 공연으로만 '2천억' 매출…공연 50회 이상 남아",
@@ -310,6 +302,14 @@
     "source": "MBC 뉴스",
     "domain": "imnews.imbc.com",
     "thumb": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/07/01/today_20260701_065342_2_15_Large.jpg"
+  },
+  {
+    "title": "BTS 슈가 스페이스X 초기 투자자?…“수익률 40배 달할 수도”",
+    "link": "https://www.munhwa.com/article/11599372",
+    "pubDate": "Tue, 30 Jun 2026 15:28:11 GMT",
+    "source": "문화일보",
+    "domain": "munhwa.com",
+    "thumb": "https://wimg.munhwa.com/news/cms/2026/07/01/news-p.v1.20260629.517f1f113ec24ce5bb336eb8107656a6_R.jpg"
   },
   {
     "title": "BTS, 팝스타 다 제쳤다… 2개월 만에 3000억 ‘잭팟’",
