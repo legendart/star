@@ -1,5 +1,13 @@
 [
   {
+    "title": "BTS가 1·2위 휩쓸었다…2026 상반기 공연 장르 통합 예매 TOP10",
+    "link": "https://www.econovill.com/news/articleView.html?idxno=744291",
+    "pubDate": "Sat, 04 Jul 2026 16:43:44 GMT",
+    "source": "ER 이코노믹리뷰",
+    "domain": "econovill.com",
+    "thumb": "https://cdn.econovill.com/news/thumbnail/202607/744291_717512_4244_v150.jpg"
+  },
+  {
     "title": "BTS 컴백에 상반기 공연 시장 ‘역대 최고’…8940억원, 8년 연속 증가 [ER분석]",
     "link": "https://www.econovill.com/news/articleView.html?idxno=744268",
     "pubDate": "Sat, 04 Jul 2026 15:08:42 GMT",
@@ -14,6 +22,14 @@
     "source": "헤럴드경제",
     "domain": "biz.heraldcorp.com",
     "thumb": "https://wimg.heraldcorp.com/news/cms/2026/07/04/news-p.v1.20260704.e7a352a8f2304961885f49777f6031e6_T1.jpg"
+  },
+  {
+    "title": "BTS Jin unveils ‘world-class visuals’ that melted Brussels",
+    "link": "https://sports.khan.co.kr/en/article/202607042101007/?utm_source=khan_rss&utm_medium=rss&utm_campaign=k-culture",
+    "pubDate": "Sat, 04 Jul 2026 12:01:00 GMT",
+    "source": "스포츠경향",
+    "domain": "sports.khan.co.kr",
+    "thumb": null
   },
   {
     "title": "BTS 진, 브뤼셀 녹인 ‘월클 비주얼’ 공개",
@@ -165,7 +181,7 @@
     "pubDate": "Sat, 04 Jul 2026 01:36:35 GMT",
     "source": "전자신문",
     "domain": "etnews.com",
-    "thumb": null
+    "thumb": "https://img.etnews.com/news/article/2026/07/04/article_04103605470426.jpg"
   },
   {
     "title": "BTS, 아르헨티나 라플라타시 '명예 외빈' 선정",
@@ -176,20 +192,20 @@
     "thumb": "https://www.jeonmae.co.kr/news/thumbnail/202607/1271391_994482_3425_v150.jpg"
   },
   {
-    "title": "BTS, 아르헨티나 라플라타시 '명예 외빈'…글로벌 위상 입증",
-    "link": "https://news.nate.com/view/20260704n04828",
-    "pubDate": "Sat, 04 Jul 2026 01:23:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/ed/2026/07/04/PS26070400076.jpg"
-  },
-  {
     "title": "BTS '아리랑', 英 앨범 차트 37위…15주 연속 진입",
     "link": "https://www.yna.co.kr/view/AKR20260704017900005",
     "pubDate": "Sat, 04 Jul 2026 00:45:50 GMT",
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img9.yna.co.kr/photo/cms/2026/03/16/84/PCM20260316000084005_P4.jpg"
+  },
+  {
+    "title": "방탄소년단, ‘아리랑’으로 글로벌 차트 15주째 롱런",
+    "link": "https://news.jtbc.co.kr/article/NB12306540",
+    "pubDate": "Fri, 03 Jul 2026 23:35:00 GMT",
+    "source": "JTBC",
+    "domain": "news.jtbc.co.kr",
+    "thumb": null
   },
   {
     "title": "BTS, 아르헨티나 ‘명예 외빈’ 됐다…시 의회 전원 찬성",
@@ -240,22 +256,6 @@
     "thumb": "https://image.starnewskorea.com/21/2026/07/2026070406454925878_1.jpg"
   },
   {
-    "title": "유죄인간 BTS 뷔, 벨기에서 펑펑 우는 팬에게 재킷 선물‥전세계 아미 감동한 팬사랑",
-    "link": "https://m.newsen.com/news_view.php?uid=202607031629572510",
-    "pubDate": "Fri, 03 Jul 2026 21:39:01 GMT",
-    "source": "뉴스엔",
-    "domain": "m.newsen.com",
-    "thumb": null
-  },
-  {
-    "title": "BTS·에스파·하츠투하츠, 미·중·일 정상 장악",
-    "link": "https://www.mediapen.com/news/view/1108086",
-    "pubDate": "Fri, 03 Jul 2026 06:52:37 GMT",
-    "source": "미디어펜",
-    "domain": "mediapen.com",
-    "thumb": "https://image.mediapen.com/news/202607/news_1108086_1783061268_m.jpg"
-  },
-  {
     "title": "하이트진로, BTS 뷔 앞세워 해외 공략 나선다",
     "link": "https://www.sentv.co.kr/article/view/sentv202607030078",
     "pubDate": "Fri, 03 Jul 2026 06:00:15 GMT",
@@ -264,12 +264,12 @@
     "thumb": "https://www.sentv.co.kr/data/sentv/image/2026/07/03/sentv20260703000074.jpg"
   },
   {
-    "title": "\"오디세우스의 귀환\"…BTS 학술대회도 재개",
-    "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008640361",
-    "pubDate": "Fri, 03 Jul 2026 03:27:00 GMT",
-    "source": "news.sbs.co.kr",
-    "domain": "news.sbs.co.kr",
-    "thumb": "https://img.sbs.co.kr/newimg/news/20260703/202198682_1280.jpg"
+    "title": "BTS 정국, 그라프 66년 역사상 첫 글로벌 앰버서더 발탁!",
+    "link": "https://www.marieclairekorea.com/fashion/2026/07/bts-jungkook-graff/",
+    "pubDate": "Fri, 03 Jul 2026 05:13:38 GMT",
+    "source": "마리끌레르 코리아",
+    "domain": "marieclairekorea.com",
+    "thumb": "https://img.marieclairekorea.com/2026/07/mck_6a472c2dba29c.png"
   },
   {
     "title": "BTS 뷔 'K소주' 얼굴 된다…'진로' 앰배서더로 발탁",
@@ -288,12 +288,12 @@
     "thumb": "https://pimg.mk.co.kr/news/cms/202607/03/news-p.v1.20260703.17658f6d26624c9ba5ebc96c1327f475_R.png"
   },
   {
-    "title": "전북대, BTS 글로벌 학술대회 개막… 차세대 한류 미래 조명",
-    "link": "http://m.jlmaeil.com/view.php?idx=300217",
-    "pubDate": "Thu, 02 Jul 2026 08:08:00 GMT",
-    "source": "전라매일",
-    "domain": "m.jlmaeil.com",
-    "thumb": "http://www.jlmaeil.com/data/newsThumb/1782979645ADD_thumb580.jpg"
+    "title": "방탄소년단 지민, 스타랭킹 男 아이돌 244주째 1위 '굳건'",
+    "link": "https://www.starnewskorea.com/star/2026/07/02/2026070215054365418",
+    "pubDate": "Thu, 02 Jul 2026 06:22:30 GMT",
+    "source": "starnewskorea.com",
+    "domain": "starnewskorea.com",
+    "thumb": "https://image.starnewskorea.com/21/2026/07/2026070215054365418_1.jpg"
   },
   {
     "title": "80대 교수도 아미 \"방탄 군백기에 BTS 연구 더 집중했죠\"",
@@ -304,12 +304,12 @@
     "thumb": "https://www.chosun.com/resizer/v2/G3BB22W2K5FYPPXVNLFRWSSSIY.jpg?auth=31ba292b89cd6e54dffa663907f5926d45ef7541e6ce636db24e14015ac4c729&amp;width=1200&amp;height=630&amp;focal=646,267"
   },
   {
-    "title": "\"국적 달라도 BTS로 하나죠\"…아미가 점령한 '유럽 수도' 브뤼셀",
-    "link": "https://www.yna.co.kr/view/AKR20260702011500098",
-    "pubDate": "Wed, 01 Jul 2026 22:22:12 GMT",
-    "source": "연합뉴스",
-    "domain": "yna.co.kr",
-    "thumb": "https://img5.yna.co.kr/etc/inner/KR/2026/07/02/AKR20260702011500098_02_i_P4.jpg"
+    "title": "삼성證 “하이브, BTS·코르티스·캣츠아이 효과…2분기 영업익 130% 증가 전망\" - 조선비즈",
+    "link": "https://biz.chosun.com/stock/stock_general/2026/07/02/MFLKO4ZIERF3XMXSVA4PAM6JFU/",
+    "pubDate": "Wed, 01 Jul 2026 23:52:00 GMT",
+    "source": "Chosunbiz",
+    "domain": "biz.chosun.com",
+    "thumb": "https://biz.chosun.com/resizer/v2/MUZTOOBYMI4DGZRRHA3WKNZVG4.jpg?auth=9705b09f78f068b6f057aae97744534e2559fcaa3ff23b1a480815e2f2cec770&amp;width=1200&amp;height=630&amp;smart=true"
   },
   {
     "title": "BTS Community Moment - 저희 반겨주시는 마음은 너무나",
