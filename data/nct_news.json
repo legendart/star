@@ -88,36 +88,12 @@
     "thumb": "https://news.nateimg.co.kr/orgImg/tv/2026/07/03/1783041849_1792499.jpg"
   },
   {
-    "title": "'NCT' 재현, 전역 후 첫 컴백…'99 디그리스', 10일 발매",
-    "link": "https://news.nate.com/view/20260703n08969?mid=e1100",
-    "pubDate": "Fri, 03 Jul 2026 01:13:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/th/2026/07/03/058c2339-2ee3-421e-9c41-dcc78ede233e.jpg"
-  },
-  {
-    "title": "NCT 재현, 10일 작사·작곡 참여한 싱글 '99 Degrees' 발매",
-    "link": "https://news.nate.com/view/20260703n08286",
-    "pubDate": "Fri, 03 Jul 2026 00:59:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/07/03/202607030952332410_1.jpg"
-  },
-  {
     "title": "NCT 재현이 가는길은 레드카펫",
     "link": "https://www.sportsworldi.com/newsView/20260703504155",
     "pubDate": "Fri, 03 Jul 2026 00:47:28 GMT",
     "source": "스포츠월드",
     "domain": "sportsworldi.com",
     "thumb": "https://www.sportsworldi.com/content/image/2026/07/03/20260703504154.jpg"
-  },
-  {
-    "title": "NCT 재현, 10일 새 싱글 '99 Degrees' 발매..작사∙작곡 참여 - 조선비즈",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/07/03/GJQTQNRYGE2DCMJSMEYDIYZQMI/",
-    "pubDate": "Fri, 03 Jul 2026 00:38:00 GMT",
-    "source": "Chosunbiz",
-    "domain": "biz.chosun.com",
-    "thumb": "https://biz.chosun.com/resizer/v2/GZRDAODGGA4GCNBRGJRTINJXHA.jpg?auth=e1a7cd4410084f937e0086b9e4cdc765933cbeac565aac0e2211220900e2b0a5&amp;width=650&amp;height=341&amp;smart=true"
   },
   {
     "title": "NCT 재현, '비니 찰떡' 스윗한 보조개 미소로 출국",
@@ -237,7 +213,7 @@
     "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
     "source": "중앙일보",
     "domain": "joongang.co.kr",
-    "thumb": null
+    "thumb": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202606/24/30467c63-0dc6-4a03-a862-125e895a84df.jpg"
   },
   {
     "title": "슈주·NCT의 이집트 생존 여행…'왕자와 거지' 7월 27일 첫 방송",
@@ -248,12 +224,28 @@
     "thumb": "https://image.ytn.co.kr/general/jpg/2026/0623/202606231136002329_t.jpg"
   },
   {
+    "title": "슈주부터 NCT까지…세대 초월 아이돌 서바이벌 여행기 '왕자와 거지'",
+    "link": "https://www.etnews.com/20260623000152",
+    "pubDate": "Tue, 23 Jun 2026 01:50:37 GMT",
+    "source": "전자신문",
+    "domain": "etnews.com",
+    "thumb": "https://img.etnews.com/news/article/2026/06/23/article_23105020791043.jpeg"
+  },
+  {
     "title": "NCT WISH, 日 대표 히트곡 '보이 미츠 걸' 리메이크 발매",
     "link": "https://v.daum.net/v/20260622091813787",
     "pubDate": "Mon, 22 Jun 2026 00:18:13 GMT",
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/22/JTBC/20260622091814446jyry.jpg"
+  },
+  {
+    "title": "10돌 맞은 NCT드림, 8월 팬미팅 연다",
+    "link": "https://www.munhwa.com/article/11595674",
+    "pubDate": "Mon, 15 Jun 2026 07:00:00 GMT",
+    "source": "문화일보",
+    "domain": "munhwa.com",
+    "thumb": "https://wimg.munhwa.com/news/cms/2026/06/15/news-p.v1.20260615.6c2a77fdc7694c4bab37d8bead900eeb_R.jpg"
   },
   {
     "title": "NCT WISH The 1st Album ‘Ode to Love’ 발매 기념 ‘VIDEO CALL EVENT’ – 6/23(화) 애플뮤직",
@@ -310,6 +302,14 @@
     "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
+  },
+  {
+    "title": "NCT 마크, 데뷔 10년 만에 홀로서기…SM과 계약 종료",
+    "link": "https://www.ytn.co.kr/_ln/0117_202604031520541177",
+    "pubDate": "Fri, 03 Apr 2026 07:00:00 GMT",
+    "source": "YTN",
+    "domain": "ytn.co.kr",
+    "thumb": "https://image.ytn.co.kr/general/jpg/2026/0403/202604031520541177_t.jpg"
   },
   {
     "title": "NCT WISH “2/11 (수) 2026 제2회 디 어워즈” 팬클럽 참여 안내",
