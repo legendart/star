@@ -56,14 +56,6 @@
     "thumb": "http://img.yonhapnews.co.kr/basic/svc/00_ko/home/koreancenter_fb_logo.jpg"
   },
   {
-    "title": "'BTS가 입었던 무대 의상 보자'",
-    "link": "https://www.yna.co.kr/amp/view/PYH20260705016600085",
-    "pubDate": "Sun, 05 Jul 2026 01:48:25 GMT",
-    "source": "연합뉴스",
-    "domain": "yna.co.kr",
-    "thumb": "https://img5.yna.co.kr/photo/yna/YH/2026/07/05/PYH2026070501660008500_P4.jpg"
-  },
-  {
     "title": "방탄소년단, 아르헨티나 라플라타市 '명예 외빈' 됐다…시의회 만장일치",
     "link": "https://www.news1.kr/entertain/music/6217921",
     "pubDate": "Sun, 05 Jul 2026 00:49:46 GMT",
@@ -110,14 +102,6 @@
     "source": "TopStarNews",
     "domain": "topstarnews.net",
     "thumb": "https://cdn.topstarnews.net/news/photo/202607/16123873_1955421_2226_crop.jpeg"
-  },
-  {
-    "title": "'JIN REIGNS BRUSSELS' 방탄소년단 진, 초특급 라이브..벨기에 달궜다!",
-    "link": "https://www.starnewskorea.com/music/2026/07/05/2026070507072952699",
-    "pubDate": "Sat, 04 Jul 2026 22:10:37 GMT",
-    "source": "starnewskorea.com",
-    "domain": "starnewskorea.com",
-    "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=1066,fit=cover,q=high,sharpen=2/21/2026/07/2026070507072952699_1.jpg"
   },
   {
     "title": "방탄소년단 뷔, 벨기에 공연 중 다운증후군 팬과 교감..'평생 잊지 못할 순간' 선물",
@@ -248,12 +232,28 @@
     "thumb": "https://image.mediapen.com/news/202607/news_1108086_1783061268_m.jpg"
   },
   {
+    "title": "BTS '소우주', 노래를 넘어 한 권의 책이 되다",
+    "link": "https://www.bntnews.co.kr/article/view/bnt202607030207",
+    "pubDate": "Fri, 03 Jul 2026 06:27:58 GMT",
+    "source": "bntnews.co.kr",
+    "domain": "bntnews.co.kr",
+    "thumb": "https://www.bntnews.co.kr/data/bnt/image/2026/07/03/bnt202607030477.jpg"
+  },
+  {
     "title": "하이트진로, BTS 뷔 앞세워 해외 공략 나선다",
     "link": "https://www.sentv.co.kr/article/view/sentv202607030078",
     "pubDate": "Fri, 03 Jul 2026 06:00:15 GMT",
     "source": "서울경제TV",
     "domain": "sentv.co.kr",
     "thumb": "https://www.sentv.co.kr/data/sentv/image/2026/07/03/sentv20260703000074.jpg"
+  },
+  {
+    "title": "BTS 정국, 그라프 66년 역사상 첫 글로벌 앰버서더 발탁!",
+    "link": "https://www.marieclairekorea.com/fashion/2026/07/bts-jungkook-graff/",
+    "pubDate": "Fri, 03 Jul 2026 05:13:38 GMT",
+    "source": "마리끌레르 코리아",
+    "domain": "marieclairekorea.com",
+    "thumb": null
   },
   {
     "title": "민윤기치료센터, 농구 치료 개시…\"BTS 슈가가 추진 적극 지지\"",
@@ -280,20 +280,12 @@
     "thumb": "https://img.hankyung.com/photo/202607/01.44893299.1.jpg"
   },
   {
-    "title": "임영웅, BTS·박지훈 제쳤다…광고 모델 1위 - 스타투데이",
-    "link": "https://www.mk.co.kr/news/hot-issues/12089553",
-    "pubDate": "Thu, 02 Jul 2026 23:30:23 GMT",
-    "source": "매일경제",
-    "domain": "mk.co.kr",
-    "thumb": "https://pimg.mk.co.kr/news/cms/202607/03/news-p.v1.20260703.17658f6d26624c9ba5ebc96c1327f475_R.png"
-  },
-  {
-    "title": "BTS 뷔, 호텔까지 따라 온 팬들에게 사생활 존중 호소…수면 부족까지",
-    "link": "https://www.nocutnews.co.kr/news/6542142",
-    "pubDate": "Thu, 02 Jul 2026 05:32:00 GMT",
-    "source": "nocutnews.co.kr",
-    "domain": "nocutnews.co.kr",
-    "thumb": "https://file2.nocutnews.co.kr/newsroom/image/2026/07/02/202607021430511292_0.jpg"
+    "title": "BTS·하츠투하츠·에스파, 글로벌 존재감! 한터 국가별 차트 1위",
+    "link": "https://www.etnews.com/20260703000018",
+    "pubDate": "Thu, 02 Jul 2026 23:54:51 GMT",
+    "source": "전자신문",
+    "domain": "etnews.com",
+    "thumb": "https://img.etnews.com/news/article/2026/07/03/article_03085434495840.jpg"
   },
   {
     "title": "80대 교수도 아미 \"방탄 군백기에 BTS 연구 더 집중했죠\"",
@@ -302,6 +294,14 @@
     "source": "조선일보",
     "domain": "chosun.com",
     "thumb": "https://www.chosun.com/resizer/v2/G3BB22W2K5FYPPXVNLFRWSSSIY.jpg?auth=31ba292b89cd6e54dffa663907f5926d45ef7541e6ce636db24e14015ac4c729&amp;width=1200&amp;height=630&amp;focal=646,267"
+  },
+  {
+    "title": "\"국적 달라도 BTS로 하나죠\"…아미가 점령한 '유럽 수도' 브뤼셀",
+    "link": "https://v.daum.net/v/20260702072401103",
+    "pubDate": "Wed, 01 Jul 2026 22:24:01 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/02/yonhap/20260702072401593twhy.jpg"
   },
   {
     "title": "BTS Community Moment - 저희 반겨주시는 마음은 너무나",
