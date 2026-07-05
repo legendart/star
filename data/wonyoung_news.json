@@ -1,11 +1,11 @@
 [
   {
     "title": "장원영, 눈빛에 빠져들겠어 [IS하이컷]",
-    "link": "http://isplus.joins.com/article/view/isp202607050103",
+    "link": "https://isplus.com/article/view/isp202607050103",
     "pubDate": "Sun, 05 Jul 2026 11:07:00 GMT",
     "source": "일간스포츠",
-    "domain": "isplus.joins.com",
-    "thumb": null
+    "domain": "isplus.com",
+    "thumb": "https://isplus.com/data/isp/image/2026/07/05/isp20260705000211.800x.0.jpg"
   },
   {
     "title": "장원영, 침대 위에 여신이 내려왔네…빛나는 미모 [N샷]",
@@ -102,14 +102,6 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/03/mydaily/20260703232503788wjpv.jpg"
-  },
-  {
-    "title": "장원영, 얼굴이 다 했다…초근접 셀카도 ‘굴욕 無’ [DA★]",
-    "link": "https://www.donga.com/SODA/article/0210/20260703/134234552/1",
-    "pubDate": "Fri, 03 Jul 2026 13:00:00 GMT",
-    "source": "동아일보",
-    "domain": "donga.com",
-    "thumb": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/07/03/134234550.1.jpg"
   },
   {
     "title": "아이브 장원영, 감탄만 나오는 인형 미모 [스타엿보기]",
@@ -318,5 +310,13 @@
     "source": "머니투데이",
     "domain": "mt.co.kr",
     "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=922,fit=cover,bg=whilte,f=auto,quality=high,sharpen=2,g=face/21/2026/06/2026061612522995012_2.jpg"
+  },
+  {
+    "title": "“기준이 뭐냐” 장원영 출국 심사, 민원으로 번졌다",
+    "link": "https://sports.khan.co.kr/article/202606151000003",
+    "pubDate": "Mon, 15 Jun 2026 07:00:00 GMT",
+    "source": "스포츠경향",
+    "domain": "sports.khan.co.kr",
+    "thumb": null
   }
 ]
