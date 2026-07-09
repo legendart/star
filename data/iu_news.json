@@ -1,5 +1,13 @@
 [
   {
+    "title": "아이유, '역사 왜곡 논란' 사과 2달 만에 SNS 재개했다…\"뭔가 잘못했다 느꼈는데\"",
+    "link": "https://www.tenasia.co.kr/article/2026070953644",
+    "pubDate": "Thu, 09 Jul 2026 05:14:00 GMT",
+    "source": "텐아시아",
+    "domain": "tenasia.co.kr",
+    "thumb": "https://img.tenasia.co.kr/photo/202607/BF.44973709.1.jpg"
+  },
+  {
     "title": "배재고 5·18 조롱 사태를 보며 아이유의 명언을 다시 되새기는 이유",
     "link": "https://www.khan.co.kr/article/202607090600001",
     "pubDate": "Wed, 08 Jul 2026 21:00:00 GMT",
@@ -22,14 +30,6 @@
     "source": "스포츠서울",
     "domain": "sportsseoul.com",
     "thumb": "https://file.sportsseoul.com/news/cms/2026/07/08/news-p.v1.20260708.62236dda0455449bbb7b5233fb07c49c_P1.png"
-  },
-  {
-    "title": "아이유, 매력 열매 먹은 스타",
-    "link": "https://news.nate.com/photo/viewer?sid=8434&cid=1181535&mid=e0600",
-    "pubDate": "Wed, 08 Jul 2026 09:50:55 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "http://news.nateimg.co.kr/etc/cms/2026/07/08/1783488958_464.jpg"
   },
   {
     "title": "아이유·박보검, 광고인이 뽑은 대표 광고모델 1위",
@@ -64,22 +64,6 @@
     "thumb": "https://img1.newsis.com/2026/07/08/NISI20260708_0002181554_web.jpg"
   },
   {
-    "title": "아이유, '우아美'",
-    "link": "https://www.ggilbo.com/news/articleView.html?idxno=1168226",
-    "pubDate": "Wed, 08 Jul 2026 06:21:23 GMT",
-    "source": "금강일보",
-    "domain": "ggilbo.com",
-    "thumb": "https://cdn.ggilbo.com/news/photo/202607/1168226_1020499_2021.jpg"
-  },
-  {
-    "title": "아이유, 약 두 달 만에 전한 반가운 근황…\"뭔가 잘못했다 느꼈는데\"",
-    "link": "https://mydaily.co.kr/page/view/2026070814374221457",
-    "pubDate": "Wed, 08 Jul 2026 05:56:18 GMT",
-    "source": "마이데일리",
-    "domain": "mydaily.co.kr",
-    "thumb": "https://mydaily.co.kr/photos/2026/07/08/2026070814483361433_l.jpg"
-  },
-  {
     "title": "아이유, 오랜만에 근황인데 \"뭔가 잘못됐다고 느꼈지만 뺄 수 없었어\" 무슨 일?",
     "link": "https://news.nate.com/view/20260708n22948",
     "pubDate": "Wed, 08 Jul 2026 05:33:00 GMT",
@@ -96,6 +80,14 @@
     "thumb": "https://www.vogue.co.kr/wp_data/vogue/2026/07/style_6a4dc44fdbc40-scaled-1920x1080.jpg?x=1710&y=1629&ver=1.1.33"
   },
   {
+    "title": "아이유ㆍ박보검, 광고업계가 선정한 ‘대한민국 대표 광고모델’ 1위",
+    "link": "https://www.kukinews.com/article/view/kuk202607070112",
+    "pubDate": "Tue, 07 Jul 2026 14:04:20 GMT",
+    "source": "쿠키뉴스",
+    "domain": "kukinews.com",
+    "thumb": null
+  },
+  {
     "title": "\"눈을 뗄 수 없다\"…아이유, 청룡의 여신",
     "link": "https://www.dispatch.co.kr/2344911",
     "pubDate": "Tue, 07 Jul 2026 09:01:00 GMT",
@@ -110,6 +102,14 @@
     "source": "마리끌레르 코리아",
     "domain": "marieclairekorea.com",
     "thumb": "https://img.marieclairekorea.com/2026/07/mck_6a4cad6af240d.jpg"
+  },
+  {
+    "title": "아이유, 예거 르쿨트르 앰버서더 선정…“시간을 초월하는 완벽함”",
+    "link": "https://www.slist.kr/news/articleView.html?idxno=750217",
+    "pubDate": "Tue, 07 Jul 2026 08:08:44 GMT",
+    "source": "싱글리스트",
+    "domain": "slist.kr",
+    "thumb": "https://cdn.slist.kr/news/thumbnail/202607/750217_1150913_746_v150.jpg"
   },
   {
     "title": "예거 르쿨트르, 아이유 글로벌 앰버서더 발탁",
@@ -134,6 +134,14 @@
     "source": "맥스무비",
     "domain": "maxmovie.com",
     "thumb": "https://cdn.maxmovie.com/news/photo/202607/500410_40416_1337.jpg"
+  },
+  {
+    "title": "아이유·박보검, '2026 대한민국 대표 광고모델' 선정…현직 광고인이 가장 신뢰한 얼굴",
+    "link": "https://www.wbcb.co.kr/news/articleView.html?idxno=104055",
+    "pubDate": "Tue, 07 Jul 2026 05:11:02 GMT",
+    "source": "복지TV부울경방송",
+    "domain": "wbcb.co.kr",
+    "thumb": "https://cdn.wbcb.co.kr/news/thumbnail/202607/104055_133455_441_v150.jpg"
   },
   {
     "title": "아이유·박보검, 광고계가 뽑은 ‘올해의 얼굴’...2026 대표 광고모델 선정",
@@ -166,14 +174,6 @@
     "source": "starnewskorea.com",
     "domain": "starnewskorea.com",
     "thumb": "https://image.starnewskorea.com/21/2026/07/2026070713110845528_1.jpg"
-  },
-  {
-    "title": "아이유 “내 알고리즘 아직도 ‘폭싹’”…염혜란 “우리 딸 자랑스러워”",
-    "link": "https://sports.khan.co.kr/article/202607071309003",
-    "pubDate": "Tue, 07 Jul 2026 04:09:00 GMT",
-    "source": "스포츠경향",
-    "domain": "sports.khan.co.kr",
-    "thumb": null
   },
   {
     "title": "아이유, '청룡의 얼굴'",
@@ -214,6 +214,14 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/07/mydaily/20260707114801395tzof.jpg"
+  },
+  {
+    "title": "아이유, 이수지 속았수다",
+    "link": "https://enews.imbc.com/News/RetrieveNewsInfo/510710",
+    "pubDate": "Tue, 07 Jul 2026 02:46:00 GMT",
+    "source": "iMBC 연예",
+    "domain": "enews.imbc.com",
+    "thumb": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/07/07/7edb73c2-3f1d-4b55-a27d-b1d41dfd45f2.jpg"
   },
   {
     "title": "염혜란 \"'대군부인' 아이유 너무 예쁘고 잘해..'우리 딸내미' 자랑\"[청룡 핸드프린팅]",
@@ -310,13 +318,5 @@
     "source": "JTBC",
     "domain": "news.jtbc.co.kr",
     "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202607/03/547f3f0a-759c-4bae-9b11-7fd96d365fa1.jpg"
-  },
-  {
-    "title": "아이유, 양평군 저소득 이웃돕기 성금 1000만 원 기부",
-    "link": "https://news.jtbc.co.kr/article/NB12306428",
-    "pubDate": "Fri, 03 Jul 2026 05:38:00 GMT",
-    "source": "JTBC",
-    "domain": "news.jtbc.co.kr",
-    "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202607/03/f76f35d8-95c9-4dcd-bd0f-41d7c1e64219.jpg"
   }
 ]
