@@ -56,14 +56,6 @@
     "thumb": "https://biz.chosun.com/resizer/v2/GVTDIYJWMNSTCODGGQ2GEZBTME.jpg?auth=3555b1e4778a1e7d191082173ed819f90fa11611050dd7e5061f2ee50b23864e&amp;width=900&amp;height=472&amp;smart=true"
   },
   {
-    "title": "NCT 재현, 99도에서 찾은 완전한 사랑…오늘(10일) 신곡 발매",
-    "link": "https://news.tf.co.kr/read/entertain/2341928.htm",
-    "pubDate": "Fri, 10 Jul 2026 01:44:21 GMT",
-    "source": "더팩트",
-    "domain": "news.tf.co.kr",
-    "thumb": "https://img.tf.co.kr/article/home/2026/07/10/202662801783646551.jpg"
-  },
-  {
     "title": "‘군백기 끝’ NCT 재현, 오늘 신곡 ‘99 디그리스’로 솔로 컴백",
     "link": "https://www.koreaes.com/news/articleView.html?idxno=405191",
     "pubDate": "Fri, 10 Jul 2026 00:29:00 GMT",
@@ -160,12 +152,28 @@
     "thumb": null
   },
   {
+    "title": "‘NCT 탈퇴’ 마크, 오늘(8일) 위버스 오픈..새 프로필도 공개",
+    "link": "https://v.daum.net/v/20260708183308342",
+    "pubDate": "Wed, 08 Jul 2026 09:33:08 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/08/poctan/20260708183308517lkwv.jpg"
+  },
+  {
     "title": "'잘생긴 애 옆에 잘생긴 애' NCT JNJM, 빛이 나는 투샷[엑's 숏폼]",
     "link": "https://v.daum.net/v/20260708173907135",
     "pubDate": "Wed, 08 Jul 2026 08:39:07 GMT",
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/08/xportsnews/20260708173913917tden.jpg"
+  },
+  {
+    "title": "NCT 제노-재민,'훈훈한 투샷' [사진]",
+    "link": "https://v.daum.net/v/20260708173507918",
+    "pubDate": "Wed, 08 Jul 2026 08:35:07 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/08/poctan/20260708173507702brtk.jpg"
   },
   {
     "title": "NCT 윈윈, SM엔터 떠난다 “그룹 활동도 마무리”",
@@ -198,14 +206,6 @@
     "source": "starnewskorea.com",
     "domain": "starnewskorea.com",
     "thumb": "https://image.starnewskorea.com/21/2026/07/2026070816055244087_1.jpg"
-  },
-  {
-    "title": "윈윈, SM 전속계약 종료…NCT도 탈퇴",
-    "link": "https://v.daum.net/v/qGTaDpd8Og",
-    "pubDate": "Wed, 08 Jul 2026 07:03:00 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/08/nocut/20260708160302392lspp.jpg"
   },
   {
     "title": "윈윈도 SM과 결별···올해 NCT 멤버 세번째 이탈",
@@ -304,19 +304,19 @@
     "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=800,fit=cover,bg=whilte,f=auto,quality=high,sharpen=2,g=face/21/2026/07/2026070613200638796_1.jpg"
   },
   {
+    "title": "‘SM 떠난’ NCT 텐, 일리멘트 공동 설립…글로벌 활동 박차",
+    "link": "https://news.jtbc.co.kr/article/NB12306736",
+    "pubDate": "Mon, 06 Jul 2026 00:59:00 GMT",
+    "source": "JTBC",
+    "domain": "news.jtbc.co.kr",
+    "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202607/06/1f2bb531-9199-46c2-9923-632453b08fc3.jpg"
+  },
+  {
     "title": "NCT WISH, 日 음악 방송서 신곡 첫 공개",
     "link": "https://www.alphabiz.co.kr/news/articleView.html?idxno=162656",
     "pubDate": "Sun, 05 Jul 2026 23:50:00 GMT",
     "source": "알파경제",
     "domain": "alphabiz.co.kr",
     "thumb": "https://cdn.alphabiz.co.kr/news/photo/202607/162656_96424_3633.jpg"
-  },
-  {
-    "title": "''NCT 탈퇴' 마크 향한 리더 태용의 한마디…\"좋아보여서 다행이다\"",
-    "link": "https://v.daum.net/v/X9gvFz6brW",
-    "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/23/mydaily/20260623162634429lphr.jpg"
   }
 ]
