@@ -1,13 +1,5 @@
 [
   {
-    "title": "BTS, 런던에서도 삼겹살에 소주·맥주 회식",
-    "link": "https://biz.heraldcorp.com/article/10806181",
-    "pubDate": "Sun, 12 Jul 2026 14:40:27 GMT",
-    "source": "헤럴드경제",
-    "domain": "biz.heraldcorp.com",
-    "thumb": "https://wimg.heraldcorp.com/news/cms/2026/07/13/news-p.v1.20260712.6ce84fa783e54eadbf5e03eb9d8a1278_T1.jpg"
-  },
-  {
     "title": "인'스타'그램 세상|BTS, 런던에서도 삼겹살에 소주·맥주 회식",
     "link": "https://m.news.zum.com/photo/58287739/106613000?cm=news_edit&r=1&thumb=1",
     "pubDate": "Sun, 12 Jul 2026 14:40:27 GMT",
@@ -136,20 +128,20 @@
     "thumb": "https://img.hankyung.com/photo/202607/02.44997358.1.jpg"
   },
   {
-    "title": "BTS 진, 입대 강승윤에 러브콜 \"나랑 같이 조교하자\" 초코과자 한 박스도 쐈다(불후)",
-    "link": "https://news.nate.com/view/20260711n10220",
-    "pubDate": "Sat, 11 Jul 2026 09:31:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/07/11/202607111739082110_1.jpg"
-  },
-  {
     "title": "강승윤 \"BTS 진 덕분에 軍 생활관 영웅 됐다\" 훈훈 미담 공개 ('불후')",
     "link": "https://www.chosun.com/entertainments/music/2026/07/11/MQ2DIYJXGE3TEMDDHFSDINTBGM/",
     "pubDate": "Sat, 11 Jul 2026 08:37:00 GMT",
     "source": "조선일보",
     "domain": "chosun.com",
     "thumb": "https://www.chosun.com/resizer/v2/MFTDEYJYMUYWGM3EMUZDEN3GMQ.jpg?auth=6ce88eb6755133e36941b6f3d18bafa05e3b7e0c6ee27027ef544a03e2d49181&amp;width=650&amp;height=341&amp;smart=true"
+  },
+  {
+    "title": "방탄소년단 진, 군 미담 터졌다..강승윤 \"초코박스로 영웅 돼\"[불후]",
+    "link": "https://www.starnewskorea.com/broadcast-show/2026/07/11/2026071110555495158",
+    "pubDate": "Sat, 11 Jul 2026 02:06:15 GMT",
+    "source": "starnewskorea.com",
+    "domain": "starnewskorea.com",
+    "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=1599,fit=cover,q=high,sharpen=2/21/2026/07/2026071110555495158_1.jpg"
   },
   {
     "title": "강승윤 “BTS 진 덕분에 군대 훈련소에서 영웅 됐다”",
@@ -214,6 +206,14 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/10/newsy/20260710160954133yvkq.jpg"
+  },
+  {
+    "title": "BTS ‘스윔’, 美서 표절 의혹…빅히트 “일방적 주장, 강경 대응”",
+    "link": "https://www.kado.net/news/articleView.html?idxno=2060619",
+    "pubDate": "Fri, 10 Jul 2026 06:28:48 GMT",
+    "source": "강원도민일보",
+    "domain": "kado.net",
+    "thumb": "https://cdn.kado.net/news/photo/202607/2060619_868091_2835.jpg"
   },
   {
     "title": "BTS ‘스윔’, 美서 표절 소송… 빅히트 “일방적 주장, 강경 대응”",
@@ -288,20 +288,20 @@
     "thumb": "https://media.yonhapnewstv.co.kr/article/AKR/20260710/AKR202607101113498w8_01_i.jpg"
   },
   {
-    "title": "BTS 뷔가 한 '이 머리' 2026 남자 헤어 트렌드",
-    "link": "https://www.esquirekorea.co.kr/article/1906000",
-    "pubDate": "Fri, 10 Jul 2026 02:09:23 GMT",
-    "source": "esquirekorea.co.kr",
-    "domain": "esquirekorea.co.kr",
-    "thumb": "https://www.esquirekorea.co.kr/resources/online/thumbnail/hf/2026/07/10/dc06da77-1b73-4d43-a77b-6a615463ef75.jpg"
-  },
-  {
     "title": "美 무명 작곡가들, BTS '스윔' 표절 의혹 제기…법원에 소송",
     "link": "https://www.yna.co.kr/view/AKR20260710063200075",
     "pubDate": "Fri, 10 Jul 2026 01:59:27 GMT",
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img9.yna.co.kr/photo/cms/2026/03/24/80/PCM20260324000080005_P4.jpg"
+  },
+  {
+    "title": "방탄소년단, 뉴욕을 'BTS의 도시'로 탈바꿈한다",
+    "link": "https://www.2news.co.kr/news/articleView.html?idxno=15080",
+    "pubDate": "Fri, 10 Jul 2026 01:59:00 GMT",
+    "source": "2news.co.kr",
+    "domain": "2news.co.kr",
+    "thumb": "https://cdn.2news.co.kr/news/photo/202607/mn_15080_20260710105901_1.jpg"
   },
   {
     "title": "BTS 진의 압도적인 눈맞춤, 엘르 6종 커버 공개",
