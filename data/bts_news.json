@@ -8,14 +8,6 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/13/imbc/20260713204505081ixgk.jpg"
   },
   {
-    "title": "BTS, 뉴욕서 몰입형 프로젝트 ‘BTS THE CITY ARIRANG’ 개최",
-    "link": "https://billboard.co.kr/editorial/culture/article/bts-%25eb%2589%25b4%25ec%259a%2595%25ec%2584%259c-%25eb%25aa%25b0%25ec%259e%2585%25ed%2598%2595-%25ed%2594%2584%25eb%25a1%259c%25ec%25a0%259d%25ed%258a%25b8-bts-the-city-arirang-%25ea%25b0%259c%25ec%25b5%259c/",
-    "pubDate": "Mon, 13 Jul 2026 08:34:42 GMT",
-    "source": "Billboard Korea",
-    "domain": "billboard.co.kr",
-    "thumb": null
-  },
-  {
     "title": "\"BTS·철도 지하 물류 이송 기술 공유\"…현대건설·철도기술연구원, '상호 협력체계' MOU",
     "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=266314",
     "pubDate": "Mon, 13 Jul 2026 08:19:10 GMT",
@@ -38,6 +30,14 @@
     "source": "더팩트",
     "domain": "news.tf.co.kr",
     "thumb": "https://img.tf.co.kr/article/stars/2026/07/13/202630921783924119.jpg"
+  },
+  {
+    "title": "BTS, 뉴욕서 몰입형 프로젝트 ‘BTS THE CITY ARIRANG’ 개최",
+    "link": "https://billboard.co.kr/editorial/news/article/bts-%25eb%2589%25b4%25ec%259a%2595%25ec%2584%259c-%25eb%25aa%25b0%25ec%259e%2585%25ed%2598%2595-%25ed%2594%2584%25eb%25a1%259c%25ec%25a0%259d%25ed%258a%25b8-bts-the-city-arirang-%25ea%25b0%259c%25ec%25b5%259c/",
+    "pubDate": "Mon, 13 Jul 2026 05:40:11 GMT",
+    "source": "Billboard Korea",
+    "domain": "billboard.co.kr",
+    "thumb": "https://contents.billboard.co.kr/media/editorial/news/4752/og_thumbnail.jpg"
   },
   {
     "title": "뉴욕 도심 달구는 BTS…美서 `더 시티 아리랑`",
@@ -184,6 +184,14 @@
     "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=947,fit=cover,q=high,sharpen=2/21/2026/07/2026071206434853282_1.jpg"
   },
   {
+    "title": "‘역시 월와핸 비주얼’…진, 방탄소년단 월드 투어 ‘ARIRANG’ 런던 공연 비하인드 근황",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16131593",
+    "pubDate": "Sat, 11 Jul 2026 12:03:01 GMT",
+    "source": "TopStarNews",
+    "domain": "topstarnews.net",
+    "thumb": "https://cdn.topstarnews.net/news/photo/202607/16131593_1959826_18_crop.jpg"
+  },
+  {
     "title": "강승윤 “BTS 진 덕분에 군대 훈련소에서 영웅 됐다”",
     "link": "https://news.jtbc.co.kr/article/NB12307721",
     "pubDate": "Sat, 11 Jul 2026 01:19:00 GMT",
@@ -206,14 +214,6 @@
     "source": "노컷뉴스",
     "domain": "nocutnews.co.kr",
     "thumb": "https://file2.nocutnews.co.kr/newsroom/image/2026/07/11/202607110905021326_0.jpg"
-  },
-  {
-    "title": "방탄소년단 진 \"음악으로 얻은 것? 아마도 모든 것\"",
-    "link": "https://news.nate.com/view/20260711n00116",
-    "pubDate": "Fri, 10 Jul 2026 15:13:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/jt/2026/07/11/4614303a-a62e-4f09-95a4-070d285b05ea.jpg"
   },
   {
     "title": "BTS ‘스윔’ 미국서 저작권 소송…“미 발표곡 무단 사용”",
