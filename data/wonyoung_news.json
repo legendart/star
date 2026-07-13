@@ -37,7 +37,7 @@
     "pubDate": "Mon, 13 Jul 2026 05:57:34 GMT",
     "source": "전자신문",
     "domain": "etnews.com",
-    "thumb": null
+    "thumb": "https://img.etnews.com/news/article/2026/07/13/article_13145654787767.jpg"
   },
   {
     "title": "장원영 “대중의 시선? 불편함도 즐기는 편...좋은 영향으로 다가오겠지” [화보]",
@@ -256,14 +256,6 @@
     "thumb": null
   },
   {
-    "title": "‘장원영 렌즈’ 하파크리스틴, 사모펀드에 매각 ‘눈앞’…본계약 체결",
-    "link": "https://biz.heraldcorp.com/article/10803620",
-    "pubDate": "Thu, 09 Jul 2026 03:03:01 GMT",
-    "source": "헤럴드경제",
-    "domain": "biz.heraldcorp.com",
-    "thumb": "https://wimg.heraldcorp.com/news/cms/2026/07/09/news-p.v1.20260709.dc5af55c30754374899a34417d9fc86e_T1.png"
-  },
-  {
     "title": "장원영, 대단한 N년째 '11자 복근' 지킴이..\"아름답다고 말하다 지쳤다\"",
     "link": "https://www.starnewskorea.com/music/2026/07/07/2026070719532379436",
     "pubDate": "Tue, 07 Jul 2026 11:09:37 GMT",
@@ -310,6 +302,14 @@
     "source": "스포츠경향",
     "domain": "sports.khan.co.kr",
     "thumb": null
+  },
+  {
+    "title": "장원영, 악플에 전쟁 선언…스타쉽 \"법적 대응\"",
+    "link": "https://www.newsis.com/view/NISX20260618_0003674524",
+    "pubDate": "Thu, 18 Jun 2026 07:00:00 GMT",
+    "source": "뉴시스",
+    "domain": "newsis.com",
+    "thumb": "https://img1.newsis.com/2026/04/23/NISI20260423_0021256715_web.jpg"
   },
   {
     "title": "장원영 출국 심사 후폭풍, 결국 안내 방침 바꾼다",
