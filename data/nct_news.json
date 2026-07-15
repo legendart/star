@@ -224,14 +224,6 @@
     "thumb": "https://cdn.spotvnews.co.kr/news/thumbnail/202607/828614_1360552_4417_v150.jpg"
   },
   {
-    "title": "'데뷔 10주년' NCT 127, SM과 전원 재계약",
-    "link": "https://news.nate.com/view/20260715n09536",
-    "pubDate": "Wed, 15 Jul 2026 00:49:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sd/2026/07/15/134301571.1.jpg"
-  },
-  {
     "title": "NCT 127, SM 전원 재계약",
     "link": "https://www.bntnews.co.kr/article/view/bnt202607150126",
     "pubDate": "Wed, 15 Jul 2026 00:47:04 GMT",
@@ -318,5 +310,13 @@
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img6.yna.co.kr/etc/inner/KR/2026/07/13/AKR20260713149100005_01_i_P4.jpg"
+  },
+  {
+    "title": "더블유 코리아 Vol.8 커버의 주인공, NCT 재현",
+    "link": "https://www.wkorea.com/2026/07/10/vol-8-%EC%BB%A4%EB%B2%84-%EC%9E%AC%ED%98%84/",
+    "pubDate": "Fri, 10 Jul 2026 02:59:42 GMT",
+    "source": "W Korea",
+    "domain": "wkorea.com",
+    "thumb": null
   }
 ]
