@@ -1,13 +1,5 @@
 [
   {
-    "title": "BTS·마돈나에 톰 크루즈까지… 슈퍼볼보다 화려한 결승전",
-    "link": "https://m.seoul.co.kr/news/sport/2026/07/17/20260717034003?cp=seoul",
-    "pubDate": "Thu, 16 Jul 2026 16:04:37 GMT",
-    "source": "서울신문",
-    "domain": "m.seoul.co.kr",
-    "thumb": "https://img.seoul.co.kr/img/upload/2026/05/21/SSC_20260521072342.jpg"
-  },
-  {
     "title": "BTS와 아미가 함께 만든 ‘공감·위로의 공동체’",
     "link": "https://v.daum.net/v/20260717000440194",
     "pubDate": "Thu, 16 Jul 2026 15:04:40 GMT",
@@ -30,6 +22,14 @@
     "source": "eyesmag.com",
     "domain": "eyesmag.com",
     "thumb": "https://cdn.eyesmag.com/content/uploads/posts/2026/07/16/jj-9296ef77.jpg"
+  },
+  {
+    "title": "BTS·샤키라·마돈나 결승전 하프타임 공연 [아하 월드컵]",
+    "link": "https://www.hani.co.kr/arti/sports/sportstemp/worldcup/1268607.html",
+    "pubDate": "Thu, 16 Jul 2026 11:12:00 GMT",
+    "source": "한겨레",
+    "domain": "hani.co.kr",
+    "thumb": "https://flexible.img.hani.co.kr/flexible/normal/670/447/imgdb/original/2026/0716/20260716503202.webp"
   },
   {
     "title": "BTS, 글로벌 시장의 새로운 기준을 쓰다➊",
@@ -120,14 +120,6 @@
     "thumb": "https://www.bntnews.co.kr/data/bnt/image/2026/07/16/bnt202607160465.jpg"
   },
   {
-    "title": "결승전만큼 풍성한 볼거리… BTS 결승전 하프타임 쇼 출격",
-    "link": "https://www.busan.com/view/busan/view.php?code=2026071612422278158",
-    "pubDate": "Thu, 16 Jul 2026 04:53:53 GMT",
-    "source": "부산일보",
-    "domain": "busan.com",
-    "thumb": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/07/16/2026071612464240919_l.jpg"
-  },
-  {
     "title": "BTS 진에 기습 뽀뽀...\"이게 범죄?\" 50대 일본인, 또 재판 불출석 - 머니투데이",
     "link": "https://www.mt.co.kr/society/2026/07/16/2026071611380632755",
     "pubDate": "Thu, 16 Jul 2026 04:49:05 GMT",
@@ -200,14 +192,6 @@
     "thumb": "https://img.hankyung.com/photo/202607/01.44970659.1.png"
   },
   {
-    "title": "방탄소년단의 새 선물…'NORMAL' MV 공개 임박!",
-    "link": "https://www.etnews.com/20260716000067",
-    "pubDate": "Thu, 16 Jul 2026 00:36:51 GMT",
-    "source": "전자신문",
-    "domain": "etnews.com",
-    "thumb": "https://img.etnews.com/news/article/2026/07/16/article_16093636078499.jpg"
-  },
-  {
     "title": "BTS '노멀' 뮤직비디오 17일 스포티파이 공개",
     "link": "https://v.daum.net/v/20260716091642970",
     "pubDate": "Thu, 16 Jul 2026 00:16:42 GMT",
@@ -222,6 +206,14 @@
     "source": "뉴스1",
     "domain": "news1.kr",
     "thumb": "https://i3n.news1.kr/system/photos/2026/7/16/8011043/high.jpg"
+  },
+  {
+    "title": "\"얼굴이 얼마나 작은거야?\"…BTS 진, 보고도 안 믿기는 비현실적 '소두' 비율",
+    "link": "https://www.chosun.com/entertainments/broadcast/2026/07/16/GE3GMMTCGM2GIYRVGI4TMNJYGE/",
+    "pubDate": "Wed, 15 Jul 2026 21:57:00 GMT",
+    "source": "조선일보",
+    "domain": "chosun.com",
+    "thumb": "https://www.chosun.com/resizer/v2/GA3WEYJWG4ZDKN3GGAZTIMBQGI.jpg?auth=fe869c69ee96cd4a1a1a71963df51401434847ad06dad96c9a244066ad7ac025&amp;width=530&amp;height=278&amp;smart=true"
   },
   {
     "title": "Multimedia de BTS de Weverse - BTS (방탄소년",
@@ -280,20 +272,28 @@
     "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202607/15/e575eec8-d57c-4c83-ba32-1e081349f78d.jpg"
   },
   {
+    "title": "BTS 공연 \"아리랑\" 떼창에 세계가 전율하는 이유",
+    "link": "https://www.mindlenews.com/news/articleView.html?idxno=21369",
+    "pubDate": "Wed, 15 Jul 2026 01:30:00 GMT",
+    "source": "세상을 바꾸는 시민언론 민들레",
+    "domain": "mindlenews.com",
+    "thumb": "https://cdn.mindlenews.com/news/thumbnail/202607/21369_73408_5736_v150.jpg"
+  },
+  {
+    "title": "'BTS·마돈나·샤키라' 결승전 하프타임 쇼가 25분? '쇼'에 진심인 미국",
+    "link": "https://www.nocutnews.co.kr/news/6548244",
+    "pubDate": "Tue, 14 Jul 2026 23:14:00 GMT",
+    "source": "노컷뉴스",
+    "domain": "nocutnews.co.kr",
+    "thumb": "https://file2.nocutnews.co.kr/newsroom/image/2026/07/15/202607150812468116_0.jpg"
+  },
+  {
     "title": "런던 도심 수놓은 BTS ’아리랑’…성공적 마무리",
     "link": "https://www.yonhapnewstv.co.kr/news/MYH20260715054214PrO",
     "pubDate": "Tue, 14 Jul 2026 20:42:00 GMT",
     "source": "연합뉴스TV",
     "domain": "yonhapnewstv.co.kr",
     "thumb": "https://media.yonhapnewstv.co.kr/article/MYH/20260714/MYH20260715054214PrO.jpg"
-  },
-  {
-    "title": "아이돌과 K팝을 의심하던 기자의 ‘BTS 입덕기’",
-    "link": "https://www.hani.co.kr/arti/culture/music/1268211.html",
-    "pubDate": "Tue, 14 Jul 2026 10:17:00 GMT",
-    "source": "한겨레",
-    "domain": "hani.co.kr",
-    "thumb": "https://flexible.img.hani.co.kr/flexible/normal/873/524/imgdb/child/2026/0714/53_17840110184285_20260714502592.webp"
   },
   {
     "title": "BTS 진 ‘기습 키스’ 일본인 재판 불출석",
@@ -309,7 +309,7 @@
     "pubDate": "Tue, 14 Jul 2026 01:31:03 GMT",
     "source": "비즈워치",
     "domain": "news.bizwatch.co.kr",
-    "thumb": null
+    "thumb": "https://cdn.bizwatch.co.kr/news/photo/2026/04/28/a68aa289a307bf0c63e90a6f08df6189.jpg"
   },
   {
     "title": "BTS '스윔', 美서 표절 의혹…빅히트 \"일방적 주장, 강경 대응\"(종합)",
