@@ -1,13 +1,5 @@
 [
   {
-    "title": "'팔짱 논란'에 보란듯 '팔짱 사진'…장원영 \"예의없다\" 억까에 '정면돌파'",
-    "link": "https://news.nate.com/view/20260717n13545?mid=n0100",
-    "pubDate": "Fri, 17 Jul 2026 12:38:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sp/2026/07/17/news-p.v1.20260717.38fda71d294c429faa3d578d7926e455_P1.png"
-  },
-  {
     "title": "장원영·성훈·신지…활동 중 때아닌 '태도 논란'으로 곤욕 치른 ★들 [종합]",
     "link": "https://v.daum.net/v/20260717205024615",
     "pubDate": "Fri, 17 Jul 2026 11:50:24 GMT",
@@ -22,6 +14,14 @@
     "source": "OBC 뉴스",
     "domain": "theonetv.kr",
     "thumb": "https://cdn.theonetv.kr/news/thumbnail/202607/249449_252051_3529_v150.jpg"
+  },
+  {
+    "title": "장원영, 강철 멘탈…팔짱 논란에 팔짱 사진으로 응수",
+    "link": "https://sports.khan.co.kr/article/202607171710003",
+    "pubDate": "Fri, 17 Jul 2026 08:10:00 GMT",
+    "source": "스포츠경향",
+    "domain": "sports.khan.co.kr",
+    "thumb": null
   },
   {
     "title": "장원영, `팔짱 태도` 논란 정면돌파?…또 팔짱 끼고 카메라 응시",
@@ -64,12 +64,12 @@
     "thumb": "https://cdn.hansbiz.co.kr/news/thumbnail/202607/850877_868281_2342_v150.jpg"
   },
   {
-    "title": "장원영, 때아닌 논란에 아랑곳 않는다‥팔짱 사진으로 대응",
-    "link": "https://m.newsen.com/news_view.php?uid=202607171113106310",
-    "pubDate": "Fri, 17 Jul 2026 04:46:11 GMT",
-    "source": "뉴스엔",
-    "domain": "m.newsen.com",
-    "thumb": null
+    "title": "장원영, 때아닌 논란에 아랑곳 않는다…팔짱 사진으로 대응",
+    "link": "https://news.nate.com/view/20260717n07619",
+    "pubDate": "Fri, 17 Jul 2026 04:47:00 GMT",
+    "source": "네이트",
+    "domain": "news.nate.com",
+    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/07/17/202607171113106310_1.jpg"
   },
   {
     "title": "아이브, 메이저리그 간다…장원영은 뉴욕 메츠 시구",
@@ -120,22 +120,6 @@
     "thumb": "https://www.breaknews.com/imgdata/breaknews_com/202607/2026071755282628.jpg"
   },
   {
-    "title": "장원영, 팔짱 논란에 팔짱으로 맞대응…두 번째 갑론을박에도 흔들림 없다",
-    "link": "https://v.daum.net/v/20260717090150766",
-    "pubDate": "Fri, 17 Jul 2026 00:01:50 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/17/10asia/20260717092109460wpsd.jpg"
-  },
-  {
-    "title": "장원영, 초근접 셀카도 굴욕 없네...블랙 슬리브리스로 완성한 내추럴 무드",
-    "link": "https://www.ppss.kr/news/articleView.html?idxno=302441",
-    "pubDate": "Thu, 16 Jul 2026 23:55:24 GMT",
-    "source": "ppss.kr",
-    "domain": "ppss.kr",
-    "thumb": "https://cdn.ppss.kr/news/photo/202607/302441_121876_5438.jpg"
-  },
-  {
     "title": "아이브 美 메이저리그로 향한다…장원영, 뉴욕 메츠 시구까지 &gt; 시애틀 뉴스/핫이슈",
     "link": "https://www.seattlen.com/bbs/board.php?bo_table=hot&wr_id=64919",
     "pubDate": "Thu, 16 Jul 2026 22:59:42 GMT",
@@ -176,6 +160,14 @@
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/my/2026/07/16/2026071622071140739_l.jpg"
   },
   {
+    "title": "IVE 장원영, 오는 26일 메츠·다저스전서 시구 나선다",
+    "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=431269",
+    "pubDate": "Thu, 16 Jul 2026 12:08:45 GMT",
+    "source": "데일리스포츠한국",
+    "domain": "dailysportshankook.co.kr",
+    "thumb": "https://cdn.dailysportshankook.co.kr/news/photo/202607/431269_445363_81.jpg"
+  },
+  {
     "title": "아이브, 美메이저리그 입성…장원영 시구",
     "link": "https://v.daum.net/v/20260716195611755",
     "pubDate": "Thu, 16 Jul 2026 10:56:11 GMT",
@@ -200,12 +192,28 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/16/joongang/20260716174238164fdax.jpg"
   },
   {
+    "title": "장원영, 뉴욕 메츠 '러브콜' 받았다",
+    "link": "https://www.hankyung.com/article/202607160194H",
+    "pubDate": "Thu, 16 Jul 2026 08:40:49 GMT",
+    "source": "한국경제",
+    "domain": "hankyung.com",
+    "thumb": "https://img.hankyung.com/photo/202607/03.43855938.1.jpg"
+  },
+  {
     "title": "장원영, 美 메이저리그 시구…아이브 뉴욕 메츠 초청",
     "link": "https://news.kbs.co.kr/news/view.do?ncd=8612753",
     "pubDate": "Thu, 16 Jul 2026 08:33:00 GMT",
     "source": "KBS 뉴스",
     "domain": "news.kbs.co.kr",
     "thumb": "http://news.kbs.co.kr/data/news/2026/07/16/20260716_RZjbWt.png"
+  },
+  {
+    "title": "아이브 장원영, MLB 마운드 오른다…메츠·다저스전 시구",
+    "link": "https://www.goodkyung.com/news/articleView.html?idxno=289295",
+    "pubDate": "Thu, 16 Jul 2026 08:00:56 GMT",
+    "source": "굿모닝경제",
+    "domain": "goodkyung.com",
+    "thumb": "https://cdn.goodkyung.com/news/thumbnail/202607/289295_261160_5258_v150.jpg"
   },
   {
     "title": "아이브, 메이저리그 뜬다…장원영, 뉴욕 메츠 홈경기 시구",
@@ -240,20 +248,12 @@
     "thumb": "https://www.bntnews.co.kr/data/bnt/image/2026/07/16/bnt202607160523.jpg"
   },
   {
-    "title": "IVE 장원영, 메이저리그 마운드 오른다…뉴욕 메츠 시구자로 낙점",
-    "link": "https://www.donga.com/news/Culture/article/all/20260716/134312340/1",
-    "pubDate": "Thu, 16 Jul 2026 06:20:27 GMT",
-    "source": "동아일보",
-    "domain": "donga.com",
-    "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/16/134312341.1.jpg"
-  },
-  {
-    "title": "아이브 장원영, 체리 케이스 - 조선비즈",
-    "link": "https://biz.chosun.com/entertainment/entertainment_photo/2026/07/16/MRSTGMJQHBSTGODBGM3DSNDDMY/",
-    "pubDate": "Thu, 16 Jul 2026 03:19:00 GMT",
+    "title": "아이브 장원영, 가려도 장원영 - 조선비즈",
+    "link": "https://biz.chosun.com/entertainment/entertainment_photo/2026/07/16/HA3WCMRTMVSGGN3GMI2TMZDCMI/",
+    "pubDate": "Thu, 16 Jul 2026 04:36:00 GMT",
     "source": "Chosunbiz",
     "domain": "biz.chosun.com",
-    "thumb": "https://biz.chosun.com/resizer/v2/MJRTON3EGJTDAN3FGI3GKZJZG4.jpg?auth=7a37042e81d79ebf888b94c4e068ffccbd25f731b268a6064ed143e450581ee2&amp;width=572&amp;height=300&amp;smart=true"
+    "thumb": "https://biz.chosun.com/resizer/v2/GEZDMNZXMQZWEZTFGMYWMN3FGU.jpg?auth=d7c26560e70a9bccd51f373146e45d465ef36076b60b78af736fff46e319c6b3&amp;width=572&amp;height=300&amp;smart=true"
   },
   {
     "title": "신지 시구 논란에 장원영 팔짱…모두가 피로한 '억까'의 연속",
