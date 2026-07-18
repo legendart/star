@@ -72,14 +72,6 @@
     "thumb": "https://stqnq5ux4599.edge.naverncp.com/data2//content/image/2026/07/18/.cache/512/20260718500183.jpg?v=20260718185511"
   },
   {
-    "title": "BTS가 바꾼 세계 음악지도…한국, 미국·영국 이어 '세계 3위 음악 수출국' 도약",
-    "link": "https://www.daily25news.com/news/articleView.html?idxno=5188",
-    "pubDate": "Sat, 18 Jul 2026 08:53:42 GMT",
-    "source": "데일리25",
-    "domain": "daily25news.com",
-    "thumb": "https://cdn.daily25news.com/news/photo/202607/5188_5533_5043.jpeg"
-  },
-  {
     "title": "대통령 부부도 ＇직관＇…BTS 공연에 9만명 모였다",
     "link": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607180207",
     "pubDate": "Sat, 18 Jul 2026 08:36:00 GMT",
@@ -94,6 +86,14 @@
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img0.yna.co.kr/etc/inner/KR/2026/07/18/AKR20260718038400081_01_i_P4.jpg"
+  },
+  {
+    "title": "마크롱 프랑스 대통령도 BTS 공연 찾았다…아미밤 든 모습 화제",
+    "link": "https://www.dailian.co.kr/news/view/1668339/%EB%A7%88%ED%81%AC%EB%A1%B1-%ED%94%84%EB%9E%91%EC%8A%A4-%EB%8C%80%ED%86%B5%EB%A0%B9%EB%8F%84-BTS-%EA%B3%B5%EC%97%B0-2026",
+    "pubDate": "Sat, 18 Jul 2026 07:50:00 GMT",
+    "source": "데일리안",
+    "domain": "dailian.co.kr",
+    "thumb": "https://cdnimage.dailian.co.kr/news/202607/news_1784360977_1668339_m_1.png"
   },
   {
     "title": "\"마크롱도 아미였어?\" BTS 파리 공연장 찾은 佛 대통령 부부",
@@ -160,28 +160,12 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/18/NEWS1/20260718112729198dzyo.jpg"
   },
   {
-    "title": "BTS 17주 롱런·하이브 걸그룹 순항…英 오피셜 차트 'K팝 천하'",
-    "link": "https://news.nate.com/view/20260718n03476?mid=e0608&isq=9009",
-    "pubDate": "Sat, 18 Jul 2026 01:04:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sw/2026/07/18/20260718505434.jpg"
-  },
-  {
     "title": "BTS 정국 ‘걸 인 레드’···3시간 뒤 윈터는 ‘빨간 티셔츠’",
     "link": "https://sports.khan.co.kr/article/202607180950003",
     "pubDate": "Sat, 18 Jul 2026 00:50:00 GMT",
     "source": "스포츠경향",
     "domain": "sports.khan.co.kr",
     "thumb": null
-  },
-  {
-    "title": "1위 지민, 2위 박지훈, 3위 정국",
-    "link": "https://www.starnewskorea.com/music/2026/07/18/2026071808481582619",
-    "pubDate": "Sat, 18 Jul 2026 00:03:25 GMT",
-    "source": "starnewskorea.com",
-    "domain": "starnewskorea.com",
-    "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=858,fit=cover,q=high,sharpen=2/21/2026/07/2026071808481582619_4.jpg"
   },
   {
     "title": "'글로벌 슈퍼스타' 방탄소년단 진, 마이원픽 124주 연속 1위",
@@ -278,6 +262,22 @@
     "source": "일요서울i",
     "domain": "ilyoseoul.co.kr",
     "thumb": "https://cdn.ilyoseoul.co.kr/news/photo/202607/519994_479668_722.jpg"
+  },
+  {
+    "title": "BTS 지민, 콘서트서 ’홀란 깜짝 패러디’…해외 팬들 “우리의 신“",
+    "link": "https://www.yonhapnewstv.co.kr/news/AKR20260716162412f8d",
+    "pubDate": "Thu, 16 Jul 2026 07:00:00 GMT",
+    "source": "연합뉴스TV",
+    "domain": "yonhapnewstv.co.kr",
+    "thumb": "https://media.yonhapnewstv.co.kr/article/AKR/20260718/AKR20260716162412f8d_02_i.jpg"
+  },
+  {
+    "title": "BTS 진에 기습 입맞춤한 일본인 여성, 또 재판 불출석",
+    "link": "https://www.hankyung.com/article/2026071691017",
+    "pubDate": "Thu, 16 Jul 2026 02:47:19 GMT",
+    "source": "한국경제",
+    "domain": "hankyung.com",
+    "thumb": "https://img.hankyung.com/photo/202607/01.45051110.1.jpg"
   },
   {
     "title": "BTS·저스틴 비버 출연하는데…월드컵 첫 하프타임쇼 비판 받는 이유",
