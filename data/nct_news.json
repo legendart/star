@@ -88,20 +88,20 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/17/NEWS1/20260717080651048gmeh.jpg"
   },
   {
-    "title": "위버스 NCT WISH Media - NCT WISH 엔시티 위시 'YO-I-DON!' @NCTzen WISH-JAPAN FANMEETING 2026",
-    "link": "https://weverse.io/nctwish/media/2-177635466?hl=ko",
-    "pubDate": "Thu, 16 Jul 2026 10:06:08 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
-  },
-  {
     "title": "\"F.M.W 캠페인 피날레\" 메가MGC커피, NCT WISH 팬사인회 연다",
     "link": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260716_0003711477",
     "pubDate": "Thu, 16 Jul 2026 00:28:48 GMT",
     "source": "뉴시스",
     "domain": "mobile.newsis.com",
     "thumb": "https://img1.newsis.com/2026/07/16/NISI20260716_0002188082_web.jpg"
+  },
+  {
+    "title": "\"준비, 땅! 출발\"...NCT 위시, 일본 새 싱글 활동 시작",
+    "link": "https://www.dispatch.co.kr/2345291",
+    "pubDate": "Wed, 15 Jul 2026 11:38:00 GMT",
+    "source": "디스패치",
+    "domain": "dispatch.co.kr",
+    "thumb": "https://dispatch.cdnser.be/cms-content/uploads/2026/07/15/82743c91-8dda-4f86-b9ed-1b8dc5537b01.jpg"
   },
   {
     "title": "‘마크 이탈·군백기’ 딛고 팀워크 굳히기…NCT 127, SM과 7인 전원 재계약",
@@ -216,6 +216,14 @@
     "thumb": "https://image.ytn.co.kr/general/jpg/2026/0715/202607150950517219_t.jpg"
   },
   {
+    "title": "NCT 127, 7人 전원 재계약",
+    "link": "https://www.sportsworldi.com/newsView/20260715507649",
+    "pubDate": "Wed, 15 Jul 2026 00:49:36 GMT",
+    "source": "스포츠월드",
+    "domain": "sportsworldi.com",
+    "thumb": "https://www.sportsworldi.com/content/image/2026/07/15/20260715509196.jpg"
+  },
+  {
     "title": "NCT 127, 전원 재계약⋯SM엔터 \"전폭 지원\" [전문]",
     "link": "https://www.etoday.co.kr/news/view/2603917",
     "pubDate": "Wed, 15 Jul 2026 00:43:00 GMT",
@@ -270,14 +278,6 @@
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img6.yna.co.kr/etc/inner/KR/2026/07/13/AKR20260713149100005_01_i_P4.jpg"
-  },
-  {
-    "title": "라이즈 성찬·NCT 시온·하투하 이안, 2026 가요대전 써머 MC 확정 [공식]",
-    "link": "https://www.chosun.com/entertainments/broadcast/2026/07/13/GFQTEZDCGE4GMZRTG44TGM3DGQ/",
-    "pubDate": "Mon, 13 Jul 2026 05:48:00 GMT",
-    "source": "조선일보",
-    "domain": "chosun.com",
-    "thumb": "https://www.chosun.com/resizer/v2/GI3TQOBWMRTDOMZTGZSGKMJTGE.jpg?auth=efc92a9a64038ae760f8ec1bd5b9c7f33548cb761e76d61e56139ccdbf8bad9e&amp;width=650&amp;height=341&amp;smart=true"
   },
   {
     "title": "NCT 위시, 日 팬미팅 매진→신곡까지 열기 이어간다",
