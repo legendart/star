@@ -1,13 +1,5 @@
 [
   {
-    "title": "BTS \"스윔\"·\"노멀\", 스포티파이서 나란히 \"톱 10\"",
-    "link": "https://www.radiokorea.com/news/article.php?uid=499756",
-    "pubDate": "Mon, 20 Jul 2026 16:34:00 GMT",
-    "source": "RadioKorea",
-    "domain": "radiokorea.com",
-    "thumb": "https://rk-img-news.s3.us-west-2.amazonaws.com/2026/07/20/499756/1.jpg"
-  },
-  {
     "title": "BTS, 월드컵 결승 무대를 달구다",
     "link": "https://v.daum.net/v/20260721010308062",
     "pubDate": "Mon, 20 Jul 2026 16:03:08 GMT",
@@ -192,6 +184,14 @@
     "thumb": "https://wimg.munhwa.com/news/cms/2026/07/20/news-p.v1.20260720.f8e618e6e50f49fd872fb726889748e0_R.jpg"
   },
   {
+    "title": "월드컵도 흔든 BTS[오후여담]",
+    "link": "https://www.munhwa.com/article/11603598",
+    "pubDate": "Mon, 20 Jul 2026 02:33:56 GMT",
+    "source": "문화일보",
+    "domain": "munhwa.com",
+    "thumb": "https://wimg.munhwa.com/news/cms/2026/07/20/news-p.v1.20260720.b1d13a8af0aa4c62b24f74f45e08b9ee_R.jpg"
+  },
+  {
     "title": "\"새로 나온다는 여권형 갤폴드, 저거 맞지?\"…BTS 제이홉 손에서 깜짝 포착",
     "link": "https://news.nate.com/view/20260720n11162",
     "pubDate": "Mon, 20 Jul 2026 01:19:00 GMT",
@@ -208,28 +208,20 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/20/sbsi/20260720095403703yhnz.jpg"
   },
   {
-    "title": "지구촌 달군 다이너마이트…BTS, 월드컵 첫 결승전 하프타임 쇼 장식",
-    "link": "https://www.etnews.com/20260720000014",
-    "pubDate": "Sun, 19 Jul 2026 23:55:47 GMT",
-    "source": "전자신문",
-    "domain": "etnews.com",
-    "thumb": "https://img.etnews.com/news/article/2026/07/20/news-p.v1.20260720.4c08a40c93944baba1ab5d411e70e17d_P1.jpg"
+    "title": "“BTS 띄운 분위기, 저스틴 비버가 ‘뚝’”…27분 하프타임쇼에 혹평",
+    "link": "https://www.joongang.co.kr/article/25446354",
+    "pubDate": "Sun, 19 Jul 2026 23:43:40 GMT",
+    "source": "중앙일보",
+    "domain": "joongang.co.kr",
+    "thumb": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202607/20/12afd94d-5ac1-4c5a-9574-acbb723ea58e.jpg"
   },
   {
-    "title": "결승전 빛낸 BTS \"하프타임 쇼 영광, 꿈을 꾼 기분\"",
-    "link": "https://www.yna.co.kr/view/AKR20260720022700005",
-    "pubDate": "Sun, 19 Jul 2026 23:38:20 GMT",
-    "source": "연합뉴스",
-    "domain": "yna.co.kr",
-    "thumb": "https://img3.yna.co.kr/etc/inner/KR/2026/07/20/AKR20260720022700005_02_i_P4.jpg"
-  },
-  {
-    "title": "스페인, 16년 만에 정상…BTS 하프타임쇼 출격",
-    "link": "https://v.daum.net/v/9Ge3I0tWXd",
-    "pubDate": "Sun, 19 Jul 2026 22:45:33 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/20/newsy/20260720074533186akex.jpg"
+    "title": "키움증권 \"하이브, BTS 월드투어·코르티스 급성장...펀더멘털 우려 과도\"",
+    "link": "https://www.etoday.co.kr/news/view/2604997",
+    "pubDate": "Sun, 19 Jul 2026 23:30:00 GMT",
+    "source": "이투데이",
+    "domain": "etoday.co.kr",
+    "thumb": "https://img.etoday.co.kr/pto_db/2026/07/20260720082934_2361219_1013_760.png"
   },
   {
     "title": "BTS, 월드컵 결승전 하프타임 쇼 장악…다이너마이트에 전세계 열광",
@@ -270,6 +262,14 @@
     "source": "동아일보",
     "domain": "donga.com",
     "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/19/134323314.5.jpg"
+  },
+  {
+    "title": "BTS, 오늘 월드컵 결승 ‘하프타임쇼’ 출격…마돈나와 어깨 나란히",
+    "link": "https://www.mk.co.kr/news/world/12100391",
+    "pubDate": "Sun, 19 Jul 2026 15:01:00 GMT",
+    "source": "매일경제",
+    "domain": "mk.co.kr",
+    "thumb": "https://pimg.mk.co.kr/news/cms/202607/16/news-p.v1.20260716.59fc627e0ce943baa2a4a30102601607_R.jpg"
   },
   {
     "title": "BTS, ’아리랑’ 유럽 투어에 71만7천명 운집…파리 공연에 ’역대 최다’",
