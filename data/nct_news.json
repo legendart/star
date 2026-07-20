@@ -64,14 +64,6 @@
     "thumb": "http://file.osen.co.kr/article_thumb/2026/07/20/202607201002775118_6a5d775393bb1_300x.jpg"
   },
   {
-    "title": "‘왕자와 거지’ NCT 쟈니 “우리 큰일 났다”…1회부터 치열한 심리전",
-    "link": "https://www.slist.kr/news/articleView.html?idxno=752824",
-    "pubDate": "Mon, 20 Jul 2026 01:03:27 GMT",
-    "source": "싱글리스트",
-    "domain": "slist.kr",
-    "thumb": "https://cdn.slist.kr/news/thumbnail/202607/752824_1154507_243_v150.jpg"
-  },
-  {
     "title": "‘오리콘 차트 1위’ NCT 위시, 日 빛냈다",
     "link": "https://www.bntnews.co.kr/article/view/bnt202607200142",
     "pubDate": "Mon, 20 Jul 2026 00:59:06 GMT",
@@ -102,22 +94,6 @@
     "source": "톱스타뉴스",
     "domain": "topstarnews.net",
     "thumb": "https://cdn.topstarnews.net/news/photo/202607/16139875_1964564_373_crop.jpg"
-  },
-  {
-    "title": "NCT WISH, 日 새 싱글 오리콘 데일리 1위…TRF와 특별 컬래버",
-    "link": "https://www.slist.kr/news/articleView.html?idxno=752817",
-    "pubDate": "Mon, 20 Jul 2026 00:34:09 GMT",
-    "source": "싱글리스트",
-    "domain": "slist.kr",
-    "thumb": "https://cdn.slist.kr/news/thumbnail/202607/752817_1154494_3342_v150.jpg"
-  },
-  {
-    "title": "메가MGC커피, ‘NCT WISH 캠페인 피날레’…팬사인회 이벤트",
-    "link": "https://www.sportsseoul.com/news/read/1623181",
-    "pubDate": "Sun, 19 Jul 2026 02:34:58 GMT",
-    "source": "스포츠서울",
-    "domain": "sportsseoul.com",
-    "thumb": "https://file.sportsseoul.com/news/cms/2026/07/19/news-p.v1.20260717.570142f87f0944b08117825f6675d27c_P1.jpg"
   },
   {
     "title": "NCT 위시, 日 달군 청량 질주… 도쿄 쇼케이스 대성황",
@@ -158,6 +134,14 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/17/JTBC/20260717094712509aszl.jpg"
+  },
+  {
+    "title": "NCT WISH, 日 새 싱글 쇼케이스 성황…음악방송 잇단 출연",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16137409",
+    "pubDate": "Fri, 17 Jul 2026 00:08:41 GMT",
+    "source": "톱스타뉴스",
+    "domain": "topstarnews.net",
+    "thumb": "https://cdn.topstarnews.net/news/photo/202607/16137409_1963352_832_crop.jpg"
   },
   {
     "title": "NCT 127, 10주년에 더욱 뜻깊은 전원 재계약 \"책임감 느껴\" [N이슈]",
@@ -214,14 +198,6 @@
     "source": "노컷뉴스",
     "domain": "nocutnews.co.kr",
     "thumb": "https://file2.nocutnews.co.kr/newsroom/image/2026/07/15/202607151123301076_0.jpg"
-  },
-  {
-    "title": "NCT 127, SM과 전원 재계약…데뷔 10년 동행 이어간다",
-    "link": "https://www.ajunews.com/view/20260715110811908",
-    "pubDate": "Wed, 15 Jul 2026 02:17:45 GMT",
-    "source": "아주경제",
-    "domain": "ajunews.com",
-    "thumb": "https://image.ajunews.com/content/image/2026/07/15/20260715111648754911.jpg"
   },
   {
     "title": "NCT 127 멤버 전원, SM엔터와 재계약 체결…\"활동 전폭 지원\"",
@@ -304,6 +280,14 @@
     "thumb": "https://cdnimage.dailian.co.kr/news/202607/news_1784018970_1667145_m_1.png"
   },
   {
+    "title": "NCT WISH 커뮤니티 포스트 - BOY MEETS GIRL🌊 - 재",
+    "link": "https://weverse.io/nctwish/artist/3-235773791?hl=ko",
+    "pubDate": "Tue, 14 Jul 2026 18:10:52 GMT",
+    "source": "Weverse",
+    "domain": "weverse.io",
+    "thumb": null
+  },
+  {
     "title": "메가MGC커피, NCT WISH 협업 굿즈 2종 사전예약 실시",
     "link": "https://m.ekn.kr/view.php?key=20260714027042461",
     "pubDate": "Tue, 14 Jul 2026 08:28:21 GMT",
@@ -318,5 +302,21 @@
     "source": "W Korea",
     "domain": "wkorea.com",
     "thumb": "https://www.wkorea.com/wp_data/w/2026/07/style_6a504ec623cc8-scaled-1920x1080.jpg?x=1931&y=1038&ver=1.1.84"
+  },
+  {
+    "title": "‘데뷔 10주년’ NCT 127, 달린다…정규 7집부터 새 투어까지",
+    "link": "https://news.jtbc.co.kr/article/NB12307103",
+    "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
+    "source": "JTBC",
+    "domain": "news.jtbc.co.kr",
+    "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202607/07/e9223212-8b2e-4169-abe0-d3fe969e6aae.jpg"
+  },
+  {
+    "title": "NCT 10TH ANNIVERSARY [NCT 2026] POP UP : NEO GROUND VISITOR GUIDE NOTICE",
+    "link": "https://weverse.io/nct127/notice/35744",
+    "pubDate": "Mon, 11 May 2026 15:04:49 GMT",
+    "source": "Weverse",
+    "domain": "weverse.io",
+    "thumb": null
   }
 ]
