@@ -80,22 +80,6 @@
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/07/21/202607210816001310_2.jpg"
   },
   {
-    "title": "NCT DREAM 런쥔, 표정만으로 완성한 시크미 [포토엔HD]",
-    "link": "https://news.nate.com/view/20260720n32139?mid=e1200",
-    "pubDate": "Mon, 20 Jul 2026 10:17:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/07/20/202607201916391510_1.jpg"
-  },
-  {
-    "title": "NCT 텐, 고향 태국서 데뷔 10주년 콘서트 성료…\"새로운 시작\" 알렸다",
-    "link": "https://www.xportsnews.com/article/2174107",
-    "pubDate": "Mon, 20 Jul 2026 07:50:34 GMT",
-    "source": "xportsnews.com",
-    "domain": "xportsnews.com",
-    "thumb": "https://image.xportsnews.com/contents/images/upload/article/2026/0720/1784533572419921.webp"
-  },
-  {
     "title": "'확신의 대세' 입증…NCT WISH, 日 '음악의 날' 출연",
     "link": "https://news.nate.com/view/20260720n14042?mid=e1200",
     "pubDate": "Mon, 20 Jul 2026 02:15:00 GMT",
@@ -118,6 +102,14 @@
     "source": "조선일보",
     "domain": "chosun.com",
     "thumb": "https://www.chosun.com/resizer/v2/MYYDSNZSME4GMMRWMIZTGZRWMU.jpg?auth=aa8440cc7c752859db6145982b0f4f51edf768c5931ec549155b739b12cee2de&amp;width=530&amp;height=278&amp;smart=true"
+  },
+  {
+    "title": "NCT WISH, 일본에서도 인기 뜨겁네…오리콘 데일리 싱글 1위",
+    "link": "https://www.tenasia.co.kr/article/2026072036804",
+    "pubDate": "Mon, 20 Jul 2026 00:47:00 GMT",
+    "source": "텐아시아",
+    "domain": "tenasia.co.kr",
+    "thumb": "https://img.tenasia.co.kr/photo/202607/BF.45087611.1.jpg"
   },
   {
     "title": "NCT WISH, 日 새 싱글로 오리콘 데일리 싱글 1위",
@@ -166,14 +158,6 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/17/JTBC/20260717094712509aszl.jpg"
-  },
-  {
-    "title": "NCT WISH, 됴쿄 쇼케이스 성료",
-    "link": "https://v.daum.net/v/20260717094212504",
-    "pubDate": "Fri, 17 Jul 2026 00:42:12 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/17/bntnews/20260717094213714espw.jpg"
   },
   {
     "title": "NCT WISH, 日 새 싱글 쇼케이스 성황…음악방송 잇단 출연",
@@ -248,12 +232,12 @@
     "thumb": "https://img0.yna.co.kr/etc/inner/KR/2026/07/15/AKR20260715068100005_01_i_P4.jpg"
   },
   {
-    "title": "NCT 127 7人, SM엔터와 전원 재계약",
-    "link": "https://www.donga.com/news/Culture/article/all/20260715/134301952/1",
-    "pubDate": "Wed, 15 Jul 2026 01:13:47 GMT",
-    "source": "동아일보",
-    "domain": "donga.com",
-    "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/15/134301953.1.jpg"
+    "title": "'8월 컴백' NCT 127, 멤버 7인 전원 재계약 - 머니투데이",
+    "link": "https://www.mt.co.kr/entertainment/2026/07/15/2026071510157218496",
+    "pubDate": "Wed, 15 Jul 2026 01:15:24 GMT",
+    "source": "머니투데이",
+    "domain": "mt.co.kr",
+    "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=800,fit=cover,bg=whilte,f=auto,quality=high,sharpen=2,g=face/21/2026/07/2026071510157218496_1.jpg"
   },
   {
     "title": "마크 떠난 NCT 127, SM과 전원 재계약 완료[공식]",
@@ -272,12 +256,20 @@
     "thumb": "https://biz.chosun.com/resizer/v2/MUYGEZJYGM2WGYZQG43GCNZSMU.jpg?auth=393ddd6fedf49031049ead97eecda38a893d026fc1bb7cf8bd004bfc27c44577&amp;width=900&amp;height=472&amp;smart=true"
   },
   {
-    "title": "NCT 127, SM과 전원 재계약…10년 신뢰 굳건",
-    "link": "https://www.news1.kr/entertain/celebrity-topic/6228455",
-    "pubDate": "Wed, 15 Jul 2026 00:02:23 GMT",
-    "source": "뉴스1",
-    "domain": "news1.kr",
-    "thumb": "https://i3n.news1.kr/system/photos/2026/7/15/8008959/high.jpg"
+    "title": "NCT 127, SM과 전원 재계약…\"굳건한 팀워크·깊은 신뢰\"",
+    "link": "https://www.ytn.co.kr/_ln/0117_202607150950517219",
+    "pubDate": "Wed, 15 Jul 2026 00:50:00 GMT",
+    "source": "YTN",
+    "domain": "ytn.co.kr",
+    "thumb": "https://image.ytn.co.kr/general/jpg/2026/0715/202607150950517219_t.jpg"
+  },
+  {
+    "title": "메가MGC커피, NCT WISH 협업 굿즈 2종 사전예약 실시",
+    "link": "https://m.ekn.kr/view.php?key=20260714027042461",
+    "pubDate": "Tue, 14 Jul 2026 08:28:21 GMT",
+    "source": "에너지경제신문",
+    "domain": "m.ekn.kr",
+    "thumb": "https://www.ekn.kr/mnt/file/202607/news-p.v1.20260714.d562327960614d0fbde99dcf7838a1a4_R.png"
   },
   {
     "title": "더블유 코리아 Vol.8 커버의 주인공, NCT 재현",
@@ -310,6 +302,14 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/23/mydaily/20260623162634429lphr.jpg"
+  },
+  {
+    "title": "NCT DREAM 10TH ANNIVERSARY PARTY",
+    "link": "https://weverse.io/nctdream/notice/36671?hl=ko",
+    "pubDate": "Mon, 15 Jun 2026 23:14:48 GMT",
+    "source": "Weverse",
+    "domain": "weverse.io",
+    "thumb": null
   },
   {
     "title": "NCT 10TH ANNIVERSARY [NCT 2026] POP UP : NEO GROUND VISITOR GUIDE NOTICE",
