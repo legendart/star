@@ -88,14 +88,6 @@
     "thumb": "https://biz.chosun.com/resizer/v2/MNSGIZRXGNTDIYLGGUYDOMBTGI.jpg?auth=83ba0e66a71af07592ba56f20b5005480f7046c808a10d8f7e33ec4951ef43e4&amp;width=1200&amp;height=630&amp;smart=true"
   },
   {
-    "title": "아이유, 엎친 데 덮친 2026년…\"다 망쳐버린 것 같아\" 자책 [엑's 이슈]",
-    "link": "https://news.nate.com/view/20260721n16680",
-    "pubDate": "Tue, 21 Jul 2026 03:55:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/xs/2026/07/21/1784596283669470.jpg"
-  },
-  {
     "title": "“지옥처럼 보냈다” 앨범·콘서트 ‘올스톱’...아이유가 앓는 희귀 질환, 뭐길래 [헬시타임]",
     "link": "https://www.sedaily.com/article/20069935",
     "pubDate": "Tue, 21 Jul 2026 03:44:01 GMT",
@@ -126,14 +118,6 @@
     "source": "노컷뉴스",
     "domain": "nocutnews.co.kr",
     "thumb": "https://file2.nocutnews.co.kr/newsroom/image/2026/07/21/202607211117054376_0.jpg"
-  },
-  {
-    "title": "아이유, 미국 법원에…'표절·국적' 허위 루머 추적",
-    "link": "https://news.tf.co.kr/read/entertain/2345080.htm",
-    "pubDate": "Tue, 21 Jul 2026 02:17:56 GMT",
-    "source": "더팩트",
-    "domain": "news.tf.co.kr",
-    "thumb": "https://img.tf.co.kr/article/home/2026/07/21/202657591784591982.jpg"
   },
   {
     "title": "\"귀 먹먹하고 압박감\"…아이유 '이것' 악화 콘서트도 취소",
@@ -224,6 +208,22 @@
     "thumb": "https://image.fnnews.com/resource/media/image/2026/07/20/202607201848429562_l.jpg"
   },
   {
+    "title": "‘귀 건강 악화’ 아이유, 콘서트·앨범 연기…“가수로서 최상의 상태로 만나요”",
+    "link": "https://www.hani.co.kr/arti/culture/music/1269104.html",
+    "pubDate": "Mon, 20 Jul 2026 16:05:00 GMT",
+    "source": "한겨레",
+    "domain": "hani.co.kr",
+    "thumb": "https://flexible.img.hani.co.kr/flexible/normal/460/455/imgdb/child/2026/0720/17845421798706_20260720503128.webp"
+  },
+  {
+    "title": "창대한 시작 '대군부인' 후 결별→악플→활동 취소 ..아이유 수난시대 [스타이슈]",
+    "link": "https://v.daum.net/v/xJXarex2CS",
+    "pubDate": "Mon, 20 Jul 2026 11:48:49 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/20/starnews/20260720204851442bhmt.jpg"
+  },
+  {
     "title": "‘고질병 악화’ 아이유, 콘서트·앨범 잠정 연기···“밤낮으로 증상 계속돼”",
     "link": "https://www.khan.co.kr/article/202607201937001",
     "pubDate": "Mon, 20 Jul 2026 10:37:00 GMT",
@@ -264,20 +264,20 @@
     "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202607/20/10056880-6350-4607-bceb-3eb5e289f1fd.jpg"
   },
   {
-    "title": "\"중국 국적·표절\" 도넘은 명예훼손…아이유, 美법원에 악플러 신원 조회 요청",
-    "link": "https://v.daum.net/v/zF4co2b0Az",
-    "pubDate": "Mon, 20 Jul 2026 09:20:37 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/20/akn/20260720182038711okxh.jpg"
-  },
-  {
     "title": "아이유, 이관개방증으로 고양 콘서트 취소·앨범 발매 연기",
     "link": "https://www.yna.co.kr/view/AKR20260720154600005",
     "pubDate": "Mon, 20 Jul 2026 09:18:16 GMT",
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img8.yna.co.kr/photo/yna/YH/2026/04/06/PYH2026040613870001300_P4.jpg"
+  },
+  {
+    "title": "표절 허위에 간첩·화교설까지…아이유, 악플러 잡으려 美법원에 정보요청",
+    "link": "https://biz.heraldcorp.com/article/10813973",
+    "pubDate": "Mon, 20 Jul 2026 07:09:19 GMT",
+    "source": "헤럴드경제",
+    "domain": "biz.heraldcorp.com",
+    "thumb": "https://wimg.heraldcorp.com/news/cms/2026/07/20/news-p.v1.20260720.a12efd41653c4ae1868dbe453e68e61e_T1.png"
   },
   {
     "title": "아이유, 악플러 잡는다…美 법원에 신원조회 요청",
