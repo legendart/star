@@ -32,6 +32,14 @@
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/xs/2026/07/24/1784873857297513.jpg"
   },
   {
+    "title": "아이유, '고질병'으로 인해 콘서트 취소·새 앨범 연기... 뭐길래?",
+    "link": "https://www.ggilbo.com/news/articleView.html?idxno=1170264",
+    "pubDate": "Fri, 24 Jul 2026 04:00:00 GMT",
+    "source": "금강일보",
+    "domain": "ggilbo.com",
+    "thumb": "https://cdn.ggilbo.com/news/photo/202607/1170264_1022632_448.jpg"
+  },
+  {
     "title": "아이유, 악플 52건에 美법원行…닝닝은 계정 찍고 \"고소당할 준비해\" [MD이슈]",
     "link": "https://v.daum.net/v/20260724014049405",
     "pubDate": "Thu, 23 Jul 2026 16:40:49 GMT",
@@ -94,6 +102,14 @@
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img7.yna.co.kr/mpic/YH/2026/07/22/MYH20260722001000038_P1.jpg"
+  },
+  {
+    "title": "‘이관개방증’이 뭐길래… 콘서트까지 취소한 아이유",
+    "link": "https://www.donga.com/news/Society/article/all/20260721/134340163/2",
+    "pubDate": "Tue, 21 Jul 2026 19:30:00 GMT",
+    "source": "동아일보",
+    "domain": "donga.com",
+    "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/21/134340696.1.jpg"
   },
   {
     "title": "“악플러 신원 내놔라”… 장원영 이어 아이유도 美 ‘디스커버리’ 활용 - 조선비즈",
@@ -184,14 +200,6 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/21/joongang/20260721094137212nixe.jpg"
   },
   {
-    "title": "아이유, 이관개방증 악화로 9월 고양콘서트·정규 6집 컴백 연기[공식]",
-    "link": "https://www.chosun.com/entertainments/music/2026/07/20/ME3GKZTFMU3WEZJZGY4TINDDMQ/",
-    "pubDate": "Mon, 20 Jul 2026 09:37:00 GMT",
-    "source": "조선일보",
-    "domain": "chosun.com",
-    "thumb": "https://www.chosun.com/resizer/v2/HBSGMOLBGY4GIOJRME4WEMBUGU.jpg?auth=dac54e25a76f54e0ece577209addd5db2f617dd3a2b561e5dd1094c4f4a4a9aa&amp;width=530&amp;height=278&amp;smart=true"
-  },
-  {
     "title": "아이유, 건강 악화 콘서트 취소→앨범 발매 연기…\"이관개방증으로 당분간 어려워\"",
     "link": "https://v.daum.net/v/20260720182509506",
     "pubDate": "Mon, 20 Jul 2026 09:25:09 GMT",
@@ -206,14 +214,6 @@
     "source": "JTBC",
     "domain": "news.jtbc.co.kr",
     "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202607/20/10056880-6350-4607-bceb-3eb5e289f1fd.jpg"
-  },
-  {
-    "title": "\"중국 국적·표절\" 도넘은 명예훼손…아이유, 美법원에 악플러 신원 조회 요청",
-    "link": "https://www.asiae.co.kr/article/2026072018091279096",
-    "pubDate": "Mon, 20 Jul 2026 09:18:59 GMT",
-    "source": "아시아경제",
-    "domain": "asiae.co.kr",
-    "thumb": "https://cwstatic.asiae.co.kr/asiae_v2/asiae_news.png"
   },
   {
     "title": "아이유, 이관개방증으로 고양 콘서트 취소·앨범 발매 연기",
@@ -240,20 +240,20 @@
     "thumb": "https://img.hankyung.com/photo/202607/03.43424872.1.jpg"
   },
   {
-    "title": "아이유, 악플러 신원 확보 위해 美 법원 증거개시 신청",
-    "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=605427",
-    "pubDate": "Mon, 20 Jul 2026 07:34:01 GMT",
-    "source": "메디컬투데이",
-    "domain": "mdtoday.co.kr",
-    "thumb": "https://cdn.mdtoday.co.kr/news/photo/202607/605427_305856_3338.jpg"
-  },
-  {
     "title": "아이유, 악플러 잡는다…美 법원에 신원조회 요청",
     "link": "https://www.ytn.co.kr/_ln/0117_202607201609555415",
     "pubDate": "Mon, 20 Jul 2026 07:09:00 GMT",
     "source": "YTN",
     "domain": "ytn.co.kr",
     "thumb": "https://image.ytn.co.kr/general/jpg/2026/0720/202607201609555415_t.jpg"
+  },
+  {
+    "title": "아이유, 악플러 잡으러 美 법원에 증거개시 신청서 보내",
+    "link": "https://www.joongang.co.kr/article/25446432",
+    "pubDate": "Mon, 20 Jul 2026 06:11:46 GMT",
+    "source": "중앙일보",
+    "domain": "joongang.co.kr",
+    "thumb": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202607/20/345da1c6-cd45-491f-8954-73dfdfba57ad.jpg"
   },
   {
     "title": "악플러 끝까지 잡는다…아이유, 美 법원에 신원조회 요청",
