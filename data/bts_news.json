@@ -32,14 +32,6 @@
     "thumb": "https://img.hankyung.com/photo/202607/ZA.45086611.1.jpg"
   },
   {
-    "title": "방탄소년단·TXT 대상 품었다…‘KMA 2026’ 성황리 폐막",
-    "link": "https://sports.donga.com/ent/article/all/20260726/134365344/1",
-    "pubDate": "Sun, 26 Jul 2026 05:12:54 GMT",
-    "source": "sports.donga.com",
-    "domain": "sports.donga.com",
-    "thumb": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/07/26/134365350.1.jpeg"
-  },
-  {
     "title": "‘BTS 길’ 만들자, 토론토 시의회 ‘BTS대로’ 명명 안건 발의",
     "link": "https://sports.donga.com/ent/article/all/20260726/134364797/1",
     "pubDate": "Sun, 26 Jul 2026 05:12:05 GMT",
@@ -70,14 +62,6 @@
     "source": "뉴스컬처",
     "domain": "nc.press",
     "thumb": "https://cdn.nc.press/news/photo/202607/621785_847425_4625.jpg"
-  },
-  {
-    "title": "“이 지역 축제 다녀오면 톱스타 된다?”…BTS·르센느 거쳐 간 의외의 무대",
-    "link": "https://www.mk.co.kr/news/society/12107515",
-    "pubDate": "Sun, 26 Jul 2026 01:12:46 GMT",
-    "source": "매일경제",
-    "domain": "mk.co.kr",
-    "thumb": "https://pimg.mk.co.kr/news/cms/202607/26/news-p.v1.20260726.e86994012dcd40f6a33f89ca25a660b7_R.png"
   },
   {
     "title": "리센느·BTS도 선 무대…이 지역 축제를 찾으면 스타가 된다?",
@@ -224,6 +208,14 @@
     "thumb": "https://image.starnewskorea.com/21/2026/07/2026072305430712476_1.jpg"
   },
   {
+    "title": "\"BTS 지민 직캠, 버튼 하나로 뚝딱\"...삼성 폴더블, '제2 아이돌폰' 시동 - 머니투데이",
+    "link": "https://www.mt.co.kr/tech/2026/07/22/2026072207271268236",
+    "pubDate": "Wed, 22 Jul 2026 13:00:00 GMT",
+    "source": "머니투데이",
+    "domain": "mt.co.kr",
+    "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/07/2026072207271268236_2.jpg"
+  },
+  {
     "title": "“BTS 제이홉은 빨랐다”…‘Z폴드8’ SNS에 삼성은 웃는다",
     "link": "https://m.ekn.kr/view.php?key=20260722025574979",
     "pubDate": "Wed, 22 Jul 2026 07:13:16 GMT",
@@ -318,5 +310,13 @@
     "source": "연합뉴스TV",
     "domain": "yonhapnewstv.co.kr",
     "thumb": "https://media.yonhapnewstv.co.kr/article/MYH/20260719/MYH20260719181933Rvg.jpg"
+  },
+  {
+    "title": "BTS, 마돈나·샤키라와 FIFA 월드컵 최초 결승전 '하프타임 쇼' 공연",
+    "link": "https://www.olympics.com/ko/news/bts-shakira-madonna-the-first-fifa-world-cup-final-half-time-show",
+    "pubDate": "Sun, 19 Jul 2026 07:00:00 GMT",
+    "source": "olympics.com",
+    "domain": "olympics.com",
+    "thumb": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/dz7gp4wnvxulryr27lfc"
   }
 ]
