@@ -56,6 +56,14 @@
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/ed/2026/07/25/PS26072500276.jpg"
   },
   {
+    "title": "NCT 127, 다섯 번째 투어 서울 공연 전석 매진…'흥행 파워' 입증",
+    "link": "https://news.nate.com/view/20260725n04739",
+    "pubDate": "Sat, 25 Jul 2026 01:23:00 GMT",
+    "source": "네이트",
+    "domain": "news.nate.com",
+    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/st/2026/07/25/25_1079182_83514.jpg"
+  },
+  {
     "title": "NCT 127, 내달 7집으로 컴백…9월 KSPO돔 콘서트",
     "link": "https://v.daum.net/v/20260725101538586",
     "pubDate": "Sat, 25 Jul 2026 01:15:38 GMT",
@@ -232,14 +240,6 @@
     "thumb": null
   },
   {
-    "title": "NCT 127, 멤버 7명 전원 SM과 재계약",
-    "link": "https://www.yna.co.kr/view/AKR20260715068100005",
-    "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-    "source": "연합뉴스",
-    "domain": "yna.co.kr",
-    "thumb": "https://img0.yna.co.kr/etc/inner/KR/2026/07/15/AKR20260715068100005_01_i_P4.jpg"
-  },
-  {
     "title": "'8월 컴백' NCT 127, 멤버 7인 전원 재계약 - 머니투데이",
     "link": "https://www.mt.co.kr/entertainment/2026/07/15/2026071510157218496",
     "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
@@ -248,12 +248,12 @@
     "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=800,fit=cover,bg=whilte,f=auto,quality=high,sharpen=2,g=face/21/2026/07/2026071510157218496_1.jpg"
   },
   {
-    "title": "NCT 127 멤버 전원 SM과 재계약 동행 ing \"전폭적 지원\"",
-    "link": "https://news.jtbc.co.kr/article/NB12308358",
+    "title": "NCT 127, 멤버 7명 전원 SM과 재계약",
+    "link": "https://www.yna.co.kr/view/AKR20260715068100005",
     "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
-    "source": "JTBC",
-    "domain": "news.jtbc.co.kr",
-    "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202607/15/32d144c4-c32a-44fc-be4d-8747bbba4d83.jpg"
+    "source": "연합뉴스",
+    "domain": "yna.co.kr",
+    "thumb": "https://img0.yna.co.kr/etc/inner/KR/2026/07/15/AKR20260715068100005_01_i_P4.jpg"
   },
   {
     "title": "’데뷔 10년’ NCT 127, 멤버 7명 모두 SM과 재계약",
@@ -280,20 +280,20 @@
     "thumb": "https://www.wkorea.com/wp_data/w/2026/07/style_6a504ec623cc8-scaled-1920x1080.jpg?x=1931&y=1038&ver=1.1.84"
   },
   {
-    "title": "NCT 127, 8월 24일 컴백…2년만 정규 7집",
-    "link": "https://v.daum.net/v/20260707102946046",
-    "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/07/mydaily/20260707102947370qjvq.jpg"
-  },
-  {
     "title": "‘데뷔 10주년’ NCT 127, 달린다…정규 7집부터 새 투어까지",
     "link": "https://news.jtbc.co.kr/article/NB12307103",
     "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
     "source": "JTBC",
     "domain": "news.jtbc.co.kr",
     "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202607/07/e9223212-8b2e-4169-abe0-d3fe969e6aae.jpg"
+  },
+  {
+    "title": "NCT 127, 8월 24일 컴백…2년만 정규 7집",
+    "link": "https://v.daum.net/v/20260707102946046",
+    "pubDate": "Tue, 07 Jul 2026 07:00:00 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/07/mydaily/20260707102947370qjvq.jpg"
   },
   {
     "title": "NCT WISH The 1st Album 'Ode to Love’ 발매 기념 ‘LUCKY DRAW EVENT’ 안내",
