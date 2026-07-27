@@ -240,14 +240,6 @@
     "thumb": "https://image.inews24.com/v1/4dc572dc7c3fd5.jpg"
   },
   {
-    "title": "'데뷔 10주년' NCT 127, 8월 24일 정규 7집 'BLINGY' 컴백",
-    "link": "https://news.nate.com/view/20260727n05668",
-    "pubDate": "Mon, 27 Jul 2026 00:06:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/07/27/202607270901480410_1.jpg"
-  },
-  {
     "title": "'10주년' NCT 127, 전원 재계약 후 8월 24일 정규 7집 컴백",
     "link": "https://www.mediapen.com/news/view/1112217",
     "pubDate": "Sun, 26 Jul 2026 00:32:17 GMT",
@@ -318,5 +310,13 @@
     "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
+  },
+  {
+    "title": "더블유 코리아 Vol.8 커버의 주인공, NCT 재현",
+    "link": "https://www.wkorea.com/2026/07/10/vol-8-%EC%BB%A4%EB%B2%84-%EC%9E%AC%ED%98%84/",
+    "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
+    "source": "W Korea",
+    "domain": "wkorea.com",
+    "thumb": "https://www.wkorea.com/wp_data/w/2026/07/style_6a504ec623cc8-scaled-1920x1080.jpg?x=1931&y=1038&ver=1.1.84"
   }
 ]
