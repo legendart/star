@@ -48,14 +48,6 @@
     "thumb": "https://img.etoday.co.kr/pto_db/2026/07/600/20260729104116_2365804_1200_1600.jpg"
   },
   {
-    "title": "엑소 세훈, 中 워너뮤직 프로젝트 출격…NCT 시온 피처링",
-    "link": "https://news.nate.com/view/20260729n15598",
-    "pubDate": "Wed, 29 Jul 2026 02:39:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/07/29/202607291137402410_1.jpg"
-  },
-  {
     "title": "엑소 세훈, 中 워너뮤직 프로젝트 참여…NCT 위시 시온 피처링",
     "link": "https://www.mediapen.com/news/view/1112888",
     "pubDate": "Wed, 29 Jul 2026 02:10:00 GMT",
@@ -102,14 +94,6 @@
     "source": "Chosunbiz",
     "domain": "biz.chosun.com",
     "thumb": "https://biz.chosun.com/resizer/v2/MNQWIMDCMY2GKZRQGM2DAZJYGQ.jpg?auth=c7ea13b0751e14d1bdc02312dc99f2e4af69b6be8a15d02995b35ed2045008df&amp;width=572&amp;height=300&amp;smart=true"
-  },
-  {
-    "title": "'컴백' NCT 127, 정규 7집 'BLINGY' 스케줄 포스터…프로모션 돌입",
-    "link": "https://news.nate.com/view/20260729n10650",
-    "pubDate": "Wed, 29 Jul 2026 01:15:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/hm/2026/07/29/news-p.v1.20260729.d0626e575a7d4beb8dd33f70897e4d3b_P1.jpg"
   },
   {
     "title": "엑소 세훈, 중국어 싱글 ‘Fade’ 발매..NCT 위시 시온 피처링 [공식]",
@@ -163,7 +147,7 @@
     "title": "NCT WISH “8/9 (일) 2026 SBS 가요대전 Summer” 참여 안내",
     "link": "https://weverse.io/nctwish/notice/37861",
     "pubDate": "Mon, 27 Jul 2026 04:55:41 GMT",
-    "source": "Weverse",
+    "source": "weverse.io",
     "domain": "weverse.io",
     "thumb": null
   },
@@ -176,20 +160,20 @@
     "thumb": "https://wimg.munhwa.com/news/cms/2026/07/27/news-p.v1.20260727.dcf56b4a0c08419384399cce03c862c4_R.jpg"
   },
   {
-    "title": "NCT 127, 데뷔 10주년 정규 7집 ‘BLINGY’…5인 체제로 컴백",
-    "link": "https://www.etoday.co.kr/news/view/2607740",
-    "pubDate": "Mon, 27 Jul 2026 01:55:00 GMT",
-    "source": "이투데이",
-    "domain": "etoday.co.kr",
-    "thumb": "https://img.etoday.co.kr/pto_db/2026/07/20260727105510_2364471_647_647.jpg"
-  },
-  {
     "title": "'전원 재계약' NCT 127, 8월 24일 컴백…정규 7집 발매",
     "link": "https://www.hankyung.com/article/202607277673H",
     "pubDate": "Mon, 27 Jul 2026 01:48:06 GMT",
     "source": "한국경제",
     "domain": "hankyung.com",
     "thumb": "https://img.hankyung.com/photo/202607/01.45156833.1.jpg"
+  },
+  {
+    "title": "NCT 127, 8월 정규앨범 발매…10주년 자축",
+    "link": "https://news.tf.co.kr/read/entertain/2347194.htm",
+    "pubDate": "Mon, 27 Jul 2026 01:35:20 GMT",
+    "source": "더팩트",
+    "domain": "news.tf.co.kr",
+    "thumb": "https://img.tf.co.kr/article/home/2026/07/27/202613511785112412.jpg"
   },
   {
     "title": "NCT 127, 정규 7집 '블링이'로 8월 컴백",
@@ -315,8 +299,24 @@
     "title": "NCT 127 5TH TOUR 'NEO CITY : SEOUL - THE REDLINE' 예매 &amp; 입장 주의사항",
     "link": "https://weverse.io/nct127/notice/37555?hl=ko",
     "pubDate": "Thu, 16 Jul 2026 04:13:27 GMT",
-    "source": "Weverse",
+    "source": "weverse.io",
     "domain": "weverse.io",
     "thumb": null
+  },
+  {
+    "title": "NCT 127, 멤버 7명 전원 SM과 재계약",
+    "link": "https://www.yna.co.kr/view/AKR20260715068100005",
+    "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+    "source": "연합뉴스",
+    "domain": "yna.co.kr",
+    "thumb": "https://img0.yna.co.kr/etc/inner/KR/2026/07/15/AKR20260715068100005_01_i_P4.jpg"
+  },
+  {
+    "title": "’데뷔 10년’ NCT 127, 멤버 7명 모두 SM과 재계약",
+    "link": "https://www.yonhapnewstv.co.kr/news/AKR20260715154853EEi",
+    "pubDate": "Wed, 15 Jul 2026 06:48:00 GMT",
+    "source": "연합뉴스TV",
+    "domain": "yonhapnewstv.co.kr",
+    "thumb": "https://media.yonhapnewstv.co.kr/article/AKR/20260715/AKR20260715154853EEi_01_i.jpg"
   }
 ]
