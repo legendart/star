@@ -16,14 +16,6 @@
     "thumb": null
   },
   {
-    "title": "BTS, 그래미 어워즈 보이콧…'아시안팝' 신설에 일침",
-    "link": "https://v.daum.net/v/20260730004910698",
-    "pubDate": "Wed, 29 Jul 2026 15:49:10 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/30/newsy/20260730004910523snfo.jpg"
-  },
-  {
     "title": "BTS, 내년 그래미 안 나간다",
     "link": "https://www.chosun.com/culture-life/culture_general/2026/07/30/BYTQ7PXIUJFFBNKQ7P5DU5MQVY/",
     "pubDate": "Wed, 29 Jul 2026 15:40:00 GMT",
@@ -38,6 +30,14 @@
     "source": "seoul.co.kr",
     "domain": "seoul.co.kr",
     "thumb": "https://img.seoul.co.kr//img/upload/2026/07/30/SSC_20260730003903_O2.jpg"
+  },
+  {
+    "title": "BTS “내년 그래미 보이콧”",
+    "link": "https://www.seoul.co.kr/news/peoples/2026/07/30/20260730023005",
+    "pubDate": "Wed, 29 Jul 2026 15:31:01 GMT",
+    "source": "서울신문",
+    "domain": "seoul.co.kr",
+    "thumb": "https://img.seoul.co.kr//img/upload/2026/07/29/SSC_20260729153554_O2.jpg"
   },
   {
     "title": "BTS 그래미 출품 전격 거부…“지역·언어로 음악 구분않기를”",
@@ -78,6 +78,14 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/29/sbsi/20260729211507735cxfn.jpg"
+  },
+  {
+    "title": "BTS 방문한 식당도 당했다…전국 곳곳서 ‘보복 대행’ 벌인 일당",
+    "link": "https://v.daum.net/v/20260729202648033",
+    "pubDate": "Wed, 29 Jul 2026 11:26:48 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/29/joongang/20260729202649557xjjb.jpg"
   },
   {
     "title": "BTS, 그래미 보이콧…\"음악 출품하지 않기로\"",
@@ -152,6 +160,14 @@
     "thumb": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0729/20260729502811.webp"
   },
   {
+    "title": "BTS “내년 그래미 출품 안 한다” 선언…사실상 ‘보이콧’ 왜?",
+    "link": "https://www.khan.co.kr/article/202607291621001",
+    "pubDate": "Wed, 29 Jul 2026 07:21:00 GMT",
+    "source": "경향신문",
+    "domain": "khan.co.kr",
+    "thumb": "https://img.khan.co.kr/news/2026/07/29/news-p.v1.20260729.9347194e95cb4f5e9a6db81d920dad4d_P1.png"
+  },
+  {
     "title": "BTS “그래미 출품 안한다”…‘아시안 팝’ 부문 신설 비판 차원인 듯",
     "link": "https://www.joongang.co.kr/article/25449161",
     "pubDate": "Wed, 29 Jul 2026 07:08:29 GMT",
@@ -176,20 +192,20 @@
     "thumb": "https://img.etnews.com/news/article/2026/07/29/news-p.v1.20260729.3e1534f92ea7468db9b8647f0de54756_P1.jpg"
   },
   {
+    "title": "BTS \"내년 그래미 보이콧\" 선언…'아시아' 부문 따로 신설에 불만 표출",
+    "link": "https://www.kgnews.co.kr/news/article.html?no=905695",
+    "pubDate": "Wed, 29 Jul 2026 06:37:38 GMT",
+    "source": "경기신문",
+    "domain": "kgnews.co.kr",
+    "thumb": "https://www.kgnews.co.kr/data/photos/20260731/art_17853037147162_5eb3de.jpg"
+  },
+  {
     "title": "BTS 컴백 효과?...하이브, 2분기 매출 사상 첫 1조 돌파",
     "link": "https://www.newstree.kr/newsView/ntr202607290012",
     "pubDate": "Wed, 29 Jul 2026 06:25:40 GMT",
     "source": "뉴스;트리",
     "domain": "newstree.kr",
     "thumb": "https://www.newstree.kr/data/ntr/image/2024/02/26/ntr202402260020.jpg"
-  },
-  {
-    "title": "BTS “그래미에 곡 출품 안 한다”보이콧…“음악, 언어로 구분되지 않길”",
-    "link": "https://www.joongang.co.kr/article/25449133",
-    "pubDate": "Wed, 29 Jul 2026 06:02:43 GMT",
-    "source": "중앙일보",
-    "domain": "joongang.co.kr",
-    "thumb": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202607/29/c2f35085-c526-476b-ae41-cbb09bf54703.jpg"
   },
   {
     "title": "BTS, 美 그래미 출품 거부 선언...\"지역·언어로 구분 말길\"",
@@ -256,36 +272,12 @@
     "thumb": "http://mimg.koreatimes.com/286/172/article/2026/07/28/202607282117556a1.jpg"
   },
   {
-    "title": "하이브 “BTS·코르티스 덕분 ‘1조 클럽’ 가입”",
-    "link": "https://www.munhwa.com/article/11605806",
-    "pubDate": "Wed, 29 Jul 2026 02:52:25 GMT",
-    "source": "문화일보",
-    "domain": "munhwa.com",
-    "thumb": "https://wimg.munhwa.com/news/cms/2026/07/29/news-p.v1.20260729.b6ba8613a4404d99bfa056a5a5aeffb4_R.jpg"
-  },
-  {
     "title": "하이브, 최대 실적 폭죽...BTS 존재감은 숙제 [엔터코노미]",
     "link": "https://news.mtn.co.kr/news-detail/2026072910135233532",
     "pubDate": "Wed, 29 Jul 2026 02:28:05 GMT",
     "source": "MTN 머니투데이방송",
     "domain": "news.mtn.co.kr",
     "thumb": "https://menu.mtn.co.kr/upload/article/2026/07/29/2026072910135233532_00_289.jpg"
-  },
-  {
-    "title": "BTS '노멀', 빌보드 '핫 100' 33위 재진입…\"월드컵 쇼 영향\"",
-    "link": "https://v.daum.net/v/20260729101349978",
-    "pubDate": "Wed, 29 Jul 2026 01:13:49 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/29/yonhap/20260729101349648jzde.jpg"
-  },
-  {
-    "title": "\"하이브, 어서 빨리\"…BTS 뷔가 픽한 '2000만뷰' 여중생 정체",
-    "link": "https://www.hankyung.com/article/202607292234H",
-    "pubDate": "Wed, 29 Jul 2026 00:46:36 GMT",
-    "source": "한국경제",
-    "domain": "hankyung.com",
-    "thumb": "https://img.hankyung.com/photo/202607/01.45177969.1.jpg"
   },
   {
     "title": "BTS, 월드컵 효과 봤나?…‘노멀’ 역주행·‘아리랑’ 다시 톱10",
@@ -304,10 +296,18 @@
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/tn/2026/07/29/2026072908034753523_1.jpg"
   },
   {
+    "title": "BTS 뷔, 조성진이 찍고 뷔가 담았다…피아노로 통한 우정",
+    "link": "https://sports.donga.com/ent/article/all/20260729/134384359/1",
+    "pubDate": "Tue, 28 Jul 2026 22:14:13 GMT",
+    "source": "sports.donga.com",
+    "domain": "sports.donga.com",
+    "thumb": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/07/29/134384360.1.png"
+  },
+  {
     "title": "Weverse BTS Media - BTS (방탄소년단) ‘NORMAL (Korean Ver.)' Visualizer for ARMY",
     "link": "https://weverse.io/bts/media/2-178335186",
     "pubDate": "Tue, 28 Jul 2026 15:33:07 GMT",
-    "source": "weverse.io",
+    "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
   },

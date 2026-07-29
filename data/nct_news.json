@@ -152,14 +152,6 @@
     "thumb": "https://cdn.slist.kr/news/thumbnail/202607/754865_1157307_5530_v150.jpg"
   },
   {
-    "title": "스키즈·엔하이픈·NCT·제베원→휘브·에이엔…8월 서머킹 대전[종합]",
-    "link": "https://www.sportschosun.com/entertainment/2026-07-28/202607280100174970011283",
-    "pubDate": "Tue, 28 Jul 2026 05:49:43 GMT",
-    "source": "스포츠조선",
-    "domain": "sportschosun.com",
-    "thumb": "https://www.sportschosun.com/article/html/2026/07/28/2026072801001749700112831_w.jpg"
-  },
-  {
     "title": "NCT 127, 7집 '블링이' 8월 24일 발표…대체 불가능한 정체성 증명할 9곡 수록",
     "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=830907",
     "pubDate": "Mon, 27 Jul 2026 07:04:56 GMT",
@@ -171,7 +163,7 @@
     "title": "NCT WISH “8/9 (일) 2026 SBS 가요대전 Summer” 참여 안내",
     "link": "https://weverse.io/nctwish/notice/37861",
     "pubDate": "Mon, 27 Jul 2026 04:55:41 GMT",
-    "source": "weverse.io",
+    "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
   },
@@ -296,6 +288,14 @@
     "thumb": "https://www.jeonmae.co.kr/news/thumbnail/202607/1277716_1002029_1550_v150.jpg"
   },
   {
+    "title": "NCT 127, 9월 KSPO돔 콘서트…내달 정규 7집으로 컴백",
+    "link": "https://www.newsis.com/view/NISX20260725_0003723020",
+    "pubDate": "Sat, 25 Jul 2026 02:05:21 GMT",
+    "source": "뉴시스",
+    "domain": "newsis.com",
+    "thumb": "https://img1.newsis.com/2026/07/25/NISI20260725_0002195691_web.jpg"
+  },
+  {
     "title": "NCT 127, 내달 7집으로 컴백…9월 KSPO돔 콘서트",
     "link": "https://v.daum.net/v/20260725101538586",
     "pubDate": "Sat, 25 Jul 2026 01:15:38 GMT",
@@ -315,7 +315,7 @@
     "title": "NCT 127 5TH TOUR 'NEO CITY : SEOUL - THE REDLINE' 예매 &amp; 입장 주의사항",
     "link": "https://weverse.io/nct127/notice/37555?hl=ko",
     "pubDate": "Thu, 16 Jul 2026 04:13:27 GMT",
-    "source": "weverse.io",
+    "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
   }
