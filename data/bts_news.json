@@ -1,5 +1,13 @@
 [
   {
+    "title": "카스트 칠레 대통령 \"BTS 통해 한국 문화 가까이…10월 국립경기장 공연\" - 머니투데이",
+    "link": "https://www.mt.co.kr/politics/2026/07/31/2026073102394458696",
+    "pubDate": "Thu, 30 Jul 2026 17:41:04 GMT",
+    "source": "머니투데이",
+    "domain": "mt.co.kr",
+    "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/07/2026073102394458696_1.jpg"
+  },
+  {
     "title": "그래미 CEO도 해명…\"BTS는 옳았다\" 외신 지지 쏟아졌다",
     "link": "https://news.jtbc.co.kr/article/NB12310962",
     "pubDate": "Thu, 30 Jul 2026 11:41:00 GMT",
@@ -8,28 +16,12 @@
     "thumb": "https://thumb.jtbc.co.kr/photo/r600x0/news/cms/etc/2026/07/30/20260730203307606001.jpg"
   },
   {
-    "title": "정태영 부회장도 BTS 편들었다 \"그래미, 음악을 언어로 구분하나\"",
-    "link": "https://www.chosun.com/entertainments/enter_general/2026/07/30/MVTDOYRVMVTDAMLCGUZWGYRWMQ/",
-    "pubDate": "Thu, 30 Jul 2026 09:27:00 GMT",
-    "source": "조선일보",
-    "domain": "chosun.com",
-    "thumb": "https://www.chosun.com/resizer/v2/GY4DINRWMNSWMMBTMI3TAMTDMQ.jpg?auth=c87c5c700f054a7e7fb9ca3221f7c7d76418b50011fa4723249c6a13d858a7fd&amp;width=700&amp;height=367&amp;smart=true"
-  },
-  {
     "title": "BTS의 그래미 보이콧",
     "link": "https://www.khan.co.kr/article/202607301815001",
     "pubDate": "Thu, 30 Jul 2026 09:15:00 GMT",
     "source": "경향신문",
     "domain": "khan.co.kr",
     "thumb": "https://img.khan.co.kr/news/2026/07/30/news-p.v1.20260730.c12aa7663abf4fbebc761abf8a6401b1_P1.jpg"
-  },
-  {
-    "title": "'BTS'가 월드컵에서 착용한 의상 경매가는?",
-    "link": "https://www.esquirekorea.co.kr/article/1907159",
-    "pubDate": "Thu, 30 Jul 2026 09:00:00 GMT",
-    "source": "esquirekorea.co.kr",
-    "domain": "esquirekorea.co.kr",
-    "thumb": "https://www.esquirekorea.co.kr/resources/online/thumbnail/hf/2026/07/30/f902e3e0-cecf-488f-a516-46e93ba17e41.jpg"
   },
   {
     "title": "‘BTS 출품 거부’에 그래미 “결정 존중···‘아시안팝’ 구분하려는 것 아냐”",
@@ -118,6 +110,14 @@
     "source": "JTBC",
     "domain": "news.jtbc.co.kr",
     "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202607/30/378b4c74-4743-4b55-bc83-e5b12b24c998.jpg"
+  },
+  {
+    "title": "BTS 그래미 보이콧에 '아미' 화답…'케데헌' 매기강 감독도 응원",
+    "link": "https://www.yna.co.kr/view/AKR20260730119600005",
+    "pubDate": "Thu, 30 Jul 2026 05:39:27 GMT",
+    "source": "연합뉴스",
+    "domain": "yna.co.kr",
+    "thumb": null
   },
   {
     "title": "BTS 보이콧에 그래미, “슬프지만 존중”...K팝 팬덤은 ‘그래미 차단’ 운동",
@@ -315,7 +315,7 @@
     "title": "Weverse BTS Media - BTS (방탄소년단) ‘NORMAL (Korean Ver.)' Visualizer for ARMY",
     "link": "https://weverse.io/bts/media/2-178335186",
     "pubDate": "Tue, 28 Jul 2026 15:33:07 GMT",
-    "source": "Weverse",
+    "source": "weverse.io",
     "domain": "weverse.io",
     "thumb": null
   }
