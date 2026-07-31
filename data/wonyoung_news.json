@@ -216,14 +216,6 @@
     "thumb": "http://news.kbs.co.kr/data/news/title_image/newsmp4/newsplaza_p1/2026/07/28/270_8621625.jpg"
   },
   {
-    "title": "아이브 장원영, 뉴욕 메츠 유니폼 입다…미국까지 반한 시구",
-    "link": "https://www.yna.co.kr/view/MYH20260727021300038",
-    "pubDate": "Mon, 27 Jul 2026 14:49:56 GMT",
-    "source": "연합뉴스",
-    "domain": "yna.co.kr",
-    "thumb": "https://img0.yna.co.kr/mpic/YH/2026/07/27/MYH20260727021300038_P1.jpg"
-  },
-  {
     "title": "걸그룹 아이브, 메이저리그 경기 초청…장원영 시구",
     "link": "https://www.yna.co.kr/view/IPT20260727000013365",
     "pubDate": "Mon, 27 Jul 2026 09:32:55 GMT",
@@ -318,5 +310,13 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/14/mydaily/20260714211251508idzi.png"
+  },
+  {
+    "title": "장원영, 특혜 논란에 모자 벗었더니…이번엔 민낯 품평 쏟아졌다",
+    "link": "https://sports.khan.co.kr/article/202607021622003",
+    "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
+    "source": "스포츠경향",
+    "domain": "sports.khan.co.kr",
+    "thumb": null
   }
 ]
