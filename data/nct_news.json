@@ -144,14 +144,6 @@
     "thumb": "https://cdn.topstarnews.net/news/photo/202607/16149976_1975562_747_crop.jpg"
   },
   {
-    "title": "에스파·NCT·아이브가 이끈 카카오, 지난해 엔터 업계 매출 '1위' 달성",
-    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=268266",
-    "pubDate": "Wed, 29 Jul 2026 03:03:06 GMT",
-    "source": "파이낸셜포스트",
-    "domain": "financialpost.co.kr",
-    "thumb": "https://cdn.financialpost.co.kr/news/thumbnail/202607/268266_343697_3154_v150.jpg"
-  },
-  {
     "title": "NCT 127, 마크 탈퇴 후 첫 컴백…'블링이' 스케줄 포스터 공개",
     "link": "https://news.nate.com/view/20260729n16134",
     "pubDate": "Wed, 29 Jul 2026 02:53:00 GMT",
@@ -318,5 +310,13 @@
     "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
+  },
+  {
+    "title": "NCT 127, 멤버 7명 전원 SM과 재계약",
+    "link": "https://www.yna.co.kr/view/AKR20260715068100005",
+    "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
+    "source": "연합뉴스",
+    "domain": "yna.co.kr",
+    "thumb": "https://img0.yna.co.kr/etc/inner/KR/2026/07/15/AKR20260715068100005_01_i_P4.jpg"
   }
 ]
