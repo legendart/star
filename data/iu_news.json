@@ -120,14 +120,6 @@
     "thumb": "http://news.kbs.co.kr/data/news/title_image/newsmp4/newsplaza_p1/2026/07/21/280_8615572.jpg"
   },
   {
-    "title": "아이유의 하반기 ‘쉼표’",
-    "link": "https://news.jtbc.co.kr/article/NB12309373",
-    "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
-    "source": "JTBC",
-    "domain": "news.jtbc.co.kr",
-    "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202607/21/291c5de7-b252-48f2-b2e6-3052e06b455e.jpg"
-  },
-  {
     "title": "아이유 활동 멈추게 한 ’이관개방증’…어떤 질환이길래",
     "link": "https://www.yonhapnewstv.co.kr/news/AKR20260721090715SA8",
     "pubDate": "Tue, 21 Jul 2026 00:18:00 GMT",
@@ -216,6 +208,14 @@
     "thumb": null
   },
   {
+    "title": "\"중국 국적·표절\" 도넘은 명예훼손…아이유, 美법원에 악플러 신원 조회 요청",
+    "link": "https://v.daum.net/v/20260720182037326",
+    "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/20/akn/20260720182038711okxh.jpg"
+  },
+  {
     "title": "아이유, 악플러 잡으러 美 법원에 증거개시 신청서 보내",
     "link": "https://www.joongang.co.kr/article/25446432",
     "pubDate": "Mon, 20 Jul 2026 06:11:46 GMT",
@@ -272,12 +272,12 @@
     "thumb": "https://cdn.sjsori.com/news/photo/202607/87528_108855_5549.jpg"
   },
   {
-    "title": "아이유, 이종석과 결별 후 재조명…“진짜 사랑하면 계속 말 안 해”",
-    "link": "https://sports.khan.co.kr/article/202607101349013",
+    "title": "아이유·이종석, 4년 열애 끝 결별…“좋은 동료로 남기로”",
+    "link": "https://www.joongang.co.kr/article/25444067",
     "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
-    "source": "스포츠경향",
-    "domain": "sports.khan.co.kr",
-    "thumb": null
+    "source": "중앙일보",
+    "domain": "joongang.co.kr",
+    "thumb": "https://pds.joongang.co.kr/news/FbMetaImage/202607/cff10eb8-8dd7-4f94-973e-d3f9b00d6c3d.jpg"
   },
   {
     "title": "아이유·이종석, 4년 공개 열애 끝 결별… “좋은 동료로 남기로” - 조선비즈",
@@ -288,12 +288,12 @@
     "thumb": "https://biz.chosun.com/resizer/v2/G4ZTKNBSHA3DOZJZHFRTCMBSGE.jpg?auth=2ca6403e01f7daf62799aa410fb732b5f391147b9a458a9ab5596e3688b90ffa&amp;width=573&amp;height=300&amp;smart=true"
   },
   {
-    "title": "아이유·이종석, 4년 열애 끝 결별…“좋은 동료로 남기로”",
-    "link": "https://www.joongang.co.kr/article/25444067",
-    "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
-    "source": "중앙일보",
-    "domain": "joongang.co.kr",
-    "thumb": "https://pds.joongang.co.kr/news/FbMetaImage/202607/cff10eb8-8dd7-4f94-973e-d3f9b00d6c3d.jpg"
+    "title": "“일이 제 유일한 취미예요”, 아이유의 요즘",
+    "link": "https://www.vogue.co.kr/2026/07/08/%EC%9D%BC%EC%9D%B4-%EC%A0%9C-%EC%9C%A0%EC%9D%BC%ED%95%9C-%EC%B7%A8%EB%AF%B8%EC%98%88%EC%9A%94-%EC%95%84%EC%9D%B4%EC%9C%A0%EC%9D%98-%EC%9A%94%EC%A6%98/",
+    "pubDate": "Wed, 08 Jul 2026 07:00:00 GMT",
+    "source": "Vogue korea",
+    "domain": "vogue.co.kr",
+    "thumb": "https://www.vogue.co.kr/wp_data/vogue/2026/07/style_6a4dc44fdbc40-scaled-1920x1080.jpg?x=1710&y=1629&ver=1.1.37"
   },
   {
     "title": "예거 르쿨트르, 아이유 글로벌 앰버서더 발탁",
