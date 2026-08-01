@@ -11,7 +11,7 @@
     "title": "NCT DREAM Weverse LIVE - 박지성 - JISUNG",
     "link": "https://weverse.io/nctdream/live/3-237708768",
     "pubDate": "Fri, 31 Jul 2026 18:01:09 GMT",
-    "source": "Weverse",
+    "source": "weverse.io",
     "domain": "weverse.io",
     "thumb": null
   },
@@ -19,7 +19,7 @@
     "title": "NCT DREAM Community Post - 눈,코를 그려주세요",
     "link": "https://weverse.io/nctdream/artist/4-237699305",
     "pubDate": "Fri, 31 Jul 2026 18:01:07 GMT",
-    "source": "Weverse",
+    "source": "weverse.io",
     "domain": "weverse.io",
     "thumb": null
   },
@@ -27,7 +27,7 @@
     "title": "NCT DREAM 위버스 LIVE - 박지성 - 지성",
     "link": "https://weverse.io/nctdream/live/3-237708768?hl=ko",
     "pubDate": "Fri, 31 Jul 2026 17:47:04 GMT",
-    "source": "Weverse",
+    "source": "weverse.io",
     "domain": "weverse.io",
     "thumb": null
   },
@@ -38,14 +38,6 @@
     "source": "newsen.com",
     "domain": "newsen.com",
     "thumb": "https://photo.newsen.com/news_photo/2026/07/31/202607312028473510_1.jpg"
-  },
-  {
-    "title": "NCT WISH 료 ‘시선 붙잡는 분위기’[포토엔HD]",
-    "link": "https://www.newsen.com/news_view.php?uid=202607312023003510&code=100100",
-    "pubDate": "Fri, 31 Jul 2026 11:23:06 GMT",
-    "source": "뉴스엔",
-    "domain": "newsen.com",
-    "thumb": "https://photo.newsen.com/news_photo/2026/07/31/202607312023003510_1.jpg"
   },
   {
     "title": "NCT WISH 유우시 '매 순간이 다 화보'[포토엔HD]",
@@ -179,7 +171,7 @@
     "title": "NCT WISH “8/9 (일) 2026 SBS 가요대전 Summer” 참여 안내",
     "link": "https://weverse.io/nctwish/notice/37861",
     "pubDate": "Mon, 27 Jul 2026 04:55:41 GMT",
-    "source": "Weverse",
+    "source": "weverse.io",
     "domain": "weverse.io",
     "thumb": null
   },
@@ -230,14 +222,6 @@
     "source": "머니투데이",
     "domain": "mt.co.kr",
     "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=800,fit=cover,bg=whilte,f=auto,quality=high,sharpen=2,g=face/21/2026/07/2026072710157234955_1.jpg"
-  },
-  {
-    "title": "NCT 127, 정규 7집 ‘블링이’ 8월 24일 발매…독보적인 아이덴티티 담은 총 9곡 수록",
-    "link": "https://www.beyondpost.co.kr/view.php?ud=202607270929363695d3244b4fed_30",
-    "pubDate": "Mon, 27 Jul 2026 00:45:00 GMT",
-    "source": "비욘드포스트",
-    "domain": "beyondpost.co.kr",
-    "thumb": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260727092957022820d3244b4fed58141237106.jpg&nmt=30"
   },
   {
     "title": "NCT 127, 데뷔 10주년 정규 7집 '블링이' 8월 발매",
@@ -307,7 +291,7 @@
     "title": "NCT 127 5TH TOUR 'NEO CITY : SEOUL - THE REDLINE' 예매 &amp; 입장 주의사항",
     "link": "https://weverse.io/nct127/notice/37555?hl=ko",
     "pubDate": "Thu, 16 Jul 2026 04:13:27 GMT",
-    "source": "Weverse",
+    "source": "weverse.io",
     "domain": "weverse.io",
     "thumb": null
   },
@@ -318,5 +302,21 @@
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img0.yna.co.kr/etc/inner/KR/2026/07/15/AKR20260715068100005_01_i_P4.jpg"
+  },
+  {
+    "title": "’데뷔 10년’ NCT 127, 멤버 7명 모두 SM과 재계약",
+    "link": "https://www.yonhapnewstv.co.kr/news/AKR20260715154853EEi",
+    "pubDate": "Wed, 15 Jul 2026 06:48:00 GMT",
+    "source": "yonhapnewstv.co.kr",
+    "domain": "yonhapnewstv.co.kr",
+    "thumb": "https://media.yonhapnewstv.co.kr/article/AKR/20260715/AKR20260715154853EEi_01_i.jpg"
+  },
+  {
+    "title": "NCT 127 5TH TOUR 'NEO CITY : THE RE",
+    "link": "https://weverse.io/nct127/notice/37278?hl=ko",
+    "pubDate": "Tue, 07 Jul 2026 13:23:59 GMT",
+    "source": "weverse.io",
+    "domain": "weverse.io",
+    "thumb": null
   }
 ]
