@@ -136,14 +136,6 @@
     "thumb": "https://news.nateimg.co.kr/orgImg/nn/2026/08/01/202608010234382510_1.jpg"
   },
   {
-    "title": "\"걱정했는데 다행\" 아이유, 이관개방증 악화 후 첫 공식석상…팬들 안도",
-    "link": "https://news.nate.com/view/20260801n00729",
-    "pubDate": "Fri, 31 Jul 2026 16:49:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/aa/2026/08/01/news-p.v1.20260801.11f72478f7d04d2ca556e659ab08aede_P1.png"
-  },
-  {
     "title": "아이유, 너무나 아름다운 시상자",
     "link": "https://www.chosun.com/entertainments/entertain_photo/2026/07/31/MM3GKYTEGM3WKYZVHA3WEZJXGA/",
     "pubDate": "Fri, 31 Jul 2026 14:51:00 GMT",
@@ -176,16 +168,8 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/31/spotvnews/20260731230011241qtfo.png"
   },
   {
-    "title": "'이관개방증 악화' 아이유, 시상자로 등장…밝은 미소[청룡시리즈어워즈]",
-    "link": "https://news.nate.com/view/20260731n33420",
-    "pubDate": "Fri, 31 Jul 2026 13:37:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/ed/2026/07/31/PS26073101931.jpg"
-  },
-  {
-    "title": "'청룡 시상자' 아이유, 이종석 결별 이후 공식석상..덤덤한 미소[스타이슈]",
-    "link": "https://v.daum.net/v/20260731222012098?f=m",
+    "title": "\"쿵쿵 떨린다\" 아이유, 이종석 결별 이후 공식석상..덤덤한 미소[스타이슈]",
+    "link": "https://v.daum.net/v/4yoTTvlwCl",
     "pubDate": "Fri, 31 Jul 2026 13:20:12 GMT",
     "source": "v.daum.net",
     "domain": "v.daum.net",
@@ -243,7 +227,7 @@
     "title": "이별·소송·질환···아이유 ‘잔인한 7월’",
     "link": "https://sports.khan.co.kr/article/202607210957003",
     "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
-    "source": "스포츠경향",
+    "source": "sports.khan.co.kr",
     "domain": "sports.khan.co.kr",
     "thumb": null
   },
@@ -304,6 +288,14 @@
     "thumb": "https://img8.yna.co.kr/photo/yna/YH/2026/04/06/PYH2026040613870001300_P4.jpg"
   },
   {
+    "title": "아이유, 악플러 잡는다…美 법원에 신원조회 요청",
+    "link": "https://www.ytn.co.kr/_ln/0117_202607201609555415",
+    "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT",
+    "source": "YTN",
+    "domain": "ytn.co.kr",
+    "thumb": "https://image.ytn.co.kr/general/jpg/2026/0720/202607201609555415_t.jpg"
+  },
+  {
     "title": "아이유, 악플러 잡으러 美 법원에 증거개시 신청서 보내",
     "link": "https://www.joongang.co.kr/article/25446432",
     "pubDate": "Sun, 19 Jul 2026 07:00:00 GMT",
@@ -318,5 +310,13 @@
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img7.yna.co.kr/etc/inner/KR/2026/07/10/AKR20260710087100005_01_i_P4.jpg"
+  },
+  {
+    "title": "“우리도 스벅 선결제 해줘” 잠실 시위대, 아이유 SNS 몰려가 요구",
+    "link": "https://www.donga.com/news/Culture/article/all/20260606/134061351/2",
+    "pubDate": "Sat, 06 Jun 2026 07:00:00 GMT",
+    "source": "동아일보",
+    "domain": "donga.com",
+    "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/06/134061354.3.jpg"
   }
 ]
