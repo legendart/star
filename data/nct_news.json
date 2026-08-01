@@ -40,14 +40,6 @@
     "thumb": null
   },
   {
-    "title": "NCT DREAM 위버스 LIVE - 박지성 - 지성",
-    "link": "https://weverse.io/nctdream/live/3-237708768?hl=ko",
-    "pubDate": "Fri, 31 Jul 2026 17:47:04 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
-  },
-  {
     "title": "NCT WISH 시온 ‘카메라에 다 안담기는 잘생김’[포토엔HD]",
     "link": "https://www.newsen.com/news_view.php?uid=202607312029593510&code=100100",
     "pubDate": "Fri, 31 Jul 2026 11:30:07 GMT",
@@ -184,20 +176,20 @@
     "thumb": "https://cdn.spotvnews.co.kr/news/thumbnail/202607/830907_1365242_595_v150.jpg"
   },
   {
-    "title": "NCT WISH “8/9 (일) 2026 SBS 가요대전 Summer” 참여 안내",
-    "link": "https://weverse.io/nctwish/notice/37861",
-    "pubDate": "Mon, 27 Jul 2026 04:55:41 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
-  },
-  {
     "title": "NCT 127, 정규 7집 ‘BLINGY’ 8월24일 발매",
     "link": "https://www.munhwa.com/article/11605179",
     "pubDate": "Mon, 27 Jul 2026 02:18:24 GMT",
     "source": "문화일보",
     "domain": "munhwa.com",
     "thumb": "https://wimg.munhwa.com/news/cms/2026/07/27/news-p.v1.20260727.dcf56b4a0c08419384399cce03c862c4_R.jpg"
+  },
+  {
+    "title": "NCT 127, 데뷔 10주년 정규 7집 ‘BLINGY’…5인 체제로 컴백",
+    "link": "https://www.etoday.co.kr/news/view/2607740",
+    "pubDate": "Mon, 27 Jul 2026 01:55:00 GMT",
+    "source": "이투데이",
+    "domain": "etoday.co.kr",
+    "thumb": "https://img.etoday.co.kr/pto_db/2026/07/20260727105510_2364471_647_647.jpg"
   },
   {
     "title": "'전원 재계약' NCT 127, 8월 24일 컴백…정규 7집 발매",
@@ -296,14 +288,6 @@
     "thumb": "https://www.allurekorea.com/wp_data/allure/2026/07/style_6a6056140bbfe.jpg"
   },
   {
-    "title": "NCT 127 5TH TOUR 'NEO CITY : SEOUL - THE REDLINE' 예매 &amp; 입장 주의사항",
-    "link": "https://weverse.io/nct127/notice/37555?hl=ko",
-    "pubDate": "Thu, 16 Jul 2026 04:13:27 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
-  },
-  {
     "title": "NCT 127, 멤버 7명 전원 SM과 재계약",
     "link": "https://www.yna.co.kr/view/AKR20260715068100005",
     "pubDate": "Wed, 15 Jul 2026 07:00:00 GMT",
@@ -318,5 +302,21 @@
     "source": "연합뉴스TV",
     "domain": "yonhapnewstv.co.kr",
     "thumb": "https://media.yonhapnewstv.co.kr/article/AKR/20260715/AKR20260715154853EEi_01_i.jpg"
+  },
+  {
+    "title": "더블유 코리아 Vol.8 커버의 주인공, NCT 재현",
+    "link": "https://www.wkorea.com/2026/07/10/vol-8-%EC%BB%A4%EB%B2%84-%EC%9E%AC%ED%98%84/",
+    "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
+    "source": "W Korea",
+    "domain": "wkorea.com",
+    "thumb": "https://www.wkorea.com/wp_data/w/2026/07/style_6a504ec623cc8-scaled-1920x1080.jpg?x=1931&y=1038&ver=1.1.84"
+  },
+  {
+    "title": "NCT 127 5TH TOUR 'NEO CITY : THE RE",
+    "link": "https://weverse.io/nct127/notice/37278?hl=ko",
+    "pubDate": "Tue, 07 Jul 2026 13:23:59 GMT",
+    "source": "Weverse",
+    "domain": "weverse.io",
+    "thumb": null
   }
 ]
