@@ -11,7 +11,7 @@
     "title": "NCT DREAM社区帖子 - 내가 머리카락3개로 제노형을 표현해 볼게요",
     "link": "https://weverse.io/nctdream/artist/0-178566386?hl=zh-cn",
     "pubDate": "Sun, 02 Aug 2026 13:00:49 GMT",
-    "source": "weverse.io",
+    "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
   },
@@ -43,7 +43,7 @@
     "title": "NCT WISH Weverse LIVE - NCT WISH",
     "link": "https://weverse.io/nctwish/live/0-178535289",
     "pubDate": "Sat, 01 Aug 2026 15:03:30 GMT",
-    "source": "weverse.io",
+    "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
   },
@@ -51,7 +51,7 @@
     "title": "NCT WISH 커뮤니티 포스트 - 🔥🔥🔥 - 료",
     "link": "https://weverse.io/nctwish/artist/4-237783744?hl=ko",
     "pubDate": "Sat, 01 Aug 2026 15:02:03 GMT",
-    "source": "weverse.io",
+    "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
   },
@@ -59,7 +59,7 @@
     "title": "Weverse LIVE de NCT WISH - NCT WISH",
     "link": "https://weverse.io/nctwish/live/0-178535289?hl=es",
     "pubDate": "Sat, 01 Aug 2026 15:02:02 GMT",
-    "source": "weverse.io",
+    "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
   },
@@ -75,7 +75,7 @@
     "title": "NCT DREAM Weverse LIVE - 박지성 - JISUNG",
     "link": "https://weverse.io/nctdream/live/3-237708768",
     "pubDate": "Fri, 31 Jul 2026 18:01:09 GMT",
-    "source": "weverse.io",
+    "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
   },
@@ -134,6 +134,14 @@
     "source": "네이트",
     "domain": "news.nate.com",
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/jt/2026/07/30/956ba85b-c90d-4591-ae07-05f8973147e1.jpg"
+  },
+  {
+    "title": "'전석 매진' NCT 127, 다섯 번째 월드투어 포스터 공개",
+    "link": "https://www.tenasia.co.kr/article/2026073059144",
+    "pubDate": "Thu, 30 Jul 2026 06:22:00 GMT",
+    "source": "텐아시아",
+    "domain": "tenasia.co.kr",
+    "thumb": "https://img.tenasia.co.kr/photo/202607/BF.45195201.1.jpg"
   },
   {
     "title": "NCT 127, 5번째 투어 포스터 공개",
@@ -248,14 +256,6 @@
     "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=1200,fit=cover,q=high,sharpen=2/21/2026/07/2026072709134253616_1.jpg"
   },
   {
-    "title": "NCT 127, 대망의 컴백…정규 7집 8월 24일 발매",
-    "link": "https://sports.donga.com/ent/article/all/20260727/134369231/1",
-    "pubDate": "Mon, 27 Jul 2026 00:08:24 GMT",
-    "source": "스포츠동아",
-    "domain": "sports.donga.com",
-    "thumb": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/07/27/134369227.1.jpg"
-  },
-  {
     "title": "NCT 127, 내달 7집으로 컴백…9월 KSPO돔 콘서트",
     "link": "https://v.daum.net/v/20260725101538586",
     "pubDate": "Sat, 25 Jul 2026 01:15:38 GMT",
@@ -307,7 +307,7 @@
     "title": "NCT 127 5TH TOUR 'NEO CITY : THE RE",
     "link": "https://weverse.io/nct127/notice/37278?hl=ko",
     "pubDate": "Tue, 07 Jul 2026 13:23:59 GMT",
-    "source": "weverse.io",
+    "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
   },
@@ -315,7 +315,7 @@
     "title": "NCT DREAM 10TH ANNIVERSARY PARTY",
     "link": "https://weverse.io/nctdream/notice/36671?hl=ko",
     "pubDate": "Mon, 15 Jun 2026 23:14:48 GMT",
-    "source": "weverse.io",
+    "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
   }
