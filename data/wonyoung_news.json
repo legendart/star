@@ -128,14 +128,6 @@
     "thumb": "https://biz.chosun.com/resizer/v2/MU3TIZRUMY3WKZLDGNSWINRUGI.jpg?auth=e9dc5ac7166a4e1af939e097a088701b6f5855546ec16632bf2055b790327123&amp;width=900&amp;height=472&amp;smart=true"
   },
   {
-    "title": "박소율, 문희준에 '장원영 다이어트' 권유…결과 '극대노' - 머니투데이",
-    "link": "https://www.mt.co.kr/entertainment/2026/07/29/2026072902544510047",
-    "pubDate": "Tue, 28 Jul 2026 18:05:12 GMT",
-    "source": "머니투데이",
-    "domain": "mt.co.kr",
-    "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/07/2026072902544510047_1.jpg"
-  },
-  {
     "title": "굶지 않는 '장원영 다이어트'…문희준, 19㎏ 감량 도전장",
     "link": "https://www.newsis.com/view/NISX20260728_0003726225",
     "pubDate": "Tue, 28 Jul 2026 15:00:00 GMT",
@@ -318,5 +310,13 @@
     "source": "스포츠경향",
     "domain": "sports.khan.co.kr",
     "thumb": null
+  },
+  {
+    "title": "공항 신원 확인 논란…장원영, 이번엔 맨얼굴로 등장",
+    "link": "https://v.daum.net/v/20260624144146421",
+    "pubDate": "Wed, 24 Jun 2026 07:00:00 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202606/24/segye/20260624144146848oqtu.jpg"
   }
 ]
