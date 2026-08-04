@@ -1,11 +1,75 @@
 [
   {
-    "title": "BTS, 'TMA 베스트 – 여름' 1위…플레이브·에반까지 TOP3 등극",
-    "link": "https://news.tf.co.kr/read/entertain/2350181.htm",
-    "pubDate": "Mon, 03 Aug 2026 23:15:30 GMT",
-    "source": "더팩트",
-    "domain": "news.tf.co.kr",
-    "thumb": "https://img.tf.co.kr/article/home/2026/08/04/202638401785798868.jpg"
+    "title": "“월드컵, 그 이상”…‘BTS 노믹스’ 美 경제 흔들었다",
+    "link": "https://www.sportsworldi.com/newsView/20260804509219",
+    "pubDate": "Tue, 04 Aug 2026 02:01:53 GMT",
+    "source": "스포츠월드",
+    "domain": "sportsworldi.com",
+    "thumb": "https://www.sportsworldi.com/content/image/2026/08/04/20260804509218.jpg"
+  },
+  {
+    "title": "BTS, 美 경제 깨운다…‘더 시티’ 프로젝트로 지역 상권 낙수 효과",
+    "link": "https://www.beyondpost.co.kr/view.php?ud=202608041050169654d3244b4fed_30",
+    "pubDate": "Tue, 04 Aug 2026 02:00:00 GMT",
+    "source": "비욘드포스트",
+    "domain": "beyondpost.co.kr",
+    "thumb": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260804105054013570d3244b4fed58141237106.jpg&nmt=30"
+  },
+  {
+    "title": "英 가디언 \"방탄소년단 투어, 월드컵급 파급력\"..美 휩쓰는 'BTS노믹스' - 조선비즈",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/08/04/MJSTSY3CGFSWMNRSG5QTGNZWGY/",
+    "pubDate": "Tue, 04 Aug 2026 01:52:00 GMT",
+    "source": "Chosunbiz",
+    "domain": "biz.chosun.com",
+    "thumb": "https://biz.chosun.com/resizer/v2/GIZWCMTBME4DONZQME3GGMRSMI.jpg?auth=e80f3425f07a571bd2940034e10791e07184db4b6d5a583daddbd44a9d3b2f9c&amp;width=650&amp;height=341&amp;smart=true"
+  },
+  {
+    "title": "英 가디언 \"방탄소년단 투어, 월드컵급 파급력\"..美 휩쓰는 'BTS노믹스'",
+    "link": "https://www.osen.co.kr/article/G1112851843",
+    "pubDate": "Tue, 04 Aug 2026 01:52:00 GMT",
+    "source": "OSEN",
+    "domain": "osen.co.kr",
+    "thumb": "http://file.osen.co.kr/article_thumb/2026/08/04/202608041037772500_6a7145e5a93c7_300x.jpg"
+  },
+  {
+    "title": "MK Pick | K-뷰티 존재감 입증한 티르티르, ‘BTS 더 시티 아리랑 - 뉴욕’ 성료",
+    "link": "https://mkbn.mk.co.kr/news/pick/12116122",
+    "pubDate": "Tue, 04 Aug 2026 01:46:15 GMT",
+    "source": "mkbn.mk.co.kr",
+    "domain": "mkbn.mk.co.kr",
+    "thumb": null
+  },
+  {
+    "title": "그래미 또다시 저격? 방탄소년단 \"그들은 우릴 잘 몰라\" 의미심장[스타이슈]",
+    "link": "https://www.starnewskorea.com/music/2026/08/04/2026080410232573939",
+    "pubDate": "Tue, 04 Aug 2026 01:38:59 GMT",
+    "source": "starnewskorea.com",
+    "domain": "starnewskorea.com",
+    "thumb": "https://image.starnewskorea.com/21/2026/08/2026080410232573939_1.jpg"
+  },
+  {
+    "title": "英 가디언 \"BTS 북미 투어, 美 경제 깨운다\"…'BTS노믹스' 확산",
+    "link": "https://www.slist.kr/news/articleView.html?idxno=756362",
+    "pubDate": "Tue, 04 Aug 2026 01:35:03 GMT",
+    "source": "slist.kr",
+    "domain": "slist.kr",
+    "thumb": "https://cdn.slist.kr/news/thumbnail/202608/756362_1159427_3432_v150.jpg"
+  },
+  {
+    "title": "티르티르, ‘BTS 더 시티 아리랑 - 뉴욕’ 참여",
+    "link": "https://www.beyondpost.co.kr/view.php?ud=20260804091230316346a9e4dd7f_30",
+    "pubDate": "Tue, 04 Aug 2026 00:14:21 GMT",
+    "source": "비욘드포스트",
+    "domain": "beyondpost.co.kr",
+    "thumb": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026080409125406408046a9e4dd7f220867377.jpg&nmt=30"
+  },
+  {
+    "title": "BTS, '컴오버'로 '더팩트 뮤직 어워드' 2관왕...플레이브·에반, 뒤이어",
+    "link": "https://www.slist.kr/news/articleView.html?idxno=756255",
+    "pubDate": "Mon, 03 Aug 2026 22:05:22 GMT",
+    "source": "slist.kr",
+    "domain": "slist.kr",
+    "thumb": null
   },
   {
     "title": "BTS ‘에일리언스’, 차트 역주행·외신도 주목",
@@ -24,20 +88,28 @@
     "thumb": null
   },
   {
-    "title": "[영상] 반도체에 가려진 '역대급 반등'…엔터주, BTS·빅뱅 등에 업고 날까 : 네이버 블로그",
-    "link": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224366705918&redirect=Dlog",
-    "pubDate": "Mon, 03 Aug 2026 17:52:11 GMT",
-    "source": "Naver Blog",
-    "domain": "blog.naver.com",
-    "thumb": "https://phinf.pstatic.net/image.nmv/blog_2026_08_03_3692/Fji5u9tUNO_01.jpg?type=w2"
-  },
-  {
     "title": "\"걔넨 우릴 몰라\" 가사 바꾼 BTS…그래미 보란 듯 16만명 앞 공연",
     "link": "https://news.jtbc.co.kr/article/NB12311517",
     "pubDate": "Mon, 03 Aug 2026 12:02:00 GMT",
     "source": "JTBC",
     "domain": "news.jtbc.co.kr",
     "thumb": "https://thumb.jtbc.co.kr/photo/r600x0/news/cms/etc/2026/08/03/20260803210132291001.jpg"
+  },
+  {
+    "title": "BTS와 대립하던 그레미 근황…전 세계 아미들의 역습",
+    "link": "https://v.daum.net/v/20260803193610408",
+    "pubDate": "Mon, 03 Aug 2026 10:36:10 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/03/sbsi/20260803214812106lqjk.jpg"
+  },
+  {
+    "title": "步武堂堂 BTS, 그래미를 향한 경고",
+    "link": "https://www.cctimes.kr/news/articleView.html?idxno=919935",
+    "pubDate": "Mon, 03 Aug 2026 10:16:00 GMT",
+    "source": "충청타임즈",
+    "domain": "cctimes.kr",
+    "thumb": "https://cdn.cctimes.kr/news/thumbnail/202608/919935_405127_2213_v150.jpg"
   },
   {
     "title": "\"그래미는 꺼져라\" 판 뒤엎은 BTS, 뉴욕 하늘에 태극기 그렸다",
@@ -64,36 +136,12 @@
     "thumb": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/08/03/134413093.1.jpg"
   },
   {
-    "title": "BTS·아미, 더는 안 참아…그래미 사태가 보여준 'K팝 연대' [이슈+]",
-    "link": "https://www.hankyung.com/article/202608031682H",
-    "pubDate": "Mon, 03 Aug 2026 05:57:52 GMT",
-    "source": "한국경제",
-    "domain": "hankyung.com",
-    "thumb": "https://img.hankyung.com/photo/202608/ZA.45189978.1.jpg"
-  },
-  {
-    "title": "BTS, 美 뉴저지서 북미투어 재개…이틀간 15만7000명 동원",
-    "link": "https://www.asiae.co.kr/article/2026080313595543085",
-    "pubDate": "Mon, 03 Aug 2026 04:59:55 GMT",
-    "source": "아시아경제",
-    "domain": "asiae.co.kr",
-    "thumb": "https://cphoto.asiae.co.kr/listimglink/1/2026080313474467536_1785732464.jpg"
-  },
-  {
-    "title": "세계가 ‘그래미 보이콧’ BTS 지지… ‘차별 비판’ 에일리언스 78개국서 1위",
-    "link": "https://www.munhwa.com/article/11606817",
-    "pubDate": "Mon, 03 Aug 2026 02:52:03 GMT",
-    "source": "문화일보",
-    "domain": "munhwa.com",
-    "thumb": "https://wimg.munhwa.com/news/cms/2026/08/03/rcv.YNA.20260803.PYH2026080300150007200_R.jpg"
-  },
-  {
-    "title": "방탄소년단 지민 'Be Mine', 스포티파이 4억 돌파",
-    "link": "https://news.nate.com/view/20260803n03387",
-    "pubDate": "Sun, 02 Aug 2026 22:48:00 GMT",
-    "source": "네이트",
+    "title": "캣츠아이가 BTS를 카피했다?",
+    "link": "https://news.nate.com/view/20260803n04564?mid=n0100",
+    "pubDate": "Sun, 02 Aug 2026 23:38:00 GMT",
+    "source": "news.nate.com",
     "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/tn/2026/08/03/2026080307434794261_1.jpg"
+    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/kz/2026/08/03/news-p.v1.20260803.ee5da68aa3b5436a93c0c4bb8896601f_P1.jpg"
   },
   {
     "title": "BTS, 7년 만에 뉴욕 상륙…경제 파급 효과 '월드 클래스'",
@@ -104,20 +152,20 @@
     "thumb": "https://cdn.news.einfomax.co.kr/news/thumbnail/202608/4428212_334197_1525_v150.jpg"
   },
   {
-    "title": "8만 아미의 '아리랑' 떼창…BTS, 뉴욕·뉴저지서 북미투어 재개",
-    "link": "https://www.yna.co.kr/view/AKR20260802056400072",
-    "pubDate": "Sun, 02 Aug 2026 16:04:42 GMT",
-    "source": "연합뉴스",
-    "domain": "yna.co.kr",
-    "thumb": "https://img9.yna.co.kr/photo/yna/YH/2026/08/03/PYH2026080300090007200_P4.jpg"
+    "title": "BTS 뉴욕·뉴저지 공연에 8만 운집…‘그래미 보이콧’도 응원",
+    "link": "https://v.daum.net/v/20260803065141151",
+    "pubDate": "Sun, 02 Aug 2026 21:51:41 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/03/kbs/20260803065142587yyrp.jpg"
   },
   {
-    "title": "아시안 팝 가수? 그래미 보란 듯 뉴욕 뒤흔든 월드스타 BTS",
-    "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6841867_37004.html",
-    "pubDate": "Sun, 02 Aug 2026 11:16:08 GMT",
-    "source": "MBC 뉴스",
-    "domain": "imnews.imbc.com",
-    "thumb": "https://image.imnews.imbc.com/replay/2026/nwdesk/article/__icsFiles/afieldfile/2026/08/02/desk_20260802_201518_1_9_Large.jpg"
+    "title": "BTS 팬덤 아미들도 ‘그래미 보이콧’ 동참… 음원 역주행시키고 ‘#’ 해시태그 운동도",
+    "link": "https://www.chosun.com/culture-life/culture_general/2026/08/03/B2CMLZBTNBDPTPD54WR5AUC2R4/",
+    "pubDate": "Sun, 02 Aug 2026 15:45:20 GMT",
+    "source": "조선일보",
+    "domain": "chosun.com",
+    "thumb": "https://www.chosun.com/resizer/v2/Q2WJWZYP4NNHBJ33WD5TH6JDWM.jpg?auth=af05b94b8660d13e17339175b927eb48bcbbc58e265038aabfba40b6d2da88a2&amp;width=1200&amp;height=630&amp;focal=2279,1690"
   },
   {
     "title": "BTS '아리랑'으로 하나 된 뉴욕·뉴저지...\"지축을 뒤흔드는 듯한 공연\"",
@@ -144,20 +192,12 @@
     "thumb": "https://wimg.heraldcorp.com/news/cms/2026/08/02/news-p.v1.20260727.794d72e662d84599927cbccd72f51ceb_T1.jpg"
   },
   {
-    "title": "“It‘s already started”…BTS 뷔가 소환한 조성진의 한 문장 [이혜진의 온스테이지]",
-    "link": "https://www.sedaily.com/article/20074690",
-    "pubDate": "Sun, 02 Aug 2026 00:52:52 GMT",
-    "source": "서울경제",
-    "domain": "sedaily.com",
-    "thumb": "https://wimg.sedaily.com/news/cms/2026/08/02/news-p.v1.20260801.086a9552d4754389aa823a4a021e1826_R.png"
-  },
-  {
-    "title": "방탄소년단 지민, 순수 솔로곡으로만 스포티파이 70억 돌파..K팝 솔로 최초 '新역사'",
-    "link": "https://www.starnewskorea.com/music/2026/08/02/2026080207465823102",
-    "pubDate": "Sat, 01 Aug 2026 22:53:32 GMT",
-    "source": "starnewskorea.com",
-    "domain": "starnewskorea.com",
-    "thumb": "https://image.starnewskorea.com/21/2026/08/2026080207465823102_1.jpg"
+    "title": "BTS 영상 삭제한 그래미…보이콧 후폭풍",
+    "link": "https://www.yonhapnewstv.co.kr/news/MYH20260802093913jJY",
+    "pubDate": "Sun, 02 Aug 2026 00:39:00 GMT",
+    "source": "연합뉴스TV",
+    "domain": "yonhapnewstv.co.kr",
+    "thumb": "https://media.yonhapnewstv.co.kr/article/MYH/20260802/MYH20260802093913jJY.jpg"
   },
   {
     "title": "BTS로 하나 된 뉴욕·뉴저지...공연에 '아미' 8만 명 집결",
@@ -174,14 +214,6 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/02/donga/20260802081850600odhk.jpg"
-  },
-  {
-    "title": "방탄소년단(BTS) 지민, 스포티파이서 25억 스트리밍 고지 밟아",
-    "link": "https://v.daum.net/v/20260801214238903",
-    "pubDate": "Sat, 01 Aug 2026 12:42:38 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/01/sportskhan/20260801214240322tejk.jpg"
   },
   {
     "title": "그래미 보이콧에 ‘아미’ 움직였다…BTS ‘에일리언스’ 역주행",
@@ -256,14 +288,6 @@
     "thumb": "http://news.kbs.co.kr/data/fckeditor/vod/2026/07/30/338791785387513492.png"
   },
   {
-    "title": "BTS 보이콧에 그래미 반응 \"슬프다\"… 빌보드는 시청률 우려",
-    "link": "https://www.hankyung.com/article/202607305467i",
-    "pubDate": "Thu, 30 Jul 2026 04:53:09 GMT",
-    "source": "한국경제",
-    "domain": "hankyung.com",
-    "thumb": "https://img.hankyung.com/photo/202607/01.45193345.1.png"
-  },
-  {
     "title": "방탄소년단: '아시안 팝 부문 신설 때문?' BTS는 왜 그래미 출품을 거부했을까",
     "link": "https://www.bbc.com/korean/articles/cwy4qp706kko",
     "pubDate": "Thu, 30 Jul 2026 03:31:54 GMT",
@@ -288,35 +312,11 @@
     "thumb": "https://media.yonhapnewstv.co.kr/article/MYH/20260729/MYH20260729201015w3f.jpg"
   },
   {
-    "title": "BTS “그래미 출품 않기로”…사실상 보이콧, 이유는 “지역 구분”",
-    "link": "https://www.hani.co.kr/arti/culture/music/1270522.html",
-    "pubDate": "Wed, 29 Jul 2026 09:40:00 GMT",
-    "source": "한겨레",
-    "domain": "hani.co.kr",
-    "thumb": "https://flexible.img.hani.co.kr/flexible/normal/970/582/imgdb/original/2026/0729/20260729502811.webp"
-  },
-  {
     "title": "BTS가 그래미를 보이콧하는 까닭",
     "link": "https://www.elle.co.kr/article/1907121",
     "pubDate": "Wed, 29 Jul 2026 07:05:54 GMT",
     "source": "엘르 코리아 │ ELLE KOREA",
     "domain": "elle.co.kr",
     "thumb": "https://www.elle.co.kr/resources/online/thumbnail/hf/2026/07/29/a000bf4a-1c5d-4930-836f-dc4ab0ce169a.jpg"
-  },
-  {
-    "title": "BTS “그래미에 곡 출품 안 한다”보이콧…“음악, 언어로 구분되지 않길”",
-    "link": "https://www.joongang.co.kr/article/25449133",
-    "pubDate": "Wed, 29 Jul 2026 06:02:43 GMT",
-    "source": "joongang.co.kr",
-    "domain": "joongang.co.kr",
-    "thumb": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202607/29/c2f35085-c526-476b-ae41-cbb09bf54703.jpg"
-  },
-  {
-    "title": "BTS, 내년 그래미 출품 안 한다…\"지역·언어로 음악 구분 말라\"(종합)",
-    "link": "https://www.yna.co.kr/view/AKR20260729105351005",
-    "pubDate": "Wed, 29 Jul 2026 05:32:49 GMT",
-    "source": "연합뉴스",
-    "domain": "yna.co.kr",
-    "thumb": "https://img3.yna.co.kr/etc/inner/KR/2026/07/29/AKR20260729105351005_04_i_P4.jpg"
   }
 ]
