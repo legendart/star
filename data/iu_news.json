@@ -64,14 +64,6 @@
     "thumb": "https://cdn.mkhealth.co.kr/news/thumbnail/202608/79489_92356_4515_v150.jpg"
   },
   {
-    "title": "10대 광고, 20대 특별출연…30대 부부로 만난 아이유X박보검",
-    "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1532841",
-    "pubDate": "Tue, 04 Aug 2026 01:25:03 GMT",
-    "source": "OBS경인TV",
-    "domain": "obsnews.co.kr",
-    "thumb": "https://cdn.obsnews.co.kr/news/thumbnail/202608/1532841_731669_2119_v150.jpg"
-  },
-  {
     "title": "'가요무대' 여름 스페셜, 3일 라인업 아이유·박보검 등 출연",
     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3654671",
     "pubDate": "Mon, 03 Aug 2026 12:43:20 GMT",
@@ -152,28 +144,12 @@
     "thumb": "https://image.fnnews.com/resource/media/image/2026/08/01/202608010956078661_l.jpg"
   },
   {
-    "title": "아이유, 활동 중단 후 첫 공식석상… “작년 생각에 심장이 쿵쿵”",
-    "link": "https://mhnse.com/news/articleView.html?idxno=1475493",
-    "pubDate": "Sat, 01 Aug 2026 01:18:09 GMT",
-    "source": "mhnse.com",
-    "domain": "mhnse.com",
-    "thumb": "https://contents-cdn.viewus.co.kr/creator-cms/image/2026/08/f8d8061a-6640-4fdc-8161-72e403099b03.jpg"
-  },
-  {
     "title": "'건강 악화' 아이유, 활동 중단 열흘 만에 공식석상",
     "link": "https://www.newsis.com/view/NISX20260801_0003732478",
     "pubDate": "Sat, 01 Aug 2026 00:55:04 GMT",
     "source": "뉴시스",
     "domain": "newsis.com",
     "thumb": "https://img1.newsis.com/2026/08/01/NISI20260801_0002201716_web.jpg"
-  },
-  {
-    "title": "'건강 회복' 아이유, 열흘 만에 공식석상…\"심장이 다시 뛴다\" 환한 미소",
-    "link": "https://www.sportschosun.com/entertainment/2026-08-01/202608010100001950000018",
-    "pubDate": "Fri, 31 Jul 2026 22:16:40 GMT",
-    "source": "스포츠조선",
-    "domain": "sportschosun.com",
-    "thumb": "https://www.sportschosun.com/article/html/2026/08/01/2026080101000019500000181_w.jpg"
   },
   {
     "title": "'건강이상' 아이유, 활동 중단 열흘 만에 공식석상…'청룡시리즈어워즈' 등장[핫피플]",
@@ -312,11 +288,35 @@
     "thumb": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202607/20/345da1c6-cd45-491f-8954-73dfdfba57ad.jpg"
   },
   {
+    "title": "아이유 결별, 유인나는 알았나 “앞으론 무념무상 연인 만나”",
+    "link": "https://news.jtbc.co.kr/article/NB12307760",
+    "pubDate": "Sat, 11 Jul 2026 07:00:00 GMT",
+    "source": "JTBC",
+    "domain": "news.jtbc.co.kr",
+    "thumb": null
+  },
+  {
     "title": "아이유·이종석, 4년 만에 결별…\"좋은 동료로 남기로\"",
     "link": "https://www.yna.co.kr/view/AKR20260710087100005",
     "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img7.yna.co.kr/etc/inner/KR/2026/07/10/AKR20260710087100005_01_i_P4.jpg"
+  },
+  {
+    "title": "“우리도 스벅 선결제 해줘” 잠실 시위대, 아이유 SNS 몰려가 요구",
+    "link": "https://www.donga.com/news/Culture/article/all/20260606/134061351/2",
+    "pubDate": "Sat, 06 Jun 2026 07:00:00 GMT",
+    "source": "동아일보",
+    "domain": "donga.com",
+    "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/06/134061354.3.jpg"
+  },
+  {
+    "title": "“잠실 스타벅스 선결제 해달라”…투표용지 사태에 아이유 SNS 불똥",
+    "link": "https://www.donga.com/news/Culture/article/all/20260606/134061206/1",
+    "pubDate": "Sat, 06 Jun 2026 07:00:00 GMT",
+    "source": "동아일보",
+    "domain": "donga.com",
+    "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/06/06/134061207.1.jpg"
   }
 ]
