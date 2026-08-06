@@ -11,7 +11,7 @@
     "title": "\"Stay pretty\"…장원영, 핑크 배경 속 잘록한 허리 라인·인형 비주얼 폭발",
     "link": "https://www.kstarfashion.com/ko-kr/articles/254601",
     "pubDate": "Thu, 06 Aug 2026 09:45:00 GMT",
-    "source": "스타패션",
+    "source": "kstarfashion.com",
     "domain": "kstarfashion.com",
     "thumb": null
   },
@@ -56,14 +56,6 @@
     "thumb": "https://cdn.mediafine.co.kr/news/photo/202608/85816_123236_4637.png"
   },
   {
-    "title": "장원영, CG라고 해도 믿을 것 같네…사람이라는 게 안 믿기는 비현실적 비주얼",
-    "link": "https://supple.kr/news/cmsgybhkk002g7uub0goe7r5b",
-    "pubDate": "Thu, 06 Aug 2026 03:23:00 GMT",
-    "source": "supple.kr",
-    "domain": "supple.kr",
-    "thumb": "https://images.supple.kr/?url=https%3A%2F%2Fpickcon.co.kr%2Fsite%2Fdata%2Fimg_dir%2F2026%2F08%2F06%2F2026080680018_0.jpg"
-  },
-  {
     "title": "장원영, 핑크빛 화보 공개…비현실적인 비율 눈길",
     "link": "https://news.nate.com/view/20260806n13588?mid=e1200",
     "pubDate": "Thu, 06 Aug 2026 02:25:00 GMT",
@@ -94,6 +86,14 @@
     "source": "네이트",
     "domain": "news.nate.com",
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/xs/2026/08/06/1785975534000989.jpg"
+  },
+  {
+    "title": "장원영, 中 사로잡은 ‘인형 비주얼’..올 핑크룩도 찰떡 소화 - 조선비즈",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/08/06/MM2TKNLBMMYDENZVG44GCNLFGU/",
+    "pubDate": "Wed, 05 Aug 2026 23:33:00 GMT",
+    "source": "Chosunbiz",
+    "domain": "biz.chosun.com",
+    "thumb": "https://biz.chosun.com/resizer/v2/MNRTQNBWGU2TGNZTHA2DEZBVMI.png?auth=ebd31894b4d5d754f56fc519fa9c9c98ac7752c6b5365656b1dbc972156ffe4e&amp;width=572&amp;height=300&amp;smart=true"
   },
   {
     "title": "장원영, 中 사로잡은 ‘인형 비주얼’..올 핑크룩도 찰떡 소화",
@@ -166,14 +166,6 @@
     "source": "네이트",
     "domain": "news.nate.com",
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/ns/2026/08/05/NISI20260805_0002204702_web.jpg"
-  },
-  {
-    "title": "장원영, 자아도취 할만하네 \"누가 꽃이게\" 완벽 비주얼",
-    "link": "https://news.nate.com/view/20260805n03600?mid=e1100",
-    "pubDate": "Tue, 04 Aug 2026 23:01:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/hm/2026/08/05/news-p.v1.20260804.3fbc50ea1e524fd1a7d630a88a93c031_P1.jpg"
   },
   {
     "title": "장원영, 요리 실력까지 완벽 갖췄나…'흑백요리사' 우승자도 \"1황\" 인정",
@@ -318,5 +310,13 @@
     "source": "연합뉴스TV",
     "domain": "yonhapnewstv.co.kr",
     "thumb": "https://media.yonhapnewstv.co.kr/article/AKR/20260714/AKR20260714182927vow_01_i.jpg"
+  },
+  {
+    "title": "장원영, 특혜 논란에 모자 벗었더니…이번엔 민낯 품평 쏟아졌다",
+    "link": "https://sports.khan.co.kr/article/202607021622003",
+    "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
+    "source": "sports.khan.co.kr",
+    "domain": "sports.khan.co.kr",
+    "thumb": null
   }
 ]
