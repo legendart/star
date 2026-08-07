@@ -40,14 +40,6 @@
     "thumb": "https://www.koreadaily.com/data/photo/thumbnail/2026/08/07/2d18eaba-8e61-430e-96e8-6fefb6be4302.jpg"
   },
   {
-    "title": "샤넬 뷰티, BTS 정국과 향수 캠페인… 토리든, 2026년 상반기 매출 1,811억",
-    "link": "https://sports.hankooki.com/news/articleView.html?idxno=6937653",
-    "pubDate": "Fri, 07 Aug 2026 06:56:51 GMT",
-    "source": "스포츠한국",
-    "domain": "sports.hankooki.com",
-    "thumb": "https://cdn.sports.hankooki.com/news/thumbnail/202608/6937653_1212345_5517_v150.jpg"
-  },
-  {
     "title": "Momento de la Comunidad BTS",
     "link": "https://weverse.io/bts/moment/07ee2935d1a799b354ee32954e17914b/post/2-178818501?hl=es",
     "pubDate": "Fri, 07 Aug 2026 06:01:57 GMT",
@@ -80,14 +72,6 @@
     "thumb": "https://www.breaknews.com/imgdata/breaknews_com/202608/2026080739589316.jpg"
   },
   {
-    "title": "BTS '더 시티 뉴욕', 타임스스퀘어 등 뉴욕 명소 수놓아",
-    "link": "https://www.ppss.kr/news/articleView.html?idxno=304451",
-    "pubDate": "Fri, 07 Aug 2026 03:00:00 GMT",
-    "source": "ppss.kr",
-    "domain": "ppss.kr",
-    "thumb": "https://cdn.ppss.kr/news/photo/202608/304451_124590_443.png"
-  },
-  {
     "title": "BTS 손잡은 구글, 라스베이거스 '스피어' 전면에 경복궁 띄운 이유",
     "link": "http://www.newsian.co.kr/news/articleView.html?idxno=93429",
     "pubDate": "Fri, 07 Aug 2026 02:38:25 GMT",
@@ -102,6 +86,14 @@
     "source": "Chosunbiz",
     "domain": "biz.chosun.com",
     "thumb": "https://biz.chosun.com/resizer/v2/MYYGCMZYHE2TAZLBGA2GCNZYG4.jpg?auth=0185b00eb3fcf844dbab33121000e965c528c30909daac394fa264debd3ee7aa&amp;width=900&amp;height=472&amp;smart=true"
+  },
+  {
+    "title": "샤넬 향수 입은 BTS 정국···글로벌 캠페인 공개",
+    "link": "https://www.campaigninsight.co.kr/news/articleView.html?idxno=5151",
+    "pubDate": "Fri, 07 Aug 2026 02:03:38 GMT",
+    "source": "캠페인 인사이트",
+    "domain": "campaigninsight.co.kr",
+    "thumb": "https://cdn.campaigninsight.co.kr/news/photo/202608/5151_7584_117.png"
   },
   {
     "title": "한때 방탄소년단 회의론자였던 사람의 고백",
@@ -126,6 +118,14 @@
     "source": "헤럴드경제",
     "domain": "biz.heraldcorp.com",
     "thumb": "https://wimg.heraldcorp.com/news/cms/2026/08/07/news-p.v1.20260807.d147f48174a645e4bb07bf69cecf09c1_T1.jpg"
+  },
+  {
+    "title": "BTS 정국이 쓰는 샤넬 향수",
+    "link": "https://www.cosmorning.com/news/article.html?no=53276",
+    "pubDate": "Fri, 07 Aug 2026 01:27:50 GMT",
+    "source": "코스모닝",
+    "domain": "cosmorning.com",
+    "thumb": "https://www.cosmorning.com/data/photos/20260832/art_17860660264662_fa6502.jpg"
   },
   {
     "title": "BTS×제미나이, 스피어 수놓다…AI·K팝 협업 티저 공개",
@@ -176,20 +176,20 @@
     "thumb": "https://image.fnnews.com/resource/media/image/2026/08/07/202608070907381319_l.jpg"
   },
   {
-    "title": "구글 제미나이·BTS 협업 티저 공개…라스베이거스 스피어 장식",
-    "link": "https://www.yna.co.kr/view/AKR20260807026700017",
-    "pubDate": "Fri, 07 Aug 2026 00:03:41 GMT",
-    "source": "연합뉴스",
-    "domain": "yna.co.kr",
-    "thumb": "https://img3.yna.co.kr/etc/inner/KR/2026/08/07/AKR20260807026700017_01_i_P4.jpg"
-  },
-  {
     "title": "티저와 스틸컷|구글 제미나이·BTS 협업 티저 공개…라스베이거스 스피어 장식",
     "link": "https://news.zum.com/photo/60114801/107068252",
     "pubDate": "Fri, 07 Aug 2026 00:03:41 GMT",
     "source": "ZUM 뉴스",
     "domain": "news.zum.com",
     "thumb": "https://newszum.zumst.com/news/연합뉴스/2026/08/07/AKR20260807026700017_01_i.jpg"
+  },
+  {
+    "title": "구글 제미나이·BTS 협업 티저 공개…라스베이거스 스피어 장식",
+    "link": "https://www.yna.co.kr/view/AKR20260807026700017",
+    "pubDate": "Fri, 07 Aug 2026 00:03:41 GMT",
+    "source": "연합뉴스",
+    "domain": "yna.co.kr",
+    "thumb": "https://img3.yna.co.kr/etc/inner/KR/2026/08/07/AKR20260807026700017_01_i_P4.jpg"
   },
   {
     "title": "'BTS 더 시티 아리랑'…방탄소년단, 뉴욕도 달궜다!",
@@ -200,12 +200,28 @@
     "thumb": "https://img.etnews.com/news/article/2026/08/07/article_07090047577461.jpg"
   },
   {
+    "title": "\"제미나이와 BTS가 만났다\"…라스베이거스 Sphere 수놓은 60초",
+    "link": "https://www.newstap.co.kr/news/articleView.html?idxno=331836",
+    "pubDate": "Thu, 06 Aug 2026 23:51:21 GMT",
+    "source": "뉴스탭",
+    "domain": "newstap.co.kr",
+    "thumb": "https://cdn.newstap.co.kr/news/photo/202608/331836_440463_510.jpg"
+  },
+  {
     "title": "BTS 정국, 샤넬 향수도 통했다…‘1957’ 글로벌 품절 행렬",
     "link": "https://sports.donga.com/ent/article/all/20260807/134435395/1",
     "pubDate": "Thu, 06 Aug 2026 22:27:52 GMT",
     "source": "sports.donga.com",
     "domain": "sports.donga.com",
     "thumb": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/08/07/134435401.1.jpg"
+  },
+  {
+    "title": "정국, 'ARMY' 타투한 손으로 샤넬 들었더니…68만원인데 '품절'",
+    "link": "https://www.hankyung.com/article/202608079682H",
+    "pubDate": "Thu, 06 Aug 2026 22:23:20 GMT",
+    "source": "한국경제",
+    "domain": "hankyung.com",
+    "thumb": "https://img.hankyung.com/photo/202608/01.45267617.1.png"
   },
   {
     "title": "방탄소년단 뷔, 엉뚱 발랄함으로 완성한 ‘30초 게이트’ 레전드",
@@ -216,12 +232,12 @@
     "thumb": "https://cdn.topstarnews.net/news/photo/202608/16156785_1983878_923_crop.jpg"
   },
   {
-    "title": "그래미 3관왕의 일침 \"방탄소년단이 맞다,'아시안팝'신설은 포용 아닌 격리\"[K-EYES]",
-    "link": "https://v.daum.net/v/zjCLLxMVvj",
-    "pubDate": "Thu, 06 Aug 2026 08:53:37 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/06/starnews/20260806180742639kcre.jpg"
+    "title": "BTS 뷔, 초근접 셀카도 완벽…'\"어떤 각도도 화보\"",
+    "link": "https://www.osen.co.kr/article/G1112853251",
+    "pubDate": "Thu, 06 Aug 2026 14:59:00 GMT",
+    "source": "osen.co.kr",
+    "domain": "osen.co.kr",
+    "thumb": "http://file.osen.co.kr/article_thumb/2026/08/06/202608062350778314_6a74a03712a3e_300x.png"
   },
   {
     "title": "BTS 정국의 향기 (feat. ARMY)",
@@ -232,14 +248,6 @@
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/kz/2026/08/06/news-p.v1.20260806.2ebc2bc3795c4e1ab6302acbee356c44_P1.png"
   },
   {
-    "title": "41만표 돌파 大기록..BTS 지민, 스타랭킹 男아이돌 독보적 1위",
-    "link": "https://www.starnewskorea.com/star/2026/08/06/2026080615130014033",
-    "pubDate": "Thu, 06 Aug 2026 06:19:22 GMT",
-    "source": "starnewskorea.com",
-    "domain": "starnewskorea.com",
-    "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=1560,fit=cover,q=high,sharpen=2/21/2026/08/2026080615130014033_1.jpg"
-  },
-  {
     "title": "방탄소년단, 월드 와이드 '인기' - 포토슬라이드",
     "link": "https://news.nate.com/photo/slideShow?cid=1185929&mid=n0809",
     "pubDate": "Wed, 05 Aug 2026 23:38:00 GMT",
@@ -248,20 +256,12 @@
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg//tn/2026/08/06/tn_1785973084757_53642_0.jpg"
   },
   {
-    "title": "BTS 노래 틀고 “내적댄스만 추세요”…홍대 골목서 기묘한 일",
-    "link": "https://www.joongang.co.kr/article/25451211",
-    "pubDate": "Wed, 05 Aug 2026 20:00:00 GMT",
-    "source": "중앙일보",
-    "domain": "joongang.co.kr",
-    "thumb": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/06/039a28fa-4176-4ef9-ac55-5e2aeb3b453d.jpg"
-  },
-  {
-    "title": "\"엉엉 울어도 돼\"..BTS 뷔, 의미심장 SNS 속 충격의 무보정 증명사진 [스타이슈]",
-    "link": "https://www.starnewskorea.com/music/2026/08/05/2026080518003290090",
-    "pubDate": "Wed, 05 Aug 2026 09:41:49 GMT",
-    "source": "starnewskorea.com",
-    "domain": "starnewskorea.com",
-    "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=1600,fit=cover,q=high,sharpen=2/21/2026/08/2026080518003290090_1.jpg"
+    "title": "\"그들은 우릴 몰라\"…'그래미 보이콧' BTS, 美 투어 중 개사로 '한 방'",
+    "link": "https://v.daum.net/v/YxLqz6PKEe",
+    "pubDate": "Wed, 05 Aug 2026 02:27:01 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/05/nocut/20260805112708970bkya.jpg"
   },
   {
     "title": "'다양성'으로 포장한 장벽, '넘지 않는 것'으로 뛰어넘다···BTS가 쏘아올린 그래미 ‘인종차별’ 논란",
