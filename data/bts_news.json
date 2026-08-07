@@ -40,14 +40,6 @@
     "thumb": "https://www.koreadaily.com/data/photo/thumbnail/2026/08/07/2d18eaba-8e61-430e-96e8-6fefb6be4302.jpg"
   },
   {
-    "title": "BTS의 ‘그래미 거부’가 던진 화두… 스트레이 키즈 \"외부 시선보다 우리 음악 갈 것\"",
-    "link": "http://www.k-trendynews.com/news/articleView.html?idxno=204577",
-    "pubDate": "Fri, 07 Aug 2026 06:14:56 GMT",
-    "source": "케이트렌디뉴스",
-    "domain": "k-trendynews.com",
-    "thumb": "https://cdn.k-trendynews.com/news/photo/202608/204577_349406_1018.png"
-  },
-  {
     "title": "Momento de la Comunidad BTS",
     "link": "https://weverse.io/bts/moment/07ee2935d1a799b354ee32954e17914b/post/2-178818501?hl=es",
     "pubDate": "Fri, 07 Aug 2026 06:01:57 GMT",
@@ -126,6 +118,14 @@
     "source": "헤럴드경제",
     "domain": "biz.heraldcorp.com",
     "thumb": "https://wimg.heraldcorp.com/news/cms/2026/08/07/news-p.v1.20260807.d147f48174a645e4bb07bf69cecf09c1_T1.jpg"
+  },
+  {
+    "title": "‘빅히트 3형제’ 북미 음악시장서 신드롬…BTS·TXT·코르티스, 스타디움부터 차트까지 점령",
+    "link": "https://www.ppss.kr/news/articleView.html?idxno=304353",
+    "pubDate": "Fri, 07 Aug 2026 01:35:15 GMT",
+    "source": "ppss.kr",
+    "domain": "ppss.kr",
+    "thumb": "https://cdn.ppss.kr/news/photo/202608/304353_124435_65.jpg"
   },
   {
     "title": "BTS×제미나이, 스피어 수놓다…AI·K팝 협업 티저 공개",
@@ -232,28 +232,20 @@
     "thumb": "https://cdn.topstarnews.net/news/photo/202608/16156785_1983878_923_crop.jpg"
   },
   {
-    "title": "‘빅히트 뮤직 3형제’ 방탄소년단(BTS), 투모로우바이투게더(TXT), 코르티스(CORTIS)세계 최대 음악시...",
-    "link": "https://sports.khan.co.kr/article/202608062021003",
-    "pubDate": "Thu, 06 Aug 2026 11:21:00 GMT",
-    "source": "스포츠경향",
-    "domain": "sports.khan.co.kr",
-    "thumb": null
-  },
-  {
-    "title": "그래미 3관왕의 일침 \"방탄소년단이 맞다,'아시안팝'신설은 포용 아닌 격리\"[K-EYES]",
-    "link": "https://www.starnewskorea.com/music/2026/08/06/2026080617384766651",
-    "pubDate": "Thu, 06 Aug 2026 08:51:37 GMT",
-    "source": "starnewskorea.com",
-    "domain": "starnewskorea.com",
-    "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=800,fit=cover,q=high,sharpen=2/21/2026/08/2026080617384766651_1.jpg"
-  },
-  {
     "title": "BTS 정국의 향기 (feat. ARMY)",
     "link": "https://news.nate.com/view/20260806n29132",
     "pubDate": "Thu, 06 Aug 2026 08:30:00 GMT",
     "source": "네이트",
     "domain": "news.nate.com",
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/kz/2026/08/06/news-p.v1.20260806.2ebc2bc3795c4e1ab6302acbee356c44_P1.png"
+  },
+  {
+    "title": "41만표 돌파 大기록..BTS 지민, 스타랭킹 男아이돌 독보적 1위",
+    "link": "https://www.starnewskorea.com/star/2026/08/06/2026080615130014033",
+    "pubDate": "Thu, 06 Aug 2026 06:19:22 GMT",
+    "source": "starnewskorea.com",
+    "domain": "starnewskorea.com",
+    "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=1560,fit=cover,q=high,sharpen=2/21/2026/08/2026080615130014033_1.jpg"
   },
   {
     "title": "방탄소년단, 월드 와이드 '인기' - 포토슬라이드",
@@ -318,5 +310,13 @@
     "source": "연합뉴스TV",
     "domain": "yonhapnewstv.co.kr",
     "thumb": "https://media.yonhapnewstv.co.kr/article/MYH/20260802/MYH20260802093913jJY.jpg"
+  },
+  {
+    "title": "BTS, 그래미 보이콧…\"음악 출품하지 않기로\"",
+    "link": "https://www.yonhapnewstv.co.kr/news/MYH20260729201015w3f",
+    "pubDate": "Wed, 29 Jul 2026 07:00:00 GMT",
+    "source": "yonhapnewstv.co.kr",
+    "domain": "yonhapnewstv.co.kr",
+    "thumb": "https://media.yonhapnewstv.co.kr/article/MYH/20260729/MYH20260729201015w3f.jpg"
   }
 ]
