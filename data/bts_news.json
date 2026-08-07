@@ -80,14 +80,6 @@
     "thumb": "https://www.breaknews.com/imgdata/breaknews_com/202608/2026080739589316.jpg"
   },
   {
-    "title": "BTS '더 시티 뉴욕', 타임스스퀘어 등 뉴욕 명소 수놓아",
-    "link": "https://www.ppss.kr/news/articleView.html?idxno=304451",
-    "pubDate": "Fri, 07 Aug 2026 03:00:00 GMT",
-    "source": "ppss.kr",
-    "domain": "ppss.kr",
-    "thumb": "https://cdn.ppss.kr/news/photo/202608/304451_124590_443.png"
-  },
-  {
     "title": "BTS 손잡은 구글, 라스베이거스 '스피어' 전면에 경복궁 띄운 이유",
     "link": "http://www.newsian.co.kr/news/articleView.html?idxno=93429",
     "pubDate": "Fri, 07 Aug 2026 02:38:25 GMT",
@@ -110,14 +102,6 @@
     "source": "Vogue korea",
     "domain": "vogue.co.kr",
     "thumb": "https://www.vogue.co.kr/wp_data/vogue/2026/08/style_6a7473ec70777-1920x1080.jpg?x=2007&y=1208&ver=1.1.41"
-  },
-  {
-    "title": "BTS, 구글 ‘제미나이’ 만났다…美 스피어에 티저 영상 공개",
-    "link": "https://www.sedaily.com/article/20076835",
-    "pubDate": "Fri, 07 Aug 2026 01:44:43 GMT",
-    "source": "서울경제",
-    "domain": "sedaily.com",
-    "thumb": "https://wimg.sedaily.com/news/cms/2026/08/07/news-p.v1.20260807.49bf28ad72ba4b238e9780ec2f1c5206_R.jpg"
   },
   {
     "title": "록펠러 센터부터 타임스퀘어까지…‘월드컵급’ BTS노믹스 뉴욕 점령",
@@ -176,20 +160,20 @@
     "thumb": "https://image.fnnews.com/resource/media/image/2026/08/07/202608070907381319_l.jpg"
   },
   {
-    "title": "티저와 스틸컷|구글 제미나이·BTS 협업 티저 공개…라스베이거스 스피어 장식",
-    "link": "https://news.zum.com/photo/60114801/107068252",
-    "pubDate": "Fri, 07 Aug 2026 00:03:41 GMT",
-    "source": "ZUM 뉴스",
-    "domain": "news.zum.com",
-    "thumb": "https://newszum.zumst.com/news/연합뉴스/2026/08/07/AKR20260807026700017_01_i.jpg"
-  },
-  {
     "title": "구글 제미나이·BTS 협업 티저 공개…라스베이거스 스피어 장식",
     "link": "https://www.yna.co.kr/view/AKR20260807026700017",
     "pubDate": "Fri, 07 Aug 2026 00:03:41 GMT",
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img3.yna.co.kr/etc/inner/KR/2026/08/07/AKR20260807026700017_01_i_P4.jpg"
+  },
+  {
+    "title": "티저와 스틸컷|구글 제미나이·BTS 협업 티저 공개…라스베이거스 스피어 장식",
+    "link": "https://news.zum.com/photo/60114801/107068252",
+    "pubDate": "Fri, 07 Aug 2026 00:03:41 GMT",
+    "source": "ZUM 뉴스",
+    "domain": "news.zum.com",
+    "thumb": "https://newszum.zumst.com/news/연합뉴스/2026/08/07/AKR20260807026700017_01_i.jpg"
   },
   {
     "title": "'BTS 더 시티 아리랑'…방탄소년단, 뉴욕도 달궜다!",
@@ -270,6 +254,22 @@
     "source": "경향신문",
     "domain": "khan.co.kr",
     "thumb": "https://img.khan.co.kr/news/2026/08/05/rcv.YNA.20260624.PAP20260624279201009_P1.jpg"
+  },
+  {
+    "title": "BTS 공연 파급력 월드컵 이상…\"라스베이거스 투어만 4,500억\"",
+    "link": "https://v.daum.net/v/20260804201931331",
+    "pubDate": "Tue, 04 Aug 2026 11:19:31 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/04/newsy/20260804201931737eosp.jpg"
+  },
+  {
+    "title": "K팝 아이돌 30년, BTS·트와이스 등 8팀뿐이었다··· ‘꿈의 1000만장’ 그룹",
+    "link": "https://www.khan.co.kr/article/202608041458011",
+    "pubDate": "Tue, 04 Aug 2026 05:58:00 GMT",
+    "source": "경향신문",
+    "domain": "khan.co.kr",
+    "thumb": "https://img.khan.co.kr/news/2026/08/04/rcv.YNA.20260802.PAF20260802073801009_P1.jpg"
   },
   {
     "title": "\"걔넨 우릴 몰라\" 가사 바꾼 BTS…그래미 보란 듯 16만명 앞 공연",
