@@ -32,14 +32,6 @@
     "thumb": "https://cdn.mhnse.com/mhnsports/2026/08/07182950/thumb_ccms_37870.jpg"
   },
   {
-    "title": "\"진실은 결국 드러나\" 장원영, 줄이은 '억까' 논란에도 의연",
-    "link": "https://v.daum.net/v/20260807202058809",
-    "pubDate": "Fri, 07 Aug 2026 11:20:58 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/07/poctan/20260807202059705tvph.png"
-  },
-  {
     "title": "\"진실은 결국 드러나\" 장원영, 연이은 '억까' 논란에도 의연",
     "link": "https://www.osen.co.kr/article/G1112853624",
     "pubDate": "Fri, 07 Aug 2026 11:20:00 GMT",
@@ -176,10 +168,18 @@
     "thumb": "https://cdn.topstarnews.net/news/photo/202608/16156581_1983434_2451_crop.jpg"
   },
   {
+    "title": "장원영, 핑크빛 화보 공개…비현실적인 비율 눈길",
+    "link": "https://www.fnnews.com/news/202608061124370856",
+    "pubDate": "Thu, 06 Aug 2026 02:25:05 GMT",
+    "source": "파이낸셜뉴스",
+    "domain": "fnnews.com",
+    "thumb": "https://image.fnnews.com/resource/media/image/2026/08/06/202608061125024288_l.jpg"
+  },
+  {
     "title": "“만화 찢고 나온 인어공주” 아이브 장원영, 비현실적 9등신 각선미",
     "link": "https://sports.khan.co.kr/article/202608061040003",
     "pubDate": "Thu, 06 Aug 2026 01:40:00 GMT",
-    "source": "스포츠경향",
+    "source": "sports.khan.co.kr",
     "domain": "sports.khan.co.kr",
     "thumb": null
   },
@@ -190,14 +190,6 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/06/10asia/20260806100141430phus.jpg"
-  },
-  {
-    "title": "장원영, 中 사로잡은 ‘인형 비주얼’..올 핑크룩도 찰떡 소화 - 조선비즈",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/08/06/MM2TKNLBMMYDENZVG44GCNLFGU/",
-    "pubDate": "Wed, 05 Aug 2026 23:33:00 GMT",
-    "source": "Chosunbiz",
-    "domain": "biz.chosun.com",
-    "thumb": "https://biz.chosun.com/resizer/v2/MNRTQNBWGU2TGNZTHA2DEZBVMI.png?auth=ebd31894b4d5d754f56fc519fa9c9c98ac7752c6b5365656b1dbc972156ffe4e&amp;width=572&amp;height=300&amp;smart=true"
   },
   {
     "title": "\"바비가 환생했다\"…장원영, 9등신 넘어선 '그림 같은 킬링 각선미'",
@@ -214,6 +206,14 @@
     "source": "Chosunbiz",
     "domain": "biz.chosun.com",
     "thumb": "https://biz.chosun.com/resizer/v2/7ZJBL4TBVNCKROCJKMPSU3QL4M.png?auth=cb1b4330004b7cf30d014b6327755664520b38921ccf07ed53d28e95ee9d8b83&amp;width=606&amp;height=318&amp;smart=true"
+  },
+  {
+    "title": "장원영 \"뭐가 꽃이게?\"",
+    "link": "https://v.daum.net/v/20260805194641323",
+    "pubDate": "Wed, 05 Aug 2026 10:46:00 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/05/mydaily/20260805194642869kyws.png"
   },
   {
     "title": "유럽서도 난리 난 '장원영 디바이스'…에이피알 매출 134%↑",
@@ -315,7 +315,7 @@
     "title": "장원영, 특혜 논란에 모자 벗었더니…이번엔 민낯 품평 쏟아졌다",
     "link": "https://sports.khan.co.kr/article/202607021622003",
     "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
-    "source": "스포츠경향",
+    "source": "sports.khan.co.kr",
     "domain": "sports.khan.co.kr",
     "thumb": null
   }
