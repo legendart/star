@@ -3,7 +3,7 @@
     "title": "BTS 위버스 LIVE - 김태형 - 뷔",
     "link": "https://weverse.io/bts/live/4-238477291?hl=ko",
     "pubDate": "Sat, 08 Aug 2026 16:53:09 GMT",
-    "source": "weverse.io",
+    "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
   },
@@ -22,14 +22,6 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/08/mydaily/20260808210729201ocmk.jpg"
-  },
-  {
-    "title": "BTS '아리랑', 英 오피셜 20주째…자체 최장 기록",
-    "link": "https://news.nate.com/view/20260808n07393?mid=e1200",
-    "pubDate": "Sat, 08 Aug 2026 07:49:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/ed/2026/08/08/PS26080800549.jpg"
   },
   {
     "title": "\"역시!\" 방탄소년단(BTS), 英 오피셜 차트 최장 기록",
@@ -128,10 +120,18 @@
     "thumb": "https://www.harpersbazaar.co.kr/resources/online/thumbnail/hf/2026/08/07/23430c8d-d0c8-4a0c-b926-f8287dbeb3a0.jpg"
   },
   {
+    "title": "Momento de la Comunidad BTS",
+    "link": "https://weverse.io/bts/moment/07ee2935d1a799b354ee32954e17914b/post/2-178818501?hl=es",
+    "pubDate": "Fri, 07 Aug 2026 06:01:57 GMT",
+    "source": "Weverse",
+    "domain": "weverse.io",
+    "thumb": null
+  },
+  {
     "title": "BTS Community Moment",
     "link": "https://weverse.io/bts/moment/07ee2935d1a799b354ee32954e17914b/post/2-178818501",
     "pubDate": "Fri, 07 Aug 2026 05:49:36 GMT",
-    "source": "weverse.io",
+    "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
   },
@@ -200,20 +200,20 @@
     "thumb": "https://img.etnews.com/news/article/2026/08/07/article_07090047577461.jpg"
   },
   {
-    "title": "BTS 뷔, 초근접 셀카도 완벽…'\"어떤 각도도 화보\"",
-    "link": "https://www.osen.co.kr/article/G1112853251",
-    "pubDate": "Thu, 06 Aug 2026 14:59:00 GMT",
-    "source": "OSEN",
-    "domain": "osen.co.kr",
-    "thumb": "http://file.osen.co.kr/article_thumb/2026/08/06/202608062350778314_6a74a03712a3e_300x.png"
-  },
-  {
     "title": "BTS만 뜨면 경제가 꿈틀...세계 구석구석 돈 세는 소리 [엔터그알]",
     "link": "https://v.daum.net/v/20260806123307732",
     "pubDate": "Thu, 06 Aug 2026 03:33:07 GMT",
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/06/552782-ZYLYaJX/20260806123308990rabw.jpg"
+  },
+  {
+    "title": "방탄소년단, 월드 와이드 '인기'",
+    "link": "https://news.nate.com/photo/viewer?sid=8434&cid=1185929&mid=e0600",
+    "pubDate": "Wed, 05 Aug 2026 23:38:00 GMT",
+    "source": "네이트",
+    "domain": "news.nate.com",
+    "thumb": "http://news.nateimg.co.kr/etc/cms/2026/08/06/1785976596_307.jpg"
   },
   {
     "title": "BTS 노래 틀고 “내적댄스만 추세요”…홍대 골목서 기묘한 일",
@@ -256,14 +256,6 @@
     "thumb": "https://img.khan.co.kr/news/2026/08/04/rcv.YNA.20260802.PAF20260802073801009_P1.jpg"
   },
   {
-    "title": "英 가디언 \"BTS 라스베이거스 공연, 4천500억 경제 효과 창출\"",
-    "link": "https://www.yna.co.kr/view/AKR20260804077400005",
-    "pubDate": "Tue, 04 Aug 2026 02:46:52 GMT",
-    "source": "연합뉴스",
-    "domain": "yna.co.kr",
-    "thumb": "https://img7.yna.co.kr/etc/inner/KR/2026/08/04/AKR20260804077400005_01_i_P4.jpg"
-  },
-  {
     "title": "\"월드컵급 경제효과\" … 방탄소년단이 만든 'BTS노믹스', 美 도시를 움직이다",
     "link": "https://www.newdaily.co.kr/site/data/html/2026/08/04/2026080400143.html",
     "pubDate": "Tue, 04 Aug 2026 02:25:47 GMT",
@@ -286,6 +278,14 @@
     "source": "연합뉴스TV",
     "domain": "yonhapnewstv.co.kr",
     "thumb": "https://media.yonhapnewstv.co.kr/article/MYH/20260802/MYH20260802093913jJY.jpg"
+  },
+  {
+    "title": "'그래미' 돌연 BTS 삭제했다‥BTS '그래미 보이콧' 후폭풍",
+    "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6841608_37004.html",
+    "pubDate": "Fri, 31 Jul 2026 11:17:25 GMT",
+    "source": "MBC 뉴스",
+    "domain": "imnews.imbc.com",
+    "thumb": "https://image.imnews.imbc.com/replay/2026/nwdesk/article/__icsFiles/afieldfile/2026/07/31/desk_20260731_201619_1_17_Large.jpg"
   },
   {
     "title": "방탄소년단: '아시안 팝 부문 신설 때문?' BTS는 왜 그래미 출품을 거부했을까",
