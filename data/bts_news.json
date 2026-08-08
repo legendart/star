@@ -56,14 +56,6 @@
     "thumb": "https://wimg.heraldcorp.com/news/cms/2026/08/08/news-p.v1.20260608.3f5853a304254d188324bcbcdf15b671_T1.jpg"
   },
   {
-    "title": "몬스타엑스X제베원X플레이브, BTS 바짝…막판 화력 터질까 [이슈in]",
-    "link": "https://enews.imbc.com/News/RetrieveNewsInfo/514095",
-    "pubDate": "Sat, 08 Aug 2026 03:19:00 GMT",
-    "source": "iMBC 연예",
-    "domain": "enews.imbc.com",
-    "thumb": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/08/08/9ef178cd-deca-433c-aeb2-d9dbdfe51486.jpg"
-  },
-  {
     "title": "BTS가 ‘마지막 퍼즐’ 그래미를 보이콧한 진짜 이유",
     "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8631944",
     "pubDate": "Sat, 08 Aug 2026 02:00:00 GMT",
@@ -160,6 +152,14 @@
     "thumb": "https://biz.chosun.com/resizer/v2/MYYGCMZYHE2TAZLBGA2GCNZYG4.jpg?auth=0185b00eb3fcf844dbab33121000e965c528c30909daac394fa264debd3ee7aa&amp;width=900&amp;height=472&amp;smart=true"
   },
   {
+    "title": "한때 방탄소년단 회의론자였던 사람의 고백",
+    "link": "https://www.vogue.co.kr/2026/08/07/%ED%95%9C%EB%95%8C-%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8-%ED%9A%8C%EC%9D%98%EB%A1%A0%EC%9E%90%EC%98%80%EB%8D%98-%EC%82%AC%EB%9E%8C%EC%9D%98-%EA%B3%A0%EB%B0%B1/",
+    "pubDate": "Fri, 07 Aug 2026 01:54:15 GMT",
+    "source": "Vogue korea",
+    "domain": "vogue.co.kr",
+    "thumb": null
+  },
+  {
     "title": "BTS, 구글 ‘제미나이’ 만났다…美 스피어에 티저 영상 공개",
     "link": "https://www.sedaily.com/article/20076835",
     "pubDate": "Fri, 07 Aug 2026 01:44:43 GMT",
@@ -200,20 +200,20 @@
     "thumb": "https://img.etnews.com/news/article/2026/08/07/article_07090047577461.jpg"
   },
   {
-    "title": "BTS 뷔, 초근접 셀카도 완벽…'\"어떤 각도도 화보\"",
-    "link": "https://www.osen.co.kr/article/G1112853251",
-    "pubDate": "Thu, 06 Aug 2026 14:59:00 GMT",
-    "source": "OSEN",
-    "domain": "osen.co.kr",
-    "thumb": "http://file.osen.co.kr/article_thumb/2026/08/06/202608062350778314_6a74a03712a3e_300x.png"
-  },
-  {
     "title": "BTS만 뜨면 경제가 꿈틀...세계 구석구석 돈 세는 소리 [엔터그알]",
     "link": "https://v.daum.net/v/20260806123307732",
     "pubDate": "Thu, 06 Aug 2026 03:33:07 GMT",
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/06/552782-ZYLYaJX/20260806123308990rabw.jpg"
+  },
+  {
+    "title": "방탄소년단, 월드 와이드 '인기'",
+    "link": "https://news.nate.com/photo/viewer?sid=8434&cid=1185929&mid=e0600",
+    "pubDate": "Wed, 05 Aug 2026 23:38:00 GMT",
+    "source": "네이트",
+    "domain": "news.nate.com",
+    "thumb": "http://news.nateimg.co.kr/etc/cms/2026/08/06/1785976596_307.jpg"
   },
   {
     "title": "BTS 노래 틀고 “내적댄스만 추세요”…홍대 골목서 기묘한 일",

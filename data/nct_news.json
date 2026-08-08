@@ -32,14 +32,6 @@
     "thumb": null
   },
   {
-    "title": "'24일 컴백' NCT 127, 'Blingy'로 증명할 거대한 불꽃 존재감",
-    "link": "https://www.joynews24.com/view/1993050",
-    "pubDate": "Fri, 07 Aug 2026 08:30:34 GMT",
-    "source": "조이뉴스24",
-    "domain": "joynews24.com",
-    "thumb": "https://image.inews24.com/v1/b599663061a1dd.jpg"
-  },
-  {
     "title": "NCT 127, 타이틀곡 '블링이'로 보여줄 존재감",
     "link": "https://news.nate.com/view/20260807n22386?mid=n0100",
     "pubDate": "Fri, 07 Aug 2026 08:01:00 GMT",
@@ -120,10 +112,18 @@
     "thumb": "https://dispatch.cdnser.be/cms-content/uploads/2026/08/07/8037ac67-9546-4a88-a7df-d60375798a7e.jpg"
   },
   {
+    "title": "NCT 127, 타이틀곡 ‘Blingy’로 거대한 불꽃 존재감 드러낸다",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16157243",
+    "pubDate": "Fri, 07 Aug 2026 00:20:03 GMT",
+    "source": "톱스타뉴스",
+    "domain": "topstarnews.net",
+    "thumb": "https://cdn.topstarnews.net/news/photo/202608/16157243_1984193_1949_crop.jpg"
+  },
+  {
     "title": "NCT 127, 신곡 ‘Blingy’로 독보적 존재감…정규 7집 기대감↑",
     "link": "https://m.newsen.com/news_view.php?uid=202608070912012410",
     "pubDate": "Fri, 07 Aug 2026 00:17:10 GMT",
-    "source": "newsen.com",
+    "source": "뉴스엔",
     "domain": "m.newsen.com",
     "thumb": null
   },
@@ -200,6 +200,14 @@
     "thumb": "https://www.bntnews.co.kr/data/bnt/image/2026/08/06/bnt202608060213.jpg"
   },
   {
+    "title": "NCT 127, 韓·美·中 13개 도시 옥외 광고로 정규 7집 컴백 열기 확산",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16156086",
+    "pubDate": "Thu, 06 Aug 2026 00:20:59 GMT",
+    "source": "톱스타뉴스",
+    "domain": "topstarnews.net",
+    "thumb": "https://cdn.topstarnews.net/news/photo/202608/16156086_1982910_2039_crop.jpg"
+  },
+  {
     "title": "NCT WISH가 청춘의 온도를 유지하는 법",
     "link": "https://magazine.weverse.io/article/view/1915?lang=ko",
     "pubDate": "Wed, 05 Aug 2026 10:08:55 GMT",
@@ -232,14 +240,6 @@
     "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=665,fit=cover,q=high,sharpen=2/21/2026/08/2026080514240981299_2.jpg"
   },
   {
-    "title": "“한계를 뛰어넘었다”…박찬욱 감독→NCT 127, ‘오디세이’ 극찬 리뷰",
-    "link": "https://isplus.com/article/view/isp202608050160",
-    "pubDate": "Wed, 05 Aug 2026 05:16:00 GMT",
-    "source": "일간스포츠",
-    "domain": "isplus.com",
-    "thumb": "https://isplus.com/data/isp/image/2026/08/05/isp20260805000253.800x.0.jpg"
-  },
-  {
     "title": "NCT WISH 재희, 팬 여러분 안녕하세요",
     "link": "https://www.chosun.com/sports/sports_photo/2026/08/04/MZSGGYRSMVQTKODFGMYGINLCMQ/",
     "pubDate": "Tue, 04 Aug 2026 10:20:00 GMT",
@@ -248,12 +248,12 @@
     "thumb": "https://www.chosun.com/resizer/v2/GM3WGYLGGY2TIODEGE4DSNZTMQ.jpg?auth=4077ec0b5b887f9570ae9efbe5ff333ada8887dbd025910e416b54d7eb2b9706&amp;width=530&amp;height=278&amp;smart=true"
   },
   {
-    "title": "NCT WISH 재희, 눈빛이 예사롭지 않은 시구 - 머니투데이",
-    "link": "https://www.mt.co.kr/sports/2026/08/04/202608041914773541O",
-    "pubDate": "Tue, 04 Aug 2026 10:14:00 GMT",
-    "source": "머니투데이",
-    "domain": "mt.co.kr",
-    "thumb": "https://menu.mt.co.kr/cdn-cgi/image/w=1200,h=1527,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/mobile/osen/data/2026/08/04/202608041914773541_1.jpg"
+    "title": "NCT WISH '요이돈!' 애니메이션|예술을 산책하듯 가볍게 즐기는 아트 정보 큐레이션 서비스",
+    "link": "https://www.harpersbazaar.co.kr/artwalk/1minute/detail/1907454",
+    "pubDate": "Tue, 04 Aug 2026 08:20:53 GMT",
+    "source": "harpersbazaar.co.kr",
+    "domain": "harpersbazaar.co.kr",
+    "thumb": "/resources/online/thumbnail/fw/2026/08/04/d0692c8c-83f7-4f27-845e-bd5ed60c5f96.jpg"
   },
   {
     "title": "다시 하나로…NCT 127, 정규 7집 ‘BLINGY’ 트레일러 공개",
@@ -262,14 +262,6 @@
     "source": "스포츠동아",
     "domain": "sports.donga.com",
     "thumb": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/08/04/134419136.1.jpg"
-  },
-  {
-    "title": "NCT 127, '블링이' 트레일러 공개…'콜 127' 세계관 베일 벗었다",
-    "link": "https://www.gpkorea.com/news/articleView.html?idxno=145369",
-    "pubDate": "Tue, 04 Aug 2026 02:21:55 GMT",
-    "source": "지피코리아",
-    "domain": "gpkorea.com",
-    "thumb": "https://cdn.gpkorea.com/news/photo/202608/145369_308650_1831.jpg"
   },
   {
     "title": "'10주년' NCT 127, 호출 받고 다시 한 곳으로…'블링이' 트레일러 오픈",
@@ -294,6 +286,14 @@
     "source": "뉴스핌",
     "domain": "newspim.com",
     "thumb": "https://img.newspim.com/news/2026/08/03/2608031105026700_594_tc.jpg"
+  },
+  {
+    "title": "'관제센터' 웹사이트 오픈..NCT 127, '블링이' 프로모션 본격 가동",
+    "link": "https://www.starnewskorea.com/music/2026/08/03/2026080310270285189",
+    "pubDate": "Mon, 03 Aug 2026 01:46:08 GMT",
+    "source": "starnewskorea.com",
+    "domain": "starnewskorea.com",
+    "thumb": "https://image.starnewskorea.com/21/2026/08/2026080310270285189_1.jpg"
   },
   {
     "title": "NCT WISH The 1st Album ‘Ode to Love’ 발매 기념 ‘VIDEO CALL EVENT’ – 8/3(월) 메이크스타",
