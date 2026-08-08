@@ -1,5 +1,13 @@
 [
   {
+    "title": "BTS '아리랑', 英 오피셜 20주째…자체 최장 기록",
+    "link": "https://news.nate.com/view/20260808n07393?mid=e1200",
+    "pubDate": "Sat, 08 Aug 2026 07:49:00 GMT",
+    "source": "네이트",
+    "domain": "news.nate.com",
+    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/ed/2026/08/08/PS26080800549.jpg"
+  },
+  {
     "title": "\"역시!\" 방탄소년단(BTS), 英 오피셜 차트 최장 기록",
     "link": "https://news.nate.com/view/20260808n07316?mid=e1200",
     "pubDate": "Sat, 08 Aug 2026 07:40:00 GMT",
@@ -38,14 +46,6 @@
     "source": "뉴스1",
     "domain": "news1.kr",
     "thumb": "https://i3n.news1.kr/system/photos/2026/8/8/8046809/high.jpg"
-  },
-  {
-    "title": "그룹 캣츠아이 신곡 ‘애니멀’, 영국 싱글 18위…BTS ‘아리랑’ 앨범 43위",
-    "link": "https://news.kbs.co.kr/news/view.do?ncd=8631946",
-    "pubDate": "Sat, 08 Aug 2026 02:17:00 GMT",
-    "source": "KBS 뉴스",
-    "domain": "news.kbs.co.kr",
-    "thumb": "http://news.kbs.co.kr/data/news/2026/08/08/20260808_VmQAyV.jpg"
   },
   {
     "title": "BTS가 ‘마지막 퍼즐’ 그래미를 보이콧한 진짜 이유",
@@ -136,22 +136,6 @@
     "thumb": "https://wimg.sedaily.com/news/cms/2026/08/07/news-p.v1.20260806.574db6779dbf403fa07758d66ab5f91a_R.jpg"
   },
   {
-    "title": "BTS 정국과 샤넬 향수의 특별한 만남",
-    "link": "https://www.esquirekorea.co.kr/article/1907636",
-    "pubDate": "Fri, 07 Aug 2026 09:00:02 GMT",
-    "source": "esquirekorea.co.kr",
-    "domain": "esquirekorea.co.kr",
-    "thumb": "https://www.esquirekorea.co.kr/resources/online/thumbnail/hf/2026/08/07/e3dd2114-1f27-46d2-9ff5-f24acf59324f.jpg"
-  },
-  {
-    "title": "방탄소년단, 뉴욕 전역 뜨겁게 달궜다…‘BTS 더 시티 아리랑’ 성공적 마무리",
-    "link": "https://www.chosun.com/entertainments/music/2026/08/07/MMZTQYRWGVRDAOBSMFQWCZDGME/",
-    "pubDate": "Fri, 07 Aug 2026 07:52:00 GMT",
-    "source": "chosun.com",
-    "domain": "chosun.com",
-    "thumb": "https://www.chosun.com/resizer/v2/HEYDON3BG43DAZTBGRSTSMTGME.jpg?auth=0d24cb2218619903804b7560554014ce92b055678b10232d986a214c0f57c60b&amp;width=650&amp;height=341&amp;smart=true"
-  },
-  {
     "title": "Momento de la Comunidad BTS",
     "link": "https://weverse.io/bts/moment/07ee2935d1a799b354ee32954e17914b/post/2-178818501?hl=es",
     "pubDate": "Fri, 07 Aug 2026 06:01:57 GMT",
@@ -182,6 +166,14 @@
     "source": "서울경제",
     "domain": "sedaily.com",
     "thumb": "https://wimg.sedaily.com/news/cms/2026/08/07/news-p.v1.20260807.49bf28ad72ba4b238e9780ec2f1c5206_R.jpg"
+  },
+  {
+    "title": "BTS '더 시티 뉴욕', 타임스스퀘어 등 랜드마크 빛냈다",
+    "link": "https://www.yna.co.kr/view/AKR20260807049800005",
+    "pubDate": "Fri, 07 Aug 2026 01:33:44 GMT",
+    "source": "연합뉴스",
+    "domain": "yna.co.kr",
+    "thumb": "https://img0.yna.co.kr/etc/inner/KR/2026/08/07/AKR20260807049800005_01_i_P4.jpg"
   },
   {
     "title": "BTS 진과 프레드의 앙상블, 이게 바로 월드와이드 걸작",
@@ -262,6 +254,14 @@
     "source": "연합뉴스TV",
     "domain": "yonhapnewstv.co.kr",
     "thumb": "https://media.yonhapnewstv.co.kr/article/MYH/20260804/MYH202608042018105Lx.jpg"
+  },
+  {
+    "title": "K팝 아이돌 30년, BTS·트와이스 등 8팀뿐이었다··· ‘꿈의 1000만장’ 그룹",
+    "link": "https://www.khan.co.kr/article/202608041458011",
+    "pubDate": "Tue, 04 Aug 2026 05:58:00 GMT",
+    "source": "khan.co.kr",
+    "domain": "khan.co.kr",
+    "thumb": "https://img.khan.co.kr/news/2026/08/04/rcv.YNA.20260802.PAF20260802073801009_P1.jpg"
   },
   {
     "title": "\"걔넨 우릴 몰라\" 가사 바꾼 BTS…그래미 보란 듯 16만명 앞 공연",
