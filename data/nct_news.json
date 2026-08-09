@@ -56,14 +56,6 @@
     "thumb": "https://cdn.financialpost.co.kr/news/thumbnail/202608/269682_347214_04_v150.jpg"
   },
   {
-    "title": "NCT WISH의 포즈 : 네이트 연예",
-    "link": "https://news.nate.com/view/20260809n11848?mid=e1400",
-    "pubDate": "Sun, 09 Aug 2026 08:49:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/dn/2026/08/09/news_1786265206_1676347_m_1.jpg"
-  },
-  {
     "title": "NCT WISH '뚜뚜루뚜'",
     "link": "https://www.dailian.co.kr/news/view/1676346/NCT-WISH-%EB%9A%9C%EB%9A%9C%EB%A3%A8%EB%9A%9C-2026",
     "pubDate": "Sun, 09 Aug 2026 08:47:00 GMT",
@@ -128,14 +120,6 @@
     "thumb": "https://image.xportsnews.com/contents/images/upload/article/2026/0809/1786261591091876.webp"
   },
   {
-    "title": "NCT WISH 시온 '심쿵 볼하트'[엑's HD포토]",
-    "link": "https://news.nate.com/view/20260809n10666",
-    "pubDate": "Sun, 09 Aug 2026 07:46:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/xs/2026/08/09/1786261538226466.jpg"
-  },
-  {
     "title": "NCT위시 재희 '쉿~'",
     "link": "https://news.nate.com/view/20260809n10550",
     "pubDate": "Sun, 09 Aug 2026 07:39:00 GMT",
@@ -184,6 +168,14 @@
     "thumb": "https://cdn.nc.press/news/photo/202608/623087_850977_5418.jpg"
   },
   {
+    "title": "NCT 도영, 군 복무 중 전한 근황…제주서 여유로운 한때[셀럽샷]",
+    "link": "https://news.nate.com/view/20260809n05700",
+    "pubDate": "Sun, 09 Aug 2026 03:44:00 GMT",
+    "source": "네이트",
+    "domain": "news.nate.com",
+    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/ab/2026/08/09/09525393.jpg"
+  },
+  {
     "title": "텐, 차분한 야외 셀카 공개…솔로·NCT 행보 잇는 근황",
     "link": "https://www.topstarnews.net/news/articleView.html?idxno=16158484",
     "pubDate": "Sat, 08 Aug 2026 10:29:24 GMT",
@@ -192,18 +184,10 @@
     "thumb": "https://cdn.topstarnews.net/news/photo/202608/16158484_1985541_2858_crop.jpg"
   },
   {
-    "title": "NCT 재희, 대구 경기서 시구 성공…환한 미소로 응원까지",
-    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3659230",
-    "pubDate": "Fri, 07 Aug 2026 17:19:42 GMT",
-    "source": "gukjenews.com",
-    "domain": "gukjenews.com",
-    "thumb": "https://cdn.gukjenews.com/news/thumbnail/202608/3659230_3826089_1938_v150.jpg"
-  },
-  {
     "title": "NCT WISH와 함께 달리는 2026년 여름, '오츠카레SUMMER' 열풍의 주역을 만나다",
     "link": "https://www.billboard.co.kr/editorial/interview/article/nct-wish-x-billboard-japan-korea/",
     "pubDate": "Fri, 07 Aug 2026 09:10:41 GMT",
-    "source": "billboard.co.kr",
+    "source": "Billboard Korea",
     "domain": "billboard.co.kr",
     "thumb": null
   },
@@ -232,12 +216,28 @@
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/ed/2026/08/07/PS26080701235.jpg"
   },
   {
+    "title": "NCT 127, '블링이'로 증명할 거대한 불꽃의 존재감",
+    "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=833420",
+    "pubDate": "Fri, 07 Aug 2026 05:49:48 GMT",
+    "source": "SPOTV NEWS",
+    "domain": "spotvnews.co.kr",
+    "thumb": "https://cdn.spotvnews.co.kr/news/thumbnail/202608/833420_1370086_4455_v150.jpg"
+  },
+  {
     "title": "황정민 폭로녀 \"샤이니, NCT '홈마' 활동은 인정…의미 없는 망신 주기\"",
     "link": "https://www.news1.kr/society/general-society/6251442",
     "pubDate": "Fri, 07 Aug 2026 05:36:54 GMT",
     "source": "뉴스1",
     "domain": "news1.kr",
     "thumb": "https://i3n.news1.kr/system/photos/2026/8/6/8044706/high.jpg"
+  },
+  {
+    "title": "팀 '오디세이', 놀란·박찬욱 대담, 유재석·NCT 127 만남까지…내한 후에도 뜨겁다",
+    "link": "https://v.daum.net/v/20260807143454040",
+    "pubDate": "Fri, 07 Aug 2026 05:34:54 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/07/xportsnews/20260807143455845dhwd.jpg"
   },
   {
     "title": "NCT 127, 'Blingy'로 컴백 카운트다운 … 서울·뉴욕·상하이 잇는 글로벌 예열",
@@ -288,14 +288,6 @@
     "thumb": null
   },
   {
-    "title": "‘NCT 탈퇴’ 마크, 미국 일상 공개",
-    "link": "https://www.bntnews.co.kr/article/view/bnt202608060121",
-    "pubDate": "Thu, 06 Aug 2026 00:28:03 GMT",
-    "source": "bntnews.co.kr",
-    "domain": "bntnews.co.kr",
-    "thumb": "https://www.bntnews.co.kr/data/bnt/image/2026/08/06/bnt202608060213.jpg"
-  },
-  {
     "title": "NCT WISH가 청춘의 온도를 유지하는 법",
     "link": "https://magazine.weverse.io/article/view/1915?lang=ko",
     "pubDate": "Wed, 05 Aug 2026 10:08:55 GMT",
@@ -310,6 +302,14 @@
     "source": "진일보",
     "domain": "jnilbo.com",
     "thumb": "https://cdn.jnilbo.com/news/photo/202608/90000054771_569315_5346.jpg"
+  },
+  {
+    "title": "SM \"하반기 효리수·태연·NCT 컴백..활발한 활동 예고\"[스타이슈]",
+    "link": "https://www.starnewskorea.com/music/2026/08/05/2026080514240981299",
+    "pubDate": "Wed, 05 Aug 2026 05:27:51 GMT",
+    "source": "starnewskorea.com",
+    "domain": "starnewskorea.com",
+    "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=665,fit=cover,q=high,sharpen=2/21/2026/08/2026080514240981299_2.jpg"
   },
   {
     "title": "NCT 127 5TH TOUR 'NEO CITY : SEOUL",
