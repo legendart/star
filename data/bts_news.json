@@ -48,14 +48,6 @@
     "thumb": "https://cdn.mediafine.co.kr/news/photo/202608/86152_123638_210.jpeg"
   },
   {
-    "title": "'아재폰' 대반전?…BTS·리센느도 쓰더니 日까지 홀렸다 [유지희의 ITMI]",
-    "link": "https://news.nate.com/view/20260809n05858",
-    "pubDate": "Sun, 09 Aug 2026 04:01:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/hk/2026/08/09/01.45273313.1.png"
-  },
-  {
     "title": "\"아재폰? 이번엔 잘 나왔다\"…BTS·리센느도 쓰더니 '대반전' [유지희의 ITMI]",
     "link": "https://www.hankyung.com/article/202608070431i",
     "pubDate": "Sun, 09 Aug 2026 04:00:03 GMT",
@@ -115,7 +107,7 @@
     "title": "방탄소년단(BTS) ‘아리랑’(ARIRANG), 영국 오피셜 차트 자체 신기록",
     "link": "https://sports.khan.co.kr/article/202608090703003",
     "pubDate": "Sat, 08 Aug 2026 22:03:00 GMT",
-    "source": "스포츠경향",
+    "source": "sports.khan.co.kr",
     "domain": "sports.khan.co.kr",
     "thumb": null
   },
@@ -198,6 +190,14 @@
     "source": "Vogue korea",
     "domain": "vogue.co.kr",
     "thumb": "https://www.vogue.co.kr/wp_data/vogue/2026/08/style_6a7473ec70777-1920x1080.jpg?x=2007&y=1208&ver=1.1.41"
+  },
+  {
+    "title": "BTS '더 시티 뉴욕', 타임스스퀘어 등 랜드마크 빛냈다",
+    "link": "https://www.yna.co.kr/view/AKR20260807049800005",
+    "pubDate": "Fri, 07 Aug 2026 01:33:44 GMT",
+    "source": "연합뉴스",
+    "domain": "yna.co.kr",
+    "thumb": "https://img0.yna.co.kr/etc/inner/KR/2026/08/07/AKR20260807049800005_01_i_P4.jpg"
   },
   {
     "title": "BTS 진과 프레드의 앙상블, 이게 바로 월드와이드 걸작",
@@ -296,20 +296,20 @@
     "thumb": "https://ichef.bbci.co.uk/news/1200/branded_korean/9aab/live/cf84c8f0-8b4b-11f1-a7ab-8b30adf0800a.jpg"
   },
   {
-    "title": "BTS의 그래미 보이콧",
-    "link": "https://www.khan.co.kr/article/202607301815001",
-    "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
-    "source": "경향신문",
-    "domain": "khan.co.kr",
-    "thumb": "https://img.khan.co.kr/news/2026/07/30/news-p.v1.20260730.c12aa7663abf4fbebc761abf8a6401b1_P1.jpg"
-  },
-  {
     "title": "BTS 그래미 보이콧에 '아미' 화답…'케데헌' 매기강 감독도 응원",
     "link": "https://www.yna.co.kr/view/AKR20260730119600005",
     "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
     "source": "yna.co.kr",
     "domain": "yna.co.kr",
     "thumb": "https://img9.yna.co.kr/photo/cms/2026/03/24/80/PCM20260324000080005_P4.jpg"
+  },
+  {
+    "title": "BTS의 그래미 보이콧",
+    "link": "https://www.khan.co.kr/article/202607301815001",
+    "pubDate": "Thu, 30 Jul 2026 07:00:00 GMT",
+    "source": "경향신문",
+    "domain": "khan.co.kr",
+    "thumb": "https://img.khan.co.kr/news/2026/07/30/news-p.v1.20260730.c12aa7663abf4fbebc761abf8a6401b1_P1.jpg"
   },
   {
     "title": "BTS, 그래미 보이콧…\"음악 출품하지 않기로\"",

@@ -16,12 +16,12 @@
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/dn/2026/08/09/news_1786265206_1676347_m_1.jpg"
   },
   {
-    "title": "NCT WISH의 포즈",
-    "link": "https://www.dailian.co.kr/news/view/1676347/NCT-WISH-%ED%8F%AC%EC%A6%88-2026",
+    "title": "NCT WISH '뚜뚜루뚜'",
+    "link": "https://www.dailian.co.kr/news/view/1676346/NCT-WISH-%EB%9A%9C%EB%9A%9C%EB%A3%A8%EB%9A%9C-2026",
     "pubDate": "Sun, 09 Aug 2026 08:47:00 GMT",
     "source": "데일리안",
     "domain": "dailian.co.kr",
-    "thumb": "https://cdnimage.dailian.co.kr/news/202608/news_1786265206_1676347_m_1.jpg"
+    "thumb": "https://cdnimage.dailian.co.kr/news/202608/news_1786265206_1676346_m_1.jpg"
   },
   {
     "title": "NCT Wish, '가요대전 무대 기대하세요'",
@@ -86,6 +86,14 @@
     "source": "네이트",
     "domain": "news.nate.com",
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/xs/2026/08/09/1786261408844121.jpg"
+  },
+  {
+    "title": "NCT WISH 사쿠야 '할까말까 볼하트'[엑's HD포토]",
+    "link": "https://www.xportsnews.com/article/2181706",
+    "pubDate": "Sun, 09 Aug 2026 07:43:28 GMT",
+    "source": "xportsnews.com",
+    "domain": "xportsnews.com",
+    "thumb": "https://image.xportsnews.com/contents/images/upload/article/2026/0809/1786261333775918.webp"
   },
   {
     "title": "NCT위시 시온 \\'촉촉한 입술?\\'",
@@ -216,14 +224,6 @@
     "thumb": "https://www.cosmopolitan.co.kr/resources/online/thumbnail/hf/2026/08/06/f7160c2c-f433-44cf-b0be-6260df64f5de.jpg"
   },
   {
-    "title": "NCT 127, '블링이'로 증명할 거대한 불꽃의 존재감",
-    "link": "https://v.daum.net/v/20260807145209609",
-    "pubDate": "Fri, 07 Aug 2026 05:52:09 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/07/spotvnews/20260807145210542ybmb.jpg"
-  },
-  {
     "title": "NCT 127, 10주년 자신감 담았다…'블링이'로 증명할 존재감",
     "link": "https://news.nate.com/view/20260807n17448",
     "pubDate": "Fri, 07 Aug 2026 05:50:00 GMT",
@@ -283,7 +283,7 @@
     "title": "NCT 127, 정규 7집 ‘BLINGY’ 티저 전격 공개… ‘소방차’부터 ‘스티커’까지 역대급 오마주",
     "link": "https://sports.khan.co.kr/article/202608070038003",
     "pubDate": "Thu, 06 Aug 2026 15:38:00 GMT",
-    "source": "스포츠경향",
+    "source": "sports.khan.co.kr",
     "domain": "sports.khan.co.kr",
     "thumb": null
   },
@@ -304,12 +304,12 @@
     "thumb": "https://magazine.weverse.io/_next/static/media/magazine_ogtag.62c720a9.png"
   },
   {
-    "title": "NCT 127 재현·쟈니, 맷 데이먼·샤를리즈 테론과 ‘오디세이’ 속 특별한 인터뷰",
-    "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000054771",
-    "pubDate": "Wed, 05 Aug 2026 06:27:46 GMT",
-    "source": "진일보",
-    "domain": "jnilbo.com",
-    "thumb": "https://cdn.jnilbo.com/news/photo/202608/90000054771_569315_5346.jpg"
+    "title": "SM \"하반기 효리수·태연·NCT 컴백..활발한 활동 예고\"[스타이슈]",
+    "link": "https://www.starnewskorea.com/music/2026/08/05/2026080514240981299",
+    "pubDate": "Wed, 05 Aug 2026 05:27:51 GMT",
+    "source": "starnewskorea.com",
+    "domain": "starnewskorea.com",
+    "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=665,fit=cover,q=high,sharpen=2/21/2026/08/2026080514240981299_2.jpg"
   },
   {
     "title": "NCT 127 5TH TOUR 'NEO CITY : SEOUL",
