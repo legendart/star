@@ -251,7 +251,7 @@
     "title": "위버스 NCT 127 Media - NCT 127 엔시티 127 'Piñ",
     "link": "https://weverse.io/nct127/media/2-178931701?hl=ko",
     "pubDate": "Sun, 09 Aug 2026 15:05:00 GMT",
-    "source": "Weverse",
+    "source": "weverse.io",
     "domain": "weverse.io",
     "thumb": null
   },
@@ -259,7 +259,7 @@
     "title": "NCT WISH Community Post - 👋🙅‍♀️🤸 - YU",
     "link": "https://weverse.io/nctwish/artist/3-238555652",
     "pubDate": "Sun, 09 Aug 2026 15:01:30 GMT",
-    "source": "Weverse",
+    "source": "weverse.io",
     "domain": "weverse.io",
     "thumb": null
   },
@@ -278,14 +278,6 @@
     "source": "싱글리스트",
     "domain": "slist.kr",
     "thumb": "https://cdn.slist.kr/news/thumbnail/202608/757645_1161190_1451_v150.jpg"
-  },
-  {
-    "title": "NCT 텐, 치즈냥이로 돌아왔어요",
-    "link": "https://www.nc.press/news/articleView.html?idxno=623087",
-    "pubDate": "Sun, 09 Aug 2026 05:55:32 GMT",
-    "source": "nc.press",
-    "domain": "nc.press",
-    "thumb": "https://cdn.nc.press/news/photo/202608/623087_850977_5418.jpg"
   },
   {
     "title": "NCT WISH와 함께 달리는 2026년 여름, '오츠카레SUMMER' 열풍의 주역을 만나다",
@@ -318,5 +310,13 @@
     "source": "Weverse Magazine",
     "domain": "magazine.weverse.io",
     "thumb": "https://magazine.weverse.io/_next/static/media/magazine_ogtag.62c720a9.png"
+  },
+  {
+    "title": "NCT 127 5TH TOUR 'NEO CITY : SEOUL",
+    "link": "https://weverse.io/nct127/notice/37555?hl=ko",
+    "pubDate": "Thu, 16 Jul 2026 04:13:27 GMT",
+    "source": "weverse.io",
+    "domain": "weverse.io",
+    "thumb": null
   }
 ]
