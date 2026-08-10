@@ -144,14 +144,6 @@
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/hm/2026/08/10/news-p.v1.20260810.4f127bc4af44464f97d9077121b59a5c_P1.jpg"
   },
   {
-    "title": "메가MGC커피, NCT WISH 팬 50명과 만났다…4개월 ‘F.M.W’ 캠페인 마무리",
-    "link": "https://www.newsflix.co.kr/news/articleView.html?idxno=32015",
-    "pubDate": "Mon, 10 Aug 2026 02:51:52 GMT",
-    "source": "newsflix.co.kr",
-    "domain": "newsflix.co.kr",
-    "thumb": "https://cdn.newsflix.co.kr/news/photo/202608/32015_32285_5141.jpg"
-  },
-  {
     "title": "‘키윙’ NCT WISH 사쿠야 ‘인생 머리가 금발인 아티스트’ 1위",
     "link": "https://sports.donga.com/ent/article/all/20260810/134448764/1",
     "pubDate": "Mon, 10 Aug 2026 02:37:38 GMT",
@@ -256,14 +248,6 @@
     "thumb": null
   },
   {
-    "title": "NCT WISH Community Post - 👋🙅‍♀️🤸 - YU",
-    "link": "https://weverse.io/nctwish/artist/3-238555652",
-    "pubDate": "Sun, 09 Aug 2026 15:01:30 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
-  },
-  {
     "title": "NCT 위시, 가요대전 출격",
     "link": "https://www.news1.kr/photos/8047808",
     "pubDate": "Sun, 09 Aug 2026 12:13:58 GMT",
@@ -286,6 +270,14 @@
     "source": "뉴스1",
     "domain": "news1.kr",
     "thumb": "https://image.news1.kr/system/photos/2026/8/9/8047574/high.jpg"
+  },
+  {
+    "title": "NCT 텐, 치즈냥이로 돌아왔어요",
+    "link": "https://www.nc.press/news/articleView.html?idxno=623087",
+    "pubDate": "Sun, 09 Aug 2026 05:55:32 GMT",
+    "source": "뉴스컬처",
+    "domain": "nc.press",
+    "thumb": "https://cdn.nc.press/news/photo/202608/623087_850977_5418.jpg"
   },
   {
     "title": "NCT WISH와 함께 달리는 2026년 여름, '오츠카레SUMMER' 열풍의 주역을 만나다",
@@ -318,5 +310,13 @@
     "source": "Weverse Magazine",
     "domain": "magazine.weverse.io",
     "thumb": "https://magazine.weverse.io/_next/static/media/magazine_ogtag.62c720a9.png"
+  },
+  {
+    "title": "NCT 127 5TH TOUR 'NEO CITY : SEOUL",
+    "link": "https://weverse.io/nct127/notice/37555?hl=ko",
+    "pubDate": "Thu, 16 Jul 2026 04:13:27 GMT",
+    "source": "Weverse",
+    "domain": "weverse.io",
+    "thumb": null
   }
 ]
