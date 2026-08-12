@@ -48,14 +48,6 @@
     "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=858,fit=cover,q=high,sharpen=2/21/2026/08/2026081219262854958_1.jpg"
   },
   {
-    "title": "BTS 뷔 “오른쪽 귀 30%만 들린다”…청력 이상 고백",
-    "link": "https://www.donga.com/news/Culture/article/all/20260812/134468150/1",
-    "pubDate": "Wed, 12 Aug 2026 10:37:00 GMT",
-    "source": "동아일보",
-    "domain": "donga.com",
-    "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/12/134468206.1.jpg"
-  },
-  {
     "title": "BTS, 통산 세 번째 日 오리콘 100만 포인트…해외 가수 최초",
     "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8635170",
     "pubDate": "Wed, 12 Aug 2026 10:24:28 GMT",
@@ -110,6 +102,14 @@
     "source": "뉴스1",
     "domain": "news1.kr",
     "thumb": "https://i3n.news1.kr/system/photos/2025/12/17/7655971/high.jpg"
+  },
+  {
+    "title": "BTS ‘아리랑’, 오리콘 누적 100만 포인트 달성…해외 아티스트 최초",
+    "link": "https://www.mk.co.kr/news/musics/12125489",
+    "pubDate": "Wed, 12 Aug 2026 08:12:17 GMT",
+    "source": "매일경제",
+    "domain": "mk.co.kr",
+    "thumb": "https://pimg.mk.co.kr/news/cms/202608/12/news-p.v1.20260812.b79167307c4147bb8c581fa986ca38cf_R.jpg"
   },
   {
     "title": "BTS 뷔, 청력 이상 호소…\"오른쪽 30%밖에 안 들려 병원 치료\"",
@@ -184,12 +184,12 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/12/552782-ZYLYaJX/20260812153332225xsau.jpg"
   },
   {
-    "title": "방탄소년단, 日 오리콘 100만 포인트 달성..해외 아티스트 최초 대기록",
-    "link": "https://www.chosun.com/entertainments/music/2026/08/12/HEZTQZDBG43TIOLFGM4DKYZUGA/",
-    "pubDate": "Wed, 12 Aug 2026 06:16:00 GMT",
-    "source": "조선일보",
-    "domain": "chosun.com",
-    "thumb": "https://www.chosun.com/resizer/v2/GU2TGNRQHA2GEZBTHAYDKNZYMU.jpg?auth=20775a0ed0f0f47d18a7d784ba27fbb0fb46536f1c0abcd123a5be0bda8f89ad&amp;width=650&amp;height=341&amp;smart=true"
+    "title": "BTS(BTS), swept a slate of first-ever records for an overseas artist in the music market",
+    "link": "https://sports.khan.co.kr/en/article/202608121521007",
+    "pubDate": "Wed, 12 Aug 2026 06:21:00 GMT",
+    "source": "스포츠경향",
+    "domain": "sports.khan.co.kr",
+    "thumb": null
   },
   {
     "title": "일본 아닌 해외 가수는 처음..방탄소년단, 日 오리콘 누적 100만 포인트",
@@ -240,22 +240,6 @@
     "thumb": "https://cdn.smartbizn.com/news/photo/202608/151030_256741_5156.jpg"
   },
   {
-    "title": "BTS 뷔가 착용한 그 '옥반지'…이렇게 만들어졌습니다 [민은미의 파인주얼리]",
-    "link": "https://www.hankyung.com/article/202608104932i",
-    "pubDate": "Wed, 12 Aug 2026 01:47:00 GMT",
-    "source": "한국경제",
-    "domain": "hankyung.com",
-    "thumb": "https://img.hankyung.com/photo/202608/01.45293814.1.jpg"
-  },
-  {
-    "title": "BTS '아리랑', 빌보드 앨범 차트 14위…20주 연속 진입",
-    "link": "https://v.daum.net/v/20260812101502504",
-    "pubDate": "Wed, 12 Aug 2026 01:15:00 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/12/yonhap/20260812101502907mxgv.jpg"
-  },
-  {
     "title": "BTS도 뛰어든 20조 ‘짝퉁 굿즈’ 전쟁…소송에 일부 팬덤 반발",
     "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260812010003858",
     "pubDate": "Tue, 11 Aug 2026 23:51:48 GMT",
@@ -272,6 +256,14 @@
     "thumb": "https://cdn.snakorea.com/news/thumbnail/202608/1042312_988552_2542_v150.jpg"
   },
   {
+    "title": "BTS 진, 미국 흔든 질레트 스타디움 라이브…“LOVE YOU ARMY”",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16161140",
+    "pubDate": "Tue, 11 Aug 2026 22:31:12 GMT",
+    "source": "톱스타뉴스",
+    "domain": "topstarnews.net",
+    "thumb": "https://cdn.topstarnews.net/news/photo/202608/16161140_1988986_3058_crop.jpg"
+  },
+  {
     "title": "BTS 정국 솔로앨범 'GOLDEN' 또 新기록! 스포티파이 글로벌 앨범 차트 144주째 차트인",
     "link": "https://v.daum.net/v/20260812064937662",
     "pubDate": "Tue, 11 Aug 2026 21:49:00 GMT",
@@ -280,12 +272,20 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/12/starnews/20260812065010550isif.jpg"
   },
   {
-    "title": "'BTS대로'에 환영 인사까지…방탄소년단 북미 투어 인기",
-    "link": "https://www.yna.co.kr/amp/view/MYH20260811001400038",
-    "pubDate": "Mon, 10 Aug 2026 20:26:04 GMT",
-    "source": "연합뉴스",
-    "domain": "yna.co.kr",
-    "thumb": "https://img3.yna.co.kr/mpic/YH/2026/08/11/MYH20260811001400038_P1.jpg"
+    "title": "'BTS 도로' 만들고 기념일까지…K팝 공연객 잡기 나선 북미 도시들",
+    "link": "https://v.daum.net/v/20260811081128415",
+    "pubDate": "Mon, 10 Aug 2026 23:11:28 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/11/akn/20260811081129938udzn.jpg"
+  },
+  {
+    "title": "미국 홀린 아이코닉 보컬 BTS 진, 팬들에 전한 깊은 사랑..'폭스버러의 진 축제'",
+    "link": "https://www.starnewskorea.com/music/2026/08/11/2026081108042089916",
+    "pubDate": "Mon, 10 Aug 2026 23:07:08 GMT",
+    "source": "starnewskorea.com",
+    "domain": "starnewskorea.com",
+    "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=1058,fit=cover,q=high,sharpen=2/21/2026/08/2026081108042089916_1.jpg"
   },
   {
     "title": "BTS 북미 투어 폭발적 반응…토론토에 ’BTS대로’·美메릴랜드 주지사는 환영 영상",
@@ -296,20 +296,20 @@
     "thumb": "https://media.yonhapnewstv.co.kr/article/AKR/20260810/AKR20260810162756ymw_01_i.jpg"
   },
   {
-    "title": "BTS의 용기 있는 그래미 보이콧",
-    "link": "https://weekly.donga.com/List/article/all/11/6342196/1",
-    "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT",
-    "source": "주간동아",
-    "domain": "weekly.donga.com",
-    "thumb": "https://dimg.donga.com/ugc/CDB/WEEKLY/Article/6a/79/98/f7/6a7998f72530a0a0a0a.png"
-  },
-  {
     "title": "방탄에 북미 들썩…토론토엔 'BTS대로'·美주지사는 \"정말 대박\"",
     "link": "https://v.daum.net/v/20260810135051185",
     "pubDate": "Mon, 10 Aug 2026 04:50:51 GMT",
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/10/yonhap/20260810135053284jcno.jpg"
+  },
+  {
+    "title": "BTS 진 최다 득표…CliffHeath·플레이브·이채연·브브걸 아이돌픽 위클리 1위",
+    "link": "https://v.daum.net/v/20260810101749328",
+    "pubDate": "Mon, 10 Aug 2026 01:17:49 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/10/sportsdonga/20260810101750760uqlv.jpg"
   },
   {
     "title": "“BTS, 美 그래미 보이콧... 그래미가 BTS 품는 게 아니라 BTS가 그래미를 품어”",
