@@ -56,14 +56,6 @@
     "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=858,fit=cover,q=high,sharpen=2/21/2026/08/2026081219262854958_1.jpg"
   },
   {
-    "title": "BTS, 통산 세 번째 日 오리콘 100만 포인트…해외 가수 최초",
-    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8635170",
-    "pubDate": "Wed, 12 Aug 2026 10:24:28 GMT",
-    "source": "KBS 뉴스",
-    "domain": "news.kbs.co.kr",
-    "thumb": "http://news.kbs.co.kr/data/news/2026/08/12/20260812_7PDXok.jpg"
-  },
-  {
     "title": "BTS 뷔, 청력 이상 고백 \"오른쪽 귀 30 정도만 들려…군대서 악화\"",
     "link": "https://v.daum.net/v/20260812190035083",
     "pubDate": "Wed, 12 Aug 2026 10:00:35 GMT",
@@ -208,20 +200,20 @@
     "thumb": "https://img.newspim.com/news/2026/06/24/2606241056102270_711_tc.jpg"
   },
   {
+    "title": "BTS '아리랑', 빌보드 앨범 차트 14위…20주 연속 진입",
+    "link": "https://v.daum.net/v/20260812101502504",
+    "pubDate": "Wed, 12 Aug 2026 01:15:00 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/12/yonhap/20260812101502907mxgv.jpg"
+  },
+  {
     "title": "BTS도 뛰어든 20조 ‘짝퉁 굿즈’ 전쟁…소송에 일부 팬덤 반발",
     "link": "https://www.asiatoday.co.kr/kn/view.php?key=20260812010003858",
     "pubDate": "Tue, 11 Aug 2026 23:51:48 GMT",
     "source": "아시아투데이",
     "domain": "asiatoday.co.kr",
     "thumb": "https://img.asiatoday.co.kr/file/2026y/08m/12d/2026081201000716500038581.jpg"
-  },
-  {
-    "title": "BTS ‘스윔’ 장기 흥행…빌보드 ‘핫100’ 20주 연속 진입",
-    "link": "http://www.snakorea.com/news/articleView.html?idxno=1042312",
-    "pubDate": "Tue, 11 Aug 2026 23:43:15 GMT",
-    "source": "서울뉴스통신",
-    "domain": "snakorea.com",
-    "thumb": "https://cdn.snakorea.com/news/thumbnail/202608/1042312_988552_2542_v150.jpg"
   },
   {
     "title": "BTS 진, 미국 흔든 질레트 스타디움 라이브…“LOVE YOU ARMY”",
@@ -286,6 +278,14 @@
     "source": "연합뉴스TV",
     "domain": "yonhapnewstv.co.kr",
     "thumb": "https://media.yonhapnewstv.co.kr/article/AKR/20260810/AKR20260810162756ymw_01_i.jpg"
+  },
+  {
+    "title": "BTS의 용기 있는 그래미 보이콧",
+    "link": "https://weekly.donga.com/List/article/all/11/6342196/1",
+    "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT",
+    "source": "주간동아",
+    "domain": "weekly.donga.com",
+    "thumb": "https://dimg.donga.com/ugc/CDB/WEEKLY/Article/6a/79/98/f7/6a7998f72530a0a0a0a.png"
   },
   {
     "title": "방탄에 북미 들썩…토론토엔 'BTS대로'·美주지사는 \"정말 대박\"",
