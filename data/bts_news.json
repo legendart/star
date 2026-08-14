@@ -1,13 +1,5 @@
 [
   {
-    "title": "미국인 42% \"방탄소년단 안다\"…그 중 46%는 \"좋아한다\"",
-    "link": "https://v.daum.net/v/20260814230127086?f=m",
-    "pubDate": "Fri, 14 Aug 2026 14:01:27 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/14/mydaily/20260814230128982pjge.jpg"
-  },
-  {
     "title": "BTS 뷔·정국, 소년미 가득한 얼굴에 반전 짐승남 피지컬 '깜짝'",
     "link": "https://www.joynews24.com/view/1995341",
     "pubDate": "Fri, 14 Aug 2026 11:58:17 GMT",
@@ -64,6 +56,14 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/14/akn/20260814164353763wxpa.jpg"
   },
   {
+    "title": "BTS, K-컬처 영향.. 외국인 비율 역대 최고",
+    "link": "https://biz.heraldcorp.com/article/10841811",
+    "pubDate": "Fri, 14 Aug 2026 06:49:05 GMT",
+    "source": "헤럴드경제",
+    "domain": "biz.heraldcorp.com",
+    "thumb": "https://wimg.heraldcorp.com/news/cms/2026/08/14/news-p.v1.20260814.eef5478db11f441b85aa8d0fcfaff2e6_T1.jpg"
+  },
+  {
     "title": "BTS 미국 호감도 46%…인지도는 미국인 10명 중 4명 이상",
     "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051558",
     "pubDate": "Fri, 14 Aug 2026 06:37:25 GMT",
@@ -94,14 +94,6 @@
     "source": "매일경제",
     "domain": "mk.co.kr",
     "thumb": "https://pimg.mk.co.kr/news/cms/202608/14/news-p.v1.20260814.3a8c7685b9cf4e3c9100b2dc037bba73_R.jpg"
-  },
-  {
-    "title": "미국인 둘 중 한 명은 “BTS 호감”",
-    "link": "https://www.seoul.co.kr/news/life/pop-culture/2026/08/14/20260814500114",
-    "pubDate": "Fri, 14 Aug 2026 04:00:29 GMT",
-    "source": "서울신문",
-    "domain": "seoul.co.kr",
-    "thumb": "https://img.seoul.co.kr//img/upload/2026/08/14/SSC_20260814130029_O2.jpg"
   },
   {
     "title": "방탄소년단 美 인기, 수치로 확인…호감도 46% '역대 최고'",
@@ -150,6 +142,14 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/14/sisapress/20260814110508790vdxj.jpg"
+  },
+  {
+    "title": "BTS, 59% Awareness Among U.S. Teens·20-Somethings···Favorability at a Record High",
+    "link": "https://sports.khan.co.kr/en/article/202608141101007",
+    "pubDate": "Fri, 14 Aug 2026 02:01:00 GMT",
+    "source": "스포츠경향",
+    "domain": "sports.khan.co.kr",
+    "thumb": null
   },
   {
     "title": "BTS, 미국 10·20대 인지도 59%···호감도 최고",
@@ -208,14 +208,6 @@
     "thumb": "https://img1.newsis.com/2026/07/20/NISI20260720_0001443306_web.jpg"
   },
   {
-    "title": "BTS ‘페이크 러브’ MV 14억뷰 돌파…통산 6번째 - 조선비즈",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/08/13/A33WAW3MMVCBHPG7RNOEZOBJXM/",
-    "pubDate": "Thu, 13 Aug 2026 08:32:00 GMT",
-    "source": "biz.chosun.com",
-    "domain": "biz.chosun.com",
-    "thumb": "https://biz.chosun.com/resizer/v2/QGPTKQRALJBXRALW3FIT75FNZE.jpg?auth=5ecb036f587a68e6f5f0b6a0a5f6ca8700c2a9e2291f4e74cefb22a2d204727b&amp;width=800&amp;height=420&amp;smart=true"
-  },
-  {
     "title": "세계가 인정한 잘생김..방탄소년단 진, 스타랭킹 男아이돌 3위",
     "link": "https://www.starnewskorea.com/star/2026/08/13/2026081317144935424",
     "pubDate": "Thu, 13 Aug 2026 08:30:50 GMT",
@@ -262,6 +254,14 @@
     "source": "한국기자협회",
     "domain": "m.journalist.or.kr",
     "thumb": "http://www.journalist.or.kr/data/photos/cdn/20260833/art_1786586478.jpg"
+  },
+  {
+    "title": "새벽 2시에 헬스장에 20명…BTS 뷔·정국 팬들에 “우리 사생활이다”",
+    "link": "https://v.daum.net/v/20260813105508495",
+    "pubDate": "Thu, 13 Aug 2026 01:55:08 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/13/segye/20260813105508655ulyc.jpg"
   },
   {
     "title": "BTS 뷔, 청력 이상 고백…\"오른쪽 30%밖에 안 들려 병원 치료\"",
