@@ -1,13 +1,5 @@
 [
   {
-    "title": "이연, 아이유 옆 수석비서 어디 갔어…프로레슬러 변신, 박소담 옆 다부진 체격",
-    "link": "https://news.nate.com/view/20260814n03476",
-    "pubDate": "Thu, 13 Aug 2026 22:00:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/aa/2026/08/14/news-p.v1.20260814.d1553d56be9c41189f61d72aa17015db_P1.png"
-  },
-  {
     "title": "'아이유 프로듀서' 수민, 8년 만에 자기 앨범 낸다",
     "link": "https://www.tenasia.co.kr/article/2026081396244",
     "pubDate": "Thu, 13 Aug 2026 06:30:00 GMT",
@@ -46,6 +38,14 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/08/poctan/20260808171211346zhjd.jpg"
+  },
+  {
+    "title": "삭제엔딩 아니었다…아이유 ‘장기하 BGM’ 논란, 계정 혼동 빚은 촌극",
+    "link": "https://sports.khan.co.kr/article/202608071331003",
+    "pubDate": "Fri, 07 Aug 2026 04:31:00 GMT",
+    "source": "스포츠경향",
+    "domain": "sports.khan.co.kr",
+    "thumb": null
   },
   {
     "title": "\"윤가이 불쾌\" 비판에도…아이유, 장기하 노래 여전히 재생중[MD이슈]",
@@ -118,14 +118,6 @@
     "source": "twig24.com",
     "domain": "twig24.com",
     "thumb": "https://img.seoul.co.kr//img/upload/2026/08/06/SSC_20260806170352.jpg.webp"
-  },
-  {
-    "title": "아이유, 장기하 '별일 없이 산다' 선곡…쿨한 일상 공개",
-    "link": "https://www.newsis.com/view/NISX20260806_0003739234",
-    "pubDate": "Thu, 06 Aug 2026 07:21:30 GMT",
-    "source": "뉴시스",
-    "domain": "newsis.com",
-    "thumb": "https://img1.newsis.com/2026/08/06/NISI20260806_0002206196_web.jpg"
   },
   {
     "title": "아이유, 비공개 계정인 줄…'전 연인' 장기하 노래 대놓고 넣었다, 팬들도 \"언니 노래 뭐야?\" 깜짝",
@@ -238,6 +230,14 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/21/fnnewsi/20260721053214070xlqi.jpg"
+  },
+  {
+    "title": "아이유, 건강 문제로 공연 취소·컴백 연기",
+    "link": "https://news.kbs.co.kr/news/view.do?ncd=8615572",
+    "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
+    "source": "KBS 뉴스",
+    "domain": "news.kbs.co.kr",
+    "thumb": "http://news.kbs.co.kr/data/news/title_image/newsmp4/newsplaza_p1/2026/07/21/280_8615572.jpg"
   },
   {
     "title": "‘고질병 악화’ 아이유, 콘서트·앨범 잠정 연기···“밤낮으로 증상 계속돼”",
