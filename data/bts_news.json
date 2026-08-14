@@ -1,5 +1,13 @@
 [
   {
+    "title": "미국인 42% \"방탄소년단 안다\"…그 중 46%는 \"좋아한다\"",
+    "link": "https://v.daum.net/v/20260814230127086?f=m",
+    "pubDate": "Fri, 14 Aug 2026 14:01:27 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/14/mydaily/20260814230128982pjge.jpg"
+  },
+  {
     "title": "BTS 뷔·정국, 소년미 가득한 얼굴에 반전 짐승남 피지컬 '깜짝'",
     "link": "https://www.joynews24.com/view/1995341",
     "pubDate": "Fri, 14 Aug 2026 11:58:17 GMT",
@@ -48,22 +56,6 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/14/akn/20260814164353763wxpa.jpg"
   },
   {
-    "title": "BTS 뷔, 오른쪽 귀 청력 이상을 고백했다",
-    "link": "https://www.eyesmag.com/posts/165083/bts-us-influence-impact",
-    "pubDate": "Fri, 14 Aug 2026 07:05:40 GMT",
-    "source": "eyesmag.com",
-    "domain": "eyesmag.com",
-    "thumb": "https://cdn.eyesmag.com/content/uploads/posts/2026/08/14/B1-9d4d50f3.jpg"
-  },
-  {
-    "title": "BTS, K-컬처 영향.. 외국인 비율 역대 최고",
-    "link": "https://biz.heraldcorp.com/article/10841811",
-    "pubDate": "Fri, 14 Aug 2026 06:49:05 GMT",
-    "source": "헤럴드경제",
-    "domain": "biz.heraldcorp.com",
-    "thumb": "https://wimg.heraldcorp.com/news/cms/2026/08/14/news-p.v1.20260814.eef5478db11f441b85aa8d0fcfaff2e6_T1.jpg"
-  },
-  {
     "title": "BTS 미국 호감도 46%…인지도는 미국인 10명 중 4명 이상",
     "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5051558",
     "pubDate": "Fri, 14 Aug 2026 06:37:25 GMT",
@@ -94,6 +86,14 @@
     "source": "매일경제",
     "domain": "mk.co.kr",
     "thumb": "https://pimg.mk.co.kr/news/cms/202608/14/news-p.v1.20260814.3a8c7685b9cf4e3c9100b2dc037bba73_R.jpg"
+  },
+  {
+    "title": "미국인 둘 중 한 명은 “BTS 호감”",
+    "link": "https://www.seoul.co.kr/news/life/pop-culture/2026/08/14/20260814500114",
+    "pubDate": "Fri, 14 Aug 2026 04:00:29 GMT",
+    "source": "서울신문",
+    "domain": "seoul.co.kr",
+    "thumb": "https://img.seoul.co.kr//img/upload/2026/08/14/SSC_20260814130029_O2.jpg"
   },
   {
     "title": "방탄소년단 美 인기, 수치로 확인…호감도 46% '역대 최고'",
@@ -216,12 +216,20 @@
     "thumb": "https://biz.chosun.com/resizer/v2/QGPTKQRALJBXRALW3FIT75FNZE.jpg?auth=5ecb036f587a68e6f5f0b6a0a5f6ca8700c2a9e2291f4e74cefb22a2d204727b&amp;width=800&amp;height=420&amp;smart=true"
   },
   {
-    "title": "세계가 인정한 잘생김..방탄소년단 진, 스타랭킹 男아이돌 3위",
-    "link": "https://www.starnewskorea.com/star/2026/08/13/2026081317144935424",
-    "pubDate": "Thu, 13 Aug 2026 08:30:50 GMT",
+    "title": "BTS 지민, 스타랭킹 男아이돌 2위…순위 하락에도 '74만표 압도적 수치'",
+    "link": "https://news.nate.com/view/20260813n30366",
+    "pubDate": "Thu, 13 Aug 2026 08:28:00 GMT",
+    "source": "네이트",
+    "domain": "news.nate.com",
+    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/tn/2026/08/13/2026081317144561334_1.jpg"
+  },
+  {
+    "title": "코르티스 성현, BTS 지민 249주 1위 大기록 깼다..스타랭킹 男아이돌 최정상 기염",
+    "link": "https://www.starnewskorea.com/star/2026/08/13/2026081317122020216",
+    "pubDate": "Thu, 13 Aug 2026 08:23:19 GMT",
     "source": "starnewskorea.com",
     "domain": "starnewskorea.com",
-    "thumb": "https://image.starnewskorea.com/21/2026/08/2026081317144935424_1.jpg"
+    "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=1560,fit=cover,q=high,sharpen=2/21/2026/08/2026081317122020216_1.jpg"
   },
   {
     "title": "BTS '페이크 러브' 뮤직비디오 14억뷰…팀 통산 여섯 번째",
@@ -294,14 +302,6 @@
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img2.yna.co.kr/mpic/YH/2026/08/12/MYH20260812010700038_P1.jpg"
-  },
-  {
-    "title": "BTS 북미 투어 폭발적 반응…토론토에 ’BTS대로’·美메릴랜드 주지사는 환영 영상",
-    "link": "https://www.yonhapnewstv.co.kr/news/AKR20260810162756ymw",
-    "pubDate": "Mon, 10 Aug 2026 07:27:00 GMT",
-    "source": "연합뉴스TV",
-    "domain": "yonhapnewstv.co.kr",
-    "thumb": "https://media.yonhapnewstv.co.kr/article/AKR/20260810/AKR20260810162756ymw_01_i.jpg"
   },
   {
     "title": "방탄에 북미 들썩…토론토엔 'BTS대로'·美주지사는 \"정말 대박\"",
