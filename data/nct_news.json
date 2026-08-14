@@ -13,7 +13,7 @@
     "pubDate": "Fri, 14 Aug 2026 05:44:56 GMT",
     "source": "전자신문",
     "domain": "etnews.com",
-    "thumb": null
+    "thumb": "https://img.etnews.com/news/article/2026/08/14/news-p.v1.20260814.1ec93106bb634f0fa8645e318c5459cf_P1.jpg"
   },
   {
     "title": "NCT 127, 정규 7집 'BLINGY' 컴백…진심 어린 메시지 전한다",
@@ -96,14 +96,6 @@
     "thumb": "https://img1.newsis.com/2026/08/14/NISI20260814_0002212475_web.jpg"
   },
   {
-    "title": "NCT 127, 정규 7집 '블링이'에 팬 위한 메시지 담아",
-    "link": "https://www.slist.kr/news/articleView.html?idxno=758755",
-    "pubDate": "Fri, 14 Aug 2026 00:14:04 GMT",
-    "source": "싱글리스트",
-    "domain": "slist.kr",
-    "thumb": "https://cdn.slist.kr/news/thumbnail/202608/758755_1162688_141_v150.jpg"
-  },
-  {
     "title": "NCT 127, ‘BLINGY’로 팬들에 진심 전한다",
     "link": "https://v.daum.net/v/20260814091242013",
     "pubDate": "Fri, 14 Aug 2026 00:12:42 GMT",
@@ -139,7 +131,7 @@
     "title": "위버스 NCT 127 이미지 - ASSEMBLE!",
     "link": "https://weverse.io/nct127/media/0-179064686?hl=ko",
     "pubDate": "Thu, 13 Aug 2026 16:03:09 GMT",
-    "source": "Weverse",
+    "source": "weverse.io",
     "domain": "weverse.io",
     "thumb": null
   },
@@ -230,6 +222,14 @@
     "source": "YTN",
     "domain": "star.ytn.co.kr",
     "thumb": "https://image.ytn.co.kr/general/jpg/2026/0813/202608131135388952_t.jpg"
+  },
+  {
+    "title": "NCT 127, 정규 7집에 담은 거침없는 포부…압도적 에너지 예고",
+    "link": "https://www.news1.kr/entertain/music/6257741",
+    "pubDate": "Thu, 13 Aug 2026 01:45:51 GMT",
+    "source": "news1.kr",
+    "domain": "news1.kr",
+    "thumb": "https://i3n.news1.kr/system/photos/2026/8/13/8053840/high.jpg"
   },
   {
     "title": "‘10주년’ NCT, 서울패션위크와 협업⋯플리마켓 수익금 전액 기부",
