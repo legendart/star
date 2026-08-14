@@ -48,14 +48,6 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/08/poctan/20260808171211346zhjd.jpg"
   },
   {
-    "title": "삭제엔딩 아니었다…아이유 ‘장기하 BGM’ 논란, 계정 혼동 빚은 촌극",
-    "link": "https://sports.khan.co.kr/article/202608071331003",
-    "pubDate": "Fri, 07 Aug 2026 04:31:00 GMT",
-    "source": "스포츠경향",
-    "domain": "sports.khan.co.kr",
-    "thumb": null
-  },
-  {
     "title": "\"윤가이 불쾌\" 비판에도…아이유, 장기하 노래 여전히 재생중[MD이슈]",
     "link": "https://mydaily.co.kr/page/view/2026080710524788936",
     "pubDate": "Fri, 07 Aug 2026 01:52:53 GMT",
@@ -176,20 +168,20 @@
     "thumb": "https://img1.newsis.com/2026/08/01/NISI20260801_0002201716_web.jpg"
   },
   {
-    "title": "\"안 떨릴 줄 알았는데\"...'건강 악화' 아이유, 활동중단 열흘 만에 공식 석상",
-    "link": "https://v.daum.net/v/20260801114011705",
-    "pubDate": "Sat, 01 Aug 2026 07:00:00 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/01/fnnewsi/20260801114011574kctx.jpg"
-  },
-  {
     "title": "아이유, 결별·건강 이상 딛고 청룡 등장…밝은 미소로 전한 근황",
     "link": "https://sports.khan.co.kr/article/202608011359003",
     "pubDate": "Sat, 01 Aug 2026 07:00:00 GMT",
     "source": "스포츠경향",
     "domain": "sports.khan.co.kr",
     "thumb": null
+  },
+  {
+    "title": "\"안 떨릴 줄 알았는데\"...'건강 악화' 아이유, 활동중단 열흘 만에 공식 석상",
+    "link": "https://v.daum.net/v/20260801114011705",
+    "pubDate": "Sat, 01 Aug 2026 07:00:00 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/01/fnnewsi/20260801114011574kctx.jpg"
   },
   {
     "title": "아이유, 빛의 여운을 입다",
@@ -286,6 +278,14 @@
     "source": "JTBC",
     "domain": "news.jtbc.co.kr",
     "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202607/20/10056880-6350-4607-bceb-3eb5e289f1fd.jpg"
+  },
+  {
+    "title": "아이유, 악플러 잡는다…美 법원에 신원조회 요청",
+    "link": "https://www.ytn.co.kr/_ln/0117_202607201609555415",
+    "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT",
+    "source": "YTN",
+    "domain": "ytn.co.kr",
+    "thumb": "https://image.ytn.co.kr/general/jpg/2026/0720/202607201609555415_t.jpg"
   },
   {
     "title": "아이유, 악플러 잡으러 美 법원에 증거개시 신청서 보내",
