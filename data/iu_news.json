@@ -8,14 +8,6 @@
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/aa/2026/08/14/news-p.v1.20260814.d1553d56be9c41189f61d72aa17015db_P1.png"
   },
   {
-    "title": "'아이유 프로듀서' 수민, 8년 만에 자기 앨범 낸다",
-    "link": "https://www.tenasia.co.kr/article/2026081396244",
-    "pubDate": "Thu, 13 Aug 2026 06:30:00 GMT",
-    "source": "tenasia.co.kr",
-    "domain": "tenasia.co.kr",
-    "thumb": "https://img.tenasia.co.kr/photo/202608/BF.45328036.1.jpg"
-  },
-  {
     "title": "제이에스티나, 아이유와 함께한 ‘Wear the Afterglow’ 캠페인 미공개 컷 오픈… 일상과 화보 빛낸 ‘메를’",
     "link": "https://www.bntnews.co.kr/article/view/bnt202608130173",
     "pubDate": "Thu, 13 Aug 2026 01:50:10 GMT",
@@ -43,7 +35,7 @@
     "title": "삭제엔딩 아니었다…아이유 ‘장기하 BGM’ 논란, 계정 혼동 빚은 촌극",
     "link": "https://sports.khan.co.kr/article/202608071331003",
     "pubDate": "Fri, 07 Aug 2026 04:31:00 GMT",
-    "source": "sports.khan.co.kr",
+    "source": "스포츠경향",
     "domain": "sports.khan.co.kr",
     "thumb": null
   },
@@ -152,6 +144,14 @@
     "thumb": "https://img1.newsis.com/2026/08/01/NISI20260801_0002201716_web.jpg"
   },
   {
+    "title": "아이유, 결별·건강 이상 딛고 청룡 등장…밝은 미소로 전한 근황",
+    "link": "https://sports.khan.co.kr/article/202608011359003",
+    "pubDate": "Sat, 01 Aug 2026 07:00:00 GMT",
+    "source": "스포츠경향",
+    "domain": "sports.khan.co.kr",
+    "thumb": null
+  },
+  {
     "title": "\"안 떨릴 줄 알았는데\"...'건강 악화' 아이유, 활동중단 열흘 만에 공식 석상",
     "link": "https://v.daum.net/v/20260801114011705",
     "pubDate": "Sat, 01 Aug 2026 07:00:00 GMT",
@@ -160,12 +160,12 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/01/fnnewsi/20260801114011574kctx.jpg"
   },
   {
-    "title": "아이유, 결별·건강 이상 딛고 청룡 등장…밝은 미소로 전한 근황",
-    "link": "https://sports.khan.co.kr/article/202608011359003",
+    "title": "“안 떨릴 줄 알았는데”…‘건강 악화’ 아이유, 활동 중단 열흘 만에 나타난 곳",
+    "link": "https://v.daum.net/v/20260801083900478",
     "pubDate": "Sat, 01 Aug 2026 07:00:00 GMT",
-    "source": "sports.khan.co.kr",
-    "domain": "sports.khan.co.kr",
-    "thumb": null
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/01/mk/20260801083902648uhuj.png"
   },
   {
     "title": "아이유, 빛의 여운을 입다",
@@ -224,20 +224,20 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202607/21/fnnewsi/20260721053214070xlqi.jpg"
   },
   {
-    "title": "아이유, 건강 문제로 공연 취소·컴백 연기",
-    "link": "https://news.kbs.co.kr/news/view.do?ncd=8615572",
-    "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
-    "source": "KBS 뉴스",
-    "domain": "news.kbs.co.kr",
-    "thumb": "http://news.kbs.co.kr/data/news/title_image/newsmp4/newsplaza_p1/2026/07/21/280_8615572.jpg"
-  },
-  {
     "title": "‘귀 건강 악화’ 아이유, 콘서트·앨범 연기…“가수로서 최상의 상태로 만나요”",
     "link": "https://www.hani.co.kr/arti/culture/music/1269104.html",
     "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
     "source": "한겨레",
     "domain": "hani.co.kr",
     "thumb": "https://flexible.img.hani.co.kr/flexible/normal/460/455/imgdb/child/2026/0720/17845421798706_20260720503128.webp"
+  },
+  {
+    "title": "아이유, 콘서트 취소·앨범 미룬 ‘이관개방증’… 대체 무슨 병?",
+    "link": "https://health.chosun.com/site/data/html_dir/2026/07/21/2026072101353.html",
+    "pubDate": "Tue, 21 Jul 2026 07:00:00 GMT",
+    "source": "health.chosun.com",
+    "domain": "health.chosun.com",
+    "thumb": "https://health.chosun.com/site/data/img_dir/2026/07/21/2026072101348_0.jpg"
   },
   {
     "title": "‘고질병 악화’ 아이유, 콘서트·앨범 잠정 연기···“밤낮으로 증상 계속돼”",
