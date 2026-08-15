@@ -232,14 +232,6 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/09/mydaily/20260809040129058yuci.png"
   },
   {
-    "title": "장원영 “억울한 일? 진실은 드러나기 마련” - 스타투데이",
-    "link": "https://www.mk.co.kr/news/hot-issues/12121340",
-    "pubDate": "Fri, 07 Aug 2026 11:36:21 GMT",
-    "source": "매일경제",
-    "domain": "mk.co.kr",
-    "thumb": "https://pimg.mk.co.kr/news/cms/202608/07/news-p.v1.20260807.5bb6e74b1365484598df54e996bbe50d_R.png"
-  },
-  {
     "title": "장원영 \"억울한 일? 진실은 결국 드러나… 시간 문제라고 생각\"",
     "link": "https://www.hankookilbo.com/news/article/A2026080717470005595",
     "pubDate": "Fri, 07 Aug 2026 09:11:00 GMT",
@@ -304,6 +296,14 @@
     "thumb": "https://img.hankyung.com/photo/202607/01.45148415.1.jpg"
   },
   {
+    "title": "하지원·장원영 릴레이 시구…MLB 홀린 K스타",
+    "link": "https://www.yna.co.kr/view/MYH20260724010800038",
+    "pubDate": "Fri, 24 Jul 2026 07:00:00 GMT",
+    "source": "연합뉴스",
+    "domain": "yna.co.kr",
+    "thumb": "https://img9.yna.co.kr/mpic/YH/2026/07/24/MYH20260724010800038_P1.jpg"
+  },
+  {
     "title": "’공항 특혜 논란’ 아이브 장원영…이번에는 ’팔짱 태도’ 시끌",
     "link": "https://www.yonhapnewstv.co.kr/news/AKR20260714182927vow",
     "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
@@ -315,7 +315,7 @@
     "title": "장원영, 특혜 논란에 모자 벗었더니…이번엔 민낯 품평 쏟아졌다",
     "link": "https://sports.khan.co.kr/article/202607021622003",
     "pubDate": "Thu, 02 Jul 2026 07:00:00 GMT",
-    "source": "스포츠경향",
+    "source": "sports.khan.co.kr",
     "domain": "sports.khan.co.kr",
     "thumb": null
   }
