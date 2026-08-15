@@ -107,7 +107,7 @@
     "title": "Backtracking in the face of the BTS ‘boycott’···the Grammys reconsiders ‘Asian Pop’",
     "link": "https://sports.khan.co.kr/en/article/202608150845007",
     "pubDate": "Fri, 14 Aug 2026 23:45:00 GMT",
-    "source": "스포츠경향",
+    "source": "sports.khan.co.kr",
     "domain": "sports.khan.co.kr",
     "thumb": null
   },
@@ -123,7 +123,7 @@
     "title": "BTS ‘보이콧’에 꼬리 내리나···그래미 ‘아시안팝’ 재검토",
     "link": "https://sports.khan.co.kr/article/202608150843003",
     "pubDate": "Fri, 14 Aug 2026 23:43:00 GMT",
-    "source": "스포츠경향",
+    "source": "sports.khan.co.kr",
     "domain": "sports.khan.co.kr",
     "thumb": null
   },
@@ -142,14 +142,6 @@
     "source": "topstarnews.net",
     "domain": "topstarnews.net",
     "thumb": "https://cdn.topstarnews.net/news/photo/202608/16164192_1992614_3110_crop.jpeg"
-  },
-  {
-    "title": "BTS 진, 전 세계 매료시킨 ‘환상의 왕자님’…화보 비하인드",
-    "link": "https://v.daum.net/v/20260814185937375",
-    "pubDate": "Fri, 14 Aug 2026 09:59:00 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/14/sportsdonga/20260814185938636wkyd.jpg"
   },
   {
     "title": "BTS, 미국 음악 시장서 역대 최고 인지도·선호도 기록",
@@ -240,14 +232,6 @@
     "thumb": "https://ichef.bbci.co.uk/news/1200/branded_korean/0298/live/61c58c60-96cb-11f1-9bc6-975e8edc7c6e.jpg"
   },
   {
-    "title": "꼭두새벽 헬스장에 팬 20여명…BTS 뷔·정국 \"사생활 지켜달라\"",
-    "link": "https://www.yonhapnewstv.co.kr/news/AKR20260813170353qvE",
-    "pubDate": "Thu, 13 Aug 2026 08:03:00 GMT",
-    "source": "연합뉴스TV",
-    "domain": "yonhapnewstv.co.kr",
-    "thumb": "https://media.yonhapnewstv.co.kr/article/AKR/20260813/AKR20260813170353qvE_01_i.jpg"
-  },
-  {
     "title": "BTS 오리콘 100만P 세 번째 달성…해외가수 최초 外",
     "link": "https://www.yonhapnewstv.co.kr/news/MYH20260813130604mtT",
     "pubDate": "Thu, 13 Aug 2026 04:06:00 GMT",
@@ -270,6 +254,22 @@
     "source": "한국기자협회",
     "domain": "m.journalist.or.kr",
     "thumb": "http://www.journalist.or.kr/data/photos/cdn/20260833/art_1786586478.jpg"
+  },
+  {
+    "title": "방탄소년단 ‘훌리건’ 베를린 커머셜 어워즈 후보 올랐다...편집·의상 스타일링 부문[K-EYES]",
+    "link": "http://www.koreatimes.com/article/20260813/1625509",
+    "pubDate": "Thu, 13 Aug 2026 00:58:18 GMT",
+    "source": "미주한국일보",
+    "domain": "koreatimes.com",
+    "thumb": "http://mimg.koreatimes.com/286/172/article/2026/08/13/202608130959536a1.jpg"
+  },
+  {
+    "title": "BTS 뷔, 청력 이상 고백…\"오른쪽 30%밖에 안 들려 병원 치료\"",
+    "link": "https://www.ytn.co.kr/_sn/0117_202608121808329582",
+    "pubDate": "Wed, 12 Aug 2026 09:08:00 GMT",
+    "source": "YTN",
+    "domain": "ytn.co.kr",
+    "thumb": "https://image.ytn.co.kr/general/jpg/2026/0812/202608121808329582_t.jpg"
   },
   {
     "title": "BTS 뷔 \"오른쪽 30%만 들려\" 청력 이상 고백",
