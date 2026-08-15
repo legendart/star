@@ -1,13 +1,5 @@
 [
   {
-    "title": "마크, NCT 탈퇴 후 근황⋯은퇴설에 화들짝 \"팬들 마음 그때 알아\"",
-    "link": "https://www.etoday.co.kr/news/view/2615007",
-    "pubDate": "Sat, 15 Aug 2026 12:25:00 GMT",
-    "source": "etoday.co.kr",
-    "domain": "etoday.co.kr",
-    "thumb": "https://img.etoday.co.kr/pto_db/2026/08/20260815212520_2373815_1200_656.jpg"
-  },
-  {
     "title": "NCT 떠난 마크, 탈퇴 4개월 만에 은퇴설 부인…\"돈 아닌 꿈 이루고파\"",
     "link": "https://news.nate.com/view/20260815n11216?mid=e1200",
     "pubDate": "Sat, 15 Aug 2026 11:39:00 GMT",
@@ -19,7 +11,7 @@
     "title": "NCT 127 Weverse LIVE - JOHNNY - JOHNNY",
     "link": "https://weverse.io/nct127/live/3-238997721",
     "pubDate": "Sat, 15 Aug 2026 07:02:48 GMT",
-    "source": "weverse.io",
+    "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
   },
@@ -27,7 +19,7 @@
     "title": "NCT 127 위버스 LIVE - JOHNNY - 쟈니",
     "link": "https://weverse.io/nct127/live/3-238997721?hl=ko",
     "pubDate": "Sat, 15 Aug 2026 07:00:18 GMT",
-    "source": "weverse.io",
+    "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
   },
@@ -91,17 +83,9 @@
     "title": "NCT 127 The 7th Album ‘BLINGY’ 발매 기",
     "link": "https://weverse.io/nct127/notice/38341",
     "pubDate": "Fri, 14 Aug 2026 12:57:14 GMT",
-    "source": "weverse.io",
+    "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
-  },
-  {
-    "title": "귀공자가 여기 있네…NCT 재현, 패션 매거진 커버 장식 [화보]",
-    "link": "https://www.mk.co.kr/news/musics/12128027",
-    "pubDate": "Fri, 14 Aug 2026 06:11:07 GMT",
-    "source": "매일경제",
-    "domain": "mk.co.kr",
-    "thumb": "https://pimg.mk.co.kr/news/cms/202608/14/news-p.v1.20260814.d58c3b339a604c01a8d8eb02faf7b15b_R.jpg"
   },
   {
     "title": "아이브·NCT 위시 뜬다…'놀 페스티벌' 최종 라인업 공개",
@@ -112,20 +96,20 @@
     "thumb": "https://img.etnews.com/news/article/2026/08/14/news-p.v1.20260814.1ec93106bb634f0fa8645e318c5459cf_P1.jpg"
   },
   {
-    "title": "NCT 127→투모로우바이투게더 출격…'KCON LA 2026', 개막 D-1",
-    "link": "https://news.nate.com/view/20260814n14753",
-    "pubDate": "Fri, 14 Aug 2026 03:00:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/tt/2026/08/14/news-p.v1.20260814.bbd521933e5f4f1a9628b2961d44ed39_P1.jpg"
+    "title": "NCT 재현, “더 큰 육각형 되고 싶어요”…크리드 향수와 9월호 커버 장식",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16163614",
+    "pubDate": "Fri, 14 Aug 2026 05:07:53 GMT",
+    "source": "톱스타뉴스",
+    "domain": "topstarnews.net",
+    "thumb": "https://cdn.topstarnews.net/news/photo/202608/16163614_1992066_733_crop.jpg"
   },
   {
-    "title": "'군대 입대' NCT 도영·정우, 팬송 '127 밀리언 마일즈' 가창 참여",
-    "link": "https://news.nate.com/view/20260814n11478?mid=e1200",
-    "pubDate": "Fri, 14 Aug 2026 01:51:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/ez/2026/08/14/20260814103127_2373307_1199_799.jpg"
+    "title": "NCT 127→투모로우바이투게더 출격…‘KCON LA 2026’, 개막 D-1 - 스타투데이",
+    "link": "https://www.mk.co.kr/news/musics/12127839",
+    "pubDate": "Fri, 14 Aug 2026 02:59:36 GMT",
+    "source": "매일경제",
+    "domain": "mk.co.kr",
+    "thumb": "https://pimg.mk.co.kr/news/cms/202608/14/news-p.v1.20260814.bbd521933e5f4f1a9628b2961d44ed39_R.jpg"
   },
   {
     "title": "'입대' 도영·정우도 불렀다..NCT 127, 멤버 전원 가창 팬송 발매",
@@ -134,6 +118,14 @@
     "source": "starnewskorea.com",
     "domain": "starnewskorea.com",
     "thumb": "https://image.starnewskorea.com/21/2026/08/2026081409283224191_1.jpg"
+  },
+  {
+    "title": "NCT 127, 정규 7집 'BLINGY' 수록곡 공개…팬 사랑 담은 팬송부터 힙합 곡까지",
+    "link": "https://news.nate.com/view/20260814n07499",
+    "pubDate": "Fri, 14 Aug 2026 00:32:00 GMT",
+    "source": "네이트",
+    "domain": "news.nate.com",
+    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sp/2026/08/14/news-p.v1.20260814.bbfdc259847c427a8e193466ff96f17d_P1.jpg"
   },
   {
     "title": "NCT 127 도영·정우, 팬송으로 전한 “언제나 함께” 약속",
@@ -224,14 +216,6 @@
     "thumb": "https://image.ytn.co.kr/general/jpg/2026/0813/202608131135388952_t.jpg"
   },
   {
-    "title": "NCT 127, 정규 7집에 담은 거침없는 포부…압도적 에너지 예고",
-    "link": "https://www.news1.kr/entertain/music/6257741",
-    "pubDate": "Thu, 13 Aug 2026 01:45:51 GMT",
-    "source": "뉴스1",
-    "domain": "news1.kr",
-    "thumb": "https://i3n.news1.kr/system/photos/2026/8/13/8053840/high.jpg"
-  },
-  {
     "title": "‘10주년’ NCT, 서울패션위크와 협업⋯플리마켓 수익금 전액 기부",
     "link": "https://www.etoday.co.kr/news/view/2614122",
     "pubDate": "Thu, 13 Aug 2026 01:41:00 GMT",
@@ -246,6 +230,14 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/13/bntnews/20260813103128768oswb.jpg"
+  },
+  {
+    "title": "NCT, 브랜드 론칭 10주년…\"의상 전시→수익금 기부\"",
+    "link": "https://www.dispatch.co.kr/2346321",
+    "pubDate": "Thu, 13 Aug 2026 01:20:00 GMT",
+    "source": "디스패치",
+    "domain": "dispatch.co.kr",
+    "thumb": "https://dispatch.cdnser.be/cms-content/uploads/2026/08/13/318e94de-71e5-4e04-adf2-159322cc8791.jpg"
   },
   {
     "title": "NCT 10주년 기념 서울패션위크와 협업...무대의상 런웨이로",
@@ -270,6 +262,14 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/13/yonhap/20260813094358973aolc.jpg"
+  },
+  {
+    "title": "NCT, 론칭 10주년 서울패션위크 협업…시그니처 의상 한자리에",
+    "link": "https://www.slist.kr/news/articleView.html?idxno=758455",
+    "pubDate": "Thu, 13 Aug 2026 00:02:26 GMT",
+    "source": "싱글리스트",
+    "domain": "slist.kr",
+    "thumb": "https://cdn.slist.kr/news/thumbnail/202608/758455_1162291_224_v150.jpg"
   },
   {
     "title": "멤버도 상황도 달라진 10년…NCT 127, 더 단단해져 돌아왔다",
@@ -304,19 +304,19 @@
     "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202608/11/e664ebc5-3c9f-45fb-b32d-9f3f34d7af80.jpg"
   },
   {
+    "title": "찾았다! NCT 127 'Call 127' 앨범 속 숨겨진 떡밥 5",
+    "link": "https://www.esquirekorea.co.kr/article/1907808",
+    "pubDate": "Tue, 11 Aug 2026 09:00:01 GMT",
+    "source": "에스콰이어 코리아",
+    "domain": "esquirekorea.co.kr",
+    "thumb": "https://www.esquirekorea.co.kr/resources/online/thumbnail/hf/2026/08/11/95f9b047-c13b-438d-b8a6-63b49de45f03.jpg"
+  },
+  {
     "title": "NCT WISH, 日 인기 고공행진…레코드협회 ‘플래티넘’ 인증",
     "link": "https://news.jtbc.co.kr/article/NB12312730",
     "pubDate": "Tue, 11 Aug 2026 02:21:00 GMT",
     "source": "JTBC",
     "domain": "news.jtbc.co.kr",
     "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202608/11/bbeaee12-a1b4-42bc-8447-203dc5341866.jpg"
-  },
-  {
-    "title": "NCT JNJM, 방콕 팬미팅에 2만7천명 동원",
-    "link": "https://www.yna.co.kr/view/AKR20260810115200005",
-    "pubDate": "Mon, 10 Aug 2026 07:24:42 GMT",
-    "source": "연합뉴스",
-    "domain": "yna.co.kr",
-    "thumb": "https://img0.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810115200005_03_i_P4.jpg"
   }
 ]
