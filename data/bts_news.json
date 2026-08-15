@@ -16,12 +16,28 @@
     "thumb": "https://cdn.k-trendynews.com/news/photo/202608/204754_349975_2322.png"
   },
   {
+    "title": "BTS 보이콧에 백기 든 그래미…‘아시안 팝’ 부문 재편 검토",
+    "link": "https://news.jtbc.co.kr/article/NB12313555",
+    "pubDate": "Sat, 15 Aug 2026 11:41:00 GMT",
+    "source": "JTBC",
+    "domain": "news.jtbc.co.kr",
+    "thumb": "https://thumb.jtbc.co.kr/photo/r600x0/news/cms/etc/2026/08/15/20260815185932738001.jpg"
+  },
+  {
     "title": "BTS '그래미 보이콧' 통했나…결국 '아시안 팝' 부문 재검토",
     "link": "https://www.sportschosun.com/entertainment/2026-08-15/202608150100090120005693",
     "pubDate": "Sat, 15 Aug 2026 09:10:36 GMT",
     "source": "스포츠조선",
     "domain": "sportschosun.com",
     "thumb": "https://www.sportschosun.com/article/html/2026/08/15/2026081501000901200056931.jpg"
+  },
+  {
+    "title": "‘BTS Boycott’ Finally Moves the Recording Academy···“Reconsidering the Asian Pop Category”",
+    "link": "https://www.khan.co.kr/en/article/202608151748017",
+    "pubDate": "Sat, 15 Aug 2026 08:48:00 GMT",
+    "source": "경향신문",
+    "domain": "khan.co.kr",
+    "thumb": "https://img.khan.co.kr/news/2026/08/15/news-p.v1.20260804.7b971fcf5ec841bd84a8242ce830d4c5_P1.jpeg"
   },
   {
     "title": "BTS 보이콧에 그래미 항복했나...결국 그래미 CEO마저 입 열었다",
@@ -136,28 +152,12 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/15/newsy/20260815094330928wqyb.jpg"
   },
   {
-    "title": "BTS가 보이콧하자 그래미 움직였다…논란의 ‘아시안 팝’ 재검토",
-    "link": "http://weekly.chosun.com/news/articleView.html?idxno=54359",
-    "pubDate": "Sat, 15 Aug 2026 00:40:00 GMT",
-    "source": "주간조선",
-    "domain": "weekly.chosun.com",
-    "thumb": "https://cdn.weekly.chosun.com/news/thumbnail/202608/54359_84292_1828_v150.jpg"
-  },
-  {
     "title": "BTS 보이콧에 그래미측 꼬리 내리나…‘아시안팝’ 재검토 시사 - 조선비즈",
     "link": "https://biz.chosun.com/international/2026/08/15/553BHTSTBREVJGHFTQNYQ4H6JI/",
     "pubDate": "Sat, 15 Aug 2026 00:34:00 GMT",
     "source": "Chosunbiz",
     "domain": "biz.chosun.com",
     "thumb": "https://biz.chosun.com/resizer/v2/GAYTSMBYHFSDINBUMI2WMY3EGI.jpg?auth=1176917f8d57f25efaee673aba256b2cd6a92a879253a0c2df40f84467864805&amp;width=1200&amp;height=630&amp;smart=true"
-  },
-  {
-    "title": "BTS 보이콧에 백기?...그래미, 아시안 팝 부문 재검토 시사 - 머니투데이",
-    "link": "https://www.mt.co.kr/culture/2026/08/15/2026081509242959127",
-    "pubDate": "Sat, 15 Aug 2026 00:29:43 GMT",
-    "source": "머니투데이",
-    "domain": "mt.co.kr",
-    "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026081509242959127_1.jpg"
   },
   {
     "title": "BTS 없는 그래미 부담됐나 … '아시안팝' 신설 두 달 만에 재검토",
@@ -214,14 +214,6 @@
     "source": "네이트",
     "domain": "news.nate.com",
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg//sc/2026/08/14/2026081401000861900054251.jpg"
-  },
-  {
-    "title": "방탄소년단, 월드 와이드 '인기'",
-    "link": "https://news.nate.com/photo/viewer?sid=8434&cid=1187015&mid=e0600",
-    "pubDate": "Fri, 14 Aug 2026 06:02:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "http://news.nateimg.co.kr/etc/cms/2026/08/14/1786687874_718.jpg"
   },
   {
     "title": "BTS, 미국인 10명 중 4명 이상이 안다…호감도는 46%",
@@ -302,6 +294,14 @@
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img0.yna.co.kr/etc/inner/KR/2026/08/12/AKR20260812137200005_01_i_P4.jpg"
+  },
+  {
+    "title": "BTS 스윔, '빌보드 핫 100' 20주 연속 진입 外",
+    "link": "https://www.yna.co.kr/amp/view/MYH20260812010700038",
+    "pubDate": "Wed, 12 Aug 2026 04:06:41 GMT",
+    "source": "연합뉴스",
+    "domain": "yna.co.kr",
+    "thumb": "https://img2.yna.co.kr/mpic/YH/2026/08/12/MYH20260812010700038_P1.jpg"
   },
   {
     "title": "방탄에 북미 들썩…토론토엔 'BTS대로'·美주지사는 \"정말 대박\"",
