@@ -40,14 +40,6 @@
     "thumb": "http://news.kbs.co.kr/data/fckeditor/vod/2026/08/16/308151786860739758.png"
   },
   {
-    "title": "BTS 보이콧에 그래미 결국 백기 드나…'아시안 팝' 부문 재검토 결정",
-    "link": "https://news.nate.com/view/20260816n07571",
-    "pubDate": "Sun, 16 Aug 2026 06:54:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/hm/2026/08/16/news-p.v1.20260729.c3455260f7fc406e84d2c47526fcc3e1_P1.jpg"
-  },
-  {
     "title": "BTS 보이콧 보름 만에 그래미 '깨갱'…'아시안 팝' 부문 재검토",
     "link": "https://news.nate.com/view/20260816n07339?mid=e0608&isq=9009",
     "pubDate": "Sun, 16 Aug 2026 06:35:00 GMT",
@@ -208,20 +200,20 @@
     "thumb": "https://cdn.weekly.chosun.com/news/thumbnail/202608/54359_84292_1828_v150.jpg"
   },
   {
-    "title": "BTS 보이콧에 백기?...그래미, 아시안 팝 부문 재검토 시사 - 머니투데이",
-    "link": "https://www.mt.co.kr/culture/2026/08/15/2026081509242959127",
-    "pubDate": "Sat, 15 Aug 2026 00:29:43 GMT",
-    "source": "머니투데이",
-    "domain": "mt.co.kr",
-    "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026081509242959127_1.jpg"
-  },
-  {
     "title": "BTS 보이콧에 그래미 ‘아시안 팝’ 부문 재검토",
     "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000057035",
     "pubDate": "Fri, 14 Aug 2026 23:55:01 GMT",
     "source": "진일보",
     "domain": "jnilbo.com",
     "thumb": "https://cdn.jnilbo.com/news/photo/202608/90000057035_572859_5435.jpg"
+  },
+  {
+    "title": "‘BTS의 힘’…그래미측, ‘아시안 팝’ 부문 개편 시사",
+    "link": "https://v.daum.net/v/20260815080239171",
+    "pubDate": "Fri, 14 Aug 2026 23:02:39 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/15/dt/20260815080241108ksxj.jpg"
   },
   {
     "title": "BTS 보이콧에 그래미 백기 들었나…\"아시안팝 부문 손질할 수도\"",
@@ -278,6 +270,14 @@
     "source": "BBC",
     "domain": "bbc.com",
     "thumb": "https://ichef.bbci.co.uk/news/1200/branded_korean/0298/live/61c58c60-96cb-11f1-9bc6-975e8edc7c6e.jpg"
+  },
+  {
+    "title": "꼭두새벽 헬스장에 팬 20여명…BTS 뷔·정국 \"사생활 지켜달라\"",
+    "link": "https://www.yonhapnewstv.co.kr/news/AKR20260813170353qvE",
+    "pubDate": "Thu, 13 Aug 2026 08:03:00 GMT",
+    "source": "연합뉴스TV",
+    "domain": "yonhapnewstv.co.kr",
+    "thumb": "https://media.yonhapnewstv.co.kr/article/AKR/20260813/AKR20260813170353qvE_01_i.jpg"
   },
   {
     "title": "BTS 오리콘 100만P 세 번째 달성…해외가수 최초 外",
