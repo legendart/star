@@ -1,5 +1,13 @@
 [
   {
+    "title": "NCT 출신 마크 \"선한 게 더 멋있을 수 있어\" 새로운 꿈 밝혔다(마크리)",
+    "link": "https://news.nate.com/view/20260816n05142?mid=e1200",
+    "pubDate": "Sun, 16 Aug 2026 03:17:00 GMT",
+    "source": "네이트",
+    "domain": "news.nate.com",
+    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/08/16/202608161211281910_1.jpg"
+  },
+  {
     "title": "마크 ‘NCT 탈퇴’ 후 심경…“팬들 덕 10년 행복, 새로운 멋 만들고파” (마크리)",
     "link": "https://isplus.com/article/view/isp202608160016",
     "pubDate": "Sun, 16 Aug 2026 02:30:00 GMT",
@@ -27,7 +35,7 @@
     "title": "NCT 127 Weverse LIVE - JOHNNY - JOHNNY",
     "link": "https://weverse.io/nct127/live/3-238997721",
     "pubDate": "Sat, 15 Aug 2026 07:02:48 GMT",
-    "source": "weverse.io",
+    "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
   },
@@ -35,7 +43,7 @@
     "title": "NCT 127 위버스 LIVE - JOHNNY - 쟈니",
     "link": "https://weverse.io/nct127/live/3-238997721?hl=ko",
     "pubDate": "Sat, 15 Aug 2026 07:00:18 GMT",
-    "source": "weverse.io",
+    "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
   },
@@ -43,7 +51,15 @@
     "title": "‘Former NCT member’ Mark, after leaving SM, the new dream he found is ‘Kids Pop’…“I want to show a good kind of cool”",
     "link": "https://sports.khan.co.kr/en/article/202608151558007",
     "pubDate": "Sat, 15 Aug 2026 06:58:00 GMT",
-    "source": "스포츠경향",
+    "source": "sports.khan.co.kr",
+    "domain": "sports.khan.co.kr",
+    "thumb": null
+  },
+  {
+    "title": "‘NCT 출신’ 마크, SM 떠나 찾은 새로운 꿈은 ‘키즈팝’…“선한 멋 보여주고 싶어”",
+    "link": "https://sports.khan.co.kr/article/202608151557003",
+    "pubDate": "Sat, 15 Aug 2026 06:57:00 GMT",
+    "source": "sports.khan.co.kr",
     "domain": "sports.khan.co.kr",
     "thumb": null
   },
@@ -91,7 +107,7 @@
     "title": "NCT 127 The 7th Album ‘BLINGY’ 발매 기",
     "link": "https://weverse.io/nct127/notice/38341",
     "pubDate": "Fri, 14 Aug 2026 12:57:14 GMT",
-    "source": "weverse.io",
+    "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
   },
@@ -248,14 +264,6 @@
     "thumb": "https://img7.yna.co.kr/etc/inner/KR/2026/08/13/AKR20260813047900005_01_i_P4.jpg"
   },
   {
-    "title": "NCT, 론칭 10주년 서울패션위크 협업…시그니처 의상 한자리에",
-    "link": "https://www.slist.kr/news/articleView.html?idxno=758455",
-    "pubDate": "Thu, 13 Aug 2026 00:02:26 GMT",
-    "source": "싱글리스트",
-    "domain": "slist.kr",
-    "thumb": "https://cdn.slist.kr/news/thumbnail/202608/758455_1162291_224_v150.jpg"
-  },
-  {
     "title": "멤버도 상황도 달라진 10년…NCT 127, 더 단단해져 돌아왔다",
     "link": "https://v.daum.net/v/20260812173137175",
     "pubDate": "Wed, 12 Aug 2026 08:31:37 GMT",
@@ -310,13 +318,5 @@
     "source": "알파경제",
     "domain": "alphabiz.co.kr",
     "thumb": "https://cdn.alphabiz.co.kr/news/photo/202608/169389_106953_5640.jpg"
-  },
-  {
-    "title": "NCT JNJM, 방콕 팬미팅에 2만7천명 동원",
-    "link": "https://www.yna.co.kr/view/AKR20260810115200005",
-    "pubDate": "Mon, 10 Aug 2026 07:24:42 GMT",
-    "source": "연합뉴스",
-    "domain": "yna.co.kr",
-    "thumb": "https://img0.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810115200005_03_i_P4.jpg"
   }
 ]
