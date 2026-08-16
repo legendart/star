@@ -48,14 +48,6 @@
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sp/2026/08/16/news-p.v1.20260816.0738f2eb99a04b3aa6ef254b0d9d09d2_P1.jpg"
   },
   {
-    "title": "‘BTS 보이콧’ 보름 만에 백기?…그래미, 아시안 부문 폐지할까 [잇슈#태그]",
-    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8638224",
-    "pubDate": "Sun, 16 Aug 2026 06:56:00 GMT",
-    "source": "KBS 뉴스",
-    "domain": "news.kbs.co.kr",
-    "thumb": "http://news.kbs.co.kr/data/fckeditor/vod/2026/08/16/308151786860739758.png"
-  },
-  {
     "title": "BTS 보이콧 보름 만에 그래미 '깨갱'…'아시안 팝' 부문 재검토",
     "link": "https://news.nate.com/view/20260816n07339?mid=e0608&isq=9009",
     "pubDate": "Sun, 16 Aug 2026 06:35:00 GMT",
@@ -88,20 +80,20 @@
     "thumb": "https://wimg.munhwa.com/news/cms/2026/08/16/rcv.YNA.20260720.PYH2026072001420001300_R.jpg"
   },
   {
-    "title": "18회, 그래미의 백기와 변화의 과학... BTS가 쏘아 올린 문명사 축의 이동",
-    "link": "https://www.abcn.kr/news/articleView.html?idxno=90555",
-    "pubDate": "Sun, 16 Aug 2026 05:11:06 GMT",
-    "source": "ABC뉴스",
-    "domain": "abcn.kr",
-    "thumb": "https://cdn.abcn.kr/news/thumbnail/202608/90555_48414_5846_v150.jpg"
-  },
-  {
     "title": "BTS, 美 인지도 42%·호감도46%…\"대중 기반 구축\"",
     "link": "https://www.busan.com/view/busan/view.php?code=2026081511470132151",
     "pubDate": "Sun, 16 Aug 2026 04:55:06 GMT",
     "source": "부산일보",
     "domain": "busan.com",
     "thumb": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/08/15/2026081511464862890_l.jpg"
+  },
+  {
+    "title": "그래미, BTS 보이콧에 백기?…아시안 팝 부문 개편 시사",
+    "link": "https://www.chosun.com/culture-life/culture_general/2026/08/16/NZBW736Z5RHAPOCL7ZDH3BVPTY/",
+    "pubDate": "Sun, 16 Aug 2026 03:31:19 GMT",
+    "source": "조선일보",
+    "domain": "chosun.com",
+    "thumb": "https://www.chosun.com/resizer/v2/RINPBSDZVJ7KIBQ2PP7DYVPPW4.jpg?auth=498abfe2020d95cd9279ca30b6ad3bb2ab4bb9f47f3d49ebb47f9f015b5abd91&amp;width=1195&amp;height=627&amp;focal=578,292"
   },
   {
     "title": "BTS 보이콧에 꼬리 내린 그래미… '아시안 팝' 부문 재검토 착수",
@@ -192,6 +184,14 @@
     "thumb": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/15/c2f35085-c526-476b-ae41-cbb09bf54703.jpg"
   },
   {
+    "title": "BTS 미국 인지도 42%…평균치의 두배 수준",
+    "link": "https://v.daum.net/v/20260815094330452",
+    "pubDate": "Sat, 15 Aug 2026 00:43:30 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/15/newsy/20260815094330928wqyb.jpg"
+  },
+  {
     "title": "BTS가 보이콧하자 그래미 움직였다…논란의 ‘아시안 팝’ 재검토",
     "link": "http://weekly.chosun.com/news/articleView.html?idxno=54359",
     "pubDate": "Sat, 15 Aug 2026 00:40:00 GMT",
@@ -230,14 +230,6 @@
     "source": "네이트",
     "domain": "news.nate.com",
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sd/2026/08/14/134481363.1.jpg"
-  },
-  {
-    "title": "방탄소년단 美 인기, 수치로 확인…호감도 46% '역대 최고'",
-    "link": "https://www.newsis.com/view/NISX20260814_0003748984",
-    "pubDate": "Fri, 14 Aug 2026 03:08:46 GMT",
-    "source": "뉴시스",
-    "domain": "newsis.com",
-    "thumb": "https://img1.newsis.com/2026/07/18/NISI20260718_0002189333_web.jpg"
   },
   {
     "title": "BTS, 미국인 10명 중 4명 이상이 안다…호감도는 46%",
@@ -310,6 +302,14 @@
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img0.yna.co.kr/etc/inner/KR/2026/08/12/AKR20260812137200005_01_i_P4.jpg"
+  },
+  {
+    "title": "BTS 스윔, '빌보드 핫 100' 20주 연속 진입 外",
+    "link": "https://www.yna.co.kr/amp/view/MYH20260812010700038",
+    "pubDate": "Wed, 12 Aug 2026 04:06:41 GMT",
+    "source": "연합뉴스",
+    "domain": "yna.co.kr",
+    "thumb": "https://img2.yna.co.kr/mpic/YH/2026/08/12/MYH20260812010700038_P1.jpg"
   },
   {
     "title": "BTS 부산서 무슨 일?… 전 세계 아미들 ‘분통’, 하이브는 “사과”",
