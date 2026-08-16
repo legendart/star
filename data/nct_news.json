@@ -16,14 +16,6 @@
     "thumb": "https://isplus.com/data/isp/image/2026/08/16/isp20260816000055.800x.0.jpg"
   },
   {
-    "title": "마크, NCT 탈퇴 후 근황⋯은퇴설에 화들짝 \"팬들 마음 그때 알아\"",
-    "link": "https://www.etoday.co.kr/news/view/2615007",
-    "pubDate": "Sat, 15 Aug 2026 12:25:00 GMT",
-    "source": "이투데이",
-    "domain": "etoday.co.kr",
-    "thumb": "https://img.etoday.co.kr/pto_db/2026/08/20260815212520_2373815_1200_656.jpg"
-  },
-  {
     "title": "NCT 떠난 마크, 탈퇴 4개월 만에 은퇴설 부인..\"돈 아닌 꿈 이루고파\"",
     "link": "https://www.osen.co.kr/article/G1112858018",
     "pubDate": "Sat, 15 Aug 2026 11:38:00 GMT",
@@ -51,6 +43,14 @@
     "title": "‘Former NCT member’ Mark, after leaving SM, the new dream he found is ‘Kids Pop’…“I want to show a good kind of cool”",
     "link": "https://sports.khan.co.kr/en/article/202608151558007",
     "pubDate": "Sat, 15 Aug 2026 06:58:00 GMT",
+    "source": "스포츠경향",
+    "domain": "sports.khan.co.kr",
+    "thumb": null
+  },
+  {
+    "title": "‘NCT 출신’ 마크, SM 떠나 찾은 새로운 꿈은 ‘키즈팝’…“선한 멋 보여주고 싶어”",
+    "link": "https://sports.khan.co.kr/article/202608151557003",
+    "pubDate": "Sat, 15 Aug 2026 06:57:00 GMT",
     "source": "스포츠경향",
     "domain": "sports.khan.co.kr",
     "thumb": null
@@ -192,6 +192,14 @@
     "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=1500,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/08/2026081314054144031_1.jpg"
   },
   {
+    "title": "NCT x 서울패션위크, 협업 프로젝트 공개",
+    "link": "https://www.eyesmag.com/posts/165071/nct-127-doyoung-solo-album",
+    "pubDate": "Thu, 13 Aug 2026 04:13:58 GMT",
+    "source": "eyesmag.com",
+    "domain": "eyesmag.com",
+    "thumb": "https://cdn.eyesmag.com/content/uploads/posts/2026/08/13/thumbnail-composed-333edc2b.jpg"
+  },
+  {
     "title": "'브랜드 론칭 10주년' NCT, 서울패션위크와 협업…의상 전시·런웨이·플리마켓",
     "link": "https://www.newsis.com/view/NISX20260813_0003747243",
     "pubDate": "Thu, 13 Aug 2026 02:01:42 GMT",
@@ -310,13 +318,5 @@
     "source": "알파경제",
     "domain": "alphabiz.co.kr",
     "thumb": "https://cdn.alphabiz.co.kr/news/photo/202608/169389_106953_5640.jpg"
-  },
-  {
-    "title": "NCT JNJM, 방콕 팬미팅에 2만7천명 동원",
-    "link": "https://www.yna.co.kr/view/AKR20260810115200005",
-    "pubDate": "Mon, 10 Aug 2026 07:24:42 GMT",
-    "source": "연합뉴스",
-    "domain": "yna.co.kr",
-    "thumb": "https://img0.yna.co.kr/etc/inner/KR/2026/08/10/AKR20260810115200005_03_i_P4.jpg"
   }
 ]
