@@ -288,14 +288,6 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/12/10asia/20260812173138958dolj.jpg"
   },
   {
-    "title": "잠실 롯데월드몰서 ’서울패션위크’…NCT 10주년 기념 전시도",
-    "link": "https://www.yonhapnewstv.co.kr/news/AKR20260812113101gtU",
-    "pubDate": "Wed, 12 Aug 2026 02:31:00 GMT",
-    "source": "연합뉴스TV",
-    "domain": "yonhapnewstv.co.kr",
-    "thumb": "https://media.yonhapnewstv.co.kr/article/AKR/20260812/AKR20260812113101gtU_02_i.jpg"
-  },
-  {
     "title": "NCT 127, 10주년 기념 새 앨범 'Piñata'로 글로벌 팬들과 만난다",
     "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000056153",
     "pubDate": "Wed, 12 Aug 2026 01:18:03 GMT",
@@ -318,5 +310,13 @@
     "source": "JTBC",
     "domain": "news.jtbc.co.kr",
     "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202608/11/e664ebc5-3c9f-45fb-b32d-9f3f34d7af80.jpg"
+  },
+  {
+    "title": "찾았다! NCT 127 'Call 127' 앨범 속 숨겨진 떡밥 5",
+    "link": "https://www.esquirekorea.co.kr/article/1907808",
+    "pubDate": "Tue, 11 Aug 2026 09:00:01 GMT",
+    "source": "esquirekorea.co.kr",
+    "domain": "esquirekorea.co.kr",
+    "thumb": null
   }
 ]
