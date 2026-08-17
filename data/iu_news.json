@@ -40,14 +40,6 @@
     "thumb": "https://www.chosun.com/resizer/v2/MRSDKMLFMFRGCZRWMFQTOY3EMQ.jpg?auth=8d129c9d50bdfed9d0517b704050f9b8e02c0d25b09fd4239fea86749839f5b7&amp;width=650&amp;height=341&amp;smart=true"
   },
   {
-    "title": "'결별·건강 악화' 아이유, 핏기 하나 없는 얼굴…볼하트도 버거운 야윈 팔 - 조선비즈",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/08/09/GM3TCYZQMM2TGZRRGVTGKN3FGM/",
-    "pubDate": "Sun, 09 Aug 2026 07:00:00 GMT",
-    "source": "Chosunbiz",
-    "domain": "biz.chosun.com",
-    "thumb": "https://biz.chosun.com/resizer/v2/GRRWGZJTGRTDKZRRMRRTQNTGGE.jpg?auth=3d0a4b9022109958bb03f6424e556f21ad5a89217b09fe3d22dc10e50494eb85&amp;width=572&amp;height=300&amp;smart=true"
-  },
-  {
     "title": "‘이종석과 결별’ 아이유, 전남친 장기하 소환 속 남사친 만났다 “늘 든든”[핫피플]",
     "link": "https://www.chosun.com/entertainments/broadcast/2026/08/08/GY2DOMZZMVTDKZBWMEZGGNZQHE/",
     "pubDate": "Sat, 08 Aug 2026 07:00:00 GMT",
@@ -62,6 +54,14 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/08/mydaily/20260808112950205wvja.jpg"
+  },
+  {
+    "title": "아이유, '전전 남친' 장기하 소환 속…남사친과 다정한 투샷 \"늘 든든\" [엑's 이슈]",
+    "link": "https://v.daum.net/v/20260808141250849",
+    "pubDate": "Sat, 08 Aug 2026 07:00:00 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/08/xportsnews/20260808141251912iwgh.jpg"
   },
   {
     "title": "결별 아이유 “오랜만이야”…전 남친 장기하 ‘이 노래’ 띄웠다",
@@ -182,6 +182,14 @@
     "source": "헤럴드경제",
     "domain": "biz.heraldcorp.com",
     "thumb": "https://wimg.heraldcorp.com/news/cms/2026/08/06/rcv.YNA.20260406.PYH2026040613880001300_T1.jpg"
+  },
+  {
+    "title": "\"윤가이 불쾌할 듯\"…아이유, 전남친 장기하 선곡에 '시끌' [MD이슈]",
+    "link": "https://v.daum.net/v/20260806203549650",
+    "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/06/mydaily/20260806203551401afrm.png"
   },
   {
     "title": "시간을 초월한 두 이름의 만남, 예거 르쿨트르와 아이유",
@@ -310,13 +318,5 @@
     "source": "중앙일보",
     "domain": "joongang.co.kr",
     "thumb": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202607/20/f7bc4c3d-7735-48aa-935a-d507802e2806.jpg"
-  },
-  {
-    "title": "아이유, 귀 건강 악화로 9월 공연·컴백 연기",
-    "link": "https://news.jtbc.co.kr/article/NB12309244",
-    "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT",
-    "source": "JTBC",
-    "domain": "news.jtbc.co.kr",
-    "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202607/20/10056880-6350-4607-bceb-3eb5e289f1fd.jpg"
   }
 ]
