@@ -176,14 +176,6 @@
     "thumb": "https://www.koreadaily.com/data/photo/thumbnail/2026/08/15/35774010-5ac5-47b4-b2db-4992fc145d12.jpg"
   },
   {
-    "title": "NCT 런쥔, 中 ‘TMEA 2026’ 수상...\"올해 독보적 성장\"",
-    "link": "https://www.slist.kr/news/articleView.html?idxno=759217",
-    "pubDate": "Sat, 15 Aug 2026 07:00:00 GMT",
-    "source": "싱글리스트",
-    "domain": "slist.kr",
-    "thumb": "https://cdn.slist.kr/news/thumbnail/202608/759217_1163318_736_v150.jpg"
-  },
-  {
     "title": "빅뱅·엔하이픈·NCT 127까지…보이그룹 뜨거운 컴백",
     "link": "https://biz.heraldcorp.com/article/10842257",
     "pubDate": "Sat, 15 Aug 2026 01:08:38 GMT",
@@ -222,14 +214,6 @@
     "source": "sports.donga.com",
     "domain": "sports.donga.com",
     "thumb": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/08/14/134482428.1.jpg"
-  },
-  {
-    "title": "귀공자가 여기 있네…NCT 재현, 패션 매거진 커버 장식 [화보] - 스타투데이",
-    "link": "https://www.mk.co.kr/news/musics/12128027",
-    "pubDate": "Fri, 14 Aug 2026 06:11:07 GMT",
-    "source": "매일경제",
-    "domain": "mk.co.kr",
-    "thumb": "https://pimg.mk.co.kr/news/cms/202608/14/news-p.v1.20260814.d58c3b339a604c01a8d8eb02faf7b15b_R.jpg"
   },
   {
     "title": "아이브·NCT 위시 뜬다…'놀 페스티벌' 최종 라인업 공개",
@@ -296,6 +280,14 @@
     "thumb": "https://www.chosun.com/resizer/v2/MM3TKNLBGRRDAOBXG4YWKNJQGI.jpg?auth=3b17596e443de36a4d68b823bd80a5640b3fe5e31ffde2f0b497fde85bef34b3&amp;width=530&amp;height=278&amp;smart=true"
   },
   {
+    "title": "‘10주년’ NCT, 서울패션위크와 협업⋯플리마켓 수익금 전액 기부",
+    "link": "https://www.etoday.co.kr/news/view/2614122",
+    "pubDate": "Thu, 13 Aug 2026 01:41:00 GMT",
+    "source": "이투데이",
+    "domain": "etoday.co.kr",
+    "thumb": "https://img.etoday.co.kr/pto_db/2026/08/20260813103219_2372721_1200_675.jpg"
+  },
+  {
     "title": "NCT 10주년 기념 서울패션위크와 협업...무대의상 런웨이로",
     "link": "https://www.ytn.co.kr/_ln/0106_202608131018298024",
     "pubDate": "Thu, 13 Aug 2026 01:18:00 GMT",
@@ -310,6 +302,14 @@
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img7.yna.co.kr/etc/inner/KR/2026/08/13/AKR20260813047900005_01_i_P4.jpg"
+  },
+  {
+    "title": "NCT 127, 신곡 '피냐타' 트랙비디오 공개",
+    "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6844116_37012.html",
+    "pubDate": "Tue, 11 Aug 2026 21:59:53 GMT",
+    "source": "MBC 뉴스",
+    "domain": "imnews.imbc.com",
+    "thumb": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/08/12/today_20260812_065903_2_16_Large.jpg"
   },
   {
     "title": "NCT 127 ‘피냐타’ 트랙비디오 속 한층 강렬해진 에너지",
