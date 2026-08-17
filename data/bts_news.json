@@ -16,14 +16,6 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/17/JTBC/20260817163405539ppni.png"
   },
   {
-    "title": "BTS 진, '월클'이 이렇게 털털해도 될까…꾸밈없는 일상에도 시선 집중",
-    "link": "https://v.daum.net/v/20260817154247257",
-    "pubDate": "Mon, 17 Aug 2026 06:42:47 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/17/10asia/20260817154249361uacg.jpg"
-  },
-  {
     "title": "갑자기 관객석 가더니… '돌발행동'으로 전 세계 난리 난 BTS 지민",
     "link": "https://www.wikitree.co.kr/articles/1152898",
     "pubDate": "Mon, 17 Aug 2026 06:23:00 GMT",
@@ -107,7 +99,7 @@
     "title": "리센느 어디까지 올라가나? BTS 이어 아이돌그룹 브랜드평판 2위 입성",
     "link": "https://m.newsen.com/news_view.php?uid=202608171202471910",
     "pubDate": "Mon, 17 Aug 2026 03:08:26 GMT",
-    "source": "뉴스엔",
+    "source": "newsen.com",
     "domain": "m.newsen.com",
     "thumb": null
   },
@@ -216,6 +208,14 @@
     "thumb": "https://www.sportschosun.com/article/html/2026/08/17/2026081701000953000060681_w.jpg"
   },
   {
+    "title": "BTS 지민, 광복절에 美 무대 올랐다…‘건곤감리’ 의상으로 전한 의미",
+    "link": "https://v.daum.net/v/5xa5gRvm0w",
+    "pubDate": "Sun, 16 Aug 2026 23:00:49 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/17/sportsdonga/20260817080050941pmbl.jpg"
+  },
+  {
     "title": "\"BTS 콘서트 특수\" 유혹…eSIM 사기 피해자 1천400명 넘어",
     "link": "https://v.daum.net/v/20260817071913269",
     "pubDate": "Sun, 16 Aug 2026 22:19:13 GMT",
@@ -240,20 +240,20 @@
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/sp/2026/08/16/news-p.v1.20260816.0738f2eb99a04b3aa6ef254b0d9d09d2_P1.jpg"
   },
   {
+    "title": "'BTS 보이콧' 통했다‥그래미 CEO \"아시안팝 부문 다시 검토\" 입장 발표",
+    "link": "https://imnews.imbc.com/news/2026/world/article/6845101_36925.html",
+    "pubDate": "Sun, 16 Aug 2026 07:42:56 GMT",
+    "source": "MBC 뉴스",
+    "domain": "imnews.imbc.com",
+    "thumb": "https://image.imnews.imbc.com/news/2026/world/article/__icsFiles/afieldfile/2026/08/16/ggm_20260816_12.jpg"
+  },
+  {
     "title": "‘BTS 보이콧’ 보름 만에 백기?…그래미, 아시안 부문 폐지할까 [잇슈#태그]",
     "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8638224",
     "pubDate": "Sun, 16 Aug 2026 06:56:00 GMT",
     "source": "KBS 뉴스",
     "domain": "news.kbs.co.kr",
     "thumb": "http://news.kbs.co.kr/data/fckeditor/vod/2026/08/16/308151786860739758.png"
-  },
-  {
-    "title": "BTS ‘출품거부’ 통했나…콧대 낮춘 그래미 “아시안 팝 부문 개편 검토”",
-    "link": "https://www.munhwa.com/article/11609818",
-    "pubDate": "Sun, 16 Aug 2026 05:31:50 GMT",
-    "source": "문화일보",
-    "domain": "munhwa.com",
-    "thumb": "https://wimg.munhwa.com/news/cms/2026/08/16/rcv.YNA.20260720.PYH2026072001420001300_R.jpg"
   },
   {
     "title": "BTS, 美 인지도 42%·호감도46%…\"대중 기반 구축\"",
@@ -270,6 +270,14 @@
     "source": "chosun.com",
     "domain": "chosun.com",
     "thumb": "https://www.chosun.com/resizer/v2/RINPBSDZVJ7KIBQ2PP7DYVPPW4.jpg?auth=498abfe2020d95cd9279ca30b6ad3bb2ab4bb9f47f3d49ebb47f9f015b5abd91&amp;width=1195&amp;height=627&amp;focal=578,292"
+  },
+  {
+    "title": "BTS 보이콧 영향?…그래미 ‘아시안 팝 부문’ 재검토 가능성 시사",
+    "link": "https://www.hani.co.kr/arti/international/international_general/1273051.html",
+    "pubDate": "Sat, 15 Aug 2026 08:12:00 GMT",
+    "source": "한겨레",
+    "domain": "hani.co.kr",
+    "thumb": "https://flexible.img.hani.co.kr/flexible/normal/800/533/imgdb/original/2026/0815/20260815500490.webp"
   },
   {
     "title": "‘BTS 보이콧’에 결국 그래미 아카데미 움직였다···“아시안 팝 부문 재검토”",
@@ -302,14 +310,6 @@
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img8.yna.co.kr/photo/yna/YH/2026/07/20/PYH2026072001420001300_P4.jpg"
-  },
-  {
-    "title": "BTS 진, 전 세계 매료시킨 ‘환상의 왕자님’…화보 비하인드",
-    "link": "https://sports.donga.com/ent/article/all/20260814/134481366/1",
-    "pubDate": "Fri, 14 Aug 2026 09:57:34 GMT",
-    "source": "sports.donga.com",
-    "domain": "sports.donga.com",
-    "thumb": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/08/14/134481363.1.jpg"
   },
   {
     "title": "방탄소년단 : BTS 뷔 청력 이상 호소, '오른쪽 귀 30%밖에 안 들린다'",
