@@ -27,7 +27,7 @@
     "title": "NCT WISH 시온 ‘심장어택’[포토엔HD]",
     "link": "https://m.newsen.com/news_view.php?uid=202608192349103510",
     "pubDate": "Wed, 19 Aug 2026 14:49:17 GMT",
-    "source": "newsen.com",
+    "source": "뉴스엔",
     "domain": "m.newsen.com",
     "thumb": null
   },
@@ -208,14 +208,6 @@
     "thumb": "https://img.marieclairekorea.com/2026/08/mck_6a83e8e929f5c.jpg"
   },
   {
-    "title": "\"스웨이드 크록스 신고 나답게\"···NCT WISH 일상 만난 크록스",
-    "link": "https://www.campaigninsight.co.kr/news/articleView.html?idxno=5313",
-    "pubDate": "Tue, 18 Aug 2026 01:45:10 GMT",
-    "source": "캠페인 인사이트",
-    "domain": "campaigninsight.co.kr",
-    "thumb": "https://cdn.campaigninsight.co.kr/news/photo/202608/5313_7748_3757.png"
-  },
-  {
     "title": "NCT 127, “I Know, Right?”…정규 7집서 당찬 자신감과 힐링 공존",
     "link": "https://www.topstarnews.net/news/articleView.html?idxno=16165924",
     "pubDate": "Tue, 18 Aug 2026 01:14:34 GMT",
@@ -318,5 +310,13 @@
     "source": "JTBC",
     "domain": "news.jtbc.co.kr",
     "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202608/13/0c158605-eda4-4e39-abab-b4a6c3b9118f.jpg"
+  },
+  {
+    "title": "NCT 위시, 가요대전 출격",
+    "link": "https://www.news1.kr/photos/8047808",
+    "pubDate": "Sun, 09 Aug 2026 07:00:00 GMT",
+    "source": "뉴스1",
+    "domain": "news1.kr",
+    "thumb": "https://image.news1.kr/system/photos/2026/8/9/8047808/high.jpg"
   }
 ]

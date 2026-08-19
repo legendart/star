@@ -120,14 +120,6 @@
     "thumb": "https://file.sportsseoul.com/news/cms/2026/08/19/news-p.v1.20260819.89f96ff4767b415fa094ad1de28c1eac_T1.png"
   },
   {
-    "title": "“고등학생 때부터”…오정연, 아이유 앓는 그 병 수술받았다",
-    "link": "https://biz.heraldcorp.com/article/10845543",
-    "pubDate": "Wed, 19 Aug 2026 06:09:31 GMT",
-    "source": "헤럴드경제",
-    "domain": "biz.heraldcorp.com",
-    "thumb": "https://wimg.heraldcorp.com/news/cms/2026/08/19/news-p.v1.20260819.c0d06ef480d644248cb81b888173dc22_T1.jpg"
-  },
-  {
     "title": "아이유 힘들게 한 이관개방증…오정연도 30년 앓고 수술 \"그 힘듦 알아\"",
     "link": "https://v.daum.net/v/20260819143754142",
     "pubDate": "Wed, 19 Aug 2026 05:37:54 GMT",
@@ -318,5 +310,13 @@
     "source": "동아일보",
     "domain": "donga.com",
     "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/20/134331661.1.jpg"
+  },
+  {
+    "title": "아이유·이종석, 4년 만에 결별…\"좋은 동료로 남기로\"",
+    "link": "https://www.yna.co.kr/view/AKR20260710087100005",
+    "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
+    "source": "연합뉴스",
+    "domain": "yna.co.kr",
+    "thumb": "https://img7.yna.co.kr/etc/inner/KR/2026/07/10/AKR20260710087100005_01_i_P4.jpg"
   }
 ]
