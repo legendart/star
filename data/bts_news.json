@@ -1,9 +1,17 @@
 [
   {
+    "title": "BTS ‘스윔’, MTV VMA ‘올해의 노래’ 후보… 이번엔 수상할까",
+    "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000004565",
+    "pubDate": "Wed, 19 Aug 2026 17:00:00 GMT",
+    "source": "국민일보",
+    "domain": "kmib.co.kr",
+    "thumb": "https://image.kmib.co.kr/online_image/2026/0820/01100201.20260819501918.png"
+  },
+  {
     "title": "‘MTV VMA’ 뚫은 K팝…리사 ‘4개 부문’ 최다 노미·BTS ‘올해의 노래’ 본상 노린다",
     "link": "https://m.newsen.com/news_view.php?uid=202608191742212610",
     "pubDate": "Wed, 19 Aug 2026 16:17:01 GMT",
-    "source": "뉴스엔",
+    "source": "newsen.com",
     "domain": "m.newsen.com",
     "thumb": null
   },
@@ -56,14 +64,6 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/19/xportsnews/20260819151516301aqcf.jpg"
   },
   {
-    "title": "롱런 BTS, 신기록 스트레이 키즈...빌보드 달구는 K팝",
-    "link": "https://www.jayupress.com/news/articleView.html?idxno=53738",
-    "pubDate": "Wed, 19 Aug 2026 06:03:00 GMT",
-    "source": "jayupress.com",
-    "domain": "jayupress.com",
-    "thumb": "https://cdn.jayupress.com/news/photo/202608/53738_69778_0323.jpg"
-  },
-  {
     "title": "구글 제미나이, BTS 팬덤 품고 챗GPT 추격",
     "link": "https://zdnet.co.kr/view/?no=20260819143114",
     "pubDate": "Wed, 19 Aug 2026 06:00:38 GMT",
@@ -110,6 +110,14 @@
     "source": "인공지능신문",
     "domain": "aitimes.kr",
     "thumb": "https://cdn.aitimes.kr/news/thumbnail/202608/41508_62483_1854_v150.jpg"
+  },
+  {
+    "title": "구글 제미나이, BTS와 함께하는 신규 인터렉티브 기능 선보여",
+    "link": "https://www.news1.kr/it-science/general-it/6262757",
+    "pubDate": "Wed, 19 Aug 2026 01:07:21 GMT",
+    "source": "뉴스1",
+    "domain": "news1.kr",
+    "thumb": "https://i3n.news1.kr/system/photos/2026/8/19/8061616/high.jpg"
   },
   {
     "title": "BTS, MTV VMA '올해의 노래' 후보…르세라핌·코르티스도 수상 도전",
@@ -310,13 +318,5 @@
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img8.yna.co.kr/photo/yna/YH/2026/07/20/PYH2026072001420001300_P4.jpg"
-  },
-  {
-    "title": "방탄소년단 : BTS 뷔 청력 이상 호소, '오른쪽 귀 30%밖에 안 들린다'",
-    "link": "https://www.bbc.com/korean/articles/c24m2y51rgpo",
-    "pubDate": "Thu, 13 Aug 2026 08:04:15 GMT",
-    "source": "BBC",
-    "domain": "bbc.com",
-    "thumb": "https://ichef.bbci.co.uk/news/1200/branded_korean/0298/live/61c58c60-96cb-11f1-9bc6-975e8edc7c6e.jpg"
   }
 ]
