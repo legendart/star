@@ -48,14 +48,6 @@
     "thumb": "https://biz.chosun.com/resizer/v2/MNTGKYJUMFTGKNLEME4DOMDFG4.jpg?auth=0ccf42a098284c3c5b87f2d33c412762f4aa4b24ea38e19ee53c47b38d793c34&amp;width=900&amp;height=472&amp;smart=true"
   },
   {
-    "title": "NCT DREAM, SM과 전원 재계약..\"아낌없는 지원 이어갈 것\" [공식] (전문)",
-    "link": "https://www.osen.co.kr/article/G1112860665",
-    "pubDate": "Thu, 20 Aug 2026 08:07:00 GMT",
-    "source": "OSEN",
-    "domain": "osen.co.kr",
-    "thumb": "http://file.osen.co.kr/article_thumb/2026/08/20/202608201654777312_6a86b5b8abe02_300x.jpeg"
-  },
-  {
     "title": "하영 복귀·홍민기 임신중절 입장·NCT 드림 전원 재계약",
     "link": "http://www.inews24.com/view/1996661",
     "pubDate": "Thu, 20 Aug 2026 07:50:01 GMT",
@@ -160,7 +152,15 @@
     "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202608/20/4339d831-7784-4d4b-ba8a-386daf488b6b.jpg"
   },
   {
-    "title": "NCT 드림, 전원 재계약…\"깊은 믿음과 애정으로\"",
+    "title": "NCT 드림, SM엔터와 6人 전원 재계약",
+    "link": "https://www.segye.com/newsView/20260820509745",
+    "pubDate": "Thu, 20 Aug 2026 02:04:27 GMT",
+    "source": "세계일보",
+    "domain": "segye.com",
+    "thumb": "https://www.segye.com/content/image/2026/08/20/20260820510010.jpg"
+  },
+  {
+    "title": "NCT드림, 전원 재계약 완료…\"믿음과 애정으로, 동행\"",
     "link": "https://www.dispatch.co.kr/2346665",
     "pubDate": "Thu, 20 Aug 2026 01:46:00 GMT",
     "source": "디스패치",
@@ -174,6 +174,14 @@
     "source": "이투데이",
     "domain": "etoday.co.kr",
     "thumb": "https://img.etoday.co.kr/pto_db/2026/08/20260820103114_2375628_1199_799.jpg"
+  },
+  {
+    "title": "NCT 드림, 10년 성장 서사 지킨다…\"깊은 믿음으로 전원 재계약\"",
+    "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008713262",
+    "pubDate": "Thu, 20 Aug 2026 01:40:00 GMT",
+    "source": "news.sbs.co.kr",
+    "domain": "news.sbs.co.kr",
+    "thumb": "https://img.sbs.co.kr/newsnet/etv/upload/2026/08/20/30001082390_16v9.jpg"
   },
   {
     "title": "NCT 드림, SM엔터테인먼트와 전속계약 체결로 6인 체제 재편",
@@ -200,14 +208,6 @@
     "thumb": "https://i3n.news1.kr/system/photos/2026/8/20/8063885/high.jpg"
   },
   {
-    "title": "엔시티 드림(NCT DREAM), 전원 재계약 체결…SM \"앞으로도 동행\"",
-    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16168347",
-    "pubDate": "Thu, 20 Aug 2026 01:28:05 GMT",
-    "source": "톱스타뉴스",
-    "domain": "topstarnews.net",
-    "thumb": "https://cdn.topstarnews.net/news/photo/202608/16168347_1997623_2751_crop.jpg"
-  },
-  {
     "title": "'6인조 재편' NCT 드림, SM과 전원 재계약 완료",
     "link": "https://www.nocutnews.co.kr/news/6565285",
     "pubDate": "Thu, 20 Aug 2026 01:26:00 GMT",
@@ -222,14 +222,6 @@
     "source": "아주경제",
     "domain": "ajunews.com",
     "thumb": "https://image.ajunews.com/content/image/2026/08/20/20260820102147126978.jpg"
-  },
-  {
-    "title": "“7명 끝까지 함께 간다” NCT 드림, SM과 전원 재계약…10년 우정 굳건 - 스타투데이",
-    "link": "https://www.mk.co.kr/news/hot-issues/12131977",
-    "pubDate": "Thu, 20 Aug 2026 01:20:47 GMT",
-    "source": "매일경제",
-    "domain": "mk.co.kr",
-    "thumb": "https://pimg.mk.co.kr/news/cms/202608/20/news-p.v1.20260820.6d8a515093bf4d4a9e4c23ef06c6aadf_R.jpeg"
   },
   {
     "title": "NCT 127이어 NCT 드림도 전원 재계약…\"깊은 믿음과 애정 바탕\"",
@@ -318,5 +310,13 @@
     "source": "네이트",
     "domain": "news.nate.com",
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/kh/2026/08/19/news-p.v1.20260819.4e209488c7914ce5a1489d8251339b80_P2.jpg"
+  },
+  {
+    "title": "OUR SUMMER DREAM : NCT DREAM 10TH ANNIVERSARY",
+    "link": "https://weverse.io/nctdream/live/2-178992609",
+    "pubDate": "Tue, 18 Aug 2026 07:01:42 GMT",
+    "source": "Weverse",
+    "domain": "weverse.io",
+    "thumb": null
   }
 ]

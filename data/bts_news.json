@@ -16,14 +16,6 @@
     "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/20/134515890.2.jpg"
   },
   {
-    "title": "BTS 정국, 하이브 주식 84억 날릴 뻔…재력가 노린 해킹 총책, 징역 20년 선고",
-    "link": "https://www.sportschosun.com/entertainment/2026-08-20/202608200100122960007797",
-    "pubDate": "Thu, 20 Aug 2026 11:23:54 GMT",
-    "source": "스포츠조선",
-    "domain": "sportschosun.com",
-    "thumb": "https://www.sportschosun.com/article/html/2026/08/20/2026082001001229600077971.jpg"
-  },
-  {
     "title": "BTS 정국, 군 복무중 ‘84억 주식’ 털릴 뻔했다…中 해킹 총책, 결국",
     "link": "https://biz.heraldcorp.com/article/10847336",
     "pubDate": "Thu, 20 Aug 2026 10:59:12 GMT",
@@ -62,6 +54,14 @@
     "source": "국제신문",
     "domain": "kookje.co.kr",
     "thumb": "https://db.kookje.co.kr/news2000/photo/2026/0820/L20260820.99099005867i1.jpg?31"
+  },
+  {
+    "title": "BTS 정국·대기업 회장 노려 380억 탈취…해킹조직 총책 징역 20년",
+    "link": "https://www.chosun.com/national/court_law/2026/08/20/IXBSYDQIGRDALKK6JOF26AECJA/",
+    "pubDate": "Thu, 20 Aug 2026 10:03:35 GMT",
+    "source": "조선일보",
+    "domain": "chosun.com",
+    "thumb": "https://www.chosun.com/resizer/v2/BYFFIJSWG2F2DVRNLVWE7WRCEY.jpg?auth=0503c5eb313a47f0fca86b141426e82bc8d77516967e19f858a36f239acb11fe&amp;width=449&amp;height=235&amp;smart=true"
   },
   {
     "title": "BTS 정국도 노렸다…'재력가 해킹' 중국인 총책 징역 20년",
@@ -232,14 +232,6 @@
     "thumb": "https://health.chosun.com/site/data/img_dir/2026/08/19/2026081901239_0.jpg"
   },
   {
-    "title": "구글, 제미나이에 'BTS'와 함께하는 4가지 인터랙티브 경험 선보여",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41508",
-    "pubDate": "Wed, 19 Aug 2026 02:20:07 GMT",
-    "source": "인공지능신문",
-    "domain": "aitimes.kr",
-    "thumb": "https://cdn.aitimes.kr/news/thumbnail/202608/41508_62483_1854_v150.jpg"
-  },
-  {
     "title": "제미나이 앱에서 방탄소년단과 함께하는 4가지 새로운 인터랙티브 경험을 만나보세요",
     "link": "https://blog.google/intl/ko-kr/company-news/inside-google/gemini-bts-feature-kr/",
     "pubDate": "Wed, 19 Aug 2026 00:48:57 GMT",
@@ -254,6 +246,14 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/19/newsy/20260819075812505rkml.jpg"
+  },
+  {
+    "title": "BTS, 미 MTV VMA 올해의 노래 후보...리사 4개 부문",
+    "link": "https://www.ytn.co.kr/_ln/0104_202608190409149328",
+    "pubDate": "Tue, 18 Aug 2026 19:09:00 GMT",
+    "source": "YTN",
+    "domain": "ytn.co.kr",
+    "thumb": "https://image.ytn.co.kr/general/jpg/2026/0819/202608190409149328_t.jpg"
   },
   {
     "title": "BTS, 美MTV VMA '올해의 노래' 후보에…리사 4개 부문 올라",
