@@ -5,7 +5,7 @@
     "pubDate": "Thu, 20 Aug 2026 10:40:46 GMT",
     "source": "eyesmag.com",
     "domain": "eyesmag.com",
-    "thumb": null
+    "thumb": "https://cdn.eyesmag.com/content/uploads/posts/2026/08/20/ㅜㅜ-b3207cf0.jpg"
   },
   {
     "title": "NCT 127, '아메리카 갓 탤런트'도 접수…정규 7집 기대감 ↑",
@@ -72,6 +72,14 @@
     "thumb": "https://cdn.mdtoday.co.kr/news/photo/202608/609068_310111_2634.jpg"
   },
   {
+    "title": "NCT 127, 美 ‘아메리카 갓 탤런트’ 홀렸다…퍼포먼스 신 존재감",
+    "link": "https://m.newsen.com/news_view.php?uid=202608201551262410",
+    "pubDate": "Thu, 20 Aug 2026 06:55:13 GMT",
+    "source": "뉴스엔",
+    "domain": "m.newsen.com",
+    "thumb": null
+  },
+  {
     "title": "NCT 드림, 6인 전원 재계약…\"깊은 믿음 바탕\"",
     "link": "https://www.mediapen.com/news/view/1117717",
     "pubDate": "Thu, 20 Aug 2026 06:20:00 GMT",
@@ -118,22 +126,6 @@
     "source": "한강타임즈",
     "domain": "hg-times.com",
     "thumb": "https://cdn.hg-times.com/news/photo/202608/304568_304978_494.jpg"
-  },
-  {
-    "title": "NCT 127, 美 ‘아메리카 갓 탤런트’ 접수",
-    "link": "https://v.daum.net/v/20260820133437818",
-    "pubDate": "Thu, 20 Aug 2026 04:34:37 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/20/bntnews/20260820133439216rhdm.jpg"
-  },
-  {
-    "title": "NCT 드림, SM과 재계약…해찬·런쥔·제노·재민·천러·지성 6인 체제",
-    "link": "https://www.queen.co.kr/news/articleView.html?idxno=461985",
-    "pubDate": "Thu, 20 Aug 2026 03:01:46 GMT",
-    "source": "Queen 이코노미퀸",
-    "domain": "queen.co.kr",
-    "thumb": "http://cdn.queen.co.kr/news/thumbnail/202608/461985_208205_5957_v150.jpg"
   },
   {
     "title": "NCT 127이어 NCT 드림도 전원 재계약",
@@ -248,6 +240,14 @@
     "thumb": "https://img.newspim.com/news/2026/08/20/2608201014129860_231_tc.jpg"
   },
   {
+    "title": "NCT Dream, all members renew with SM",
+    "link": "https://sports.khan.co.kr/en/article/202608201013007",
+    "pubDate": "Thu, 20 Aug 2026 01:13:00 GMT",
+    "source": "스포츠경향",
+    "domain": "sports.khan.co.kr",
+    "thumb": null
+  },
+  {
     "title": "NCT 드림, SM과 전원 재계약",
     "link": "https://www.bntnews.co.kr/article/view/bnt202608200180",
     "pubDate": "Thu, 20 Aug 2026 01:11:33 GMT",
@@ -296,20 +296,20 @@
     "thumb": "https://www.bntnews.co.kr/data/bnt/image/2026/08/20/bnt202608200203.jpg"
   },
   {
-    "title": "NCT WISH 유우시 '시크한 손인사'[포토엔HD]",
-    "link": "https://news.nate.com/view/20260819n36814",
-    "pubDate": "Wed, 19 Aug 2026 15:00:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/08/19/202608192359243510_1.jpg"
+    "title": "NCT 127, 정규 7집 '블링이' 팝업 25일 개막",
+    "link": "https://www.slist.kr/news/articleView.html?idxno=759984",
+    "pubDate": "Thu, 20 Aug 2026 00:02:32 GMT",
+    "source": "싱글리스트",
+    "domain": "slist.kr",
+    "thumb": "https://cdn.slist.kr/news/thumbnail/202608/759984_1164284_226_v150.jpg"
   },
   {
-    "title": "빅뱅·스트레이키즈·NCT 줄줄이 컴백···8월 보이그룹 ‘컴백대전’ K팝 음반시장 기록 깨지나",
-    "link": "https://v.daum.net/v/20260819161610679",
-    "pubDate": "Wed, 19 Aug 2026 07:16:10 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/19/khan/20260819161611898ofdy.jpg"
+    "title": "빅뱅·스키즈·NCT 줄줄이 돌아온다···보이그룹 '8월 컴백 대전' K팝 음반시장 기록 깨지나",
+    "link": "https://news.nate.com/view/20260819n26088",
+    "pubDate": "Wed, 19 Aug 2026 07:15:00 GMT",
+    "source": "네이트",
+    "domain": "news.nate.com",
+    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/kh/2026/08/19/news-p.v1.20260819.4e209488c7914ce5a1489d8251339b80_P2.jpg"
   },
   {
     "title": "엑소자임즈, NCT 생산성 10배 향상 발표",
