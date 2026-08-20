@@ -72,14 +72,6 @@
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/tn/2026/08/19/2026081922313513012_1.jpg"
   },
   {
-    "title": "아이유, 취소 콘서트 아쉬움 달래는 콘서트 영화 2편 재개봉",
-    "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=546467",
-    "pubDate": "Wed, 19 Aug 2026 09:20:00 GMT",
-    "source": "스타데일리뉴스",
-    "domain": "stardailynews.co.kr",
-    "thumb": "https://cdn.stardailynews.co.kr/news/thumbnail/202608/546467_578678_3116_v150.jpg"
-  },
-  {
     "title": "'돌아온 아이유' 극장서 만나는 영광의 순간…\"놓친 팬들께 좋은 기회 되길\"",
     "link": "http://isplus.joins.com/article/view/isp202608190143",
     "pubDate": "Wed, 19 Aug 2026 08:21:00 GMT",
@@ -120,14 +112,6 @@
     "thumb": "https://mydaily.co.kr/photos/2026/08/19/2026081916132445056_l.jpg"
   },
   {
-    "title": "오정연, 아이유 앓았던 ‘그 병’으로 수술까지 “힘듦 알아 더 안타까웠다” [왓IS]",
-    "link": "https://isplus.com/article/view/isp202608190125",
-    "pubDate": "Wed, 19 Aug 2026 06:50:00 GMT",
-    "source": "일간스포츠",
-    "domain": "isplus.com",
-    "thumb": "https://isplus.com/data/isp/image/2026/07/28/isp20260728000027.800x.0.png"
-  },
-  {
     "title": "“고등학생 때부터”…오정연, 아이유 앓는 그 병 수술받았다",
     "link": "https://v.daum.net/v/20260819151109918",
     "pubDate": "Wed, 19 Aug 2026 06:11:09 GMT",
@@ -142,14 +126,6 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/19/xportsnews/20260819143756036mmwi.jpg"
-  },
-  {
-    "title": "'경주기행' 이연, 아이유와 가짜 열애설에…\"이젠 그냥 즐기는 중\"",
-    "link": "https://www.chosun.com/entertainments/movie/2026/08/19/GJSTON3CGUZTKZLBMI2GCMLCHA/",
-    "pubDate": "Wed, 19 Aug 2026 04:55:00 GMT",
-    "source": "조선일보",
-    "domain": "chosun.com",
-    "thumb": "https://www.chosun.com/resizer/v2/MQYDAOBXGA4DMOBWMQ2WGMJZGM.jpg?auth=68e37b8da5d45e6598ea3b134c98a436b3f8460623760405df8bdec33eaf0f49&amp;width=700&amp;height=367&amp;smart=true"
   },
   {
     "title": "'경주기행' 이연 \"아이유와 데이트? 가짜 열애설까지 나와…즐기는 중\"",
@@ -283,9 +259,9 @@
     "title": "시간을 초월한 두 이름의 만남, 예거 르쿨트르와 아이유",
     "link": "https://www.marieclairekorea.com/fashion/2026/07/jaeger-lecoultre-iu/",
     "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT",
-    "source": "마리끌레르 코리아",
+    "source": "marieclairekorea.com",
     "domain": "marieclairekorea.com",
-    "thumb": null
+    "thumb": "https://img.marieclairekorea.com/2026/07/mck_6a4f401724124.png"
   },
   {
     "title": "'건강 악화' 아이유, 활동 중단 열흘 만에 공식석상",
@@ -318,5 +294,29 @@
     "source": "중앙일보",
     "domain": "joongang.co.kr",
     "thumb": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202607/25/d52f92d4-be37-445c-9c2e-7091fa26423f.jpg"
+  },
+  {
+    "title": "‘고질병 악화’ 아이유, 콘서트·앨범 잠정 연기···“밤낮으로 증상 계속돼”",
+    "link": "https://www.khan.co.kr/article/202607201937001",
+    "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT",
+    "source": "경향신문",
+    "domain": "khan.co.kr",
+    "thumb": "https://img.khan.co.kr/news/2026/07/20/rcv.YNA.20260406.PYH2026040613870001300_P1.jpg"
+  },
+  {
+    "title": "아이유 “이관개방증 악화”…콘서트 취소하고 앨범 발매 연기",
+    "link": "https://www.donga.com/news/Culture/article/all/20260720/134331660/1",
+    "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT",
+    "source": "donga.com",
+    "domain": "donga.com",
+    "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/20/134331661.1.jpg"
+  },
+  {
+    "title": "아이유, 이관개방증으로 고양 콘서트 취소·앨범 발매 연기",
+    "link": "https://www.yna.co.kr/view/AKR20260720154600005",
+    "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT",
+    "source": "연합뉴스",
+    "domain": "yna.co.kr",
+    "thumb": "https://img8.yna.co.kr/photo/yna/YH/2026/04/06/PYH2026040613870001300_P4.jpg"
   }
 ]
