@@ -72,14 +72,6 @@
     "thumb": "https://cdn.mdtoday.co.kr/news/photo/202608/609068_310111_2634.jpg"
   },
   {
-    "title": "NCT 127, 美 ‘아메리카 갓 탤런트’ 홀렸다…퍼포먼스 신 존재감",
-    "link": "https://m.newsen.com/news_view.php?uid=202608201551262410",
-    "pubDate": "Thu, 20 Aug 2026 06:55:13 GMT",
-    "source": "뉴스엔",
-    "domain": "m.newsen.com",
-    "thumb": null
-  },
-  {
     "title": "NCT 드림, 6인 전원 재계약…\"깊은 믿음 바탕\"",
     "link": "https://www.mediapen.com/news/view/1117717",
     "pubDate": "Thu, 20 Aug 2026 06:20:00 GMT",
@@ -184,6 +176,14 @@
     "thumb": "https://img.etoday.co.kr/pto_db/2026/08/20260820103114_2375628_1199_799.jpg"
   },
   {
+    "title": "NCT 드림, 10년 성장 서사 지킨다…\"깊은 믿음으로 전원 재계약\"",
+    "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008713262",
+    "pubDate": "Thu, 20 Aug 2026 01:40:00 GMT",
+    "source": "news.sbs.co.kr",
+    "domain": "news.sbs.co.kr",
+    "thumb": "https://img.sbs.co.kr/newsnet/etv/upload/2026/08/20/30001082390_16v9.jpg"
+  },
+  {
     "title": "NCT 드림, SM엔터테인먼트와 전속계약 체결로 6인 체제 재편",
     "link": "https://www.2news.co.kr/news/articleView.html?idxno=21801",
     "pubDate": "Thu, 20 Aug 2026 01:40:00 GMT",
@@ -206,6 +206,14 @@
     "source": "뉴스1",
     "domain": "news1.kr",
     "thumb": "https://i3n.news1.kr/system/photos/2026/8/20/8063885/high.jpg"
+  },
+  {
+    "title": "엔시티 드림(NCT DREAM), 전원 재계약 체결…SM \"앞으로도 동행\"",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16168347",
+    "pubDate": "Thu, 20 Aug 2026 01:28:05 GMT",
+    "source": "톱스타뉴스",
+    "domain": "topstarnews.net",
+    "thumb": "https://cdn.topstarnews.net/news/photo/202608/16168347_1997623_2751_crop.jpg"
   },
   {
     "title": "'6인조 재편' NCT 드림, SM과 전원 재계약 완료",
@@ -288,14 +296,6 @@
     "thumb": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/08/20/134509809.1.jpg"
   },
   {
-    "title": "서울부터 방콕까지…‘해결사’ NCT 127이 뜬다",
-    "link": "https://www.sportsworldi.com/newsView/20260820506177",
-    "pubDate": "Thu, 20 Aug 2026 00:09:23 GMT",
-    "source": "스포츠월드",
-    "domain": "sportsworldi.com",
-    "thumb": "https://www.sportsworldi.com/content/image/2026/08/20/20260820522550.jpg"
-  },
-  {
     "title": "NCT 127, ‘BLINGY’ 발매 기념 팝업 오픈",
     "link": "https://www.bntnews.co.kr/article/view/bnt202608200124",
     "pubDate": "Thu, 20 Aug 2026 00:04:32 GMT",
@@ -312,11 +312,11 @@
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/kh/2026/08/19/news-p.v1.20260819.4e209488c7914ce5a1489d8251339b80_P2.jpg"
   },
   {
-    "title": "엑소자임즈, NCT 생산성 10배 향상 발표",
-    "link": "https://kr.investing.com/news/company-news/article-93CH-2066551",
-    "pubDate": "Tue, 18 Aug 2026 20:37:00 GMT",
-    "source": "Investing.com 한국어",
-    "domain": "kr.investing.com",
+    "title": "OUR SUMMER DREAM : NCT DREAM 10TH ANNIVERSARY",
+    "link": "https://weverse.io/nctdream/live/2-178992609",
+    "pubDate": "Tue, 18 Aug 2026 07:01:42 GMT",
+    "source": "Weverse",
+    "domain": "weverse.io",
     "thumb": null
   }
 ]
