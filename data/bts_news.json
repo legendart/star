@@ -8,14 +8,6 @@
     "thumb": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/20/387932ba-8702-42eb-9f23-ea98f1907167.jpg"
   },
   {
-    "title": "BTS가 던진 그래미 논쟁…'아시안 팝' 신설 후폭풍",
-    "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008714212&plink=RSSLINK&cooper=GSTAND",
-    "pubDate": "Thu, 20 Aug 2026 10:36:00 GMT",
-    "source": "news.sbs.co.kr",
-    "domain": "news.sbs.co.kr",
-    "thumb": "https://img.sbs.co.kr/newimg/news/20260820/202214358_1280.jpg"
-  },
-  {
     "title": "BTS 정국·자산가 등 노력 380억 탈취‥해킹조직 총책 1심 징역 20년",
     "link": "https://v.daum.net/v/20260820192508333",
     "pubDate": "Thu, 20 Aug 2026 10:25:08 GMT",
@@ -168,6 +160,14 @@
     "thumb": "https://wimg.sedaily.com/news/cms/2026/08/19/news-p.v1.20260526.ba2c2d4a39b14721bc5bf72fccf98915_R.png"
   },
   {
+    "title": "방탄소년단(BTS) ‘SWIM’, ‘2026 MTV VMA’서 ‘올해의 노래’ 후보 지명",
+    "link": "https://sports.khan.co.kr/article/202608200238003",
+    "pubDate": "Wed, 19 Aug 2026 17:38:00 GMT",
+    "source": "스포츠경향",
+    "domain": "sports.khan.co.kr",
+    "thumb": null
+  },
+  {
     "title": "BTS가 거부한 것은 오래된 기준이었다",
     "link": "https://www.oktimes.co.kr/news/articleView.html?idxno=22017",
     "pubDate": "Wed, 19 Aug 2026 14:27:31 GMT",
@@ -208,12 +208,12 @@
     "thumb": "https://health.chosun.com/site/data/img_dir/2026/08/19/2026081901239_0.jpg"
   },
   {
-    "title": "BTS·블핑 리사 ‘MTV VMA’ 주요 부문 후보…K팝 글로벌 위상 재확인",
-    "link": "https://www.sedaily.com/article/20080736",
-    "pubDate": "Wed, 19 Aug 2026 01:07:11 GMT",
-    "source": "서울경제",
-    "domain": "sedaily.com",
-    "thumb": "https://wimg.sedaily.com/news/cms/2026/08/19/news-p.v1.20260819.cf1a5063c9d54476b3c6918d2df38b38_R.jpg"
+    "title": "구글, 제미나이에 'BTS'와 함께하는 4가지 인터랙티브 경험 선보여",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41508",
+    "pubDate": "Wed, 19 Aug 2026 02:20:07 GMT",
+    "source": "인공지능신문",
+    "domain": "aitimes.kr",
+    "thumb": "https://cdn.aitimes.kr/news/thumbnail/202608/41508_62483_1854_v150.jpg"
   },
   {
     "title": "제미나이 앱에서 방탄소년단과 함께하는 4가지 새로운 인터랙티브 경험을 만나보세요",
@@ -232,20 +232,28 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/19/newsy/20260819075812505rkml.jpg"
   },
   {
+    "title": "BTS, 미 MTV VMA 올해의 노래 후보...리사 4개 부문",
+    "link": "https://www.ytn.co.kr/_ln/0104_202608190409149328",
+    "pubDate": "Tue, 18 Aug 2026 19:09:00 GMT",
+    "source": "YTN",
+    "domain": "ytn.co.kr",
+    "thumb": "https://image.ytn.co.kr/general/jpg/2026/0819/202608190409149328_t.jpg"
+  },
+  {
+    "title": "방탄소년단(BTS) 진, 스포티파이 10억 스트리밍 고지 넘었다",
+    "link": "https://v.daum.net/v/20260819033839815",
+    "pubDate": "Tue, 18 Aug 2026 18:38:39 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/19/sportskhan/20260819033840495zjyp.jpg"
+  },
+  {
     "title": "BTS, 美MTV VMA '올해의 노래' 후보에…리사 4개 부문 올라",
     "link": "https://www.yna.co.kr/view/AKR20260819002600075",
     "pubDate": "Tue, 18 Aug 2026 18:15:27 GMT",
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img8.yna.co.kr/photo/yna/YH/2026/07/20/PYH2026072001420001300_P4.jpg"
-  },
-  {
-    "title": "\"BTS가 옳다\" 쏟아지는 '인종차별' 비판에 그래미 재검토?",
-    "link": "https://v.daum.net/v/0WexkDUZWa",
-    "pubDate": "Tue, 18 Aug 2026 11:45:09 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/18/imbc/20260818204509845imqt.jpg"
   },
   {
     "title": "“그래미, 한국 가수가 미국 상 휩쓰는 상황 두렵나”…BTS 편에 선 유럽",
@@ -278,14 +286,6 @@
     "source": "지큐 코리아 (GQ Korea)",
     "domain": "gqkorea.co.kr",
     "thumb": "https://www.gqkorea.co.kr/wp_data/gq/2026/08/style_6a7d709091512-scaled-1920x1080.jpg?x=1908&y=1396"
-  },
-  {
-    "title": "\"어린왕자 같아\"…BTS 진, 밤하늘 수놓은 응원봉 속 환상적인 비주얼",
-    "link": "https://m.news.nate.com/view/20260816n08131?mid=e0608&issue_sq=9009",
-    "pubDate": "Sun, 16 Aug 2026 07:43:00 GMT",
-    "source": "네이트",
-    "domain": "m.news.nate.com",
-    "thumb": "https://news.nateimg.co.kr/orgImg/sp/2026/08/16/news-p.v1.20260816.0738f2eb99a04b3aa6ef254b0d9d09d2_P1.jpg"
   },
   {
     "title": "그래미, BTS 보이콧에 백기?…아시안 팝 부문 개편 시사",
