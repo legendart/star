@@ -72,14 +72,6 @@
     "thumb": "https://menu.mtn.co.kr/upload/article/2026/08/20/2026082008284588067_00_633.jpg"
   },
   {
-    "title": "BTS 지민, 소아암 어린이와 포옹 그 후…전 세계 팬 1억1700만원 기부",
-    "link": "https://v.daum.net/v/20260821095749481",
-    "pubDate": "Fri, 21 Aug 2026 00:57:49 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/21/sportsdonga/20260821095751253gesw.png"
-  },
-  {
     "title": "84억원 하이브 주가 탈취까지…BTS 정국도 '해킹' 당했다",
     "link": "https://economist.co.kr/article/view/ecn202608210002",
     "pubDate": "Thu, 20 Aug 2026 23:48:00 GMT",
@@ -318,5 +310,13 @@
     "source": "주간조선",
     "domain": "weekly.chosun.com",
     "thumb": "https://cdn.weekly.chosun.com/news/thumbnail/202608/54359_84292_1828_v150.jpg"
+  },
+  {
+    "title": "방탄소년단 : BTS 뷔 청력 이상 호소, '오른쪽 귀 30%밖에 안 들린다'",
+    "link": "https://www.bbc.com/korean/articles/c24m2y51rgpo",
+    "pubDate": "Thu, 13 Aug 2026 08:04:15 GMT",
+    "source": "BBC",
+    "domain": "bbc.com",
+    "thumb": "https://ichef.bbci.co.uk/news/1200/branded_korean/0298/live/61c58c60-96cb-11f1-9bc6-975e8edc7c6e.jpg"
   }
 ]
