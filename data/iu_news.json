@@ -40,22 +40,6 @@
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/ns/2026/08/21/NISI20260821_0002217930_web.jpg"
   },
   {
-    "title": "이종석, 바이크 타고 수영 즐기고…아이유와 결별 이후 첫 근황 포착 - 조선비즈",
-    "link": "https://biz.chosun.com/entertainment/tv/2026/08/21/MRRTKMZVMU2TMZRWGQ4DIMBTGI/",
-    "pubDate": "Fri, 21 Aug 2026 01:10:00 GMT",
-    "source": "Chosunbiz",
-    "domain": "biz.chosun.com",
-    "thumb": "https://biz.chosun.com/resizer/v2/G5SWKOJQHBSDANJZGRSDEOBYMU.jpg?auth=5154bf9a86e9eb92b7e35c7a22ed1c1d1e7ba8b7a38f76417970831ce26f9337&amp;width=900&amp;height=472&amp;smart=true"
-  },
-  {
-    "title": "이종석, 아이유와 결별 한 달만 韓 떠난 근황..웃음 충전한 일상[핫피플]",
-    "link": "https://www.osen.co.kr/article/G1112861122",
-    "pubDate": "Fri, 21 Aug 2026 00:26:00 GMT",
-    "source": "OSEN",
-    "domain": "osen.co.kr",
-    "thumb": "http://file.osen.co.kr/article_thumb/2026/08/21/202608210851776458_6a879b37a1c6e_300x.jpg"
-  },
-  {
     "title": "이종석, 아이유와 '4년 연애' 끝난 그 후…손가락 '검은 반지' 눈길",
     "link": "https://v.daum.net/v/4rESGVrNXE",
     "pubDate": "Thu, 20 Aug 2026 23:31:52 GMT",
@@ -141,7 +125,7 @@
     "pubDate": "Wed, 19 Aug 2026 17:32:46 GMT",
     "source": "동아일보",
     "domain": "donga.com",
-    "thumb": null
+    "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/20/134508782.1.jpg"
   },
   {
     "title": "이연, 아이유와 열애설 이어 공효진과 포옹..\"첫째 언니랑 쇼핑\"",
@@ -152,12 +136,12 @@
     "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=2400,fit=cover,q=high,sharpen=2/21/2026/08/2026081922313513012_1.jpg"
   },
   {
-    "title": "아이유와 같은 질환, 오정연 30년 만에 수술 후 근황 전해",
-    "link": "https://sports.khan.co.kr/article/202608191625003",
-    "pubDate": "Wed, 19 Aug 2026 07:25:00 GMT",
-    "source": "스포츠경향",
-    "domain": "sports.khan.co.kr",
-    "thumb": null
+    "title": "아이유만 그런 게 아니었다…오정연, 30년 앓다 결국 수술",
+    "link": "https://mydaily.co.kr/page/view/2026081915594064037",
+    "pubDate": "Wed, 19 Aug 2026 07:15:22 GMT",
+    "source": "마이데일리",
+    "domain": "mydaily.co.kr",
+    "thumb": "https://mydaily.co.kr/photos/2026/08/19/2026081916132445056_l.jpg"
   },
   {
     "title": "“고등학생 때부터”…오정연, 아이유 앓는 그 병 수술받았다",
@@ -198,6 +182,14 @@
     "source": "네이트",
     "domain": "news.nate.com",
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/nn/2026/08/19/202608191120216710_1.jpg"
+  },
+  {
+    "title": "'결별·건강 악화' 아이유, 핏기 하나 없는 얼굴…볼하트도 버거운 야윈 팔",
+    "link": "https://v.daum.net/v/20260809152252611",
+    "pubDate": "Sun, 09 Aug 2026 07:00:00 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/09/poctan/20260809152252878miqx.jpg"
   },
   {
     "title": "아이유·장원영·손담비도 당했다…기괴한 집단 광기 '억까'의 심리학 [MD 이슈]",
@@ -248,6 +240,14 @@
     "thumb": null
   },
   {
+    "title": "’이종석 결별’ 아이유, 근황 SNS…’전 남친’ 장기하 노래 선곡",
+    "link": "https://www.yonhapnewstv.co.kr/news/AKR20260807102517jKR",
+    "pubDate": "Fri, 07 Aug 2026 07:00:00 GMT",
+    "source": "연합뉴스TV",
+    "domain": "yonhapnewstv.co.kr",
+    "thumb": "https://media.yonhapnewstv.co.kr/article/AKR/20260807/AKR20260807102517jKR_01_i.jpg"
+  },
+  {
     "title": "아이유, 이종석과 결별 후 첫 SNS에 ‘전 연인’ 장기하 소환",
     "link": "https://www.twig24.com/news/entertainments/celebrity/2026/08/06/20260806500216",
     "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT",
@@ -288,12 +288,12 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/06/poctan/20260806154509912gxoa.jpg"
   },
   {
-    "title": "'이종석과 결별' 아이유, SNS엔 전남친 장기하 곡…팬들 '깜짝' - 머니투데이",
-    "link": "https://www.mt.co.kr/entertainment/2026/08/06/2026080617464560128",
+    "title": "아이유, 이종석과 결별 후 SNS에…전 연인 장기하 곡 올렸다",
+    "link": "https://www.hankyung.com/article/202608069372H",
     "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT",
-    "source": "머니투데이",
-    "domain": "mt.co.kr",
-    "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026080617464560128_1.jpg"
+    "source": "한국경제",
+    "domain": "hankyung.com",
+    "thumb": "https://img.hankyung.com/photo/202608/03.43424872.1.jpg"
   },
   {
     "title": "시간을 초월한 두 이름의 만남, 예거 르쿨트르와 아이유",
@@ -301,7 +301,15 @@
     "pubDate": "Wed, 05 Aug 2026 07:00:00 GMT",
     "source": "마리끌레르 코리아",
     "domain": "marieclairekorea.com",
-    "thumb": null
+    "thumb": "https://img.marieclairekorea.com/2026/07/mck_6a4f401724124.png"
+  },
+  {
+    "title": "\"안 떨릴 줄 알았는데\"...'건강 악화' 아이유, 활동중단 열흘 만에 공식 석상",
+    "link": "https://v.daum.net/v/20260801114011705",
+    "pubDate": "Sat, 01 Aug 2026 07:00:00 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/01/fnnewsi/20260801114011574kctx.jpg"
   },
   {
     "title": "'건강 악화' 아이유, 활동 중단 열흘 만에 공식석상",
@@ -310,13 +318,5 @@
     "source": "뉴시스",
     "domain": "newsis.com",
     "thumb": "https://img1.newsis.com/2026/08/01/NISI20260801_0002201716_web.jpg"
-  },
-  {
-    "title": "아이유 “지옥 같았다”…공연 취소 부른 ‘이 병’, 젊은 여성에게 많다는데",
-    "link": "https://biz.heraldcorp.com/article/10819877",
-    "pubDate": "Sat, 25 Jul 2026 07:00:00 GMT",
-    "source": "헤럴드경제",
-    "domain": "biz.heraldcorp.com",
-    "thumb": "https://wimg.heraldcorp.com/news/cms/2026/07/25/news-p.v1.20260725.465629a28c204d0782ee6c6e72bfcaf9_T1.jpg"
   }
 ]
