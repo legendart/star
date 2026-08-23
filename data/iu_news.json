@@ -40,14 +40,6 @@
     "thumb": "http://file.osen.co.kr/article_thumb/2026/08/21/202608210851776458_6a879b37a1c6e_300x.jpg"
   },
   {
-    "title": "이종석, 아이유와 '4년 연애' 끝난 그 후…손가락 '검은 반지' 눈길",
-    "link": "https://v.daum.net/v/4rESGVrNXE",
-    "pubDate": "Thu, 20 Aug 2026 23:31:52 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/21/10asia/20260821083154168xvlr.jpg"
-  },
-  {
     "title": "'아이유와 같은 병' 오정연, 수술 다음날 촬영장 복귀..\"당일 퇴원\" [스타이슈]",
     "link": "https://v.daum.net/v/KLeBPFiPlJ",
     "pubDate": "Thu, 20 Aug 2026 10:23:50 GMT",
@@ -126,6 +118,14 @@
     "source": "헤럴드경제",
     "domain": "biz.heraldcorp.com",
     "thumb": "https://wimg.heraldcorp.com/news/cms/2026/08/19/news-p.v1.20260819.c0d06ef480d644248cb81b888173dc22_T1.jpg"
+  },
+  {
+    "title": "아이유 힘들게 한 이관개방증…오정연도 30년 앓고 수술 \"그 힘듦 알아\"",
+    "link": "https://v.daum.net/v/20260819143754142",
+    "pubDate": "Wed, 19 Aug 2026 05:37:54 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/19/xportsnews/20260819143756036mmwi.jpg"
   },
   {
     "title": "'경주기행' 이연, 아이유와 가짜 열애설에…\"이젠 그냥 즐기는 중\"",
@@ -296,20 +296,20 @@
     "thumb": "https://img1.newsis.com/2026/08/01/NISI20260801_0002201716_web.jpg"
   },
   {
-    "title": "아이유 ‘건강 악화 활동 중단’ 열흘만에 공식석상…“심장 쿵쿵거려”",
-    "link": "https://biz.heraldcorp.com/article/10827820",
-    "pubDate": "Sat, 01 Aug 2026 07:00:00 GMT",
-    "source": "헤럴드경제",
-    "domain": "biz.heraldcorp.com",
-    "thumb": "https://wimg.heraldcorp.com/news/cms/2026/08/01/news-p.v1.20260801.fe9e9b16de184b77a8c2510153295f6b_T1.jpg"
-  },
-  {
     "title": "\"안 떨릴 줄 알았는데\"...'건강 악화' 아이유, 활동중단 열흘 만에 공식 석상",
     "link": "https://v.daum.net/v/20260801114011705",
     "pubDate": "Sat, 01 Aug 2026 07:00:00 GMT",
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/01/fnnewsi/20260801114011574kctx.jpg"
+  },
+  {
+    "title": "아이유 ‘건강 악화 활동 중단’ 열흘만에 공식석상…“심장 쿵쿵거려”",
+    "link": "https://biz.heraldcorp.com/article/10827820",
+    "pubDate": "Sat, 01 Aug 2026 07:00:00 GMT",
+    "source": "헤럴드경제",
+    "domain": "biz.heraldcorp.com",
+    "thumb": "https://wimg.heraldcorp.com/news/cms/2026/08/01/news-p.v1.20260801.fe9e9b16de184b77a8c2510153295f6b_T1.jpg"
   },
   {
     "title": "‘고질병 악화’ 아이유, 콘서트·앨범 잠정 연기···“밤낮으로 증상 계속돼”",
