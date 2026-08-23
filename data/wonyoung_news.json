@@ -40,14 +40,6 @@
     "thumb": "https://wimg.mk.co.kr/news/cms/202608/22/news-p.v1.20260822.226d767d60fa41589938b0caf78ed290_P1.jpg"
   },
   {
-    "title": "아이브 장원영, ‘폭우 속에서도 돋보이는 명품 비주얼’ (인천공항 출국)",
-    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16170404",
-    "pubDate": "Sat, 22 Aug 2026 08:15:00 GMT",
-    "source": "톱스타뉴스",
-    "domain": "topstarnews.net",
-    "thumb": "https://cdn.topstarnews.net/news/photo/202608/16170404_2000049_194_crop.jpg"
-  },
-  {
     "title": "아이브 장원영, ‘명품백을 든 톱스타 재질’ (인천공항 출국)",
     "link": "https://www.topstarnews.net/news/articleView.html?idxno=16170403",
     "pubDate": "Sat, 22 Aug 2026 08:15:00 GMT",
@@ -70,6 +62,14 @@
     "source": "네이트",
     "domain": "news.nate.com",
     "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/aa/2026/08/22/news-p.v1.20260822.cc14f5ef20204787bc960dc6f68a3950_P1.jpg"
+  },
+  {
+    "title": "아이브 장원영, ‘단화 신고도 이정도’…‘갓원영 비율’ (인천공항 출국)",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16170300",
+    "pubDate": "Sat, 22 Aug 2026 05:05:20 GMT",
+    "source": "톱스타뉴스",
+    "domain": "topstarnews.net",
+    "thumb": "https://cdn.topstarnews.net/news/photo/202608/16170300_1999953_3840_crop.jpg"
   },
   {
     "title": "아이브 장원영 ‘모자와 마스크로 다 가려지는 미모’[포토엔HD]",
@@ -213,7 +213,7 @@
     "pubDate": "Sun, 16 Aug 2026 11:11:08 GMT",
     "source": "allure Korea",
     "domain": "allurekorea.com",
-    "thumb": null
+    "thumb": "https://www.allurekorea.com/wp_data/allure/2026/08/style_6a8149da8078a-1920x1080.jpg"
   },
   {
     "title": "“한 시간을 씻고 또 씻어” 장원영 호텔서 한다는 행동, 사실은 ‘독’",
@@ -237,7 +237,7 @@
     "pubDate": "Mon, 10 Aug 2026 07:00:00 GMT",
     "source": "마리끌레르 코리아",
     "domain": "marieclairekorea.com",
-    "thumb": null
+    "thumb": "https://img.marieclairekorea.com/2026/08/mck_6a79a47c7e76f.jpg"
   },
   {
     "title": "장원영 \"억울한 일? 진실은 결국 드러나… 시간 문제라고 생각\"",
@@ -261,7 +261,7 @@
     "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT",
     "source": "엘르 코리아 │ ELLE KOREA",
     "domain": "elle.co.kr",
-    "thumb": null
+    "thumb": "https://www.elle.co.kr/resources/online/thumbnail/hf/2026/08/06/4c2707c2-9b57-48c3-8165-82ca17bb0f8f.jpg"
   },
   {
     "title": "장원영, 얼굴보다 큰 꽃다발 속 \"뭐가 꽃이게\"",
@@ -293,7 +293,7 @@
     "pubDate": "Tue, 28 Jul 2026 07:00:00 GMT",
     "source": "harpersbazaar.co.kr",
     "domain": "harpersbazaar.co.kr",
-    "thumb": null
+    "thumb": "https://www.harpersbazaar.co.kr/resources/online/thumbnail/hf/2026/07/28/e9382a95-bcff-4d10-8dcf-0bef2a569a18.jpg"
   },
   {
     "title": "'바비인형 비주얼' 아이브 장원영, MLB 뉴욕 메츠 경기 시구 [뉴시스Pic]",
