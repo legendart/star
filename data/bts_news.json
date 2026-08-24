@@ -1,13 +1,5 @@
 [
   {
-    "title": "美 일리노이주, 방탄소년단(BTS) 시카고 공연 앞두고 지역 차원 환대",
-    "link": "https://sports.khan.co.kr/article/202608241931003",
-    "pubDate": "Mon, 24 Aug 2026 10:31:00 GMT",
-    "source": "스포츠경향",
-    "domain": "sports.khan.co.kr",
-    "thumb": null
-  },
-  {
     "title": "소노인터내셔널, 뉴욕 호텔서 BTS 테마 프로젝트 마무리",
     "link": "https://www.lawissue.co.kr/view.php?ud=202608241832144762204ead0791_12",
     "pubDate": "Mon, 24 Aug 2026 09:32:52 GMT",
@@ -46,6 +38,14 @@
     "source": "동아일보",
     "domain": "donga.com",
     "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/08/24/134533693.3.png"
+  },
+  {
+    "title": "美 일리노이주, 방탄소년단 시카고 공연일에 'BTS 데이' 지정",
+    "link": "https://www.starnewskorea.com/music/2026/08/24/2026082417014293935",
+    "pubDate": "Mon, 24 Aug 2026 08:19:07 GMT",
+    "source": "starnewskorea.com",
+    "domain": "starnewskorea.com",
+    "thumb": "https://image.starnewskorea.com/21/2026/08/2026082417014293935_1.jpg"
   },
   {
     "title": "美 일리노이주, 방탄소년단 시카고 공연 맞아 'BTS 데이' 선포",
@@ -112,6 +112,14 @@
     "thumb": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/08/24/134532204.1.png"
   },
   {
+    "title": "풀뿌리 팬덤이 이룬 결실…일리노이주, ‘BTS 데이’ 공식 지정",
+    "link": "https://sports.donga.com/ent/article/all/20260824/134531947/1",
+    "pubDate": "Mon, 24 Aug 2026 06:15:59 GMT",
+    "source": "스포츠동아",
+    "domain": "sports.donga.com",
+    "thumb": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/08/24/134532116.1.jpg"
+  },
+  {
     "title": "BTS부터 빅뱅까지...경제·관광 바꾸는 'K팝 투어'",
     "link": "https://www.jayupress.com/news/articleView.html?idxno=53911",
     "pubDate": "Mon, 24 Aug 2026 06:07:00 GMT",
@@ -152,14 +160,6 @@
     "thumb": "https://cdn.topstarnews.net/news/photo/202608/16171843_2001731_1054_crop.jpg"
   },
   {
-    "title": "BTS 보러 뉴욕 왔다가 '소노캄'으로…글로벌 팬심 잡았다",
-    "link": "https://news.tf.co.kr/read/economy/2357114.htm",
-    "pubDate": "Mon, 24 Aug 2026 05:05:27 GMT",
-    "source": "더팩트",
-    "domain": "news.tf.co.kr",
-    "thumb": "https://img.tf.co.kr/article/home/2026/08/24/202693471787535732.jpg"
-  },
-  {
     "title": "소노인터내셔널 ‘33호텔 바이 소노캄’, BTS 뉴욕 콘서트 연계 프로젝트 성료",
     "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=84861",
     "pubDate": "Mon, 24 Aug 2026 01:45:49 GMT",
@@ -192,12 +192,12 @@
     "thumb": "https://www.sentv.co.kr/data/sentv/image/2026/08/24/sentv20260824000029.jpg"
   },
   {
-    "title": "BTS 팬심 품은 뉴욕 호텔…소노인터내셔널, 글로벌 고객 공략",
-    "link": "https://www.etoday.co.kr/news/view/2617239",
-    "pubDate": "Sun, 23 Aug 2026 23:34:00 GMT",
-    "source": "이투데이",
-    "domain": "etoday.co.kr",
-    "thumb": "https://img.etoday.co.kr/pto_db/2026/08/20260824083235_2376936_1181_1125.jpg"
+    "title": "BTS 팬심 잡은 소노인터내셔널…뉴욕 호텔서 ‘K-호스피탈리티’ 알렸다",
+    "link": "https://www.fntimes.com/html/view.php?ud=202608240920351936b5b890e35c_18",
+    "pubDate": "Mon, 24 Aug 2026 00:22:19 GMT",
+    "source": "한국금융신문",
+    "domain": "fntimes.com",
+    "thumb": "https://cfnimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&amp;idx=999&amp;simg=20260824092112054950b5b890e35c21823832217.jpg&amp;nmt=18"
   },
   {
     "title": "토론토시, 'BTS 위켄드' 선포…\"도시 명물, 보랏빛 물든다\"",
@@ -232,14 +232,6 @@
     "thumb": "https://media.yonhapnewstv.co.kr/article/MYH/20260823/MYH20260824052518Cu4.jpg"
   },
   {
-    "title": "BTS 투어로 사상 최대 찍은 하이브…높아진 '실적 눈높이' 어쩌나 : 네이버 블로그",
-    "link": "https://blog.naver.com/PostView.naver?blogId=dealsite&logNo=224387795301&redirect=Dlog",
-    "pubDate": "Sun, 23 Aug 2026 19:22:31 GMT",
-    "source": "Naver Blog",
-    "domain": "blog.naver.com",
-    "thumb": "https://blogthumb.pstatic.net/MjAyNjA4MjNfMjIw/MDAxNzg3NDkxMjk5MzA5._fXGty_tH6tKvtu2X_nWf8TTwUnerMKXN-CnCiOQxHog.Nu4y0-3S9NMYtAsRKlSwzRnhAofjuP6SzsCQ-SS-13Ig.JPEG/AKR20260328036100005_01_i_P4.jpg?type=w2"
-  },
-  {
     "title": "BTS 진, ‘ARIRANG’ 투어 현장 장난기 가득 무대 셀카 공개",
     "link": "https://www.topstarnews.net/news/articleView.html?idxno=16171126",
     "pubDate": "Sun, 23 Aug 2026 19:14:16 GMT",
@@ -248,12 +240,28 @@
     "thumb": "https://cdn.topstarnews.net/news/photo/202608/16171126_2000928_1356_crop.jpg"
   },
   {
+    "title": "캐나다 토론토, ’BTS 위켄드’ 선포·’BTS 대로’ 지정",
+    "link": "https://www.yonhapnewstv.co.kr/news/AKR20260823223308pRO",
+    "pubDate": "Sun, 23 Aug 2026 13:34:00 GMT",
+    "source": "연합뉴스TV",
+    "domain": "yonhapnewstv.co.kr",
+    "thumb": "https://media.yonhapnewstv.co.kr/article/AKR/20260823/AKR20260823223308pRO_01_i.jpg"
+  },
+  {
     "title": "뷔·정국·제이홉, 무대 뒤 이 비주얼 실화?…숨멎게 한 BTS 쓰리샷",
     "link": "https://www.chosun.com/entertainments/broadcast/2026/08/23/GY2GCODDGQ2DCOLCMVRGGOBWGA/",
     "pubDate": "Sun, 23 Aug 2026 13:08:00 GMT",
     "source": "조선일보",
     "domain": "chosun.com",
     "thumb": "https://www.chosun.com/resizer/v2/GM4GEMTCGI3GIYJUMVRDMMZXMQ.png?auth=6d4fc16b206788a66662e5fc0756a7d67b1aa8ff6a4e1db3325759f866dd0159&amp;width=530&amp;height=278&amp;smart=true"
+  },
+  {
+    "title": "\"BTS 지민에게 키스 받았어!\" 환호…그리고 이어진 기부 행렬",
+    "link": "https://v.daum.net/v/20260823173927639",
+    "pubDate": "Sun, 23 Aug 2026 08:39:27 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/23/mbn/20260823173929626wsai.png"
   },
   {
     "title": "“어메이징!” BTS 지민의 응원 뒤…소아암 팬 위해 퍼진 ‘보랏빛 기적’",
@@ -286,14 +294,6 @@
     "source": "starnewskorea.com",
     "domain": "starnewskorea.com",
     "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=776,fit=cover,q=high,sharpen=2/21/2026/08/2026082308074485607_4.jpg"
-  },
-  {
-    "title": "방탄소년단 지민, '제미나이' 활용해 팬들과 깊이 있는 소통..진정성 담은 진면모",
-    "link": "https://www.starnewskorea.com/star/2026/08/23/2026082307494924193",
-    "pubDate": "Sat, 22 Aug 2026 22:54:16 GMT",
-    "source": "starnewskorea.com",
-    "domain": "starnewskorea.com",
-    "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=639,fit=cover,q=high,sharpen=2/21/2026/08/2026082307494924193_1.jpg"
   },
   {
     "title": "결국 BTS 없이 간다…끝내 침묵한 '반쪽짜리' 그래미",
