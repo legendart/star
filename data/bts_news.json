@@ -32,14 +32,6 @@
     "thumb": "http://www.ujeil.com/news/thumbnail/202608/390924_200101_1232_v150.jpg"
   },
   {
-    "title": "송강 \"군 시절 BTS 뷔 외출 맞춰 PC방, 밥? 뷔가 사더라\"(살롱드립)",
-    "link": "https://news.nate.com/view/20260825n32991?mid=e0608&isq=9009",
-    "pubDate": "Tue, 25 Aug 2026 10:54:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/st/2026/08/25/25_1085136_32575.jpg"
-  },
-  {
     "title": "송강, BTS 뷔와 군대서 `찐친` 됐다…\"외출까지 맞춰 PC방 데이트, 밥값은 주로 뷔가\"",
     "link": "https://www.mydaily.co.kr/page/view/2026082518561155662",
     "pubDate": "Tue, 25 Aug 2026 10:24:46 GMT",
@@ -72,20 +64,20 @@
     "thumb": null
   },
   {
-    "title": "BTS RM도 빠진 ‘병의 화가’...조르조 모란디, 12년 만에 서울에서 만난다",
-    "link": "https://www.nc.press/news/articleView.html?idxno=624687",
-    "pubDate": "Tue, 25 Aug 2026 07:37:56 GMT",
-    "source": "뉴스컬처",
-    "domain": "nc.press",
-    "thumb": "https://cdn.nc.press/news/photo/202608/624687_855138_3621.jpg"
-  },
-  {
     "title": "\"BTS에 더이상 그래미 필요없어\"…김태훈, '그래미 보이콧' 평가",
     "link": "https://v.daum.net/v/20260825162643072",
     "pubDate": "Tue, 25 Aug 2026 07:26:43 GMT",
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/25/spotvnews/20260825162649475neff.png"
+  },
+  {
+    "title": "BTS 지민, 소아암 환아에 ‘볼 뽀뽀’하자…성금 1억 3천만 원 모여",
+    "link": "https://star.ytn.co.kr/_sn/0117_202608251626414129",
+    "pubDate": "Tue, 25 Aug 2026 07:26:00 GMT",
+    "source": "YTN",
+    "domain": "star.ytn.co.kr",
+    "thumb": "https://image.ytn.co.kr/general/jpg/2026/0825/202608251626414129_t.jpg"
   },
   {
     "title": "마크롱·멕시코 대통령 이어 美 주지사까지…전 세계가 'BTS 모시기' 나선 이유",
@@ -102,6 +94,14 @@
     "source": "연합뉴스TV",
     "domain": "yonhapnewstv.co.kr",
     "thumb": "https://media.yonhapnewstv.co.kr/article/MYH/20260825/MYH20260825143828jWi.jpg"
+  },
+  {
+    "title": "“후원금 1억 모였다”…BTS 지민 소아암 환아에 볼 뽀뽀하자 [이런뉴스]",
+    "link": "https://news.kbs.co.kr/news/view.do?ncd=8645444",
+    "pubDate": "Tue, 25 Aug 2026 05:25:00 GMT",
+    "source": "KBS 뉴스",
+    "domain": "news.kbs.co.kr",
+    "thumb": "http://news.kbs.co.kr/data/fckeditor/vod/2026/08/25/338791787634693769.png"
   },
   {
     "title": "BTS 지민 ‘볼뽀뽀’의 기적…소아암 환아에 기부금 1억 모였다",
@@ -224,14 +224,6 @@
     "thumb": null
   },
   {
-    "title": "소노인터내셔널, 뉴욕 '33호텔'서 BTS 콘서트 연계 프로모션 성료",
-    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3672948",
-    "pubDate": "Mon, 24 Aug 2026 07:43:23 GMT",
-    "source": "gukjenews.com",
-    "domain": "gukjenews.com",
-    "thumb": "https://cdn.gukjenews.com/news/thumbnail/202608/3672948_3841292_4044_v150.jpg"
-  },
-  {
     "title": "BTS 토론토 주말 공연에 10만 팬 열광",
     "link": "https://www.koreatimes.net/ArticleViewer/Article/179005",
     "pubDate": "Mon, 24 Aug 2026 06:57:00 GMT",
@@ -278,6 +270,14 @@
     "source": "연합뉴스TV",
     "domain": "yonhapnewstv.co.kr",
     "thumb": "https://media.yonhapnewstv.co.kr/article/MYH/20260823/MYH20260824052518Cu4.jpg"
+  },
+  {
+    "title": "캐나다 토론토, 'BTS 위켄드' 선포·'BTS 대로' 지정",
+    "link": "https://v.daum.net/v/20260823223507963",
+    "pubDate": "Sun, 23 Aug 2026 13:35:07 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/23/newsy/20260823223510150itek.jpg"
   },
   {
     "title": "캐나다 토론토, 방탄소년단 공연 맞아 'BTS 위켄드' 선포",

@@ -88,6 +88,14 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/24/HockeyNewsKorea/20260824181612199lhod.jpg"
   },
   {
+    "title": "아이유, 이종석과 결별 후 빅뱅 콘서트서 포착…GD와 남다른 의리",
+    "link": "https://news.nate.com/view/20260824n26628",
+    "pubDate": "Mon, 24 Aug 2026 07:22:00 GMT",
+    "source": "네이트",
+    "domain": "news.nate.com",
+    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/hm/2026/08/24/news-p.v1.20260824.c4d5d8c5abc14ab4adca382259cf0ba4_P1.png"
+  },
+  {
     "title": "이종석과 결별 한달만…아이유, GD 만나러 갔다 '빅뱅콘 직관 포착'",
     "link": "https://news.nate.com/view/20260824n16295",
     "pubDate": "Mon, 24 Aug 2026 03:28:00 GMT",
@@ -216,6 +224,14 @@
     "thumb": "https://img.seoul.co.kr//img/upload/2026/08/06/SSC_20260806170352.jpg.webp"
   },
   {
+    "title": "수척해진 아이유, 이종석과 결별 후 첫 SNS 게시물 보니…",
+    "link": "https://www.mk.co.kr/news/culture/12119243",
+    "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT",
+    "source": "매일경제",
+    "domain": "mk.co.kr",
+    "thumb": "https://pimg.mk.co.kr/news/cms/202608/06/news-p.v1.20260806.16a899116fd44830921c16f178b5c2b4_R.jpg"
+  },
+  {
     "title": "아이유, 1달 만에 올린 SNS가 사진 46장·영상 1개…\"오랜만\" 결별·건강 악화 극복했나",
     "link": "https://v.daum.net/v/20260806171409345",
     "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT",
@@ -238,22 +254,6 @@
     "source": "헤럴드경제",
     "domain": "biz.heraldcorp.com",
     "thumb": "https://wimg.heraldcorp.com/news/cms/2026/08/06/rcv.YNA.20260406.PYH2026040613880001300_T1.jpg"
-  },
-  {
-    "title": "'결별' 아이유, 얼굴에 드러난 건강 악화…\"열심히 사는 중\" 꽉 채운 46장",
-    "link": "https://v.daum.net/v/20260806154509267?f=m",
-    "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/06/poctan/20260806154509912gxoa.jpg"
-  },
-  {
-    "title": "'이종석과 결별' 아이유, SNS엔 전남친 장기하 곡…팬들 '깜짝' - 머니투데이",
-    "link": "https://www.mt.co.kr/entertainment/2026/08/06/2026080617464560128",
-    "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT",
-    "source": "머니투데이",
-    "domain": "mt.co.kr",
-    "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/08/2026080617464560128_1.jpg"
   },
   {
     "title": "'건강 악화' 아이유, 활동 중단 열흘 만에 공식석상",
@@ -296,20 +296,20 @@
     "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/07/20/134331661.1.jpg"
   },
   {
-    "title": "‘고질병 악화’ 아이유, 콘서트·앨범 잠정 연기···“밤낮으로 증상 계속돼”",
-    "link": "https://www.khan.co.kr/article/202607201937001",
-    "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT",
-    "source": "경향신문",
-    "domain": "khan.co.kr",
-    "thumb": "https://img.khan.co.kr/news/2026/07/20/rcv.YNA.20260406.PYH2026040613870001300_P1.jpg"
-  },
-  {
     "title": "아이유, 이관개방증으로 고양 콘서트 취소·앨범 발매 연기",
     "link": "https://www.yna.co.kr/view/AKR20260720154600005",
     "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT",
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img8.yna.co.kr/photo/yna/YH/2026/04/06/PYH2026040613870001300_P4.jpg"
+  },
+  {
+    "title": "‘고질병 악화’ 아이유, 콘서트·앨범 잠정 연기···“밤낮으로 증상 계속돼”",
+    "link": "https://www.khan.co.kr/article/202607201937001",
+    "pubDate": "Mon, 20 Jul 2026 07:00:00 GMT",
+    "source": "경향신문",
+    "domain": "khan.co.kr",
+    "thumb": "https://img.khan.co.kr/news/2026/07/20/rcv.YNA.20260406.PYH2026040613870001300_P1.jpg"
   },
   {
     "title": "아이유·이종석, 4년 만에 결별…\"좋은 동료로 남기로\"",
