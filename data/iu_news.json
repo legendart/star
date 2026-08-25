@@ -88,14 +88,6 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/24/HockeyNewsKorea/20260824181612199lhod.jpg"
   },
   {
-    "title": "아이유, 이종석과 결별 후 빅뱅 콘서트서 포착…GD와 남다른 의리",
-    "link": "https://news.nate.com/view/20260824n26628",
-    "pubDate": "Mon, 24 Aug 2026 07:22:00 GMT",
-    "source": "네이트",
-    "domain": "news.nate.com",
-    "thumb": "https://thumbnews.nateimg.co.kr/view610///news.nateimg.co.kr/orgImg/hm/2026/08/24/news-p.v1.20260824.c4d5d8c5abc14ab4adca382259cf0ba4_P1.png"
-  },
-  {
     "title": "이종석과 결별 한달만…아이유, GD 만나러 갔다 '빅뱅콘 직관 포착'",
     "link": "https://news.nate.com/view/20260824n16295",
     "pubDate": "Mon, 24 Aug 2026 03:28:00 GMT",
@@ -168,22 +160,6 @@
     "thumb": "https://pimg.mk.co.kr/news/cms/202608/21/news-p.v1.20260821.81cd17f4c7364651970803388cd4527b_R.jpg"
   },
   {
-    "title": "이종석, 아이유와 결별 한 달만 韓 떠난 근황..웃음 충전한 일상[핫피플]",
-    "link": "https://www.osen.co.kr/article/G1112861122",
-    "pubDate": "Fri, 21 Aug 2026 00:26:00 GMT",
-    "source": "OSEN",
-    "domain": "osen.co.kr",
-    "thumb": "http://file.osen.co.kr/article_thumb/2026/08/21/202608210851776458_6a879b37a1c6e_300x.jpg"
-  },
-  {
-    "title": "'아이유와 같은 병' 오정연, 수술 다음날 촬영장 복귀..\"당일 퇴원\" [스타이슈]",
-    "link": "https://www.starnewskorea.com/star/2026/08/20/2026082019072721367",
-    "pubDate": "Thu, 20 Aug 2026 10:21:41 GMT",
-    "source": "starnewskorea.com",
-    "domain": "starnewskorea.com",
-    "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=1550,fit=cover,q=high,sharpen=2/21/2026/08/2026082019072721367_1.jpg"
-  },
-  {
     "title": "'경주기행' 이연 \"아이유와 데이트? 가짜 열애설까지 나와…즐기는 중\"",
     "link": "https://www.news1.kr/entertain/movie/6262980",
     "pubDate": "Thu, 20 Aug 2026 01:25:31 GMT",
@@ -248,6 +224,14 @@
     "thumb": "https://img.seoul.co.kr//img/upload/2026/08/06/SSC_20260806170352.jpg.webp"
   },
   {
+    "title": "수척해진 아이유, 이종석과 결별 후 첫 SNS 게시물 보니…",
+    "link": "https://www.mk.co.kr/news/culture/12119243",
+    "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT",
+    "source": "매일경제",
+    "domain": "mk.co.kr",
+    "thumb": "https://pimg.mk.co.kr/news/cms/202608/06/news-p.v1.20260806.16a899116fd44830921c16f178b5c2b4_R.jpg"
+  },
+  {
     "title": "아이유, 1달 만에 올린 SNS가 사진 46장·영상 1개…\"오랜만\" 결별·건강 악화 극복했나",
     "link": "https://v.daum.net/v/20260806171409345",
     "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT",
@@ -264,12 +248,28 @@
     "thumb": "https://img1.newsis.com/2026/08/06/NISI20260806_0002206196_web.jpg"
   },
   {
+    "title": "'결별' 아이유, 얼굴에 드러난 건강 악화…\"열심히 사는 중\" 꽉 채운 46장",
+    "link": "https://v.daum.net/v/20260806154509267?f=m",
+    "pubDate": "Thu, 06 Aug 2026 07:00:00 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/06/poctan/20260806154509912gxoa.jpg"
+  },
+  {
     "title": "'건강 악화' 아이유, 활동 중단 열흘 만에 공식석상",
     "link": "https://www.newsis.com/view/NISX20260801_0003732478",
     "pubDate": "Sat, 01 Aug 2026 07:00:00 GMT",
     "source": "뉴시스",
     "domain": "newsis.com",
     "thumb": "https://img1.newsis.com/2026/08/01/NISI20260801_0002201716_web.jpg"
+  },
+  {
+    "title": "아이유 ‘건강 악화 활동 중단’ 열흘만에 공식석상…“심장 쿵쿵거려”",
+    "link": "https://biz.heraldcorp.com/article/10827820",
+    "pubDate": "Sat, 01 Aug 2026 07:00:00 GMT",
+    "source": "헤럴드경제",
+    "domain": "biz.heraldcorp.com",
+    "thumb": "https://wimg.heraldcorp.com/news/cms/2026/08/01/news-p.v1.20260801.fe9e9b16de184b77a8c2510153295f6b_T1.jpg"
   },
   {
     "title": "아이유 “지옥 같았다”…공연 취소 부른 ‘이 병’, 젊은 여성에게 많다는데",
