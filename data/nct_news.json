@@ -1,5 +1,13 @@
 [
   {
+    "title": "초심으로 돌아온 ‘NCT 127’…경수진·신슬기 첫 연극 도전, 하지원 스크린 복귀",
+    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8646178",
+    "pubDate": "Tue, 25 Aug 2026 22:44:00 GMT",
+    "source": "KBS 뉴스",
+    "domain": "news.kbs.co.kr",
+    "thumb": "http://news.kbs.co.kr/data/news/2026/08/26/20260826_g8aqYt.png"
+  },
+  {
     "title": "필승 카드 꺼낸 NCT 127, 더 '네오'해진 5인 한정판 [TEN스타필드]",
     "link": "https://www.tenasia.co.kr/article/2026082518394",
     "pubDate": "Tue, 25 Aug 2026 10:00:00 GMT",
@@ -86,14 +94,6 @@
     "source": "스포츠동아",
     "domain": "sports.donga.com",
     "thumb": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/08/25/134537944.1.jpg"
-  },
-  {
-    "title": "NCT 127, 한중일 차트 휩쓸었다⋯컴백 라이브 파티로 활동 본격 시동",
-    "link": "https://www.etoday.co.kr/news/view/2617801?trc=right_categori_news",
-    "pubDate": "Tue, 25 Aug 2026 01:24:00 GMT",
-    "source": "이투데이",
-    "domain": "etoday.co.kr",
-    "thumb": "https://img.etoday.co.kr/pto_db/2026/08/20260825101910_2377709_1200_1600.jpg"
   },
   {
     "title": "NCT 127, 정규 7집 발매",
@@ -200,6 +200,14 @@
     "thumb": "https://pimg.mk.co.kr/news/cms/202608/24/news-p.v1.20260824.a8f1cb4c657f4e22a89caaee86053617_R.jpg"
   },
   {
+    "title": "\"더 단단해질 것\" 10주년 맞은 NCT 127, 전원 재계약 후 첫 컴백",
+    "link": "https://v.daum.net/v/tA75keWIHg?f=p",
+    "pubDate": "Mon, 24 Aug 2026 03:14:38 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/24/NEWS1/20260824121440594jtsh.jpg"
+  },
+  {
     "title": "NCT 127, '탈퇴' 마크 언급 \"10년 동안 고생, 존경…각자 길 존중\"[현장EN:]",
     "link": "https://v.daum.net/v/20260824121200216?f=p",
     "pubDate": "Mon, 24 Aug 2026 03:12:00 GMT",
@@ -245,7 +253,7 @@
     "pubDate": "Mon, 24 Aug 2026 02:47:00 GMT",
     "source": "JTBC",
     "domain": "news.jtbc.co.kr",
-    "thumb": null
+    "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202608/24/d091eeb9-af92-4327-9e49-5473af756505.jpg"
   },
   {
     "title": "NCT 127 태용 \"'탈퇴' 마크 개인적으로 존경, 응원한다\"",
@@ -264,14 +272,6 @@
     "thumb": "https://biz.chosun.com/resizer/v2/GI4DKOBXGBSTSYJTMY4TAMLGHA.jpg?auth=c592e56de3c49c8b74b646f31b83b6535a21f97e430e2b5916a973083522730f&amp;width=572&amp;height=300&amp;smart=true"
   },
   {
-    "title": "NCT 127, '어느덧 데뷔 10주년' - 조선비즈",
-    "link": "https://biz.chosun.com/entertainment/entertainment_photo/2026/08/24/GJTGCOJQGAYDIMJVHFSDQNRWG4/?outputType=amp",
-    "pubDate": "Mon, 24 Aug 2026 02:41:00 GMT",
-    "source": "Chosunbiz",
-    "domain": "biz.chosun.com",
-    "thumb": "https://biz.chosun.com/resizer/v2/HBRDQMJUHE3TANTDG42WIYRVMU.jpg?auth=210e8f4a39632b7ad9985dcacb8d2cbce3a577c4453a1d6fb90853b703a5888d&amp;width=650&amp;height=341&amp;smart=true"
-  },
-  {
     "title": "NCT 127 재현, \"해찬 이 자세로 3분 촬영해\" - 조선비즈",
     "link": "https://biz.chosun.com/entertainment/entertainment_photo/2026/08/24/MMYTMNRVMI4TONRWMUYDEMRTGA/?outputType=amp",
     "pubDate": "Mon, 24 Aug 2026 02:26:00 GMT",
@@ -285,7 +285,7 @@
     "pubDate": "Mon, 24 Aug 2026 02:25:00 GMT",
     "source": "JTBC",
     "domain": "news.jtbc.co.kr",
-    "thumb": null
+    "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202608/24/b4d6af6a-cce5-4c09-9826-0105f4822798.jpg"
   },
   {
     "title": "'데뷔 10주년' NCT 127 \"초심 찾으려…안무 역대급으로 힘들어\"",
@@ -317,6 +317,6 @@
     "pubDate": "Sun, 23 Aug 2026 23:42:00 GMT",
     "source": "JTBC",
     "domain": "news.jtbc.co.kr",
-    "thumb": null
+    "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202608/24/f696b3f7-4f59-4098-9693-81961ce37a16.jpg"
   }
 ]
