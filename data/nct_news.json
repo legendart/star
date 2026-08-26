@@ -80,14 +80,6 @@
     "thumb": "http://news.kbs.co.kr/data/news/2026/08/26/20260826_g8aqYt.png"
   },
   {
-    "title": "필승 카드 꺼낸 NCT 127, 더 '네오'해진 5인 한정판 [TEN스타필드]",
-    "link": "https://www.tenasia.co.kr/article/2026082518394",
-    "pubDate": "Tue, 25 Aug 2026 10:00:00 GMT",
-    "source": "텐아시아",
-    "domain": "tenasia.co.kr",
-    "thumb": "https://img.tenasia.co.kr/photo/202608/BF.45445656.1.jpg"
-  },
-  {
     "title": "NCT 127 “‘군 공백’ 도영·정우, 단톡방으로 앨범 피드백…소중한 목소리들” - 스타투데이",
     "link": "https://www.mk.co.kr/news/musics/12134632",
     "pubDate": "Tue, 25 Aug 2026 08:44:48 GMT",
@@ -128,6 +120,22 @@
     "thumb": null
   },
   {
+    "title": "NCT 127, 'BLINGY' 컴백 라이브 파티 개최",
+    "link": "https://www.newsinside.kr/news/articleView.html?idxno=4945154",
+    "pubDate": "Tue, 25 Aug 2026 05:06:12 GMT",
+    "source": "뉴스인사이드",
+    "domain": "newsinside.kr",
+    "thumb": "https://cdn.newsinside.kr/news/photo/202608/4945154_939635_65.jpg"
+  },
+  {
+    "title": "NCT 127, 오늘(25일) 컴백 라이브 파티 개최..'Blingy' 무대 공개 - 조선비즈",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/08/25/MRQTCZBXHBRTQMZYMIYDIZBZMY/",
+    "pubDate": "Tue, 25 Aug 2026 04:50:00 GMT",
+    "source": "Chosunbiz",
+    "domain": "biz.chosun.com",
+    "thumb": "https://biz.chosun.com/resizer/v2/MZSGCOLEHEYGKMDBMMZTMYJYGQ.jpg?auth=9e0375ee018e2eaffafd7ea929649b0b6d26c52faf3e8d55c2292046baab02fa&amp;width=572&amp;height=300&amp;smart=true"
+  },
+  {
     "title": "NCT 127, 정규 7집 발매",
     "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6847063_37012.html",
     "pubDate": "Mon, 24 Aug 2026 21:53:49 GMT",
@@ -142,14 +150,6 @@
     "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
-  },
-  {
-    "title": "NCT 쟈니, ‘블링이’ 포즈로 치명 매력…월드클래스 행보 잇는 근황",
-    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16172340",
-    "pubDate": "Mon, 24 Aug 2026 13:54:41 GMT",
-    "source": "톱스타뉴스",
-    "domain": "topstarnews.net",
-    "thumb": "https://cdn.topstarnews.net/news/photo/202608/16172340_2002341_5414_crop.jpg"
   },
   {
     "title": "10주년 맞은 NCT 127…\"초심으로 돌아가 더 단단하게\"",
@@ -224,14 +224,6 @@
     "thumb": null
   },
   {
-    "title": "마크 탈퇴에도 견고…‘10주년’ NCT 127 “멋 없으면 무대 안 해요” [현장 LIVE] - 스타투데이",
-    "link": "https://www.mk.co.kr/news/musics/12134641",
-    "pubDate": "Mon, 24 Aug 2026 03:19:59 GMT",
-    "source": "매일경제",
-    "domain": "mk.co.kr",
-    "thumb": "https://pimg.mk.co.kr/news/cms/202608/24/news-p.v1.20260824.a8f1cb4c657f4e22a89caaee86053617_R.jpg"
-  },
-  {
     "title": "NCT 127, '탈퇴' 마크 언급 \"10년 동안 고생, 존경…각자 길 존중\"[현장EN:]",
     "link": "https://v.daum.net/v/20260824121200216?f=p",
     "pubDate": "Mon, 24 Aug 2026 03:12:00 GMT",
@@ -304,12 +296,20 @@
     "thumb": "https://img.hankyung.com/photo/202608/01.45431625.1.jpg"
   },
   {
-    "title": "데뷔 10주년 맞이한 NCT 127 - 조선비즈",
-    "link": "https://biz.chosun.com/entertainment/entertainment_photo/2026/08/24/MM2TGODCGRRWCYLEMU2GMNTGGI/?outputType=amp",
-    "pubDate": "Mon, 24 Aug 2026 02:11:00 GMT",
-    "source": "Chosunbiz",
-    "domain": "biz.chosun.com",
-    "thumb": "https://biz.chosun.com/resizer/v2/GA2TGYRTG5RWKNRQGFTDCYTBGE.jpg?auth=df026be44586f51becd91384249d6b2ae8a13ad7b62eebf61cd2c8129c372034&amp;width=650&amp;height=341&amp;smart=true"
+    "title": "NCT 127 유타 '역대급 퍼포먼스'[엑's HD포토]",
+    "link": "https://www.xportsnews.com/article/2187228",
+    "pubDate": "Mon, 24 Aug 2026 02:18:40 GMT",
+    "source": "xportsnews.com",
+    "domain": "xportsnews.com",
+    "thumb": "https://image.xportsnews.com/contents/images/upload/article/2026/0824/1787537887633044.webp"
+  },
+  {
+    "title": "NCT 127, 정규 '블링이'로 컴백 [사진]",
+    "link": "https://v.daum.net/v/UIfg4LZvlQ",
+    "pubDate": "Mon, 24 Aug 2026 02:11:52 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/24/poctan/20260824111153788hhsz.jpg"
   },
   {
     "title": "‘컴백’ NCT 127, ‘원팀’으로 다시 서울에 집결",
