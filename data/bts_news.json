@@ -128,14 +128,6 @@
     "thumb": "http://news.kbs.co.kr/data/news/2026/08/26/20260826_TzWzYs.png"
   },
   {
-    "title": "BTS 티켓 2600장 매크로로 부정 예매…4억4200만원 챙긴 30대 검찰 송치",
-    "link": "http://www.snakorea.com/news/articleView.html?idxno=1045321",
-    "pubDate": "Wed, 26 Aug 2026 05:16:39 GMT",
-    "source": "서울뉴스통신",
-    "domain": "snakorea.com",
-    "thumb": "https://cdn.snakorea.com/news/thumbnail/202608/1045321_992370_1358_v150.jpg"
-  },
-  {
     "title": "BTS 티켓 매크로 부정예매…4억 불법수익 낸 30대女 송치",
     "link": "https://www.joongang.co.kr/article/25456317",
     "pubDate": "Wed, 26 Aug 2026 05:11:26 GMT",
@@ -174,6 +166,14 @@
     "source": "파이낸셜뉴스",
     "domain": "fnnews.com",
     "thumb": "https://image.fnnews.com/resource/media/image/2026/04/09/202604090500444895_e.jpg"
+  },
+  {
+    "title": "BTS 등 공연티켓 매크로 돌려 구매…4억 수익 낸 30대 송치",
+    "link": "https://www.newsis.com/view/NISX20260826_0003763409",
+    "pubDate": "Wed, 26 Aug 2026 04:43:43 GMT",
+    "source": "뉴시스",
+    "domain": "newsis.com",
+    "thumb": "https://img1.newsis.com/2026/03/21/NISI20260321_0021217369_web.jpg"
   },
   {
     "title": "BTS 광화문 공연까지…티켓 '2600매' 부정예매한 30대 송치 - 머니투데이",
@@ -304,19 +304,19 @@
     "thumb": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/25/977a3d7e-ce1f-40c7-b6a4-185bb772962c.jpg"
   },
   {
+    "title": "시카고 오는 BTS ’대환영’…미 일리노이주, 공연일 ’BTS 데이’ 지정",
+    "link": "https://www.yonhapnewstv.co.kr/news/AKR20260824152253gQu",
+    "pubDate": "Mon, 24 Aug 2026 06:22:00 GMT",
+    "source": "연합뉴스TV",
+    "domain": "yonhapnewstv.co.kr",
+    "thumb": "https://media.yonhapnewstv.co.kr/article/AKR/20260824/AKR20260824152253gQu_01_i.jpg"
+  },
+  {
     "title": "캐나다 토론토, 방탄소년단 공연 맞아 'BTS 위켄드' 선포",
     "link": "https://www.yna.co.kr/view/AKR20260823036800005",
     "pubDate": "Sun, 23 Aug 2026 07:28:26 GMT",
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img6.yna.co.kr/etc/inner/KR/2026/08/23/AKR20260823036800005_01_i_P4.jpg"
-  },
-  {
-    "title": "결국 BTS 없이 간다…끝내 침묵한 ‘반쪽짜리’ 그래미",
-    "link": "https://news.jtbc.co.kr/article/NB12314581",
-    "pubDate": "Sat, 22 Aug 2026 11:11:00 GMT",
-    "source": "JTBC",
-    "domain": "news.jtbc.co.kr",
-    "thumb": "https://thumb.jtbc.co.kr/photo/r600x0/news/cms/etc/2026/08/22/20260822191041926001.jpg"
   }
 ]
