@@ -1,5 +1,13 @@
 [
   {
+    "title": "BTS 광화문 콘서트까지…매크로 돌려 아이돌 공연 2600여장 ‘싹쓸이’",
+    "link": "https://www.nongmin.com/article/20260826500457",
+    "pubDate": "Wed, 26 Aug 2026 09:22:00 GMT",
+    "source": "농민신문",
+    "domain": "nongmin.com",
+    "thumb": "https://www.nongmin.com/-/raw/srv-nongmin/data2/content/image/2026/08/26/.cache/512/20260826500443.jpg"
+  },
+  {
     "title": "BTS RM의 삶을 바꾼 '책' 10",
     "link": "https://www.esquirekorea.co.kr/article/1908616",
     "pubDate": "Wed, 26 Aug 2026 09:00:00 GMT",
@@ -64,14 +72,6 @@
     "thumb": "https://image.imnews.imbc.com/news/2026/society/article/__icsFiles/afieldfile/2026/08/26/jhp_20260826_2.jpg"
   },
   {
-    "title": "BTS 제이홉, 토론토 무대 위 환한 미소…‘ARIRANG’ 월드투어 열기 잇는다",
-    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16174028",
-    "pubDate": "Wed, 26 Aug 2026 05:47:00 GMT",
-    "source": "톱스타뉴스",
-    "domain": "topstarnews.net",
-    "thumb": "https://cdn.topstarnews.net/news/photo/202608/16174028_2004367_4633_crop.jpg"
-  },
-  {
     "title": "BTS 광화문 공연 티켓도 포함…매크로 돌려 2600장 쓸어 담은 30대 송치",
     "link": "https://www.news1.kr/society/incident-accident/6270144",
     "pubDate": "Wed, 26 Aug 2026 05:46:42 GMT",
@@ -86,14 +86,6 @@
     "source": "서울경제",
     "domain": "sedaily.com",
     "thumb": "https://wimg.sedaily.com/news/cms/2026/08/26/news-p.v1.20260826.ea774786955c48f197dbb85f0d7f0b90_R.jpg"
-  },
-  {
-    "title": "왜 매진인가 했더니…BTS 티켓 등 2600장 매크로 예매한 30대 송치",
-    "link": "https://www.seoul.co.kr/news/society/2026/08/26/20260826500150",
-    "pubDate": "Wed, 26 Aug 2026 05:38:00 GMT",
-    "source": "서울신문",
-    "domain": "seoul.co.kr",
-    "thumb": "https://img.seoul.co.kr//img/upload/2026/08/26/SSC_20260826143749_O2.jpg"
   },
   {
     "title": "BTS 공연 손댔다 덜미…‘매크로 암표’ 팔아 4억대 수익",
@@ -240,20 +232,20 @@
     "thumb": null
   },
   {
-    "title": "BTS 진·에스파 닝닝·올데프 타잔, 색다른 분위기…구찌 새 캠페인 공개 - 조선비즈",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/08/26/GJRDGYJRGJTDIZDDMY3TGYZWHA/",
-    "pubDate": "Wed, 26 Aug 2026 01:43:00 GMT",
-    "source": "Chosunbiz",
-    "domain": "biz.chosun.com",
-    "thumb": "https://biz.chosun.com/resizer/v2/GFQTMMRQGJSDMOBVGE3DGMJRHA.jpg?auth=d1b38450c57edb3ccdc04454f4e98cfa48ed4c21275339f89546cca1bced63f3&amp;width=900&amp;height=472&amp;smart=true"
-  },
-  {
     "title": "방탄소년단 '스윔', 프랑스음반협회 싱글 부문 '골드' 인증…통산 열 번째",
     "link": "https://v.daum.net/v/20260826085151296",
     "pubDate": "Tue, 25 Aug 2026 23:51:51 GMT",
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/26/newsy/20260826085151581hmod.jpg"
+  },
+  {
+    "title": "\"BTS 티켓팅급\"…의대 지름길 '이곳'에 N수생 몰린다 [디지털대성 대해부]",
+    "link": "https://www.hankyung.com/article/2026080559507",
+    "pubDate": "Tue, 25 Aug 2026 23:39:07 GMT",
+    "source": "한국경제",
+    "domain": "hankyung.com",
+    "thumb": "https://img.hankyung.com/photo/202608/01.45250126.1.jpg"
   },
   {
     "title": "방탄소년단 '스윔', 프랑스음반협회 싱글 부문 '골드' 인증 획득",
@@ -310,6 +302,14 @@
     "source": "중앙일보",
     "domain": "joongang.co.kr",
     "thumb": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202608/25/977a3d7e-ce1f-40c7-b6a4-185bb772962c.jpg"
+  },
+  {
+    "title": "시카고 오는 BTS ’대환영’…미 일리노이주, 공연일 ’BTS 데이’ 지정",
+    "link": "https://www.yonhapnewstv.co.kr/news/AKR20260824152253gQu",
+    "pubDate": "Mon, 24 Aug 2026 06:22:00 GMT",
+    "source": "연합뉴스TV",
+    "domain": "yonhapnewstv.co.kr",
+    "thumb": "https://media.yonhapnewstv.co.kr/article/AKR/20260824/AKR20260824152253gQu_01_i.jpg"
   },
   {
     "title": "캐나다 토론토, 방탄소년단 공연 맞아 'BTS 위켄드' 선포",
