@@ -5,7 +5,7 @@
     "pubDate": "Sat, 29 Aug 2026 15:00:00 GMT",
     "source": "아시아뉴스통신",
     "domain": "m.anewsa.com",
-    "thumb": null
+    "thumb": "https://www.anewsa.com/news_images/2026/08/28/mark/20260828102241.jpg"
   },
   {
     "title": "Post de la Comunidad NCT DREAM - 천지카약~(지",
@@ -72,6 +72,14 @@
     "thumb": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/08/PS26082900169.jpg"
   },
   {
+    "title": "'윤주모' NCT 127 태용 \"데뷔까지 연습생 300명 스쳐가..늘 서바이벌\" - 조선비즈",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/08/29/G5RGMMZRMNSGINBUG5SGIYJRGQ/",
+    "pubDate": "Fri, 28 Aug 2026 22:27:00 GMT",
+    "source": "Chosunbiz",
+    "domain": "biz.chosun.com",
+    "thumb": "https://biz.chosun.com/resizer/v2/HE3TEYTGGBSTAYJWG5STONDDMQ.png?auth=24382257997b6ccfe2c77bdf7d0242f07af78a21caf9a8fbf408dadd34025b03&amp;width=650&amp;height=341&amp;smart=true"
+  },
+  {
     "title": "'윤주모' NCT 127 태용 \"데뷔까지 연습생 300명 스쳐가..늘 서바이벌\"",
     "link": "https://www.osen.co.kr/article/G1112865523",
     "pubDate": "Fri, 28 Aug 2026 22:26:00 GMT",
@@ -102,14 +110,6 @@
     "source": "굿모닝베트남미디어",
     "domain": "goodmorningvietnam.co.kr",
     "thumb": "https://www.goodmorningvietnam.co.kr/data/photos/20260835/art_17879251695689_de0306.jpg"
-  },
-  {
-    "title": "NCT 태용 “군대에서 어린 친구들 고민 상담 多…MBTI ‘F’로 바뀌었다” [RE:뷰]",
-    "link": "https://tvreport.co.kr/uncategorized/article/1071842/amp/?utm_source=tvreport&utm_medium=yarpp_add&utm_campaign=slot01",
-    "pubDate": "Fri, 28 Aug 2026 10:34:21 GMT",
-    "source": "TV리포트",
-    "domain": "tvreport.co.kr",
-    "thumb": "https://img.tvreportcdn.de/cms-content/uploads/2026/08/28/83874db2-b75a-4013-b051-dd7c66f0d817.jpg"
   },
   {
     "title": "NCT 127 해찬 \"소식좌? 양 적지만 한 끼에 진심\" [윤주모]",
@@ -208,14 +208,6 @@
     "thumb": "https://img3.yna.co.kr/etc/inner/KR/2026/08/27/AKR20260827055100004_01_i_P4.jpg"
   },
   {
-    "title": "서울패션위크서 NCT 활동 의상도 사고 런웨이도 보고",
-    "link": "http://m.tbs.seoul.kr/news/newsView.do?typ_800=7&idx_800=3538094&seq_800=20530986",
-    "pubDate": "Thu, 27 Aug 2026 02:15:00 GMT",
-    "source": "TBS 서울",
-    "domain": "m.tbs.seoul.kr",
-    "thumb": "https://news.tbs.seoul.kr/Upload/Image/20260827/00000000000001385923.jpg"
-  },
-  {
     "title": "NCT 127 'BLINGY', 英 NME 호평 \"굳건한 존재감\"",
     "link": "https://v.daum.net/v/20260827105437273",
     "pubDate": "Thu, 27 Aug 2026 01:54:37 GMT",
@@ -294,6 +286,14 @@
     "source": "KBS 뉴스",
     "domain": "news.kbs.co.kr",
     "thumb": "http://news.kbs.co.kr/data/news/2026/08/24/20260824_oYULyj.jpg"
+  },
+  {
+    "title": "NCT 127, '탈퇴' 마크 언급 \"10년 동안 고생, 존경…각자 길 존중\"[현장EN:]",
+    "link": "https://v.daum.net/v/20260824121200216?f=p",
+    "pubDate": "Mon, 24 Aug 2026 03:12:00 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202608/24/nocut/20260824121203380scip.jpg"
   },
   {
     "title": "NCT 127 태용 \"10년 함께한 ‘탈퇴’ 마크 존중하고 응원\"",
