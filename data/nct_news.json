@@ -32,14 +32,6 @@
     "thumb": null
   },
   {
-    "title": "NCT 지성, 기분 좋은 미소",
-    "link": "https://m.news.nate.com/view/20260904n28163",
-    "pubDate": "Fri, 04 Sep 2026 10:18:00 GMT",
-    "source": "네이트",
-    "domain": "m.news.nate.com",
-    "thumb": "https://news.nateimg.co.kr/orgImg/st/2026/09/04/04_1087125_60487.jpg"
-  },
-  {
     "title": "NCT드림 지성 '14번 박지성'",
     "link": "https://www.chosun.com/entertainments/entertain_photo/2026/09/04/MVRDKOLDGMZGGYRTGI2WGNBYGY/",
     "pubDate": "Fri, 04 Sep 2026 10:04:00 GMT",
@@ -78,14 +70,6 @@
     "source": "마이데일리",
     "domain": "mydaily.co.kr",
     "thumb": "https://mydaily.co.kr/photos/2026/09/04/2026090418563762374_l.jpg"
-  },
-  {
-    "title": "NCT 지성 '파워 시구'",
-    "link": "https://m.news.nate.com/view/20260904n27582",
-    "pubDate": "Fri, 04 Sep 2026 09:52:00 GMT",
-    "source": "네이트",
-    "domain": "m.news.nate.com",
-    "thumb": "https://news.nateimg.co.kr/orgImg/my/2026/09/04/2026090418511107122_l.jpg"
   },
   {
     "title": "'제 인생 첫시구' NCT 지성",
@@ -152,6 +136,14 @@
     "thumb": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=20260904163004010440204ead079118023320059.jpg&nmt=12"
   },
   {
+    "title": "'야구드라마 주연' NCT 멤버 재민, 6일 고척 NC전에서 와인드 업!",
+    "link": "http://www.spochoo.com/news/articleView.html?idxno=129703",
+    "pubDate": "Fri, 04 Sep 2026 06:48:10 GMT",
+    "source": "spochoo.com",
+    "domain": "spochoo.com",
+    "thumb": "https://cdn.spochoo.com/news/thumbnail/202609/129703_258483_4716_v150.jpg"
+  },
+  {
     "title": "NCT 재민, 키움히어로즈 시구 나선다…'와인드업' 인연으로 야구장 출격",
     "link": "https://www.newspim.com/news/view/20260904000812",
     "pubDate": "Fri, 04 Sep 2026 06:38:00 GMT",
@@ -198,14 +190,6 @@
     "source": "Chosunbiz",
     "domain": "biz.chosun.com",
     "thumb": "https://biz.chosun.com/resizer/v2/HFSTSOBVGRQTMYRVGEYDEZLFGA.jpg?auth=7fd537a9747d434da7f475571d2d7b658d0322f2fe8acdbd06efe969d52a7db3&amp;width=572&amp;height=300&amp;smart=true"
-  },
-  {
-    "title": "NCT 위시 시온, '출국 인사 멋지게' [사진]",
-    "link": "https://v.daum.net/v/20260904112511130?f=m",
-    "pubDate": "Fri, 04 Sep 2026 02:25:11 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/04/poctan/20260904112513061jzwf.jpg"
   },
   {
     "title": "스타들의 팬미팅·팬사인회 현장|[사진]NCT 위시 시온, '출국 인사 멋지게'",
@@ -288,20 +272,20 @@
     "thumb": "https://cdn.2news.co.kr/news/photo/202609/23894_16049_5246.jpeg"
   },
   {
-    "title": "NCT 텐, 새 싱글 'OUTWEST' 앞두고 거리 포스터 공개한 밤 산책",
-    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16182613",
-    "pubDate": "Thu, 03 Sep 2026 16:00:56 GMT",
-    "source": "톱스타뉴스",
-    "domain": "topstarnews.net",
-    "thumb": "https://cdn.topstarnews.net/news/photo/202609/16182613_2014528_047_crop.jpg"
-  },
-  {
     "title": "NCT 127 서울 콘서트, 영화관서 본다…전세계 40개 지역 생중계",
     "link": "https://www.yna.co.kr/view/AKR20260903148100005",
     "pubDate": "Thu, 03 Sep 2026 07:33:05 GMT",
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img6.yna.co.kr/etc/inner/KR/2026/09/03/AKR20260903148100005_02_i_P4.jpg"
+  },
+  {
+    "title": "'NCT 탈퇴' 마크, 신곡 '마이 프렌드'로 복귀",
+    "link": "https://www.ytn.co.kr/_ln/0106_202609021828109141",
+    "pubDate": "Wed, 02 Sep 2026 09:28:00 GMT",
+    "source": "YTN",
+    "domain": "ytn.co.kr",
+    "thumb": "https://image.ytn.co.kr/general/jpg/2026/0902/202609021828109141_t.jpg"
   },
   {
     "title": "마크, 10일 신곡 '마이 프렌드'…NCT 탈퇴 후 첫 컴백",
@@ -312,11 +296,27 @@
     "thumb": "https://img1.yna.co.kr/etc/inner/KR/2026/09/02/AKR20260902110400005_01_i_P4.jpg"
   },
   {
+    "title": "NCT 출신 마크, 9월 10일 솔로 컴백",
+    "link": "https://news.jtbc.co.kr/article/NB12316310",
+    "pubDate": "Wed, 02 Sep 2026 05:07:00 GMT",
+    "source": "JTBC",
+    "domain": "news.jtbc.co.kr",
+    "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202609/02/24d9f0f2-2e2e-4296-a293-6431c6c807f0.jpg"
+  },
+  {
     "title": "NCT, 또 다른 10년을 향한 도약 [K-POP 리포트] - 머니투데이",
     "link": "https://www.mt.co.kr/amp/entertainment/2026/09/02/2026090209437210445",
     "pubDate": "Wed, 02 Sep 2026 00:43:04 GMT",
     "source": "머니투데이",
     "domain": "mt.co.kr",
     "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=800,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/09/2026090209437210445_1.jpg"
+  },
+  {
+    "title": "NCT 127 The 7th Album ‘BLINGY’ 발매 기",
+    "link": "https://weverse.io/nct127/notice/38848",
+    "pubDate": "Tue, 01 Sep 2026 14:32:14 GMT",
+    "source": "Weverse",
+    "domain": "weverse.io",
+    "thumb": null
   }
 ]
