@@ -48,14 +48,6 @@
     "thumb": "https://www.sportschosun.com/article/html/2026/09/08/2026090801000561700036011_w.jpg"
   },
   {
-    "title": "서울에서 확장되는 NCT 127의 반경",
-    "link": "https://magazine.weverse.io/article/view/1956?lang=ko",
-    "pubDate": "Tue, 08 Sep 2026 07:08:49 GMT",
-    "source": "Weverse Magazine",
-    "domain": "magazine.weverse.io",
-    "thumb": "https://magazine.weverse.io/_next/static/media/magazine_ogtag.62c720a9.png"
-  },
-  {
     "title": "SM, 성범죄자 옷 검수 못 했나…NCT 플리마켓서 태일 옷 등장",
     "link": "https://news.nate.com/view/20260908n26800",
     "pubDate": "Tue, 08 Sep 2026 07:05:00 GMT",
@@ -184,19 +176,19 @@
     "thumb": "https://dspdaily.com/data/news/202609/news_1788786976.1.jpg"
   },
   {
-    "title": "260906 (일) NCT 127 SBS 인기가요 사전녹화 참여 안내",
-    "link": "https://weverse.io/nct127/notice/38963",
-    "pubDate": "Mon, 07 Sep 2026 10:25:11 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
-  },
-  {
     "title": "블랙핑크와 NCT, 데뷔 10주년을 맞이하는 방식은 어떻게 다를까",
     "link": "https://billboard.co.kr/editorial/news/article/%25eb%25b8%2594%25eb%259e%2599%25ed%2595%2591%25ed%2581%25ac%25ec%2599%2580-nct-%25eb%258d%25b0%25eb%25b7%2594-10%25ec%25a3%25bc%25eb%2585%2584%25ec%259d%2584-%25eb%25a7%259e%25ec%259d%25b4%25ed%2595%2598%25eb%258a%2594-%25eb%25b0%25a9%25ec%258b%259d%25ec%259d%2580-%25ec%2596%25b4%25eb%2596%25bb%25ea%25b2%258c/",
     "pubDate": "Mon, 07 Sep 2026 08:41:03 GMT",
-    "source": "billboard.co.kr",
+    "source": "Billboard Korea",
     "domain": "billboard.co.kr",
+    "thumb": null
+  },
+  {
+    "title": "260906 (일) NCT 127 SBS 인기가요 사전녹화 참여 안내",
+    "link": "https://weverse.io/nct127/notice/38963",
+    "pubDate": "Mon, 07 Sep 2026 08:12:41 GMT",
+    "source": "Weverse",
+    "domain": "weverse.io",
     "thumb": null
   },
   {
@@ -254,6 +246,14 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/07/10asia/20260907070209255bxkx.jpg"
+  },
+  {
+    "title": "'집단 성폭행' 태일 옷이 매물로?…NCT 팬 \"정식 항의할 것\"",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16184766",
+    "pubDate": "Sun, 06 Sep 2026 16:30:36 GMT",
+    "source": "톱스타뉴스",
+    "domain": "topstarnews.net",
+    "thumb": "https://cdn.topstarnews.net/news/photo/202609/16184766_2017055_305_crop.png"
   },
   {
     "title": "NCT 텐, 흑백 포트레이트로 근황…솔로 행보 이어간다",
