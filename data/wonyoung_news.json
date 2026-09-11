@@ -8,14 +8,6 @@
     "thumb": "http://file.osen.co.kr/article_thumb/2026/09/11/202609111953772855_6aa3e0803ba39_300x.jpg"
   },
   {
-    "title": "아이브 장원영, 대형 셀피 앞에서 포즈…전시장에서 전한 근황",
-    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16190177",
-    "pubDate": "Fri, 11 Sep 2026 10:54:30 GMT",
-    "source": "톱스타뉴스",
-    "domain": "topstarnews.net",
-    "thumb": "https://cdn.topstarnews.net/news/photo/202609/16190177_2023305_543_crop.jpg"
-  },
-  {
     "title": "장원영, '밤티 반대말' 직접 검색 인증..AI도 인정한 갓원영 [스타이슈]",
     "link": "https://v.daum.net/v/20260911194910033",
     "pubDate": "Fri, 11 Sep 2026 10:49:00 GMT",
@@ -64,18 +56,10 @@
     "thumb": "https://cdn.nc.press/news/photo/202609/626305_859207_5634.jpg"
   },
   {
-    "title": "얼굴이 곧 작품…안유진X장원영 ‘안녕 IN SEOUL’ 가보니[스경X현장]",
-    "link": "https://v.daum.net/v/20260911154807660",
-    "pubDate": "Fri, 11 Sep 2026 06:48:07 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/11/sportskhan/20260911154808765cxwi.png"
-  },
-  {
     "title": "얼굴이 곧 작품…안유진X장원영 ‘안녕 IN SEOUL’ 가보니",
     "link": "https://sports.khan.co.kr/article/202609111543003",
     "pubDate": "Fri, 11 Sep 2026 06:43:00 GMT",
-    "source": "sports.khan.co.kr",
+    "source": "스포츠경향",
     "domain": "sports.khan.co.kr",
     "thumb": null
   },
@@ -123,7 +107,7 @@
     "title": "장원영도 안 ‘장원영 밈’…“장원영 하루 보내” 온 세상이 장원영 열풍",
     "link": "https://sports.khan.co.kr/article/202609101752013",
     "pubDate": "Thu, 10 Sep 2026 08:52:00 GMT",
-    "source": "sports.khan.co.kr",
+    "source": "스포츠경향",
     "domain": "sports.khan.co.kr",
     "thumb": null
   },
@@ -131,7 +115,7 @@
     "title": "장원영 ‘잉쯔’ 비하 표현했다 팬들 폭발···어뮤즈 결국 공식 사과",
     "link": "https://sports.khan.co.kr/article/202609101605013",
     "pubDate": "Thu, 10 Sep 2026 07:05:00 GMT",
-    "source": "sports.khan.co.kr",
+    "source": "스포츠경향",
     "domain": "sports.khan.co.kr",
     "thumb": null
   },
@@ -200,6 +184,14 @@
     "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/09/134637725.3.jpg"
   },
   {
+    "title": "장원영 허위영상 올린 사이버 렉카 징역형…“추가 고소”",
+    "link": "https://www.donga.com/news/Society/article/all/20260909/134637756/2",
+    "pubDate": "Wed, 09 Sep 2026 09:06:00 GMT",
+    "source": "동아일보",
+    "domain": "donga.com",
+    "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/09/134637725.3.jpg"
+  },
+  {
     "title": "장원영 허위영상 유포자 징역형 선고…소속사 “끝까지 책임 물을 것”",
     "link": "https://www.kado.net/news/articleView.html?idxno=2071635",
     "pubDate": "Wed, 09 Sep 2026 09:03:30 GMT",
@@ -235,7 +227,7 @@
     "title": "장원영 모욕한 ‘사이버 렉카’, 결국 징역형 받았다…“추가 고소도 진행”",
     "link": "https://sports.khan.co.kr/article/202609091546003",
     "pubDate": "Wed, 09 Sep 2026 06:46:00 GMT",
-    "source": "sports.khan.co.kr",
+    "source": "스포츠경향",
     "domain": "sports.khan.co.kr",
     "thumb": null
   },
@@ -246,6 +238,14 @@
     "source": "harpersbazaar.co.kr",
     "domain": "harpersbazaar.co.kr",
     "thumb": "https://www.harpersbazaar.co.kr/resources/online/thumbnail/hf/2026/09/08/a32ccd52-08d4-4882-9ac7-97e815c5352d.jpg"
+  },
+  {
+    "title": "장원영, '핑크 버니' 등장이요…과감한 추구미 속 얼굴이 제일 화려해 - 조선비즈",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/09/08/MVRTQMBUGI4TSZRTGRSDMNZTGU/",
+    "pubDate": "Tue, 08 Sep 2026 00:19:00 GMT",
+    "source": "Chosunbiz",
+    "domain": "biz.chosun.com",
+    "thumb": "https://biz.chosun.com/resizer/v2/GY3TCNRSGAZTEYJTG5TGEOLGMQ.jpg?auth=8272c35779112caa7241f7fa12e72dbbd9ff404e68e13d213399924157f7f036&amp;width=900&amp;height=472&amp;smart=true"
   },
   {
     "title": "장원영, 등산복 입고도 '공주' 비주얼…독보적 자태 [N화보]",
@@ -267,7 +267,7 @@
     "title": "“엄마 땡큐!” 장원영, 가장 화려한 22세 생일…브랜드 앞다퉈 선물 공세",
     "link": "https://sports.khan.co.kr/article/202608310959003",
     "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT",
-    "source": "sports.khan.co.kr",
+    "source": "스포츠경향",
     "domain": "sports.khan.co.kr",
     "thumb": null
   },
@@ -307,7 +307,7 @@
     "title": "장원영, 사복 추구미는 섹시? 레드 초미니 드레스 입고 밀라노行",
     "link": "https://sports.khan.co.kr/article/202608251405013",
     "pubDate": "Tue, 25 Aug 2026 07:00:00 GMT",
-    "source": "sports.khan.co.kr",
+    "source": "스포츠경향",
     "domain": "sports.khan.co.kr",
     "thumb": null
   },
