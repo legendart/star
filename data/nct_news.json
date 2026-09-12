@@ -104,6 +104,22 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/11/poctan/20260911115551358odtw.jpg"
   },
   {
+    "title": "NCT WISH 료, '어디서나 멋지게'",
+    "link": "https://www.osen.co.kr/article/G1112873870",
+    "pubDate": "Fri, 11 Sep 2026 02:55:00 GMT",
+    "source": "OSEN",
+    "domain": "osen.co.kr",
+    "thumb": "http://file.osen.co.kr/article_thumb/2026/09/11/202609111155778343_6aa36d95ca8f9_300x.jpg"
+  },
+  {
+    "title": "NCT WISH 시온, '어디서나 멋지게'",
+    "link": "https://www.osen.co.kr/article/G1112873869",
+    "pubDate": "Fri, 11 Sep 2026 02:54:00 GMT",
+    "source": "OSEN",
+    "domain": "osen.co.kr",
+    "thumb": "http://file.osen.co.kr/article_thumb/2026/09/11/202609111154771517_6aa36d7db0067_300x.jpg"
+  },
+  {
     "title": "NCT 양양, 김대희·김준호에 돌직구…\"이제 쉬실 나이 아니냐\" (독박투어)",
     "link": "https://news.nate.com/view/20260911n11131?mid=n1101",
     "pubDate": "Fri, 11 Sep 2026 01:34:00 GMT",
@@ -128,12 +144,12 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/11/bntnews/20260911084442373bfnp.jpg"
   },
   {
-    "title": "김준호, NCT 양양에 갑자기 고백?…\"못난 나 만나 미안, 사랑한다\"(독박투어)",
-    "link": "https://v.daum.net/v/20260910172658504",
-    "pubDate": "Thu, 10 Sep 2026 08:26:58 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/10/HockeyNewsKorea/20260910172700485ozxy.jpg"
+    "title": "NCT 쟈니, 스포티파이 단독 팟캐스트 '저니 위드 쟈니' 16일 공개",
+    "link": "https://www.ksw-news.com/news/articleView.html?idxno=3033662",
+    "pubDate": "Thu, 10 Sep 2026 07:48:55 GMT",
+    "source": "NANOOM ENERGY",
+    "domain": "ksw-news.com",
+    "thumb": "https://cdn.ksw-news.com/news/thumbnail/202609/3033662_3028454_4855_v150.jpg"
   },
   {
     "title": "NCT 위시, 日 레코드협회 첫 ‘더블 플래티넘’⋯커리어 하이",
@@ -208,28 +224,12 @@
     "thumb": "https://www.bntnews.co.kr/data/bnt/image/2026/09/10/bnt202609100138.jpg"
   },
   {
-    "title": "'블링이' NCT 127, '빌보드 200' 9번째 진입",
-    "link": "https://www.newsis.com/view/NISX20260910_0003783475",
-    "pubDate": "Wed, 09 Sep 2026 23:23:07 GMT",
-    "source": "뉴시스",
-    "domain": "newsis.com",
-    "thumb": "https://img1.newsis.com/2026/09/03/NISI20260903_0002229826_web.jpg"
-  },
-  {
     "title": "마크, NCT 나가더니 작사·작곡·편곡 다 했다",
     "link": "https://sports.khan.co.kr/article/202609100726003",
     "pubDate": "Wed, 09 Sep 2026 22:26:00 GMT",
-    "source": "스포츠경향",
+    "source": "sports.khan.co.kr",
     "domain": "sports.khan.co.kr",
     "thumb": null
-  },
-  {
-    "title": "NCT 텐, 흑백 무대 사진 공개…첫 솔로 미국 투어 앞두고 근황 전해",
-    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16188244",
-    "pubDate": "Wed, 09 Sep 2026 14:04:14 GMT",
-    "source": "topstarnews.net",
-    "domain": "topstarnews.net",
-    "thumb": "https://cdn.topstarnews.net/news/photo/202609/16188244_2020976_347_crop.jpg"
   },
   {
     "title": "메가MGC커피, NCT 127 서울 콘서트 티켓 이벤트 진행",
@@ -288,14 +288,6 @@
     "thumb": null
   },
   {
-    "title": "NCT 127 The 7th Album ‘BLINGY’ 발매 기",
-    "link": "https://weverse.io/nct127/notice/38879",
-    "pubDate": "Mon, 07 Sep 2026 06:02:33 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
-  },
-  {
     "title": "‘쟈니와 NCT 연합’ 나선 지성, 거지 꼬리표 떼고 왕 되나",
     "link": "https://news.jtbc.co.kr/article/NB12317094",
     "pubDate": "Mon, 07 Sep 2026 05:35:00 GMT",
@@ -310,6 +302,14 @@
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/07/mydaily/20260907134843726lzah.jpg"
+  },
+  {
+    "title": "NCT 127 The 7th Album ‘BLINGY’ 발매 기",
+    "link": "https://weverse.io/nct127/notice/38718",
+    "pubDate": "Sun, 30 Aug 2026 10:37:10 GMT",
+    "source": "Weverse",
+    "domain": "weverse.io",
+    "thumb": null
   },
   {
     "title": "10년의 내공 담은 NCT 127…보이그룹 열전",
