@@ -1,11 +1,11 @@
 [
   {
     "title": "효리수, NCT 127에 90도 인사하더니 대기실서 “세상은 요지경” 구수한 바이브(레벨업)",
-    "link": "https://m.newsen.com/news_view.php?uid=202609161748022510",
+    "link": "https://www.newsen.com/news_view.php?uid=202609161748022510&code=100100",
     "pubDate": "Wed, 16 Sep 2026 10:09:26 GMT",
     "source": "뉴스엔",
-    "domain": "m.newsen.com",
-    "thumb": null
+    "domain": "newsen.com",
+    "thumb": "https://photo.newsen.com/news_photo/2026/09/16/202609161748022510_1.jpg"
   },
   {
     "title": "플레이브·라이즈·NCT 위시·알디원·롱샷, 'MMA2026' 출격",
@@ -94,14 +94,6 @@
     "source": "dt.co.kr",
     "domain": "dt.co.kr",
     "thumb": "https://wimg.dt.co.kr/news/cms/2026/09/15/news-p.v1.20260915.6be15513366c4171a4725ac3564459a2_R.jpg"
-  },
-  {
-    "title": "NCT 탈퇴 마크 ‘살빠진 얼굴’ [MK포토]",
-    "link": "https://www.mk.co.kr/news/entertain/12153216",
-    "pubDate": "Tue, 15 Sep 2026 07:01:56 GMT",
-    "source": "매일경제",
-    "domain": "mk.co.kr",
-    "thumb": "https://pimg.mk.co.kr/news/cms/202609/15/news-p.v1.20260915.f18b54158b894609bad8ef593497c593_R.jpg"
   },
   {
     "title": "‘스디파’, NCT 태용·올데프 베일리 신곡 재해석… 2인 1조 대결 예고",
@@ -254,6 +246,14 @@
     "source": "news.jtbc.co.kr",
     "domain": "news.jtbc.co.kr",
     "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202609/14/6d9c437d-e286-450c-8217-a15a0028644f.jpg"
+  },
+  {
+    "title": "NCT WISH, 연타석 흥행 나선다…10월 12일 ‘I SPY’ 컴백 - 스타투데이",
+    "link": "https://www.mk.co.kr/news/musics/12151770",
+    "pubDate": "Mon, 14 Sep 2026 01:06:17 GMT",
+    "source": "매일경제",
+    "domain": "mk.co.kr",
+    "thumb": "https://pimg.mk.co.kr/news/cms/202609/14/news-p.v1.20260914.b803d97b73354d1983e0ed668b9efd72_R.jpg"
   },
   {
     "title": "‘韓 밀리언셀러·日 더블 플래티넘’ NCT WISH, 10월 12일 미니 4집 발표",
