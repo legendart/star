@@ -16,6 +16,14 @@
     "thumb": "https://d3h3k01ny8mjr.cloudfront.net/tv-report/2026/09/18224002/CP-2022-0227-39839018-thumb.jpg"
   },
   {
+    "title": "李대통령, BTS 콘서트 암표 적발에 “끝까지 추적해 환수”",
+    "link": "https://www.munhwa.com/article/11618145",
+    "pubDate": "Fri, 18 Sep 2026 09:41:13 GMT",
+    "source": "문화일보",
+    "domain": "munhwa.com",
+    "thumb": "https://wimg.munhwa.com/news/cms/2026/09/18/news-p.v1.20260917.76134a2f6ad645cd8fd15b21d1b3b1ee_R.jpg"
+  },
+  {
     "title": "방탄소년단 올해만 스포티파이 90억 스트리밍,아시아 역대 최고기록 ...7년전 신기록 스스로 경신[K-EYES]",
     "link": "https://www.starnewskorea.com/music/2026/09/18/2026091818060748118",
     "pubDate": "Fri, 18 Sep 2026 09:23:58 GMT",
@@ -48,6 +56,14 @@
     "thumb": "/photos/2026/09/18/2026091809261864713_l.jpg"
   },
   {
+    "title": "방탄소년단, 16억뷰 4번째 금자탑…이번엔 ‘마이크 드롭’ 리믹스",
+    "link": "https://biz.heraldcorp.com/article/10877819",
+    "pubDate": "Thu, 17 Sep 2026 23:30:18 GMT",
+    "source": "biz.heraldcorp.com",
+    "domain": "biz.heraldcorp.com",
+    "thumb": "https://wimg.heraldcorp.com/news/cms/2026/09/18/news-p.v1.20260918.2d706ff366994b0aa0a864a970989680_P1.jpg"
+  },
+  {
     "title": "방탄소년단 정국, 역시 '글로벌 패션 아이콘'",
     "link": "https://www.starnewskorea.com/star/2026/09/18/2026091808252860045",
     "pubDate": "Thu, 17 Sep 2026 23:27:49 GMT",
@@ -78,22 +94,6 @@
     "source": "톱스타뉴스",
     "domain": "topstarnews.net",
     "thumb": "https://cdn.topstarnews.net/news/photo/202609/16197607_2029433_4651_crop.jpg"
-  },
-  {
-    "title": "'청순가이 김석진' 방탄소년단 진, 바다도 반할 근본적인 아름다움",
-    "link": "https://www.starnewskorea.com/music/2026/09/18/2026091807413285523",
-    "pubDate": "Thu, 17 Sep 2026 22:43:19 GMT",
-    "source": "starnewskorea.com",
-    "domain": "starnewskorea.com",
-    "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=963,fit=cover,q=high,sharpen=2/21/2026/09/2026091807413285523_1.jpg"
-  },
-  {
-    "title": "올해 암표 거래 13만 건…BTS·싸이 ‘최다’",
-    "link": "https://news.kbs.co.kr/news/view.do?ncd=8666776",
-    "pubDate": "Thu, 17 Sep 2026 21:53:00 GMT",
-    "source": "KBS 뉴스",
-    "domain": "news.kbs.co.kr",
-    "thumb": "http://news.kbs.co.kr/data/news/title_image/newsmp4/newsplaza_p1/2026/09/18/250_8666776.jpg"
   },
   {
     "title": "BTS 진, 바닷가서 깜짝 노출한 '성난 근육'...\"이렇게 탄탄했어?\"",
@@ -144,12 +144,12 @@
     "thumb": "https://img.etnews.com/news/article/2026/09/17/cms_temp_stats_17896479541626173710.jpg"
   },
   {
-    "title": "BTS 정국 출국, '여권 잘 챙겨서'",
-    "link": "https://www.chosun.com/entertainments/entertain_photo/2026/09/17/HAYDSY3EHFRDSODCMQYTGMRRHE/",
-    "pubDate": "Thu, 17 Sep 2026 12:12:00 GMT",
-    "source": "조선일보",
-    "domain": "chosun.com",
-    "thumb": "https://www.chosun.com/resizer/v2/GQ4DMY3BMI2GKMBSG5QWIYRRGM.jpg?auth=ce715ef8d6b7002eaf25507a493526670733b4f2621c72b3d817318381518fec&amp;width=530&amp;height=278&amp;smart=true"
+    "title": "BTS, 가을 남자들의 출국길 [O! STAR 숏폼]",
+    "link": "https://www.osen.co.kr/article/G1112877497",
+    "pubDate": "Thu, 17 Sep 2026 12:21:00 GMT",
+    "source": "OSEN",
+    "domain": "osen.co.kr",
+    "thumb": "http://file.osen.co.kr/article_thumb/2026/09/17/202609172119770724_6aabdb5638878_300x.jpg"
   },
   {
     "title": "BTS 제이홉 출국, '잘 다녀오겠습니다' - 조선비즈",
@@ -176,12 +176,28 @@
     "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026091720484439511_1.jpg"
   },
   {
+    "title": "BTS(방탄소년단), 어두운 밤~ 별빛이 내리네~(출국)[뉴스엔TV]",
+    "link": "https://m.newsen.com/news_view.php?uid=202609172037111310",
+    "pubDate": "Thu, 17 Sep 2026 11:37:19 GMT",
+    "source": "뉴스엔",
+    "domain": "m.newsen.com",
+    "thumb": null
+  },
+  {
     "title": "BTS 'Always Fabulous!!' [★영상]",
     "link": "https://v.daum.net/v/20260917203555701",
     "pubDate": "Thu, 17 Sep 2026 11:35:55 GMT",
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/17/starnews/20260917203556660msbz.jpg"
+  },
+  {
+    "title": "BTS 뷔 ‘반짝이는 댕댕이 눈빛’[포토엔HD]",
+    "link": "https://m.newsen.com/news_view.php?uid=202609172024093510",
+    "pubDate": "Thu, 17 Sep 2026 11:24:15 GMT",
+    "source": "뉴스엔",
+    "domain": "m.newsen.com",
+    "thumb": null
   },
   {
     "title": "BTS ⑦ 화면 너머로 만난 신뢰의 언어 'Signly'",
@@ -214,14 +230,6 @@
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img7.yna.co.kr/etc/inner/KR/2026/09/17/AKR20260917085300005_01_i_P4.jpg"
-  },
-  {
-    "title": "李대통령, BTS 암표 적발에 \"끝까지 추적해 부당 수익 반드시 환수\"",
-    "link": "https://www.dailian.co.kr/news/view/1691555/%E6%9D%8E%EB%8C%80%ED%86%B5%EB%A0%B9-BTS-%EC%95%94%ED%91%9C-%EC%A0%81%EB%B0%9C-%EB%81%9D-%EC%B6%94%EC%A0%81%ED%95%B4-2026",
-    "pubDate": "Thu, 17 Sep 2026 01:21:00 GMT",
-    "source": "데일리안",
-    "domain": "dailian.co.kr",
-    "thumb": "https://cdnimage.dailian.co.kr/news/202609/news_1789608021226_1691555_m_1.png"
   },
   {
     "title": "BTS 티켓 300만에‥암표 판 돈으로 24억 수익",
@@ -286,14 +294,6 @@
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img0.yna.co.kr/etc/inner/KR/2026/09/16/AKR20260916039300060_02_i_P4.jpg"
-  },
-  {
-    "title": "중국 쇼핑몰에서 파는 방탄소년단 CD, 불법입니다",
-    "link": "https://www.mydaily.co.kr/page/view/2026091516541125675",
-    "pubDate": "Tue, 15 Sep 2026 07:58:11 GMT",
-    "source": "마이데일리",
-    "domain": "mydaily.co.kr",
-    "thumb": "https://mydaily.co.kr/photos/2026/09/15/2026091516580308968_l.jpg"
   },
   {
     "title": "BTS 월드투어에서 “보안요원, 과도한 신체 수색·개인정보 열람” SNS 논란",
