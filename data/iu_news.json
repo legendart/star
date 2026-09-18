@@ -8,20 +8,20 @@
     "thumb": "https://img.tenasia.co.kr/photo/202609/BF.45744302.1.jpg"
   },
   {
-    "title": "아이유, 10년 만에 과감히 긴 머리 싹둑…\"단발했을 때 다 잘됐다\"",
-    "link": "https://www.sportschosun.com/entertainment/2026-09-18/202609180100128030008297",
-    "pubDate": "Fri, 18 Sep 2026 12:07:29 GMT",
-    "source": "스포츠조선",
-    "domain": "sportschosun.com",
-    "thumb": "https://www.sportschosun.com/article/html/2026/09/18/2026091801001280300082971.jpg"
-  },
-  {
     "title": "\"생일엔 3억, 데뷔일엔 2억\"…아이유, 올해만 6억 넘게 쾌척",
     "link": "https://www.hankyung.com/article/2026091846507",
     "pubDate": "Fri, 18 Sep 2026 09:36:05 GMT",
     "source": "한국경제",
     "domain": "hankyung.com",
     "thumb": "https://img.hankyung.com/photo/202609/03.40384606.1.jpg"
+  },
+  {
+    "title": "이청아 교통사고로 하차 논의·청하 응급실行·아이유 2억 기부 [퇴근길연예]",
+    "link": "https://sports.khan.co.kr/article/202609181759003",
+    "pubDate": "Fri, 18 Sep 2026 08:59:00 GMT",
+    "source": "스포츠경향",
+    "domain": "sports.khan.co.kr",
+    "thumb": "https://images.khan.co.kr/article/2026/09/18/news-p.v1.20260918.9b7f4440717747c4b214ccd5e0a20b78_P1.png"
   },
   {
     "title": "아이유, 이관개방증 악화로 앨범·콘서트 연기 후 맞이한 데뷔 18주년…2억 기부→선행으로 보답",
@@ -112,6 +112,14 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/18/ned/20260918135950680hhbc.jpg"
   },
   {
+    "title": "‘선행의 아이콘’ 아이유, 데뷔 18주년 맞아 2억 기부",
+    "link": "https://news.jtbc.co.kr/article/NB12319023",
+    "pubDate": "Fri, 18 Sep 2026 04:58:00 GMT",
+    "source": "news.jtbc.co.kr",
+    "domain": "news.jtbc.co.kr",
+    "thumb": null
+  },
+  {
     "title": "생일 3억·어린이날 1억···아이유, 데뷔 기념일에도 2억원 기부",
     "link": "https://v.daum.net/v/20260918135244687",
     "pubDate": "Fri, 18 Sep 2026 04:52:44 GMT",
@@ -160,14 +168,6 @@
     "thumb": "https://cdn.alphabiz.co.kr/news/photo/202609/188288_146566_4352.jpg"
   },
   {
-    "title": "아이유, 생일 3억 이어 데뷔일 2억 또 기부",
-    "link": "https://sports.khan.co.kr/article/202609181233003",
-    "pubDate": "Fri, 18 Sep 2026 03:33:00 GMT",
-    "source": "스포츠경향",
-    "domain": "sports.khan.co.kr",
-    "thumb": "https://images.khan.co.kr/article/2026/09/18/news-p.v1.20260918.2b99bbf11be7455e95cbad4632380276_P1.jpg"
-  },
-  {
     "title": "아이유, 데뷔 18주년 기념…'아이유애나'로 2억 기부",
     "link": "https://www.dispatch.co.kr/2348125",
     "pubDate": "Fri, 18 Sep 2026 03:28:00 GMT",
@@ -208,28 +208,12 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/18/552782-ZYLYaJX/20260918104903524chtc.jpg"
   },
   {
-    "title": "웨딩드레스 입고 아이유 머리 매만지는 신부…정체가 뭐길래? [엑's 이슈]",
-    "link": "https://v.daum.net/v/9EiFKmjJHU",
-    "pubDate": "Thu, 17 Sep 2026 22:57:53 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/18/xportsnews/20260918075754831gfck.jpg"
-  },
-  {
     "title": "아이유, 기꺼이 멈춰 선 ‘이 별’…철인의 왕관 대신 ‘다정한 연대’",
     "link": "https://www.donga.com/news/Culture/article/all/20260918/134693111/1",
     "pubDate": "Thu, 17 Sep 2026 16:04:11 GMT",
     "source": "동아일보",
     "domain": "donga.com",
     "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/18/134693112.1.jpg"
-  },
-  {
-    "title": "하객 머리 만져주는 순백의 신부 '포착'…아이유 스타일리스트 였다 \"유추 가능\"",
-    "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1008014",
-    "pubDate": "Thu, 17 Sep 2026 08:58:47 GMT",
-    "source": "spotvnews.co.kr",
-    "domain": "spotvnews.co.kr",
-    "thumb": "https://7lgigmttrjuyfehsudec15072.edge.naverncp.com/news/photo/202609/1008014_2015891_7974.jpg"
   },
   {
     "title": "\"아이유 머리 절대 지켜\"..결혼식날 직업병 빛난 특별한 신부[핫피플]",
@@ -256,20 +240,20 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/17/xportsnews/20260917123111649ajil.jpg"
   },
   {
-    "title": "아이유 패션, 너무 수수해 ‘위장설’까지 나왔는데 대반전…“티셔츠만 40만원”",
-    "link": "https://biz.heraldcorp.com/article/10875938",
-    "pubDate": "Wed, 16 Sep 2026 07:53:20 GMT",
-    "source": "biz.heraldcorp.com",
-    "domain": "biz.heraldcorp.com",
-    "thumb": "https://wimg.heraldcorp.com/news/cms/2026/09/16/news-p.v1.20260916.0fb1f1a7b60c415ebe79071ff2a313e0_P1.jpg"
-  },
-  {
     "title": "아이유, 귀한 단발 셀카..러블리 단발 여신 [스타이슈]",
     "link": "https://www.starnewskorea.com/star/2026/09/16/2026091606362733222",
     "pubDate": "Tue, 15 Sep 2026 21:49:16 GMT",
     "source": "starnewskorea.com",
     "domain": "starnewskorea.com",
     "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=1588,fit=cover,q=high,sharpen=2/21/2026/09/2026091606362733222_1.jpg"
+  },
+  {
+    "title": "아이유, 유인나와 15년 미공개 사진 싹 다 풀었다…\"최고의 소울메이트, 이상한 할머니 되는 게 꿈\" [엑's 이슈]",
+    "link": "https://v.daum.net/v/20260915155254574",
+    "pubDate": "Tue, 15 Sep 2026 06:52:54 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/15/xportsnews/20260915155256059veeb.jpg"
   },
   {
     "title": "\"아이유도 7시 오픈런해서 겨우 샀다\"…SNS 입소문 난리에 대박난 광주 떡집",
@@ -312,11 +296,27 @@
     "thumb": "https://www.elle.co.kr/resources/online/thumbnail/hf/2026/09/04/28f869c3-2117-4ac8-a1a8-61817013702c.jpg"
   },
   {
+    "title": "아이유, 이종석과 결별 후 긴머리 싹뚝 잘랐다…단발 비주얼 “이별로부터” - 조선비즈",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/09/08/ME2GCNRQHE2GIYRZGU3DEZBVHA/",
+    "pubDate": "Tue, 08 Sep 2026 07:00:00 GMT",
+    "source": "Chosunbiz",
+    "domain": "biz.chosun.com",
+    "thumb": "https://biz.chosun.com/resizer/v2/GIYWINLCGEYDGNJVGY2DQYRRMU.jpg?auth=fb6001eb32095669db634f63afa8c07bd5e44178af5417a8c1a65faa21875926&amp;width=650&amp;height=341&amp;smart=true"
+  },
+  {
     "title": "공연 미루고 투병 아이유, 단발머리 변신해 신곡 발표",
     "link": "https://www.donga.com/news/Culture/article/all/20260908/134625440/2",
     "pubDate": "Tue, 08 Sep 2026 07:00:00 GMT",
     "source": "동아일보",
     "domain": "donga.com",
     "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/09/08/134625424.3.jpg"
+  },
+  {
+    "title": "아이유, 활동 중단 속 변우석 촬영장 포착…'대군부인' 인연 계속",
+    "link": "https://v.daum.net/v/Uh2O7OJ6y2",
+    "pubDate": "Tue, 01 Sep 2026 07:00:00 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/02/spotvnews/20260902093053391hgwd.png"
   }
 ]
