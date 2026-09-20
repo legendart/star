@@ -8,14 +8,6 @@
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/21/bntnews/20260921000244257hvua.jpg"
   },
   {
-    "title": "엔시티 127, 서울서 3일간 투어 성료…3만여 팬과 만남",
-    "link": "https://www.mdtoday.co.kr/news/articleView.html?idxno=614550",
-    "pubDate": "Sun, 20 Sep 2026 14:18:32 GMT",
-    "source": "메디컬투데이",
-    "domain": "mdtoday.co.kr",
-    "thumb": "https://cdn.mdtoday.co.kr/news/photo/202609/614550_319209_1618.jpg"
-  },
-  {
     "title": "NCT 127, 다섯이 지킨 10주년…\"내년엔 일곱 명이 한 무대로\" [종합]",
     "link": "https://www.tenasia.co.kr/article/2026092065254",
     "pubDate": "Sun, 20 Sep 2026 13:43:00 GMT",
@@ -56,6 +48,14 @@
     "thumb": null
   },
   {
+    "title": "멤버 수는 달라져도, 서울의 경도는 여전히 'NCT 127'이다 [공연뷰]",
+    "link": "https://digitalchosun.dizzo.com/site/data/html_dir/2026/09/20/2026092080026.html",
+    "pubDate": "Sun, 20 Sep 2026 12:03:00 GMT",
+    "source": "디지틀조선일보",
+    "domain": "digitalchosun.dizzo.com",
+    "thumb": "https://digitalchosun.dizzo.com/site/data/img_dir/2026/09/20/2026092080026_0.jpg"
+  },
+  {
     "title": "아시아 수놓은 NCT WISH, 홍콩 2만 관객 매진 속 데뷔 2주년 팬미팅 성료",
     "link": "https://m.newsen.com/news_view.php?uid=202609202030165710",
     "pubDate": "Sun, 20 Sep 2026 11:34:34 GMT",
@@ -64,12 +64,12 @@
     "thumb": null
   },
   {
-    "title": "10주년 NCT 127, 한계선 넘어 질주…\"내년엔 우리칠 한 무대에\"",
-    "link": "https://v.daum.net/v/Z4hZY6b0kd",
-    "pubDate": "Sun, 20 Sep 2026 11:23:49 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/20/akn/20260920202350337qszs.jpg"
+    "title": "NCT 127 콘서트 온 도영-정우 \"우리도 껴줘\"…떡 케이크 깜짝 선물[현장EN:]",
+    "link": "https://www.nocutnews.co.kr/news/6580992",
+    "pubDate": "Sun, 20 Sep 2026 11:31:53 GMT",
+    "source": "노컷뉴스",
+    "domain": "nocutnews.co.kr",
+    "thumb": "https://file2.nocutnews.co.kr/newsroom/image/2026/09/20/202609202029419109_0.jpg"
   },
   {
     "title": "멤버 부재 우려 단숨에 씻어…NCT 127, 10년 저력 증명한 역대급 무대",
@@ -78,14 +78,6 @@
     "source": "동행미디어 시대",
     "domain": "sidae.com",
     "thumb": "https://menu.sidae.com/moneyweek/thumb/2026/09/20/00/2026092019174522677_1.jpg"
-  },
-  {
-    "title": "NCT 127 \"10주년 막상 보니 별거 없더라…내년엔 우리칠 전원 한 무대로\"",
-    "link": "https://www.chosun.com/entertainments/music/2026/09/20/GY4WIZDBGUZDINRTHAYTAYZWGE/",
-    "pubDate": "Sun, 20 Sep 2026 11:03:00 GMT",
-    "source": "조선일보",
-    "domain": "chosun.com",
-    "thumb": "https://www.chosun.com/resizer/v2/GI2GIZDFGU4DMNBSHE3WKYJUGI.jpg?auth=a94846e52a20ec8102d4e4402e0a4c5a3e03979797f9502e9fc8fafbc43f6210&amp;width=700&amp;height=367&amp;smart=true"
   },
   {
     "title": "한계선 넘어 ‘또 다른 질주’…NCT 127이 펼쳐낸 10년의 ‘네오’",
@@ -120,12 +112,28 @@
     "thumb": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/09/PS26092000742.jpg"
   },
   {
+    "title": "NCT 127 10주년, 군백기도 못 막았다…도영 깜짝 '떡 케이크'·정우와 객석 등장 [엑's 현장]",
+    "link": "https://www.xportsnews.com/article/2197719",
+    "pubDate": "Sun, 20 Sep 2026 10:16:48 GMT",
+    "source": "xportsnews.com",
+    "domain": "xportsnews.com",
+    "thumb": "https://image.xportsnews.com/contents/images/upload/article/2026/0920/1789899349507573.webp"
+  },
+  {
     "title": "\"후회 없이 쏟았다\"…NCT 127, 챕터2 향해 그은 '붉은 기준선'(종합)",
     "link": "https://www.nc.press/news/articleView.html?idxno=626905",
     "pubDate": "Sun, 20 Sep 2026 10:16:08 GMT",
     "source": "뉴스컬처",
     "domain": "nc.press",
     "thumb": "https://cdn.nc.press/news/photo/202609/626905_860733_643.jpg"
+  },
+  {
+    "title": "'독기칠' NCT 127, 다섯이서도 끄떡없다 \"내년엔 도영·정우도 함께\"(종합)",
+    "link": "https://v.daum.net/v/20260920185817768",
+    "pubDate": "Sun, 20 Sep 2026 09:58:17 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/20/JTBC/20260920185818724ezzg.jpg"
   },
   {
     "title": "'군 복무' 도영·정우, NCT 127 콘서트 찾았다…\"충성\"→깜짝 떡 선물",
@@ -224,20 +232,20 @@
     "thumb": "https://images.khan.co.kr/article/2026/09/20/news-p.v1.20260920.522e0230583f4883afcc7580b2d6c7d2_P1.jpg"
   },
   {
-    "title": "\"시작부터 앙코르 가야 할 판\"…NCT 127, 10년 내공 쏟은 '한계 돌파' 오프닝",
-    "link": "https://www.sportschosun.com/entertainment/2026-09-20/202609200100137410008954",
-    "pubDate": "Sun, 20 Sep 2026 08:05:09 GMT",
-    "source": "스포츠조선",
-    "domain": "sportschosun.com",
-    "thumb": "https://www.sportschosun.com/article/html/2026/09/20/2026092001001374100089541_w.jpg"
-  },
-  {
     "title": "NCT 127,'5인 체제' 첫 투어 포문 \"전세계에 뜨거운 무대 보여줄 것\"",
     "link": "https://v.daum.net/v/20260920165824920",
     "pubDate": "Sun, 20 Sep 2026 07:58:24 GMT",
     "source": "v.daum.net",
     "domain": "v.daum.net",
     "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/20/JTBC/20260920165825714mrdz.jpg"
+  },
+  {
+    "title": "NCT 127, '더 레드라인' 서울 막콘 소감…\"순식간에 3일 지나, 후회 없이 놀자\"",
+    "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1008449",
+    "pubDate": "Sun, 20 Sep 2026 07:54:38 GMT",
+    "source": "spotvnews.co.kr",
+    "domain": "spotvnews.co.kr",
+    "thumb": "https://7lgigmttrjuyfehsudec15072.edge.naverncp.com/news/photo/202609/1008449_2017095_6607.jpeg"
   },
   {
     "title": "NCT WISH(엔시티 위시), 천사날개 타고 내려왔어요 (입국)[뉴스엔TV]",
@@ -264,12 +272,12 @@
     "thumb": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/09/20/134703283.1.jpg"
   },
   {
-    "title": "NCT WISH, 팬미팅 亞 4개 지역 10회 공연 성료",
-    "link": "https://www.bntnews.co.kr/article/view/bnt202609200042",
-    "pubDate": "Sun, 20 Sep 2026 02:23:53 GMT",
-    "source": "bntnews.co.kr",
-    "domain": "bntnews.co.kr",
-    "thumb": "https://www.bntnews.co.kr/data/bnt/image/2026/09/20/bnt202609200105.jpg"
+    "title": "NCT WISH, 亞 팬미팅 투어 마무리 \"행복 돌려드릴 수 있도록 열심히 할 것\" - 조선비즈",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/09/20/MIYGMZJWHFSDGYTBGU4WGOLDGM/?outputType=amp",
+    "pubDate": "Sun, 20 Sep 2026 02:54:00 GMT",
+    "source": "Chosunbiz",
+    "domain": "biz.chosun.com",
+    "thumb": "https://biz.chosun.com/resizer/v2/MY2TMNTEGBTDIZJQMY4DSNDEMI.jpg?auth=b4f6cfd4201d87fb9b9a744ea5943d205bd5b545040c6f0666576d6f5dcc33ac&amp;width=900&amp;height=472&amp;smart=true"
   },
   {
     "title": "NCT·아디다스까지 품은 서울패션위크…잠실에 17.6만명 몰렸다",
@@ -310,13 +318,5 @@
     "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
-  },
-  {
-    "title": "NCT 127, 18일 새 투어 개막…'네오 시티' 새로운 장 연다",
-    "link": "https://www.newspim.com/news/view/20260918000200",
-    "pubDate": "Fri, 18 Sep 2026 00:31:00 GMT",
-    "source": "뉴스핌",
-    "domain": "newspim.com",
-    "thumb": "https://img.newspim.com/news/2026/09/18/2609180926156470_228_tc.jpg"
   }
 ]
