@@ -80,14 +80,6 @@
     "thumb": "https&#x3A;&#x2F;&#x2F;image-cdn.hypb.st&#x2F;https&#x25;3A&#x25;2F&#x25;2Fkr.hypebeast.com&#x25;2Ffiles&#x25;2F2026&#x25;2F09&#x25;2FtwHYBE-Cine-Fest-2026-Announcement-bts-seventeen-tomorrow-x-together-enhypen.jpg&#x3F;w&#x3D;1080&amp;cbr&#x3D;1&amp;q&#x3D;90&amp;fit&#x3D;max"
   },
   {
-    "title": "20기 정숙, BTS 정국과 인연 있었다…2년 넘게 한 공간에서 “차은우도”",
-    "link": "https://v.daum.net/v/20260923160207931",
-    "pubDate": "Wed, 23 Sep 2026 07:02:07 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/23/10asia/20260923160208708ttwe.jpg"
-  },
-  {
     "title": "BTS, 비욘세 제쳤다… 월드투어 매출 6295억 ‘세계 1위’",
     "link": "https://www.bntnews.co.kr/article/view/bnt202609230247",
     "pubDate": "Wed, 23 Sep 2026 07:00:25 GMT",
@@ -126,6 +118,14 @@
     "source": "알파경제",
     "domain": "alphabiz.co.kr",
     "thumb": "https://cdn.alphabiz.co.kr/news/photo/202609/190337_151068_3959.jpg"
+  },
+  {
+    "title": "명태부터 미니 빗자루까지…BTS ‘달마중’에 무슨 일이 - 스타투데이",
+    "link": "https://www.mk.co.kr/news/hot-issues/12160330",
+    "pubDate": "Wed, 23 Sep 2026 05:40:28 GMT",
+    "source": "매일경제",
+    "domain": "mk.co.kr",
+    "thumb": "https://pimg.mk.co.kr/news/cms/202609/23/news-p.v1.20260923.c50d41c833744197bdf7a33846017045_R.jpg"
   },
   {
     "title": "BTS ‘달마중’, 조선시대 문자도 재해석한 전통문화 상품 선보인다",
@@ -168,28 +168,12 @@
     "thumb": "https://cdn.alphabiz.co.kr/news/photo/202609/190327_151053_4946.jpg"
   },
   {
-    "title": "'흉즉대길' 품은 방탄소년단…'달마중'×뮷즈, 조선 문자도로 잇다",
-    "link": "https://www.newsis.com/view/NISX20260923_0003801987",
-    "pubDate": "Wed, 23 Sep 2026 03:42:43 GMT",
-    "source": "뉴시스",
-    "domain": "newsis.com",
-    "thumb": "https://img1.newsis.com/2026/09/23/NISI20260923_0002247682_web.jpg"
-  },
-  {
     "title": "방탄소년단(BTS)은 서구 문화패권을 흔들었나…달라지는 글로벌 음악의 문법",
     "link": "https://www.cbci.co.kr/news/articleView.html?idxno=609362",
     "pubDate": "Wed, 23 Sep 2026 02:31:12 GMT",
     "source": "CBC뉴스",
     "domain": "cbci.co.kr",
     "thumb": "https://www.cbci.co.kr/news/thumbnail/202609/609362_418278_3054_v150.jpg"
-  },
-  {
-    "title": "BTS 공연 실황 영화 극장서 즐긴다…'하이브 씨네 페스타 2026' 개최",
-    "link": "https://zdnet.co.kr/view/?no=20260923091841",
-    "pubDate": "Wed, 23 Sep 2026 02:00:01 GMT",
-    "source": "지디넷코리아",
-    "domain": "zdnet.co.kr",
-    "thumb": "https://image.zdnet.co.kr/2026/09/23/0731bb831de20224020e962b406d6e2b.jpg"
   },
   {
     "title": "“하이브, BTS 복귀로 최대 실적…관건은 신인 IP 성장” -SK",
@@ -264,6 +248,14 @@
     "thumb": "https://images.khan.co.kr/article/2026/09/22/news-p.v1.20260922.93444aeca6aa4606948429ef1ee0903f_P1.jpg"
   },
   {
+    "title": "미국 흔든 BTS…美 아레나 피날레 무대 장식",
+    "link": "https://www.busan.com/view/busan/view.php?code=2026092108591240112",
+    "pubDate": "Tue, 22 Sep 2026 05:06:16 GMT",
+    "source": "부산일보",
+    "domain": "busan.com",
+    "thumb": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/09/21/2026092109000129816_l.jpg"
+  },
+  {
     "title": "방탄소년단 진, '팬앤스타' 솔로랭킹 47주 연속 1위…'2026 TMA' 마이스타상 수상",
     "link": "https://v.daum.net/v/20260922105949371",
     "pubDate": "Tue, 22 Sep 2026 01:59:49 GMT",
@@ -296,12 +288,20 @@
     "thumb": "https://media.yonhapnewstv.co.kr/article/MYH/20260921/MYH20260921091156MbH.jpg"
   },
   {
-    "title": "BTS 뷔 ‘귀여운 뽀글 헤어’[포토엔HD]",
-    "link": "https://m.newsen.com/news_view.php?uid=202609201749183510",
-    "pubDate": "Sun, 20 Sep 2026 08:49:24 GMT",
-    "source": "뉴스엔",
-    "domain": "m.newsen.com",
-    "thumb": null
+    "title": "\"Tae is lit\" 방탄소년단 뷔, '아이하트라디오' 무대 압도..폭발적 화제성 '글로벌 임팩트'",
+    "link": "https://www.starnewskorea.com/music/2026/09/21/2026092107013978722",
+    "pubDate": "Sun, 20 Sep 2026 22:04:59 GMT",
+    "source": "starnewskorea.com",
+    "domain": "starnewskorea.com",
+    "thumb": "https://image.starnewskorea.com/21/2026/09/2026092107013978722_1.jpg"
+  },
+  {
+    "title": "\"이게 BTS 2.0\"…방탄소년단, 6년 만에 美 대형 페스티벌 피날레",
+    "link": "https://v.daum.net/v/20260920105406080",
+    "pubDate": "Sun, 20 Sep 2026 01:54:00 GMT",
+    "source": "v.daum.net",
+    "domain": "v.daum.net",
+    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/20/nocut/20260920105408982mlye.jpg"
   },
   {
     "title": "BTS, 美 대형 음악 축제 피날레 장식…'스윔' 등 4곡 열창",
@@ -312,11 +312,11 @@
     "thumb": "https://img6.yna.co.kr/etc/inner/KR/2026/09/20/AKR20260920013500005_01_i_P4.jpg"
   },
   {
-    "title": "“잘생긴 얼굴 이렇게 막 쓸 거야?”…BTS 뷔, 미간 찡그린 얼빡샷으로 '본인 이름' 완성 - 조선비즈",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/09/19/MNRTGZTCGI3TGZDEGRSGEYZYGY/",
-    "pubDate": "Sat, 19 Sep 2026 11:59:00 GMT",
-    "source": "Chosunbiz",
-    "domain": "biz.chosun.com",
-    "thumb": "https://biz.chosun.com/resizer/v2/GRRTCMDGMRSTCYJQMNQTOMRTMU.jpg?auth=639577c0eb07ab573cf488e35dea6b7f39ea0662986a2127434018d474bf5043&amp;width=572&amp;height=300&amp;smart=true"
+    "title": "“이게 바로 BTS 2.0” 방탄소년단, 美 페스티벌서 압도적 퍼포먼스 ‘피날레 장식’",
+    "link": "https://www.chosun.com/entertainments/music/2026/09/20/G5RWCNDBMQYTEYZRMZSTGOJVMQ/",
+    "pubDate": "Sat, 19 Sep 2026 23:39:00 GMT",
+    "source": "조선일보",
+    "domain": "chosun.com",
+    "thumb": "https://www.chosun.com/resizer/v2/MM2DCMDCGZSGGYRXMU2GIYTEMU.jpg?auth=6a501d113caddf2195f17262d95612abcda6bbec8ce42b3966047abe8846fc52&amp;width=650&amp;height=341&amp;smart=true"
   }
 ]
