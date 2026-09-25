@@ -80,14 +80,6 @@
     "thumb": "https://cdn.nanumy.co.kr/news/photo/202609/4010149_64762_200.jpg"
   },
   {
-    "title": "티저와 스틸컷|NCT 위시, 미니 4집 ‘아이 스파이’ 티저 공개…사랑 마주한 ‘컨퓨즈드 보이’ 변신",
-    "link": "https://news.zum.com/photo/60114801/107934709",
-    "pubDate": "Thu, 24 Sep 2026 03:03:11 GMT",
-    "source": "ZUM 뉴스",
-    "domain": "news.zum.com",
-    "thumb": "https://newszum.zumst.com/news/스포츠서울/2026/09/24/news-p.v1.20260924.21d6157c786b45b0b2506d18d6f69980_P1.jpg"
-  },
-  {
     "title": "‘앰버서더’ NCT 재현, 밀라노 또 홀렸다…프라다쇼만 6번째 - 스타투데이",
     "link": "https://www.mk.co.kr/news/musics/12160836",
     "pubDate": "Thu, 24 Sep 2026 01:19:29 GMT",
@@ -131,7 +123,7 @@
     "title": "NCT DREAM Weverse LIVE - 박지성 - JISUNG",
     "link": "https://weverse.io/nctdream/live/4-241656229",
     "pubDate": "Wed, 23 Sep 2026 09:26:15 GMT",
-    "source": "Weverse",
+    "source": "weverse.io",
     "domain": "weverse.io",
     "thumb": null
   },
@@ -211,7 +203,7 @@
     "title": "NCT 127 The 7th Album ‘BLINGY’ 발매 기",
     "link": "https://weverse.io/nct127/notice/39440",
     "pubDate": "Mon, 21 Sep 2026 09:00:00 GMT",
-    "source": "Weverse",
+    "source": "weverse.io",
     "domain": "weverse.io",
     "thumb": null
   },
@@ -254,6 +246,14 @@
     "source": "JTBC",
     "domain": "news.jtbc.co.kr",
     "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202609/21/0d50e5c5-2de2-4480-9611-8154bce850b7.jpg"
+  },
+  {
+    "title": "NCT 127 콘서트는 '차원이 달라'…KSPO DOME서 다섯 번째 투어 성공적 포문 - 조선비즈",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/09/21/MFRWINJVGA2DAMBTMQ3TQMJZG4/",
+    "pubDate": "Mon, 21 Sep 2026 01:01:00 GMT",
+    "source": "Chosunbiz",
+    "domain": "biz.chosun.com",
+    "thumb": "https://biz.chosun.com/resizer/v2/GIZDEMLDGFSTCYJYMNQWINJUGQ.jpg?auth=f1114df9bb9dc02aedd2eefb44485b1fc342135a8e886cece980452c9a05d386&amp;width=900&amp;height=472&amp;smart=true"
   },
   {
     "title": "빈자리 채운 '원팀'의 질주…NCT 127, 10년 역사로 뚫어낸 '더 레드라인'(종합)",
