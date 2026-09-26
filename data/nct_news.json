@@ -1,13 +1,5 @@
 [
   {
-    "title": "위기→기회 바꾼 엔시티 127, 더 단단해진 '우리칠'에 모이는 기대[초점S]",
-    "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1009232",
-    "pubDate": "Fri, 25 Sep 2026 22:10:00 GMT",
-    "source": "SPOTV NEWS",
-    "domain": "spotvnews.co.kr",
-    "thumb": "https://7lgigmttrjuyfehsudec15072.edge.naverncp.com/news/photo/202609/1009232_2018918_998.jpg"
-  },
-  {
     "title": "NCT 양양, 붉은 조명 속 강렬 시선…콘서트 백스테이지 근황",
     "link": "https://www.topstarnews.net/news/articleView.html?idxno=16213260",
     "pubDate": "Fri, 25 Sep 2026 13:25:30 GMT",
@@ -30,6 +22,14 @@
     "source": "톱스타뉴스",
     "domain": "topstarnews.net",
     "thumb": "https://cdn.topstarnews.net/news/photo/202609/16212597_2036199_587_crop.jpg"
+  },
+  {
+    "title": "NCT WISH Community Post - ✌️✨✌️ - SAKUYA",
+    "link": "https://weverse.io/nctwish/artist/3-241718928",
+    "pubDate": "Fri, 25 Sep 2026 03:07:07 GMT",
+    "source": "Weverse",
+    "domain": "weverse.io",
+    "thumb": null
   },
   {
     "title": "균열 뚫은 에스파·타오르는 NCT 127·꿈꾸는 NCT 드림…SM 콘서트라는 K-팝의 '모범답안'",
@@ -56,14 +56,6 @@
     "thumb": "https://cdn.topstarnews.net/news/photo/202609/16212067_2035908_643_crop.jpg"
   },
   {
-    "title": "NCT 재현, 프라다 패션쇼만 벌써 6번째…밀라노 시선 집중",
-    "link": "https://www.sportsworldi.com/newsView/20260924506882",
-    "pubDate": "Thu, 24 Sep 2026 06:31:07 GMT",
-    "source": "스포츠월드",
-    "domain": "sportsworldi.com",
-    "thumb": "https://www.sportsworldi.com/content/image/2026/09/24/20260924506881.jpg"
-  },
-  {
     "title": "'컴백' NCT WISH, 성숙해진 분위기…미니 4집 'I SPY' 티저 이미지 공개",
     "link": "https://m.news.nate.com/view/20260924n10319?mid=e02&list=recent&cpcd=",
     "pubDate": "Thu, 24 Sep 2026 06:24:00 GMT",
@@ -80,6 +72,14 @@
     "thumb": "https://cdn.nanumy.co.kr/news/photo/202609/4010149_64762_200.jpg"
   },
   {
+    "title": "NCT WISH, 미니 4집 'I SPY' 티저 공개..서툰 첫사랑 마주한 소년들",
+    "link": "https://www.osen.co.kr/article/G1112881113",
+    "pubDate": "Thu, 24 Sep 2026 01:42:00 GMT",
+    "source": "OSEN",
+    "domain": "osen.co.kr",
+    "thumb": "http://file.osen.co.kr/article_thumb/2026/09/24/202609241026773208_6ab4800d039e8_300x.jpg"
+  },
+  {
     "title": "‘앰버서더’ NCT 재현, 밀라노 또 홀렸다…프라다쇼만 6번째 - 스타투데이",
     "link": "https://www.mk.co.kr/news/musics/12160836",
     "pubDate": "Thu, 24 Sep 2026 01:19:29 GMT",
@@ -94,14 +94,6 @@
     "source": "starnewskorea.com",
     "domain": "starnewskorea.com",
     "thumb": "https://image.starnewskorea.com/21/2026/09/2026092410105038791_1.jpg"
-  },
-  {
-    "title": "NCT 재현, “프라다가 사랑하는 뮤즈”…밀라노 다시 사로잡았다",
-    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16210930",
-    "pubDate": "Thu, 24 Sep 2026 01:06:20 GMT",
-    "source": "톱스타뉴스",
-    "domain": "topstarnews.net",
-    "thumb": "https://cdn.topstarnews.net/news/photo/202609/16210930_2035368_613_crop.jpg"
   },
   {
     "title": "NCT WISH, ‘I SPY’ 티저에서 서툰 첫사랑의 ‘Confused Boy’ 시선",
@@ -176,14 +168,6 @@
     "thumb": "https://cdn.topstarnews.net/news/photo/202609/16207833_2034104_103_crop.jpg"
   },
   {
-    "title": "NCT 재현, 밀라노 거리에서 박스 들고 멈춘 순간…팬콘·디지털 싱글로 이어가는 열일 행보",
-    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16207832",
-    "pubDate": "Tue, 22 Sep 2026 17:09:52 GMT",
-    "source": "톱스타뉴스",
-    "domain": "topstarnews.net",
-    "thumb": "https://cdn.topstarnews.net/news/photo/202609/16207832_2034100_925_crop.jpg"
-  },
-  {
     "title": "'스디파' NCT 태용, 백구영 '딱밤춤' 안무 수용…최종 선택은?",
     "link": "https://www.news1.kr/entertain/broadcast-tv/6299475",
     "pubDate": "Tue, 22 Sep 2026 14:38:27 GMT",
@@ -200,10 +184,18 @@
     "thumb": "https://media.yonhapnewstv.co.kr/article/MYH/20260921/MYH20260922054542fCJ.jpg"
   },
   {
+    "title": "“NCT·에스파로 쇼핑몰 도배” … K팝 품고 디즈니 넘어선 中 콘텐츠 공룡",
+    "link": "https://www.mk.co.kr/news/world/12158437",
+    "pubDate": "Mon, 21 Sep 2026 20:00:00 GMT",
+    "source": "매일경제",
+    "domain": "mk.co.kr",
+    "thumb": "https://pimg.mk.co.kr/news/cms/202609/21/news-p.v1.20260921.be8d6eb6d6dc4107911334ace76f46a5_R.png"
+  },
+  {
     "title": "NCT 127, 10년 저력 증명한 'NEO CITY : THE REDLINE'",
     "link": "https://billboard.co.kr/editorial/culture/article/nct-127-10%25eb%2585%2584-%25ec%25a0%2580%25eb%25a0%25a5-%25ec%25a6%259d%25eb%25aa%2585%25ed%2595%259c-neo-city-the-redline/",
     "pubDate": "Mon, 21 Sep 2026 09:42:12 GMT",
-    "source": "Billboard Korea",
+    "source": "billboard.co.kr",
     "domain": "billboard.co.kr",
     "thumb": null
   },
@@ -318,5 +310,13 @@
     "source": "JTBC",
     "domain": "news.jtbc.co.kr",
     "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202609/20/e23e418b-869d-4a9f-9141-2b2aee9d69a4.jpg"
+  },
+  {
+    "title": "서울에서 확장되는 NCT 127의 반경",
+    "link": "https://magazine.weverse.io/article/view/1956?lang=ko",
+    "pubDate": "Mon, 07 Sep 2026 07:00:00 GMT",
+    "source": "Weverse Magazine",
+    "domain": "magazine.weverse.io",
+    "thumb": "https://magazine.weverse.io/_next/static/media/magazine_ogtag.62c720a9.png"
   }
 ]
