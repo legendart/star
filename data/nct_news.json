@@ -80,14 +80,6 @@
     "thumb": null
   },
   {
-    "title": "NCT 재민, 귀공자 비주얼 제대로 [포토엔HD]",
-    "link": "https://www.newsen.com/news_view.php?uid=202610011131431510&code=100100",
-    "pubDate": "Thu, 01 Oct 2026 02:31:48 GMT",
-    "source": "뉴스엔",
-    "domain": "newsen.com",
-    "thumb": "https://photo.newsen.com/news_photo/2026/10/01/202610011131431510_1.jpg"
-  },
-  {
     "title": "NCT 재민 '가을 바람 타고 온 남신'",
     "link": "https://www.slist.kr/news/articleView.html?idxno=770247",
     "pubDate": "Thu, 01 Oct 2026 02:25:29 GMT",
@@ -96,20 +88,20 @@
     "thumb": "https://cdn.slist.kr/news/thumbnail/202610/770247_1178572_2458_v150.jpg"
   },
   {
+    "title": "NCT 재민, 정면 응시에 심쿵 [포토엔HD]",
+    "link": "https://www.newsen.com/news_view.php?uid=202610011118261510&code=100600",
+    "pubDate": "Thu, 01 Oct 2026 02:18:35 GMT",
+    "source": "뉴스엔",
+    "domain": "newsen.com",
+    "thumb": "https://photo.newsen.com/news_photo/2026/10/01/202610011118261510_1.jpg"
+  },
+  {
     "title": "NCT 재민, 시크한 눈빛에 시선 집중 [포토엔HD]",
     "link": "https://m.newsen.com/news_view.php?uid=202610011111581510",
     "pubDate": "Thu, 01 Oct 2026 02:12:14 GMT",
     "source": "뉴스엔",
     "domain": "m.newsen.com",
     "thumb": null
-  },
-  {
-    "title": "NCT 재민 'Lee 팝업 밝히는 인간 데님 그 자체'",
-    "link": "https://www.slist.kr/news/articleView.html?idxno=770235",
-    "pubDate": "Thu, 01 Oct 2026 02:11:56 GMT",
-    "source": "slist.kr",
-    "domain": "slist.kr",
-    "thumb": "https://cdn.slist.kr/news/thumbnail/202610/770235_1178558_1128_v150.jpg"
   },
   {
     "title": "엔시티 위시, 첫사랑 서사 완성",
@@ -128,12 +120,12 @@
     "thumb": "https://img.tf.co.kr/article/home/2026/10/01/202627231790818266.jpg"
   },
   {
-    "title": "NCT WISH, 사랑에 빠진 여섯 소년…컬러풀한 ‘Lover Boy’",
-    "link": "https://www.slist.kr/news/articleView.html?idxno=770208",
-    "pubDate": "Thu, 01 Oct 2026 01:06:37 GMT",
-    "source": "slist.kr",
-    "domain": "slist.kr",
-    "thumb": "https://cdn.slist.kr/news/thumbnail/202610/770208_1178516_631_v150.jpg"
+    "title": "NCT WISH, ‘Confused Boy’에서 ‘Lover Boy’로…첫사랑 감정선 확장",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16231560",
+    "pubDate": "Thu, 01 Oct 2026 01:12:11 GMT",
+    "source": "TopStarNews",
+    "domain": "topstarnews.net",
+    "thumb": "https://cdn.topstarnews.net/news/photo/202610/16231560_2041679_1157_crop.jpg"
   },
   {
     "title": "NCT 쟈니, 파리 패션쇼서 빛난 눈빛…고급 그린 카디건 스타일",
@@ -160,12 +152,12 @@
     "thumb": "https://www.jejutwn.com/data/photos/20260940/art_17907704832251.jpg"
   },
   {
-    "title": "코르티스·NCT위시·앤더블·리센느, '대한민국문화연예대상' 스포트라이트 부문 놓고 치열한 '팬덤 경쟁'",
-    "link": "https://v.daum.net/v/20260930165657209",
-    "pubDate": "Wed, 30 Sep 2026 07:56:00 GMT",
-    "source": "v.daum.net",
-    "domain": "v.daum.net",
-    "thumb": "https://img1.daumcdn.net/thumb/S1200x630/?fname=https://t1.daumcdn.net/news/202609/30/spotvnews/20260930165658395vjti.jpg"
+    "title": "민호의 보석함 NCT WISH 시온과 대결하러 갔습니다.",
+    "link": "https://youtu.be/vOx0Yn884A4",
+    "pubDate": "Wed, 30 Sep 2026 09:00:08 GMT",
+    "source": "YouTube",
+    "domain": "youtu.be",
+    "thumb": null
   },
   {
     "title": "NCT 127·NCT DREAM→에이티즈·TWS…K팝 세대교체, 고척돔서 터진다",
@@ -238,6 +230,14 @@
     "source": "한국경제",
     "domain": "hankyung.com",
     "thumb": "https://img.hankyung.com/photo/202609/01.45867421.1.jpg"
+  },
+  {
+    "title": "NCT 석촌호수 전시에 454만 관람객 몰려…역대 최다 기록 - 스타투데이",
+    "link": "https://www.mk.co.kr/news/musics/12163484",
+    "pubDate": "Tue, 29 Sep 2026 01:58:52 GMT",
+    "source": "매일경제",
+    "domain": "mk.co.kr",
+    "thumb": "https://pimg.mk.co.kr/news/cms/202609/29/news-p.v1.20260929.0297e7316bd24b77a6edb09e60dda953_R.jpg"
   },
   {
     "title": "NCT WISH와 이름 궁합→전화 통화까지…설렘 자극 'I SPY' 프로모션 - 조선비즈",
