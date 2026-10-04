@@ -64,22 +64,6 @@
     "thumb": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/10/03/134780121.1.jpg"
   },
   {
-    "title": "NCT 헨드리, 10km 도전 인증…러닝으로 전한 근황",
-    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16236162",
-    "pubDate": "Sat, 03 Oct 2026 06:01:31 GMT",
-    "source": "TopStarNews",
-    "domain": "topstarnews.net",
-    "thumb": "https://cdn.topstarnews.net/news/photo/202610/16236162_2044159_15_crop.jpg"
-  },
-  {
-    "title": "NCT JNJM, 日 페스티벌 ‘a-nation’ 첫 출격",
-    "link": "https://www.bntnews.co.kr/article/view/bnt202610030112",
-    "pubDate": "Sat, 03 Oct 2026 01:36:46 GMT",
-    "source": "bntnews.co.kr",
-    "domain": "bntnews.co.kr",
-    "thumb": "https://www.bntnews.co.kr/data/bnt/image/2026/10/03/bnt202610030192.jpg"
-  },
-  {
     "title": "NCT JNJM, 日 ‘a-nation 2026’ 첫 무대…제노·재민 유닛 출격",
     "link": "https://www.topstarnews.net/news/articleView.html?idxno=16235820",
     "pubDate": "Sat, 03 Oct 2026 01:08:35 GMT",
@@ -94,6 +78,14 @@
     "source": "TopStarNews",
     "domain": "topstarnews.net",
     "thumb": "https://cdn.topstarnews.net/news/photo/202610/16234776_2043328_733_crop.jpg"
+  },
+  {
+    "title": "\"호불호? 그게 뭔데\"…NCT WISH 시온, 무결점 미모로 글로벌 센터 꿰찼다",
+    "link": "https://enews.imbc.com/News/RetrieveNewsInfo/519507",
+    "pubDate": "Fri, 02 Oct 2026 07:00:00 GMT",
+    "source": "iMBC 연예",
+    "domain": "enews.imbc.com",
+    "thumb": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/09/29/c713b710-bf78-4657-ba74-b7538ec2cd51.jpg"
   },
   {
     "title": "NCT 쟈니, 완벽 피지컬로 파리 패션위크 접수",
@@ -123,7 +115,7 @@
     "title": "NCT WISH 시온 ‘다정한 손인사’[포토엔HD]",
     "link": "https://m.newsen.com/news_view.php?uid=202610012028293510",
     "pubDate": "Thu, 01 Oct 2026 11:28:36 GMT",
-    "source": "newsen.com",
+    "source": "뉴스엔",
     "domain": "m.newsen.com",
     "thumb": null
   },
@@ -208,20 +200,20 @@
     "thumb": "https://cdn.topstarnews.net/news/photo/202609/16228492_2040109_2714_crop.jpg"
   },
   {
+    "title": "NCT 석촌호수 아트벌룬에 454만명…역대 최다 관람",
+    "link": "https://www.asiae.co.kr/article/2026092917455830436",
+    "pubDate": "Tue, 29 Sep 2026 08:45:58 GMT",
+    "source": "아시아경제",
+    "domain": "asiae.co.kr",
+    "thumb": "https://cphoto.asiae.co.kr/listimglink/1/2026092917365444608_1790671014.jpg"
+  },
+  {
     "title": "NCT, 10주년 석촌호수 아트벌룬 전시 성료…누적 방문 454만 돌파 - 머니투데이",
     "link": "https://www.mt.co.kr/stock/2026/09/29/2026092915434826419",
     "pubDate": "Tue, 29 Sep 2026 07:24:12 GMT",
     "source": "머니투데이",
     "domain": "mt.co.kr",
     "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/09/2026092915434826419_1.jpg"
-  },
-  {
-    "title": "석촌호수에 NCT 아트벌룬 뜨자⋯454만 명 몰렸다",
-    "link": "https://www.etoday.co.kr/news/view/2630384",
-    "pubDate": "Tue, 29 Sep 2026 04:51:00 GMT",
-    "source": "이투데이",
-    "domain": "etoday.co.kr",
-    "thumb": "https://img.etoday.co.kr/pto_db/2026/09/20260929134535_2394557_1200_800.jpg"
   },
   {
     "title": "NCT 석촌호수 아트벌룬 전시…454만 명 몰렸다",
@@ -272,14 +264,6 @@
     "thumb": "https://dispatch.cdnser.be/cms-content/uploads/2026/09/29/829510f7-9926-4d69-a178-7c80b4d37d9c.jpg"
   },
   {
-    "title": "NCT 위시, 미니 4집 '아이 스파이' 트레일러 공개",
-    "link": "https://www.newspim.com/news/view/20260928000104",
-    "pubDate": "Sun, 27 Sep 2026 23:51:00 GMT",
-    "source": "뉴스핌",
-    "domain": "newspim.com",
-    "thumb": "https://img.newspim.com/news/2026/09/28/2609280844490630_206_tc.jpg"
-  },
-  {
     "title": "’10주년’ NCT 127 공연…3만여 석 매진",
     "link": "https://www.yonhapnewstv.co.kr/news/MYH20260922054542fCJ",
     "pubDate": "Tue, 22 Sep 2026 07:00:00 GMT",
@@ -310,6 +294,22 @@
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img5.yna.co.kr/etc/inner/KR/2026/09/20/AKR20260920037800005_01_i_P4.jpg"
+  },
+  {
+    "title": "‘독기칠’ NCT 127, 다섯이서도 끄떡없다 \"내년엔 도영·정우도 함께\"(종합)",
+    "link": "https://news.jtbc.co.kr/article/NB12319258",
+    "pubDate": "Sun, 20 Sep 2026 07:00:00 GMT",
+    "source": "JTBC",
+    "domain": "news.jtbc.co.kr",
+    "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202609/20/8bf3d36d-0c38-46c7-9062-a0d6f916e31e.jpg"
+  },
+  {
+    "title": "NCT 127 5TH TOUR 'NEO CITY : SEOUL",
+    "link": "https://weverse.io/nct127/notice/37555?hl=ko",
+    "pubDate": "Thu, 16 Jul 2026 04:13:27 GMT",
+    "source": "Weverse",
+    "domain": "weverse.io",
+    "thumb": null
   },
   {
     "title": "NCT 127 5TH TOUR 'NEO CITY : THE RE",
