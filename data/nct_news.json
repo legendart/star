@@ -2,9 +2,25 @@
   {
     "title": "261017 (토) NCT WISH MBC 쇼! 음악중심 생방송 참여 안내",
     "link": "https://weverse.io/nctwish/notice/40107",
-    "pubDate": "Thu, 15 Oct 2026 11:30:21 GMT",
+    "pubDate": "Thu, 15 Oct 2026 14:29:25 GMT",
     "source": "Weverse",
     "domain": "weverse.io",
+    "thumb": null
+  },
+  {
+    "title": "2027 NCT DREAM SEASON’S GREETINGS BEHIND",
+    "link": "https://youtu.be/DLvwxwO4tfI?si=QQcXn4nte4yPSBZp",
+    "pubDate": "Thu, 15 Oct 2026 11:00:07 GMT",
+    "source": "YouTube",
+    "domain": "youtu.be",
+    "thumb": null
+  },
+  {
+    "title": "엔시티 위시 직캠 8K 'I SPY' (NCT WISH FanCam) | @MCOUNTDOWN_2026.10.15",
+    "link": "https://youtu.be/nH6zNRmg5Fc?si=IaQraagZIXKzDfH_",
+    "pubDate": "Thu, 15 Oct 2026 10:21:01 GMT",
+    "source": "YouTube",
+    "domain": "youtu.be",
     "thumb": null
   },
   {
@@ -24,22 +40,6 @@
     "thumb": null
   },
   {
-    "title": "NCT 지성 합류한 ‘크래시2’ 판 더 커졌다‥짜릿한 카체이싱",
-    "link": "https://www.newsen.com/news_view.php?uid=202610151448316310&code=100100",
-    "pubDate": "Thu, 15 Oct 2026 05:54:23 GMT",
-    "source": "뉴스엔",
-    "domain": "newsen.com",
-    "thumb": "https://photo.newsen.com/news_photo/2026/10/15/202610151448316310_2.jpg"
-  },
-  {
-    "title": "NCT 텐, ‘클레이페이스’ 월드프리미어 떴다",
-    "link": "https://www.sportsseoul.com/news/read/1641631",
-    "pubDate": "Thu, 15 Oct 2026 05:28:56 GMT",
-    "source": "스포츠서울",
-    "domain": "sportsseoul.com",
-    "thumb": "https://file.sportsseoul.com/news/cms/2026/10/15/news-p.v1.20261015.7c754a24c6664928994b55f7a287c2d8_T1.jpg"
-  },
-  {
     "title": "이민기ⅹ곽선영 ‘크래시’ 시즌2, 원년 멤버에 NCT 박지성 합류…11월 16일 첫 방송",
     "link": "https://www.viva100.com/article/20261015500717",
     "pubDate": "Thu, 15 Oct 2026 04:41:00 GMT",
@@ -54,14 +54,6 @@
     "source": "브레이크뉴스",
     "domain": "breaknews.com",
     "thumb": "https://www.breaknews.com/imgdata/breaknews_com/202610/2026101527055448.jpg"
-  },
-  {
-    "title": "NCT 텐, ‘클레이페이스’ LA 프리미어 참석…글로벌 영향력 증",
-    "link": "https://www.slist.kr/news/articleView.html?idxno=773699",
-    "pubDate": "Thu, 15 Oct 2026 04:22:52 GMT",
-    "source": "싱글리스트",
-    "domain": "slist.kr",
-    "thumb": "https://cdn.slist.kr/news/thumbnail/202610/773699_1183288_222_v150.jpg"
   },
   {
     "title": "NCT WISH, 음방·유튜브·페스티벌 다 잡았다..'아이 스파이' 활동 시작",
@@ -142,6 +134,14 @@
     "source": "YTN star",
     "domain": "star.ytn.co.kr",
     "thumb": "https://image.ytn.co.kr/general/jpg/2026/1013/202610131718067242_t.jpg"
+  },
+  {
+    "title": "NCT WISH 'I SPY' 200만뷰 돌파…204만회 기록",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16245588",
+    "pubDate": "Tue, 13 Oct 2026 05:12:23 GMT",
+    "source": "톱스타뉴스",
+    "domain": "topstarnews.net",
+    "thumb": "https://cdn.topstarnews.net/news/photo/202610/16245588_2053587_1213_crop.jpg"
   },
   {
     "title": "NCT WISH, ‘I SPY’로 4연속 밀리언셀러 등극",
@@ -232,6 +232,14 @@
     "thumb": "https://img.etoday.co.kr/pto_db/2026/10/20261012162056_2400158_1200_800.jpg"
   },
   {
+    "title": "다크해진 성한빈 \"태민·카이 무대 찾아봐…롤모델은 NCT 재현\"",
+    "link": "https://news.jtbc.co.kr/article/NB12322518",
+    "pubDate": "Mon, 12 Oct 2026 04:51:00 GMT",
+    "source": "JTBC",
+    "domain": "news.jtbc.co.kr",
+    "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202610/12/f9356eeb-0d47-4d04-ab53-7bbefd1a1dee.jpg"
+  },
+  {
     "title": "성한빈 \"男 솔로 롤모델은 NCT 재현..아우라 가져가고 싶어\" [스타현장]",
     "link": "https://www.starnewskorea.com/music/2026/10/12/2026101213450927594",
     "pubDate": "Mon, 12 Oct 2026 04:47:49 GMT",
@@ -262,14 +270,6 @@
     "source": "한국증권신문",
     "domain": "ksdaily.co.kr",
     "thumb": "http://www.ksdaily.co.kr/news/thumbnail/202610/111077_68422_739_v150.jpg"
-  },
-  {
-    "title": "NCT 위시, 오늘 미니 4집…내년 1월 고척돔 입성",
-    "link": "https://www.yna.co.kr/amp/view/AKR20261012070500005",
-    "pubDate": "Mon, 12 Oct 2026 02:01:42 GMT",
-    "source": "연합뉴스",
-    "domain": "yna.co.kr",
-    "thumb": "https://img9.yna.co.kr/etc/inner/KR/2026/10/12/AKR20261012070500005_01_i_P4.jpg"
   },
   {
     "title": "NCT 위시, 기세 좋다…오늘 '아이 스파이' 발매→내년 고척돔 입성",
