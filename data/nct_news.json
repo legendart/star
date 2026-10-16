@@ -72,14 +72,6 @@
     "thumb": "https://image.newdaily.co.kr/site/data/img/2026/10/16/2026101600299_0.jpg"
   },
   {
-    "title": "NCT 제노, 빈티지 사이버펑크",
-    "link": "https://enews.imbc.com/News/RetrieveNewsInfo/521509",
-    "pubDate": "Fri, 16 Oct 2026 09:53:00 GMT",
-    "source": "iMBC 연예",
-    "domain": "enews.imbc.com",
-    "thumb": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/10/16/5d38fbb7-8386-4429-89df-329b6be941ce.jpg"
-  },
-  {
     "title": "‘화보 천재’ NCT 제노 [포토엔HD]",
     "link": "https://www.newsen.com/news_view.php?uid=202610161852431510&code=100100",
     "pubDate": "Fri, 16 Oct 2026 09:52:49 GMT",
@@ -88,12 +80,28 @@
     "thumb": "https://photo.newsen.com/news_photo/2026/10/16/202610161852431510_1.jpg"
   },
   {
+    "title": "NCT 제노,'미소가 쿨'",
+    "link": "https://www.osen.co.kr/article/G1112893785",
+    "pubDate": "Fri, 16 Oct 2026 09:52:00 GMT",
+    "source": "OSEN",
+    "domain": "osen.co.kr",
+    "thumb": "http://file.osen.co.kr/article_thumb/2026/10/16/202610161852777432_6ad1f3dbd54ee_300x.jpg"
+  },
+  {
     "title": "NCT 제노, '금요일 저녁 이태원 외출'",
     "link": "https://www.etnews.com/20261016000326",
     "pubDate": "Fri, 16 Oct 2026 09:48:31 GMT",
     "source": "전자신문",
     "domain": "etnews.com",
     "thumb": "https://img.etnews.com/news/article/2026/10/16/cms_temp_stats_17921440551735979258.jpg"
+  },
+  {
+    "title": "NCT 제노, 비주얼 마스터피스 [포토엔HD]",
+    "link": "https://www.newsen.com/news_view.php?uid=202610161846331510&code=100600",
+    "pubDate": "Fri, 16 Oct 2026 09:46:44 GMT",
+    "source": "뉴스엔",
+    "domain": "newsen.com",
+    "thumb": "https://photo.newsen.com/news_photo/2026/10/16/202610161846331510_1.jpg"
   },
   {
     "title": "NCT 제노.'상큼 윙크'",
@@ -112,12 +120,12 @@
     "thumb": "https://cdn.topstarnews.net/news/photo/202610/16249217_2057574_331_crop.jpg"
   },
   {
-    "title": "NCT 제노 '심쿵 윙크'[엑's HD포토]",
-    "link": "https://www.xportsnews.com/article/2208239",
-    "pubDate": "Fri, 16 Oct 2026 09:35:59 GMT",
-    "source": "엑스포츠뉴스",
-    "domain": "xportsnews.com",
-    "thumb": "https://image.xportsnews.com/contents/images/upload/article/2026/1016/1792143340679805.webp"
+    "title": "NCT 제노, '이렇게 바라보면~'",
+    "link": "https://www.etnews.com/20261016000323",
+    "pubDate": "Fri, 16 Oct 2026 09:45:06 GMT",
+    "source": "전자신문",
+    "domain": "etnews.com",
+    "thumb": null
   },
   {
     "title": "'6인조' NCT 드림, 정규 6집 '드림 애프터 드림'으로 11월 9일 컴백",
@@ -150,14 +158,6 @@
     "source": "브레이크뉴스",
     "domain": "breaknews.com",
     "thumb": "https://www.breaknews.com/imgdata/breaknews_com/202610/2026101614149240.jpg"
-  },
-  {
-    "title": "NCT DREAM to return for its 10th anniversary… Sixth studio album comeback confirmed",
-    "link": "https://sports.khan.co.kr/en/article/202610161121007",
-    "pubDate": "Fri, 16 Oct 2026 02:21:00 GMT",
-    "source": "스포츠경향",
-    "domain": "sports.khan.co.kr",
-    "thumb": "https://images.khan.co.kr/article/2026/10/16/news-p.v1.20240520.aca6cc4888b74151a09f0616a6f458c1_P1.jpg"
   },
   {
     "title": "'데뷔 10주년' NCT 드림, 내달 9일 정규 6집 발매",
@@ -240,22 +240,6 @@
     "thumb": "https://image.starnewskorea.com/21/2026/10/2026101609041458965_1.jpg"
   },
   {
-    "title": "NCT WISH, 공포 생존 게임 다시 뛴다…‘데드피스’ 찾기 도전",
-    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16248579",
-    "pubDate": "Thu, 15 Oct 2026 23:24:29 GMT",
-    "source": "톱스타뉴스",
-    "domain": "topstarnews.net",
-    "thumb": "https://cdn.topstarnews.net/news/photo/202610/16248579_2056796_2415_crop.jpg"
-  },
-  {
-    "title": "'흥행 주역' NCT WISH, 오늘(16일) '숨바꼭질2' 출격..이번엔 폐병원行",
-    "link": "https://www.starnewskorea.com/broadcast-show/2026/10/16/2026101608092126853",
-    "pubDate": "Thu, 15 Oct 2026 23:14:38 GMT",
-    "source": "스타뉴스",
-    "domain": "starnewskorea.com",
-    "thumb": "https://image.starnewskorea.com/21/2026/10/2026101608092126853_1.jpg"
-  },
-  {
     "title": "NCT 위시, '숨바꼭질2' 여섯 번째 플레이어 출격…병원 괴담 속 생존 도전",
     "link": "https://www.newspim.com/news/view/20261016000073",
     "pubDate": "Thu, 15 Oct 2026 23:14:00 GMT",
@@ -266,7 +250,7 @@
   {
     "title": "261017 (토) NCT WISH MBC 쇼! 음악중심 생방송 참여 안내",
     "link": "https://weverse.io/nctwish/notice/40107",
-    "pubDate": "Thu, 15 Oct 2026 14:29:25 GMT",
+    "pubDate": "Thu, 15 Oct 2026 17:39:17 GMT",
     "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
@@ -280,6 +264,14 @@
     "thumb": null
   },
   {
+    "title": "'MMA 2026', NCT·에스파에 아이브·코르티스까지…26팀 출연 확정",
+    "link": "https://www.hankyung.com/article/202610141964H",
+    "pubDate": "Wed, 14 Oct 2026 07:59:58 GMT",
+    "source": "한국경제",
+    "domain": "hankyung.com",
+    "thumb": "https://img.hankyung.com/photo/202610/01.46051681.1.png"
+  },
+  {
     "title": "NCT WISH, '숨바꼭질2' 재출격…이번엔 병원 괴담 속 생존 게임 도전",
     "link": "https://www.slist.kr/news/articleView.html?idxno=773835",
     "pubDate": "Wed, 14 Oct 2026 07:00:00 GMT",
@@ -288,12 +280,12 @@
     "thumb": "https://cdn.slist.kr/news/thumbnail/202610/773835_1183490_541_v150.jpg"
   },
   {
-    "title": "NCT 위시, 신보 발매 하루 만에 밀리언셀러",
-    "link": "https://www.yna.co.kr/amp/view/AKR20261013168900005",
-    "pubDate": "Tue, 13 Oct 2026 08:38:24 GMT",
-    "source": "연합뉴스",
-    "domain": "yna.co.kr",
-    "thumb": "https://img2.yna.co.kr/etc/inner/KR/2026/10/13/AKR20261013168900005_02_i_P4.jpg"
+    "title": "261017 (토) NCT WISH MBC 쇼! 음악중심 사전녹화 참여 안내 (261015 사전녹화)",
+    "link": "https://weverse.io/nctwish/notice/40019",
+    "pubDate": "Tue, 13 Oct 2026 11:20:21 GMT",
+    "source": "Weverse",
+    "domain": "weverse.io",
+    "thumb": null
   },
   {
     "title": "'크래시2' 대본 리딩 현장 공개…NCT 지성, 교통과 아이돌로 합류",
@@ -315,6 +307,14 @@
     "title": "NCT WISH 2nd CONCERT TOUR ‘INTO THE WISH : Face Our WISH’ 투어 일정 안내",
     "link": "https://weverse.io/nctwish/notice/39830?hl=ko",
     "pubDate": "Sun, 11 Oct 2026 11:20:54 GMT",
+    "source": "Weverse",
+    "domain": "weverse.io",
+    "thumb": null
+  },
+  {
+    "title": "NCT WISH 팝업스토어 'WISH LAND' NCTzen W",
+    "link": "https://weverse.io/nctwish/notice/39717",
+    "pubDate": "Tue, 06 Oct 2026 09:23:25 GMT",
     "source": "Weverse",
     "domain": "weverse.io",
     "thumb": null
