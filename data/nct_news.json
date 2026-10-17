@@ -56,6 +56,14 @@
     "thumb": "https://biz.chosun.com/resizer/v2/GU3TIY3CMNSTKOLDMRSDCMJVMU.jpg?auth=e26964e251c330d95202c4c15013e5c4d7a97ca64a8dea5cdbfbeb88634317c6&amp;width=572&amp;height=300&amp;smart=true"
   },
   {
+    "title": "NCT 제노,'아름다운 볼하트'",
+    "link": "http://www.osen.co.kr/article/G1112893790",
+    "pubDate": "Fri, 16 Oct 2026 09:59:00 GMT",
+    "source": "OSEN",
+    "domain": "osen.co.kr",
+    "thumb": "http://file.osen.co.kr/article_thumb/2026/10/16/202610161859778902_6ad1f57bc3f74_300x.jpg"
+  },
+  {
     "title": "NCT 제노,'귀여운 볼콕'",
     "link": "http://www.osen.co.kr/article/G1112893791",
     "pubDate": "Fri, 16 Oct 2026 09:59:00 GMT",
@@ -72,20 +80,12 @@
     "thumb": "https://image.newdaily.co.kr/site/data/img/2026/10/16/2026101600299_0.jpg"
   },
   {
-    "title": "‘화보 천재’ NCT 제노 [포토엔HD]",
-    "link": "https://www.newsen.com/news_view.php?uid=202610161852431510&code=100100",
-    "pubDate": "Fri, 16 Oct 2026 09:52:49 GMT",
+    "title": "NCT 제노, 감탄 자아내는 표정 [포토엔HD]",
+    "link": "https://www.newsen.com/news_view.php?uid=202610161854501510&code=100100",
+    "pubDate": "Fri, 16 Oct 2026 09:54:56 GMT",
     "source": "뉴스엔",
     "domain": "newsen.com",
-    "thumb": "https://photo.newsen.com/news_photo/2026/10/16/202610161852431510_1.jpg"
-  },
-  {
-    "title": "NCT 제노,'미소가 쿨'",
-    "link": "https://www.osen.co.kr/article/G1112893785",
-    "pubDate": "Fri, 16 Oct 2026 09:52:00 GMT",
-    "source": "OSEN",
-    "domain": "osen.co.kr",
-    "thumb": "http://file.osen.co.kr/article_thumb/2026/10/16/202610161852777432_6ad1f3dbd54ee_300x.jpg"
+    "thumb": "https://photo.newsen.com/news_photo/2026/10/16/202610161854501510_1.jpg"
   },
   {
     "title": "NCT 제노, '금요일 저녁 이태원 외출'",
@@ -112,12 +112,12 @@
     "thumb": "http://file.osen.co.kr/article_thumb/2026/10/16/202610161846771955_6ad1f27429096_300x.jpg"
   },
   {
-    "title": "NCT 제노, ‘서있기만 해도 시선 강탈’ (디젤 포토콜)",
-    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16249217",
+    "title": "NCT 제노, ‘뿔테도 잘 어울리죠?’ (디젤 포토콜)",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16249221",
     "pubDate": "Fri, 16 Oct 2026 09:45:56 GMT",
     "source": "톱스타뉴스",
     "domain": "topstarnews.net",
-    "thumb": "https://cdn.topstarnews.net/news/photo/202610/16249217_2057574_331_crop.jpg"
+    "thumb": "https://cdn.topstarnews.net/news/photo/202610/16249221_2057578_551_crop.jpg"
   },
   {
     "title": "NCT 제노, '이렇게 바라보면~'",
@@ -125,7 +125,7 @@
     "pubDate": "Fri, 16 Oct 2026 09:45:06 GMT",
     "source": "전자신문",
     "domain": "etnews.com",
-    "thumb": null
+    "thumb": "https://img.etnews.com/news/article/2026/10/16/cms_temp_stats_1792143856888477737.jpg"
   },
   {
     "title": "'6인조' NCT 드림, 정규 6집 '드림 애프터 드림'으로 11월 9일 컴백",
@@ -152,12 +152,12 @@
     "thumb": "http://file.osen.co.kr/article_thumb/2026/10/16/202610161351773763_6ad1af56cc37e_300x.jpg"
   },
   {
-    "title": "NCT DREAM, 11월 9일 컴백..정규 6집 ‘드림 애프터 드림’ 발매",
-    "link": "http://breaknews.com/1243487",
-    "pubDate": "Fri, 16 Oct 2026 04:13:00 GMT",
-    "source": "브레이크뉴스",
-    "domain": "breaknews.com",
-    "thumb": "https://www.breaknews.com/imgdata/breaknews_com/202610/2026101614149240.jpg"
+    "title": "NCT DREAM, 10주년 맞아 돌아온다…정규 6집 컴백 확정",
+    "link": "https://sports.khan.co.kr/article/202610161119003",
+    "pubDate": "Fri, 16 Oct 2026 02:19:00 GMT",
+    "source": "스포츠경향",
+    "domain": "sports.khan.co.kr",
+    "thumb": "https://images.khan.co.kr/article/2026/10/16/news-p.v1.20240520.aca6cc4888b74151a09f0616a6f458c1_P1.jpg"
   },
   {
     "title": "'데뷔 10주년' NCT 드림, 내달 9일 정규 6집 발매",
@@ -182,14 +182,6 @@
     "source": "news.sbs.co.kr",
     "domain": "news.sbs.co.kr",
     "thumb": "https://img.sbs.co.kr/newsnet/etv/upload/2026/10/16/30001093906_16v9.jpg"
-  },
-  {
-    "title": "NCT 드림, 11월 9일 컴백…\"10주년, 새로운 꿈의 시작\"",
-    "link": "https://www.dispatch.co.kr/2349368",
-    "pubDate": "Fri, 16 Oct 2026 01:11:00 GMT",
-    "source": "디스패치",
-    "domain": "dispatch.co.kr",
-    "thumb": "https://dispatch.cdnser.be/cms-content/uploads/2026/10/16/11e7ca07-12c6-4646-86e1-55ad09ad3cd0.jpg"
   },
   {
     "title": "10주년 NCT 드림, 다음 달 정규 6집 발표",
@@ -264,6 +256,14 @@
     "thumb": null
   },
   {
+    "title": "NCT WISH, 음방·유튜브·페스티벌 다 잡았다..'아이 스파이' 활동 시작",
+    "link": "https://www.starnewskorea.com/music/2026/10/15/2026101510074588607",
+    "pubDate": "Thu, 15 Oct 2026 01:34:18 GMT",
+    "source": "스타뉴스",
+    "domain": "starnewskorea.com",
+    "thumb": "https://image.starnewskorea.com/21/2026/10/2026101510074588607_1.jpg"
+  },
+  {
     "title": "'MMA 2026', NCT·에스파에 아이브·코르티스까지…26팀 출연 확정",
     "link": "https://www.hankyung.com/article/202610141964H",
     "pubDate": "Wed, 14 Oct 2026 07:59:58 GMT",
@@ -280,12 +280,12 @@
     "thumb": "https://cdn.slist.kr/news/thumbnail/202610/773835_1183490_541_v150.jpg"
   },
   {
-    "title": "261017 (토) NCT WISH MBC 쇼! 음악중심 사전녹화 참여 안내 (261015 사전녹화)",
-    "link": "https://weverse.io/nctwish/notice/40019",
-    "pubDate": "Tue, 13 Oct 2026 11:20:21 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
+    "title": "NCT 위시, 신보 하루 만에 120만장…4연속 밀리언셀러",
+    "link": "https://www.asiae.co.kr/article/2026101318160292845",
+    "pubDate": "Tue, 13 Oct 2026 09:16:02 GMT",
+    "source": "아시아경제",
+    "domain": "asiae.co.kr",
+    "thumb": "https://cphoto.asiae.co.kr/listimglink/1/2026101318124259397_1791882762.jpg"
   },
   {
     "title": "'크래시2' 대본 리딩 현장 공개…NCT 지성, 교통과 아이돌로 합류",
