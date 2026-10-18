@@ -64,14 +64,6 @@
     "thumb": "https://pds.joongang.co.kr/news/FbMetaImage/202610/693274ae-8049-4037-aa8c-8387d2c1a49f.jpg"
   },
   {
-    "title": "장원영이 모델인 그 브랜드, 다이소에선 ‘단돈 1000원’",
-    "link": "https://www.news-wa.com/article/life/lifeinfo/2026/10/16/20261016500030",
-    "pubDate": "Sat, 17 Oct 2026 00:50:00 GMT",
-    "source": "뉴스와",
-    "domain": "news-wa.com",
-    "thumb": "https://img.news-wa.com//img/upload/2026/10/16/NWC_20261016233251.png"
-  },
-  {
     "title": "장원영, 싱가포르서 화려한 비주얼",
     "link": "https://www.sportsworldi.com/newsView/20261016500097",
     "pubDate": "Fri, 16 Oct 2026 08:31:32 GMT",
@@ -86,6 +78,14 @@
     "source": "동아일보",
     "domain": "donga.com",
     "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/16/134855387.3.png"
+  },
+  {
+    "title": "불가리, 브랜드 앰버서더 장원영과 함께한 ‘특별한 순간에서, 영원으로’ 캠페인 공개",
+    "link": "https://www.ggilbo.com/news/articleView.html?idxno=1187296",
+    "pubDate": "Fri, 16 Oct 2026 01:34:18 GMT",
+    "source": "금강일보",
+    "domain": "ggilbo.com",
+    "thumb": "https://cdn.ggilbo.com/news/photo/202610/1187296_1040016_3342.jpg"
   },
   {
     "title": "아이브 장원영, F1경기-가을소풍 다녀온 것처럼 신난 어린이 (입국)[뉴스엔TV]",
@@ -181,7 +181,7 @@
     "pubDate": "Wed, 14 Oct 2026 15:46:00 GMT",
     "source": "OSEN",
     "domain": "osen.co.kr",
-    "thumb": null
+    "thumb": "http://file.osen.co.kr/article_thumb/2026/10/15/202610150033770776_6acfa3bc464c5_300x.jpg"
   },
   {
     "title": "아이브 장원영, 싱가포르 F1 트랙서 포착…‘룩스 캔 킬’ 컴백 앞두고 빛난 존재감",
@@ -213,7 +213,7 @@
     "pubDate": "Wed, 14 Oct 2026 04:47:00 GMT",
     "source": "OSEN",
     "domain": "osen.co.kr",
-    "thumb": null
+    "thumb": "http://file.osen.co.kr/article_thumb/2026/10/14/202610141339776409_6acf0946b7671_300x.jpg"
   },
   {
     "title": "아이브 안유진·장원영, 19일 선공개 ‘룩스 캔 킬’ 콘셉트 포토 공개",
