@@ -72,14 +72,6 @@
     "thumb": "https://cdn.topstarnews.net/news/photo/202610/16256524_2065369_513_crop.jpg"
   },
   {
-    "title": "NCT 윈윈, 붉은 셔츠 화보 컷 공개…강렬 눈빛 담은 근황",
-    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16256300",
-    "pubDate": "Fri, 23 Oct 2026 13:19:42 GMT",
-    "source": "TopStarNews",
-    "domain": "topstarnews.net",
-    "thumb": "https://cdn.topstarnews.net/news/photo/202610/16256300_2065073_1915_crop.jpg"
-  },
-  {
     "title": "NCT DREAM(엔씨티드림), 두근 두근 매력 (출국)[뉴스엔TV]",
     "link": "https://m.newsen.com/news_view.php?uid=202610231918281310",
     "pubDate": "Fri, 23 Oct 2026 10:18:33 GMT",
@@ -126,6 +118,14 @@
     "source": "www.bntnews.co.kr",
     "domain": "bntnews.co.kr",
     "thumb": "https://www.bntnews.co.kr/data/bnt/image/2026/10/23/bnt202610230087.jpg"
+  },
+  {
+    "title": "NCT도영, 군 장병 마음 보듬는 “찾아가는 마음간식”으로 동행",
+    "link": "https://www.newsa.co.kr/news/articleView.html?idxno=403390",
+    "pubDate": "Thu, 22 Oct 2026 17:45:28 GMT",
+    "source": "뉴스에이",
+    "domain": "newsa.co.kr",
+    "thumb": "https://www.newsa.co.kr/image/logo/snslogotrans_20260504021546.png"
   },
   {
     "title": "NCT WISH, 한터 국가별 차트 日·中 1위…美 정상은 플레이브",
@@ -192,6 +192,14 @@
     "thumb": "https://www.bntnews.co.kr/data/bnt/image/2026/10/22/bnt202610220513.jpg"
   },
   {
+    "title": "‘군 복무’ NCT 도영, 1억 기부 결실… 전국 부대 ‘마음간식’ 전달",
+    "link": "https://www.bntnews.co.kr/article/view/bnt202610220215",
+    "pubDate": "Thu, 22 Oct 2026 04:45:09 GMT",
+    "source": "BNT뉴스",
+    "domain": "bntnews.co.kr",
+    "thumb": "https://www.bntnews.co.kr/data/bnt/image/2026/10/22/bnt202610220456.jpg"
+  },
+  {
     "title": "NCT WISH, 써클차트도 2관왕",
     "link": "https://www.osen.co.kr/article/G1112896609",
     "pubDate": "Thu, 22 Oct 2026 01:44:00 GMT",
@@ -208,20 +216,20 @@
     "thumb": "https://www.koreadaily.com/data/photo/thumbnail/2026/10/22/6f2a26ff-ef63-40d7-ac46-6383a695b82e.jpg"
   },
   {
+    "title": "군 장병 마음건강 살핀다…NCT 도영 기부로 '마음간식' 운영",
+    "link": "https://www.news1.kr/bio/general/6328056",
+    "pubDate": "Thu, 22 Oct 2026 00:29:46 GMT",
+    "source": "뉴스1",
+    "domain": "news1.kr",
+    "thumb": "https://i3n.news1.kr/system/photos/2025/10/31/7576816/high.jpg"
+  },
+  {
     "title": "A2O, HUNTR/X 15주 독주 깼다…NCT WISH·PLAVE도 정상",
     "link": "https://www.gpkorea.com/news/articleView.html?idxno=147835",
     "pubDate": "Thu, 22 Oct 2026 00:11:28 GMT",
     "source": "지피코리아",
     "domain": "gpkorea.com",
     "thumb": "https://cdn.gpkorea.com/news/photo/202610/147835_314375_1111.jpg"
-  },
-  {
-    "title": "NCT 도영, 전국 7개 부대에 ‘마음간식’ 지원 “힘든 시기에도 다시 일어설 힘 얻길”",
-    "link": "https://www.slist.kr/news/articleView.html?idxno=775403",
-    "pubDate": "Wed, 21 Oct 2026 23:41:17 GMT",
-    "source": "싱글리스트",
-    "domain": "slist.kr",
-    "thumb": "https://cdn.slist.kr/news/thumbnail/202610/775403_1185586_4051_v150.jpg"
   },
   {
     "title": "NCT DREAM, 데뷔 10주년 맞아 정규 6집 컴백… 발매일은?",
@@ -254,14 +262,6 @@
     "source": "BNT뉴스",
     "domain": "bntnews.co.kr",
     "thumb": "https://www.bntnews.co.kr/data/bnt/image/2026/10/21/bnt202610210176.jpg"
-  },
-  {
-    "title": "NCT 지성, LG 승리를 위한 응원",
-    "link": "https://www.chosun.com/sports/sports_photo/2026/10/20/ME2TAOJYHFRWKMBWGA4WEYZYGA/",
-    "pubDate": "Tue, 20 Oct 2026 10:59:00 GMT",
-    "source": "조선일보",
-    "domain": "chosun.com",
-    "thumb": "https://www.chosun.com/resizer/v2/MRRGKM3BMFQTGODGGFRGMYJSGI.jpg?auth=9d2096eee89bd93e8040e43bb516e4be32a6c3f782333391df3a8cbec8c0a893&amp;width=530&amp;height=278&amp;smart=true"
   },
   {
     "title": "NCT 지성, 준PO 3차전 시구",
