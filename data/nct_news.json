@@ -1,11 +1,19 @@
 [
   {
+    "title": "아이브·에스파·NCT·라이즈 출격 'MMA2026', 전 세계 생중계 확정",
+    "link": "https://www.slist.kr/news/articleView.html?idxno=776329",
+    "pubDate": "Sun, 25 Oct 2026 23:33:46 GMT",
+    "source": "싱글리스트",
+    "domain": "slist.kr",
+    "thumb": "https://cdn.slist.kr/news/thumbnail/202610/776329_1186820_3316_v150.jpg"
+  },
+  {
     "title": "NCT 지성, 거울 셀카로 전한 여유…‘크래시2’·‘왕자와 거지’ 활약 예고",
     "link": "https://www.topstarnews.net/news/articleView.html?idxno=16257588",
     "pubDate": "Sun, 25 Oct 2026 17:08:39 GMT",
     "source": "톱스타뉴스",
     "domain": "topstarnews.net",
-    "thumb": null
+    "thumb": "https://cdn.topstarnews.net/news/photo/202610/16257588_2066547_818_crop.jpg"
   },
   {
     "title": "A2O LITE在《人气歌谣》中击败昭妍和NCT WISH夺得第一名！",
@@ -56,12 +64,12 @@
     "thumb": "https://www.sportsworldi.com/content/image/2026/10/24/20261024505639.jpg"
   },
   {
-    "title": "NCT 127, 베루나 돔 뜬다…日 단독 콘서트 개최",
-    "link": "https://news.jtbc.co.kr/article/NB12324657",
-    "pubDate": "Sat, 24 Oct 2026 05:24:00 GMT",
-    "source": "JTBC",
-    "domain": "news.jtbc.co.kr",
-    "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202610/24/1f5c08a1-4b7a-4b16-b65e-9406818430f6.jpg"
+    "title": "'더 시즌즈' 온유·우즈·리즈·NCT WISH, 무대 꽉 채운 4色 '진심'",
+    "link": "https://www.nc.press/news/articleView.html?idxno=629391",
+    "pubDate": "Sat, 24 Oct 2026 07:26:12 GMT",
+    "source": "뉴스컬처",
+    "domain": "nc.press",
+    "thumb": "https://cdn.nc.press/news/photo/202610/629391_866524_2532.jpg"
   },
   {
     "title": "NCT 127, 日 투어 돌입…\"베루나돔 제대로 달군다\"",
@@ -88,6 +96,14 @@
     "thumb": "https://cdn.topstarnews.net/news/photo/202610/16256524_2065369_513_crop.jpg"
   },
   {
+    "title": "261024 (토) NCT WISH MBC 쇼! 음악중심 사전녹화 참여 안내",
+    "link": "https://weverse.io/nctwish/notice/40322",
+    "pubDate": "Fri, 23 Oct 2026 10:31:19 GMT",
+    "source": "Weverse",
+    "domain": "weverse.io",
+    "thumb": null
+  },
+  {
     "title": "\"NCT 지성 합류\"..이민기·곽선영 '크래시2', 스케일 레벨업",
     "link": "https://www.starnewskorea.com/star/2026/10/23/2026102311330659341",
     "pubDate": "Fri, 23 Oct 2026 02:40:03 GMT",
@@ -102,14 +118,6 @@
     "source": "이투데이",
     "domain": "etoday.co.kr",
     "thumb": "https://img.etoday.co.kr/pto_db/2026/10/20261023093220_2405858_1200_1349.jpg"
-  },
-  {
-    "title": "플레이브 &amp; NCT WISH, 한터 국가별 차트 정상",
-    "link": "https://www.etnews.com/20261023000040",
-    "pubDate": "Fri, 23 Oct 2026 00:44:57 GMT",
-    "source": "전자신문",
-    "domain": "etnews.com",
-    "thumb": "https://img.etnews.com/news/article/2026/10/23/article_23094417756552.jpg"
   },
   {
     "title": "‘크래시2’ NCT 지성 합류…수사팀 출격",
@@ -144,20 +152,12 @@
     "thumb": "https://pimg.mk.co.kr/news/cms/202610/22/news-p.v1.20261022.396cce08b3c141a592fbf0b8ed50f8f4_R.jpg"
   },
   {
-    "title": "이선빈, NCT 도영 향한 팬심 고백⋯“콘서트도 다녀왔다”",
-    "link": "https://www.etoday.co.kr/news/view/2639062",
-    "pubDate": "Thu, 22 Oct 2026 07:25:00 GMT",
-    "source": "이투데이",
-    "domain": "etoday.co.kr",
-    "thumb": "https://img.etoday.co.kr/pto_db/2026/10/20261022162402_2405605_1200_2016.jpg"
-  },
-  {
-    "title": "NCT 위시, '아이 스파이' 주간 음반 차트 정상…4연속 밀리언셀러",
-    "link": "https://www.newspim.com/news/view/20261022001127",
-    "pubDate": "Thu, 22 Oct 2026 06:55:00 GMT",
-    "source": "뉴스핌",
-    "domain": "newspim.com",
-    "thumb": "https://img.newspim.com/news/2026/10/22/2610221553387740_107_tc.jpg"
+    "title": "이선빈 팬심 고백...“NCT 도영 음악 좋아해 콘서트도 관람”",
+    "link": "https://www.mk.co.kr/news/hot-issues/12183027",
+    "pubDate": "Thu, 22 Oct 2026 07:34:17 GMT",
+    "source": "매일경제",
+    "domain": "mk.co.kr",
+    "thumb": "https://pimg.mk.co.kr/news/cms/202610/22/news-p.v1.20261022.ad139969b7064917a4c615b920235d2e_R.jpeg"
   },
   {
     "title": "A2O LITE, 데뷔 첫 주 3위…NCT WISH 47계단 상승",
@@ -169,7 +169,7 @@
   },
   {
     "title": "NCT DREAM의 또 다른 꿈, 'DREAM AFTER DREAM' 스케줄 포스터 공개",
-    "link": "https://billboard.co.kr/editorial/news/article/nct-dream%25ec%259d%2598-%25eb%2598%2590-%25eb%258b%25a4%25eb%25a5%25b8-%25ea%25bf%2588-dream-after-dream-%25ec%258a%25a4%25ec%25bc%2580%25ec%25a4%2584-%25ed%258f%25ac%25ec%258a%25a4%25ed%2584%25b0-%25ea%25b3%25b5%25ea%25b0%259c/",
+    "link": "https://billboard.co.kr/editorial/news/article/nct-dream%EC%9D%98-%EB%98%90-%EB%8B%A4%EB%A5%B8-%EA%BF%88-dream-after-dream-%EC%8A%A4%EC%BC%80%EC%A4%84-%ED%8F%AC%EC%8A%A4%ED%84%B0-%EA%B3%B5%EA%B0%9C/",
     "pubDate": "Thu, 22 Oct 2026 06:07:55 GMT",
     "source": "Billboard Korea",
     "domain": "billboard.co.kr",
@@ -216,6 +216,14 @@
     "thumb": "https://i3n.news1.kr/system/photos/2025/10/31/7576816/high.jpg"
   },
   {
+    "title": "엔시티 드림, 정규 6집 스케줄 포스터 공개",
+    "link": "https://www.bntnews.co.kr/article/view/bnt202610220112",
+    "pubDate": "Thu, 22 Oct 2026 00:18:56 GMT",
+    "source": "BNT뉴스",
+    "domain": "bntnews.co.kr",
+    "thumb": "https://www.bntnews.co.kr/data/bnt/image/2026/10/22/bnt202610220190.jpg"
+  },
+  {
     "title": "A2O, HUNTR/X 15주 독주 깼다…NCT WISH·PLAVE도 정상",
     "link": "https://www.gpkorea.com/news/articleView.html?idxno=147835",
     "pubDate": "Thu, 22 Oct 2026 00:11:28 GMT",
@@ -240,14 +248,6 @@
     "thumb": "https://pimg.mk.co.kr/news/cms/202610/21/news-p.v1.20261021.6290551f62ea4ed79c7fc7ab293fed64_R.jpg"
   },
   {
-    "title": "NCT 127→위시, 한자리 모였다⋯오늘 ‘2026 NCT 육상 선수권 대회’ 공개",
-    "link": "https://www.etoday.co.kr/news/view/2638260",
-    "pubDate": "Wed, 21 Oct 2026 01:10:00 GMT",
-    "source": "이투데이",
-    "domain": "etoday.co.kr",
-    "thumb": "https://img.etoday.co.kr/pto_db/2026/10/20261021100304_2404636_900_2005.jpg"
-  },
-  {
     "title": "NCT 천러·지성, ‘크래시2’ 첫 OST 발매",
     "link": "https://www.bntnews.co.kr/article/view/bnt202610210122",
     "pubDate": "Wed, 21 Oct 2026 00:05:57 GMT",
@@ -256,12 +256,20 @@
     "thumb": "https://www.bntnews.co.kr/data/bnt/image/2026/10/21/bnt202610210176.jpg"
   },
   {
-    "title": "NCT DREAM, 수록곡 ‘The Sun’ MV 공개..낭만 담은 우정 여행 - 조선비즈",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/20/MVSDMNRXMM2GEMRSMI3DEZTDGA/",
-    "pubDate": "Tue, 20 Oct 2026 02:24:00 GMT",
+    "title": "NCT 지성, 오늘 LG-KIA 시구… 잠실구장 ‘마지막 시구’ 되나 - 조선비즈",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/10/20/ZYD45GKLPBGI7KSO5TEPHVIHZI/",
+    "pubDate": "Tue, 20 Oct 2026 05:01:00 GMT",
     "source": "Chosunbiz",
     "domain": "biz.chosun.com",
-    "thumb": "https://biz.chosun.com/resizer/v2/GBSGKZJRMEYDCZJYGVQTIZRVMY.jpg?auth=75e784b0f3264d1abc64ca7b125cf0d6b277984cc09b07fab5217faf3c5d4c35&amp;width=650&amp;height=341&amp;smart=true"
+    "thumb": "https://biz.chosun.com/resizer/v2/XLGSMKV2XZPQPH5KYSH4VNAAAQ.JPG?auth=c574abde0797aa4ba81b641402f96411209f4292e671d41a372008b920919526&amp;width=1200&amp;height=630&amp;smart=true"
+  },
+  {
+    "title": "NCT DREAM, 수록곡 ‘The Sun’ MV 공개..낭만 담은 우정 여행",
+    "link": "https://www.chosun.com/entertainments/music/2026/10/20/MU2GGNLBMFTGGYZQMRTDQZLCGA/",
+    "pubDate": "Tue, 20 Oct 2026 02:24:00 GMT",
+    "source": "조선일보",
+    "domain": "chosun.com",
+    "thumb": "https://www.chosun.com/resizer/v2/MQ4TSMJXG5RDSZJQMQ2WINZQMQ.jpg?auth=81bd2e06b033b9dcb8535b44a221e1c7638e6cd172b4e97c7c356a856464f601&amp;width=650&amp;height=341&amp;smart=true"
   },
   {
     "title": "NCT 지성, 준PO 3차전 시구…잠실구장 마지막 시구자 되나",
@@ -272,12 +280,12 @@
     "thumb": "https://img8.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020064100007_01_i_P4.jpg"
   },
   {
-    "title": "NCT 지성, 오늘 LG-KIA 준플레이오프 3차전 시구",
-    "link": "https://www.news1.kr/sports/baseball/6325526",
-    "pubDate": "Tue, 20 Oct 2026 01:14:32 GMT",
-    "source": "뉴스1",
-    "domain": "news1.kr",
-    "thumb": "https://i3n.news1.kr/system/photos/2025/7/14/7392187/high.jpg"
+    "title": "벼랑 끝 LG, '승리 요정' NCT 지성 뜬다! 20일 KIA전에 준PO 3차전 반격의 시구 - 머니투데이",
+    "link": "https://www.mt.co.kr/sports/2026/10/20/2026102010010998467",
+    "pubDate": "Tue, 20 Oct 2026 01:04:44 GMT",
+    "source": "머니투데이",
+    "domain": "mt.co.kr",
+    "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102010010998467_1.jpg"
   },
   {
     "title": "NCT 드림, 정규 6집 서막…수록곡 MV, 기습 공개",
@@ -294,14 +302,6 @@
     "source": "BNT뉴스",
     "domain": "bntnews.co.kr",
     "thumb": "https://www.bntnews.co.kr/data/bnt/image/2026/10/20/bnt202610200140.jpg"
-  },
-  {
-    "title": "NCT 지성 악플러 벌금형 \"462건 고소, 선처 없다\"",
-    "link": "https://news.jtbc.co.kr/article/NB12323785",
-    "pubDate": "Mon, 19 Oct 2026 11:13:00 GMT",
-    "source": "JTBC",
-    "domain": "news.jtbc.co.kr",
-    "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202610/19/f08fab75-d0fc-4860-a16b-506e455a268b.jpg"
   },
   {
     "title": "NCT 드림, 내달 9일 정규 6집 발매",
