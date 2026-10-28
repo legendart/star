@@ -1,27 +1,251 @@
 [
   {
+    "title": "장원영, 불가리 CEO와 함께 투샷",
+    "link": "https://www.ajunews.com/view/20261029002906909",
+    "pubDate": "Wed, 28 Oct 2026 15:29:50 GMT",
+    "source": "아주경제",
+    "domain": "ajunews.com",
+    "thumb": "https://image.ajunews.com/content/image/2026/10/29/20261029002926543457.jpg"
+  },
+  {
+    "title": "포즈 취하는 장원영",
+    "link": "https://www.ajunews.com/view/20261029002638896",
+    "pubDate": "Wed, 28 Oct 2026 15:27:26 GMT",
+    "source": "아주경제",
+    "domain": "ajunews.com",
+    "thumb": "https://image.ajunews.com/content/image/2026/10/29/20261029002711644699.jpg"
+  },
+  {
+    "title": "아이브 장원영 ‘아름다운 자태’[포토엔HD]",
+    "link": "https://www.newsen.com/news_view.php?uid=202610290006333510&code=199999",
+    "pubDate": "Wed, 28 Oct 2026 15:06:39 GMT",
+    "source": "뉴스엔",
+    "domain": "newsen.com",
+    "thumb": "https://photo.newsen.com/news_photo/2026/10/29/202610290006333510_1.jpg"
+  },
+  {
+    "title": "인형인 줄 알았잖아… 장원영의 비현실적인 비주얼(불가리 포토월)",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16261090",
+    "pubDate": "Wed, 28 Oct 2026 14:51:13 GMT",
+    "source": "톱스타뉴스",
+    "domain": "topstarnews.net",
+    "thumb": "https://cdn.topstarnews.net/news/photo/202610/16261090_2070629_5024_crop.jpg"
+  },
+  {
+    "title": "\"이래서, 공주님\"…장원영, 감탄 유발 미모",
+    "link": "https://www.dispatch.co.kr/2349948",
+    "pubDate": "Wed, 28 Oct 2026 14:22:00 GMT",
+    "source": "디스패치",
+    "domain": "dispatch.co.kr",
+    "thumb": "https://dispatch.cdnser.be/cms-content/uploads/2026/10/28/6977f8ec-f431-4712-bf05-f7c4dcdee7ec.jpg"
+  },
+  {
+    "title": "‘화이트 김지원’ vs ‘블랙 장원영’…이번엔 드레스 전쟁, 승자는?",
+    "link": "https://www.mk.co.kr/news/entertain/12189133",
+    "pubDate": "Wed, 28 Oct 2026 14:15:31 GMT",
+    "source": "매일경제",
+    "domain": "mk.co.kr",
+    "thumb": "https://pimg.mk.co.kr/news/cms/202610/28/news-p.v1.20261028.7a52be0be9b34cdc9eca807781b053ae_R.jpg"
+  },
+  {
+    "title": "아이브 장원영, 치명적인 미모",
+    "link": "https://www.chosun.com/entertainments/entertain_photo/2026/10/28/GUYDOYJVMMYWMNZUGFTGEMTEME/",
+    "pubDate": "Wed, 28 Oct 2026 14:10:00 GMT",
+    "source": "조선일보",
+    "domain": "chosun.com",
+    "thumb": "https://www.chosun.com/resizer/v2/HA4DEZJWMI4TQYJYGEYTMZBQMU.jpg?auth=7c3b27935ff77b4e0bd489c0ad6769c04c7e94e1da98d9ca574a3252067e9333&amp;width=700&amp;height=367&amp;smart=true"
+  },
+  {
+    "title": "아이브 장원영, 햇살 가득 셀카로 전한 근황…‘Looks Can Kill’ 활동 잇는다",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16261051",
+    "pubDate": "Wed, 28 Oct 2026 13:09:12 GMT",
+    "source": "톱스타뉴스",
+    "domain": "topstarnews.net",
+    "thumb": "https://cdn.topstarnews.net/news/photo/202610/16261051_2070552_846_crop.jpg"
+  },
+  {
+    "title": "아이브 장원영, ‘여신이 아닐리 없어요’ (불가리 포토월)",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16261037",
+    "pubDate": "Wed, 28 Oct 2026 12:50:00 GMT",
+    "source": "톱스타뉴스",
+    "domain": "topstarnews.net",
+    "thumb": "https://cdn.topstarnews.net/news/photo/202610/16261037_2070515_5154_crop.jpg"
+  },
+  {
+    "title": "장원영, '조명이 필요 없는 미모…원영 공주 뒷태 Can Kill~'",
+    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=283178",
+    "pubDate": "Wed, 28 Oct 2026 12:24:00 GMT",
+    "source": "파이낸셜포스트",
+    "domain": "financialpost.co.kr",
+    "thumb": "https://cdn.financialpost.co.kr/news/thumbnail/202610/283178_374981_5034_v150.jpg"
+  },
+  {
+    "title": "아이브 장원영 '상큼 윙크'",
+    "link": "https://www.newdaily.co.kr/site/data/html/2026/10/28/2026102800408.html",
+    "pubDate": "Wed, 28 Oct 2026 12:06:00 GMT",
+    "source": "뉴데일리",
+    "domain": "newdaily.co.kr",
+    "thumb": "https://image.newdaily.co.kr/site/data/img/2026/10/28/2026102800408_0.jpg"
+  },
+  {
+    "title": "장원영, 인간 바비",
+    "link": "https://www.mk.co.kr/news/photos/12189000",
+    "pubDate": "Wed, 28 Oct 2026 12:00:26 GMT",
+    "source": "매일경제",
+    "domain": "mk.co.kr",
+    "thumb": "https://pimg.mk.co.kr/news/cms/202610/28/news-p.v1.20261028.cfac7975c3194e089ce7d7ee33fb5969_R.jpg"
+  },
+  {
+    "title": "김지원, 라우라 부르데제 ceo, 장원영 '눈부신 미모'",
+    "link": "https://www.chosun.com/entertainments/entertain_photo/2026/10/28/HEZTEZBWGE4DQOBSGVRGMYTDGE/",
+    "pubDate": "Wed, 28 Oct 2026 11:59:00 GMT",
+    "source": "조선일보",
+    "domain": "chosun.com",
+    "thumb": "https://www.chosun.com/resizer/v2/G5RGMMRRMI4WIZJSGY2WEYJUGI.jpg?auth=127ddd4d344c31428f1be76197878aeabbf1c6ea526108aab89f1914b929e27a&amp;width=700&amp;height=367&amp;smart=true"
+  },
+  {
+    "title": "아이브 장원영, 블링블링 비주얼",
+    "link": "https://www.chosun.com/entertainments/entertain_photo/2026/10/28/MNRTAMJWG5RTCNJVMEZTKYTCGU/",
+    "pubDate": "Wed, 28 Oct 2026 11:52:00 GMT",
+    "source": "조선일보",
+    "domain": "chosun.com",
+    "thumb": "https://www.chosun.com/resizer/v2/MU4DIYRZMQ2DQNJZHFSWENJTHE.jpg?auth=f3a88774dec3cb431ce078855caf67fa22d38accded3778a93a00b3c809e1e86&amp;width=530&amp;height=278&amp;smart=true"
+  },
+  {
+    "title": "아이브 장원영, 러블리한 윙크",
+    "link": "https://biz.chosun.com/entertainment/entertainment_photo/2026/10/28/MZSTAY3EHFRDQMLDHA2GCNTDGM/",
+    "pubDate": "Wed, 28 Oct 2026 11:52:00 GMT",
+    "source": "Chosunbiz",
+    "domain": "biz.chosun.com",
+    "thumb": "https://biz.chosun.com/resizer/v2/GMYWINBSMEYTQYLGGNSWINJXME.jpg?auth=f50e945ef3a6ca42d80d59c374264c2905fa8eb89980c5022d723f4e8b4cdec2&amp;width=572&amp;height=300&amp;smart=true"
+  },
+  {
+    "title": "이서진-김지원-아이브 장원영, 명품 앰버서더",
+    "link": "https://www.chosun.com/entertainments/entertain_photo/2026/10/28/MRQWKMDFHE2TONBYME4DCZTCGU/",
+    "pubDate": "Wed, 28 Oct 2026 11:41:00 GMT",
+    "source": "조선일보",
+    "domain": "chosun.com",
+    "thumb": "https://www.chosun.com/resizer/v2/HEYGEMZRMZRGKMTBG4ZTSMDEGY.jpg?auth=7121cbd3c7afba3bffc9e03418ad601c8c013b7237c13ff9cd90eb1d9e5b4963&amp;width=650&amp;height=341&amp;smart=true"
+  },
+  {
+    "title": "아이브 장원영, 사랑스러움 벗고 성숙미로",
+    "link": "https://www.thepowernews.co.kr/view.php?ud=2026102820380445232d6fc79969_7",
+    "pubDate": "Wed, 28 Oct 2026 11:39:26 GMT",
+    "source": "더파워",
+    "domain": "thepowernews.co.kr",
+    "thumb": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&amp;idx=999&amp;simg=202610282038250406202d6fc79969211234202158.jpg&amp;nmt=7"
+  },
+  {
+    "title": "장원영, '우아한 블랙 스완'…남다른 애티튜드로 시선 압도",
+    "link": "https://isplus.com/article/view/isp202610280253",
+    "pubDate": "Wed, 28 Oct 2026 11:37:00 GMT",
+    "source": "일간스포츠",
+    "domain": "isplus.com",
+    "thumb": "https://isplus.com/data/isp/image/2026/10/28/isp20261028000494.800x.0.jpg"
+  },
+  {
+    "title": "아이브 장원영, 블랙 앤 골드로 빛낸 눈빛 인사",
+    "link": "https://www.thepowernews.co.kr/view.php?ud=2026102820344890052d6fc79969_7",
+    "pubDate": "Wed, 28 Oct 2026 11:36:05 GMT",
+    "source": "더파워",
+    "domain": "thepowernews.co.kr",
+    "thumb": "https://cliimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&amp;idx=999&amp;simg=202610282035130423002d6fc79969211234202158.jpg&amp;nmt=7"
+  },
+  {
+    "title": "김지원·장원영, 우열을 가리기 힘든 국내 원탑 여신 미모(불가리 포토월)",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16260949",
+    "pubDate": "Wed, 28 Oct 2026 11:23:02 GMT",
+    "source": "톱스타뉴스",
+    "domain": "topstarnews.net",
+    "thumb": "https://cdn.topstarnews.net/news/photo/202610/16260949_2070397_2223_crop.jpg"
+  },
+  {
+    "title": "아이브 장원영 '치명치명' [포토]",
+    "link": "https://www.bntnews.co.kr/article/view/bnt202610280258",
+    "pubDate": "Wed, 28 Oct 2026 11:20:57 GMT",
+    "source": "www.bntnews.co.kr",
+    "domain": "bntnews.co.kr",
+    "thumb": "https://www.bntnews.co.kr/data/bnt/image/2026/10/28/bnt202610280490.jpg"
+  },
+  {
+    "title": "이서진-김지원-장원영, ‘로얄 패밀리’ (불가리 포토월)",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16260965",
+    "pubDate": "Wed, 28 Oct 2026 11:20:00 GMT",
+    "source": "톱스타뉴스",
+    "domain": "topstarnews.net",
+    "thumb": null
+  },
+  {
+    "title": "김지원-장원영, ‘자 이제 누가 백인이지?’ (불가리 포토월)",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16260953",
+    "pubDate": "Wed, 28 Oct 2026 11:20:00 GMT",
+    "source": "톱스타뉴스",
+    "domain": "topstarnews.net",
+    "thumb": null
+  },
+  {
+    "title": "김지원-장원영, 공주님들의 특별한 만남",
+    "link": "https://www.joynews24.com/view/2020132",
+    "pubDate": "Wed, 28 Oct 2026 11:13:00 GMT",
+    "source": "조이뉴스24",
+    "domain": "joynews24.com",
+    "thumb": "https://image.inews24.com/v1/391284abb46204.jpg"
+  },
+  {
+    "title": "아이브 장원영, 아름다운 자태",
+    "link": "https://www.osen.co.kr/article/G1112900011",
+    "pubDate": "Wed, 28 Oct 2026 11:12:00 GMT",
+    "source": "OSEN",
+    "domain": "osen.co.kr",
+    "thumb": "http://file.osen.co.kr/article_thumb/2026/10/28/202610282012773283_6ae1d89c95f46_300x.jpg"
+  },
+  {
+    "title": "장원영, 치명적인 입술 유혹",
+    "link": "https://www.joynews24.com/view/2020130",
+    "pubDate": "Wed, 28 Oct 2026 11:00:00 GMT",
+    "source": "조이뉴스24",
+    "domain": "joynews24.com",
+    "thumb": "https://image.inews24.com/v1/6117d1e6acd7ca.jpg"
+  },
+  {
+    "title": "아이브 장원영, 빛나는 아우라",
+    "link": "https://www.osen.co.kr/article/G1112900000",
+    "pubDate": "Wed, 28 Oct 2026 10:56:00 GMT",
+    "source": "OSEN",
+    "domain": "osen.co.kr",
+    "thumb": "http://file.osen.co.kr/article_thumb/2026/10/28/202610281955772455_6ae1d4c20f6ef_300x.jpg"
+  },
+  {
+    "title": "아이브 장원영, 빛나는 미모",
+    "link": "https://www.osen.co.kr/article/G1112899997",
+    "pubDate": "Wed, 28 Oct 2026 10:53:00 GMT",
+    "source": "OSEN",
+    "domain": "osen.co.kr",
+    "thumb": "http://file.osen.co.kr/article_thumb/2026/10/28/202610281953777813_6ae1d41fc4823_300x.jpg"
+  },
+  {
+    "title": "\"보석 처럼 빛나\"…장원영, 블링블링 미모",
+    "link": "https://www.dispatch.co.kr/2349940",
+    "pubDate": "Wed, 28 Oct 2026 10:49:00 GMT",
+    "source": "디스패치",
+    "domain": "dispatch.co.kr",
+    "thumb": "https://dispatch.cdnser.be/cms-content/uploads/2026/10/28/cb45e045-087e-4944-bdd2-b3032c8d4183.jpg"
+  },
+  {
+    "title": "맘껏 먹어도 괜찮을까… 장원영이 “밥보다 더 좋다”는 음식",
+    "link": "https://health.chosun.com/site/data/html_dir/2026/10/28/2026102802885.html",
+    "pubDate": "Wed, 28 Oct 2026 10:30:00 GMT",
+    "source": "헬스조선",
+    "domain": "health.chosun.com",
+    "thumb": "https://health.chosun.com/site/data/img_dir/2026/10/28/2026102802884_0.jpg"
+  },
+  {
     "title": "장원영, 클로즈업도 완벽한 ‘인형 미모’",
     "link": "https://www.seoul.co.kr/news/entertainment/starinterN/2026/10/28/20261028500337",
     "pubDate": "Wed, 28 Oct 2026 07:45:26 GMT",
     "source": "서울신문",
     "domain": "seoul.co.kr",
     "thumb": "https://img.seoul.co.kr/img/upload/2026/10/28/SSI_20261028162636.jpg"
-  },
-  {
-    "title": "“케이크보다 눈에 띄는 비주얼”…장원영, 심쿵 부르는 과즙미",
-    "link": "https://www.sportsworldi.com/newsView/20261028513959",
-    "pubDate": "Wed, 28 Oct 2026 06:23:40 GMT",
-    "source": "스포츠월드",
-    "domain": "sportsworldi.com",
-    "thumb": "https://www.sportsworldi.com/content/image/2026/10/28/20261028514133.jpg"
-  },
-  {
-    "title": "악뮤 이수현, 한정선 소신 발언했다 사과 엔딩‥장원영 후기는 어땠나 보니",
-    "link": "https://www.newsen.com/news_view.php?uid=202610281329075710&code=100100",
-    "pubDate": "Wed, 28 Oct 2026 05:07:20 GMT",
-    "source": "뉴스엔",
-    "domain": "newsen.com",
-    "thumb": "https://photo.newsen.com/news_photo/2026/10/28/202610281329075710_1.jpg"
   },
   {
     "title": "아이브 장원영, 현실에 이런 공주님이 있다고요? 🎀[뉴스엔TV]",
@@ -32,54 +256,6 @@
     "thumb": null
   },
   {
-    "title": "\"한정선 웨이팅, 3시간은 힘들어\"...이수현·장원영, '한 끗 차이'로 반응 달라졌다 [엑's 이슈]",
-    "link": "https://www.xportsnews.com/article/2212413",
-    "pubDate": "Wed, 28 Oct 2026 03:50:02 GMT",
-    "source": "엑스포츠뉴스",
-    "domain": "xportsnews.com",
-    "thumb": "https://image.xportsnews.com/contents/images/upload/article/2026/1028/1793153226587434.webp"
-  },
-  {
-    "title": "'사람 맞아?' 장원영, 너무 예뻐서 말도 안나오는 실물 미모 [엑's 현장]",
-    "link": "https://www.xportsnews.com/article/2211863",
-    "pubDate": "Tue, 27 Oct 2026 23:00:02 GMT",
-    "source": "엑스포츠뉴스",
-    "domain": "xportsnews.com",
-    "thumb": "https://image.xportsnews.com/contents/images/upload/article/2026/1027/1793070624905621.webp"
-  },
-  {
-    "title": "아이브 장원영, ‘아련 공주…’ (배리 포토월)",
-    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16259902",
-    "pubDate": "Tue, 27 Oct 2026 14:50:00 GMT",
-    "source": "톱스타뉴스",
-    "domain": "topstarnews.net",
-    "thumb": null
-  },
-  {
-    "title": "아이브(IVE) 장원영, ‘넘치는 끼’",
-    "link": "https://www.cbci.co.kr/news/articleView.html?idxno=620002",
-    "pubDate": "Tue, 27 Oct 2026 13:44:34 GMT",
-    "source": "CBC뉴스",
-    "domain": "cbci.co.kr",
-    "thumb": "https://www.cbci.co.kr/news/thumbnail/202610/620002_426142_4350_v150.jpg"
-  },
-  {
-    "title": "아이브 장원영, 청량한 가을 하늘...워뇨공주 `러블리`는 진리야",
-    "link": "https://mydaily.co.kr/page/view/2026102717053828051",
-    "pubDate": "Tue, 27 Oct 2026 13:06:00 GMT",
-    "source": "마이데일리",
-    "domain": "mydaily.co.kr",
-    "thumb": "https://mydaily.co.kr/photos/2026/10/27/2026102717050920594_l.jpg"
-  },
-  {
-    "title": "장원영, ‘청순 만찢녀’의 양볼하트 [포토엔HD]",
-    "link": "https://www.newsen.com/news_view.php?uid=202610272058465510&code=199999",
-    "pubDate": "Tue, 27 Oct 2026 11:58:55 GMT",
-    "source": "뉴스엔",
-    "domain": "newsen.com",
-    "thumb": "https://photo.newsen.com/news_photo/2026/10/27/202610272058465510_1.jpg"
-  },
-  {
     "title": "'살인적 스케줄' 장원영, 결국 생방송서 '꾸벅' 졸았다..\"하루 50분 수면\" 재조명",
     "link": "https://www.sportschosun.com/entertainment/2026-10-27/202610270100171870011365",
     "pubDate": "Tue, 27 Oct 2026 06:55:49 GMT",
@@ -88,84 +264,20 @@
     "thumb": "https://www.sportschosun.com/article/html/2026/10/27/2026102701001718700113651.jpg"
   },
   {
-    "title": "“두피부터 발끝까지 꼼꼼히” Z세대서 트렌드로 떠오른 장원영표 1시간 ‘샤워 루틴’ 보니",
-    "link": "https://www.insight.co.kr/news/579380",
-    "pubDate": "Tue, 27 Oct 2026 06:44:42 GMT",
-    "source": "인사이트",
-    "domain": "insight.co.kr",
-    "thumb": "https://img.insight.co.kr/static/2026/10/27/1200/img_20261027153609_8kr057p8.jpg"
+    "title": "아이브 장원영, 눈부셔",
+    "link": "https://www.chosun.com/entertainments/entertain_photo/2026/10/27/GNRWGZBTGVRTQNTDMY2TQNZSHA/",
+    "pubDate": "Tue, 27 Oct 2026 03:43:00 GMT",
+    "source": "조선일보",
+    "domain": "chosun.com",
+    "thumb": "https://www.chosun.com/resizer/v2/GIZDQZTDMMZWCZDEMVRDGOJVHA.jpg?auth=e8e20f248ea27e3e7b5b10d980ab4167a64cf822e3ce5a37e5170446064d1580&amp;width=699&amp;height=366&amp;smart=true"
   },
   {
-    "title": "아이브 장원영 '깜찍 윙크'",
-    "link": "https://www.newdaily.co.kr/site/data/html/2026/10/27/2026102700233.html",
-    "pubDate": "Tue, 27 Oct 2026 04:54:00 GMT",
-    "source": "뉴데일리",
-    "domain": "newdaily.co.kr",
-    "thumb": "https://image.newdaily.co.kr/site/data/img/2026/10/27/2026102700233_0.jpg"
-  },
-  {
-    "title": "아이브 장원영, '독보적인 미모'",
-    "link": "https://www.etnews.com/20261027000214",
-    "pubDate": "Tue, 27 Oct 2026 03:09:16 GMT",
-    "source": "전자신문",
-    "domain": "etnews.com",
-    "thumb": "https://img.etnews.com/news/article/2026/10/27/cms_temp_stats_17930705041723548172.jpg"
-  },
-  {
-    "title": "아이브 장원영, '윙크 여신'",
-    "link": "https://www.etnews.com/20261027000211",
-    "pubDate": "Tue, 27 Oct 2026 03:07:36 GMT",
-    "source": "전자신문",
-    "domain": "etnews.com",
-    "thumb": "https://img.etnews.com/news/article/2026/10/27/cms_temp_stats_1793070406383233076.jpg"
-  },
-  {
-    "title": "아이브 장원영, '반할 수 밖에 없는 미소'",
-    "link": "https://www.etnews.com/20261027000208",
-    "pubDate": "Tue, 27 Oct 2026 03:03:00 GMT",
-    "source": "전자신문",
-    "domain": "etnews.com",
-    "thumb": "https://img.etnews.com/news/article/2026/10/27/cms_temp_stats_17930701161666213247.jpg"
-  },
-  {
-    "title": "아이브 장원영, '오늘도 리즈'",
-    "link": "https://www.etnews.com/20261027000196",
-    "pubDate": "Tue, 27 Oct 2026 02:57:24 GMT",
-    "source": "전자신문",
-    "domain": "etnews.com",
-    "thumb": "https://img.etnews.com/news/article/2026/10/27/cms_temp_stats_1793069812642272488.jpg"
-  },
-  {
-    "title": "아이브 장원영, '머리결만 넘겨도'",
-    "link": "https://www.etnews.com/20261027000195",
-    "pubDate": "Tue, 27 Oct 2026 02:56:09 GMT",
-    "source": "전자신문",
-    "domain": "etnews.com",
-    "thumb": "https://img.etnews.com/news/article/2026/10/27/cms_temp_stats_17930697341656116657.jpg"
-  },
-  {
-    "title": "아이브 장원영, 난 너무 예뻐!",
-    "link": "https://www.newspim.com/news/view/20261027000703",
-    "pubDate": "Tue, 27 Oct 2026 02:49:00 GMT",
-    "source": "뉴스핌",
-    "domain": "newspim.com",
-    "thumb": "https://img.newspim.com/news/2026/10/27/261027114759824_t1.jpg"
-  },
-  {
-    "title": "장원영 '사랑스럽게'",
-    "link": "https://www.segye.com/newsView/20261027508337",
-    "pubDate": "Tue, 27 Oct 2026 02:28:49 GMT",
-    "source": "세계일보",
-    "domain": "segye.com",
-    "thumb": "https://www.segye.com/content/image/2026/10/27/20261027508936.jpg"
-  },
-  {
-    "title": "장원영 되어 에란겔 총격전…크래프톤 배틀그라운드, 아이브와 협업",
-    "link": "https://www.edaily.co.kr/News/Read?newsId=03207846645617184&mediaCodeNo=257",
-    "pubDate": "Tue, 27 Oct 2026 01:03:06 GMT",
-    "source": "이데일리",
-    "domain": "edaily.co.kr",
-    "thumb": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/10/PS26102700574.jpg"
+    "title": "아이브 장원영, ‘오 나의 원영님…’ (배리 포토월)",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16259238",
+    "pubDate": "Tue, 27 Oct 2026 02:25:58 GMT",
+    "source": "톱스타뉴스",
+    "domain": "topstarnews.net",
+    "thumb": null
   },
   {
     "title": "\"장원영 하나로 9개 브랜드 뭉쳤다\"…확 바뀐 스타 마케팅 [권용훈의 트렌드워치]",
@@ -184,28 +296,12 @@
     "thumb": "https://www.harpersbazaar.co.kr/resources/online/thumbnail/hf/2026/10/27/fd7fc646-55ba-4ec7-ba6f-b010721edd95.jpg"
   },
   {
-    "title": "'100만원' 같은 옷 맞대결..장원영 vs 김지원에 공효진까지 [스타이슈]",
-    "link": "https://www.starnewskorea.com/star/2026/10/26/2026102616170476685",
-    "pubDate": "Mon, 26 Oct 2026 10:00:00 GMT",
-    "source": "스타뉴스",
-    "domain": "starnewskorea.com",
-    "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=1200,fit=cover,q=high,sharpen=2/21/2026/10/2026102616170476685_1.jpg"
-  },
-  {
     "title": "‘우아’ 김지원 vs ‘러블리’ 장원영, 같은 옷 다른 매력 ‘미모 쌍벽’",
     "link": "https://sports.khan.co.kr/article/202610261216003",
     "pubDate": "Mon, 26 Oct 2026 03:16:00 GMT",
     "source": "스포츠경향",
     "domain": "sports.khan.co.kr",
     "thumb": "https://images.khan.co.kr/article/2026/10/26/news-p.v1.20261026.646ac0b7aa3044b1a46ac800216a32cc_P1.jpeg"
-  },
-  {
-    "title": "“사람 맞아?” 장원영, AI도 못 따라올 완성형 미모",
-    "link": "https://www.sportsseoul.com/news/read/1644013",
-    "pubDate": "Sun, 25 Oct 2026 23:52:11 GMT",
-    "source": "스포츠서울",
-    "domain": "sportsseoul.com",
-    "thumb": "https://file.sportsseoul.com/news/cms/2026/10/26/news-p.v1.20261026.91d8d065e4c641f78daef68c2bf03ec3_T1.png"
   },
   {
     "title": "장원영부터 공효진까지 입었다…'100만원대' 中 브랜드 원피스",
@@ -216,107 +312,11 @@
     "thumb": "https://img.hankyung.com/photo/202610/01.46186762.1.jpg"
   },
   {
-    "title": "장원영 미모 대형 사고, 단발로 싹둑? 착시 효과에 팬들 발칵",
-    "link": "https://m.newsen.com/news_view.php?uid=202610251016075710",
-    "pubDate": "Sun, 25 Oct 2026 04:38:40 GMT",
-    "source": "뉴스엔",
-    "domain": "m.newsen.com",
-    "thumb": null
-  },
-  {
-    "title": "장원영, 단발 안 하던 이유 있었나..\"영리한 선택\" 반응 폭발",
-    "link": "https://www.starnewskorea.com/star/2026/10/25/2026102500441547239",
-    "pubDate": "Sat, 24 Oct 2026 15:55:29 GMT",
-    "source": "스타뉴스",
-    "domain": "starnewskorea.com",
-    "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=1539,fit=cover,q=high,sharpen=2/21/2026/10/2026102500441547239_1.jpg"
-  },
-  {
-    "title": "'173㎝' 장원영, 모델 주우재 옆에서 반전 키 차이…즐겨 먹는 콩 식단에도 관심",
-    "link": "https://www.newsis.com/view/NISX20261024_0003839550",
-    "pubDate": "Sat, 24 Oct 2026 08:39:00 GMT",
-    "source": "뉴시스",
-    "domain": "newsis.com",
-    "thumb": "https://img1.newsis.com/2026/10/24/NISI20261024_0002272810_web.jpg"
-  },
-  {
-    "title": "‘170cm·48kg’ 장원영, 요즘 밥보다 디저트 “밥 거의 안 먹어요”",
-    "link": "https://sports.donga.com/ent/article/all/20261024/134900927/1",
-    "pubDate": "Sat, 24 Oct 2026 05:40:38 GMT",
-    "source": "스포츠동아",
-    "domain": "sports.donga.com",
-    "thumb": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/10/24/134900930.1.png"
-  },
-  {
-    "title": "173cm 장원영도 ‘한 줌’으로…188cm 주우재와 투샷 ‘화제’",
-    "link": "https://sports.khan.co.kr/article/202610240940003",
-    "pubDate": "Sat, 24 Oct 2026 00:40:00 GMT",
-    "source": "스포츠경향",
-    "domain": "sports.khan.co.kr",
-    "thumb": "https://images.khan.co.kr/article/2026/10/24/news-p.v1.20261024.a4f83695ea9841f4828ed2bbd61ebf59_P1.png"
-  },
-  {
-    "title": "장원영, 히어로 수트 입고 뭐 하나 봤더니…떡볶이 먹방 [DA★]",
-    "link": "https://sports.donga.com/ent/article/all/20261023/134896172/1",
-    "pubDate": "Fri, 23 Oct 2026 05:12:40 GMT",
-    "source": "스포츠동아",
-    "domain": "sports.donga.com",
-    "thumb": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/10/23/134896158.1.jpg"
-  },
-  {
     "title": "장원영, A2O LITE 인사에 때아닌 ‘거만 논란’···라다 팬 계정도 옹호",
     "link": "https://sports.khan.co.kr/article/202610230957003",
     "pubDate": "Fri, 23 Oct 2026 00:57:00 GMT",
     "source": "스포츠경향",
     "domain": "sports.khan.co.kr",
     "thumb": "https://images.khan.co.kr/article/2026/10/23/news-p.v1.20261023.95e4d832e13d49799c9ad8cdafe51973_P1.jpg"
-  },
-  {
-    "title": "억대 소파 이어 3000만원대 오디오…장원영 ‘취향 공개’ 눈길",
-    "link": "https://www.donga.com/news/Culture/article/all/20261016/134855399/2",
-    "pubDate": "Fri, 16 Oct 2026 08:09:00 GMT",
-    "source": "동아일보",
-    "domain": "donga.com",
-    "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/16/134855387.3.png"
-  },
-  {
-    "title": "장원영, 싱가포르서 화려한 비주얼…과거 밝힌 '체중 관리' 비법",
-    "link": "https://www.newsis.com/view/NISX20261015_0003826858",
-    "pubDate": "Fri, 16 Oct 2026 07:00:00 GMT",
-    "source": "뉴시스",
-    "domain": "newsis.com",
-    "thumb": "https://img1.newsis.com/2026/10/15/NISI20261015_0002263999_web.jpg"
-  },
-  {
-    "title": "장원영 집에 '2억 소파'…100억원대 집에서 찍은 사진 대방출 - 머니투데이",
-    "link": "https://www.mt.co.kr/entertainment/2026/10/16/2026101605580551698",
-    "pubDate": "Thu, 15 Oct 2026 21:12:18 GMT",
-    "source": "머니투데이",
-    "domain": "mt.co.kr",
-    "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=800,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/10/2026101605580551698_1.jpg"
-  },
-  {
-    "title": "“게티의 저주 딛고” 장원영, 바비인형이 따로 없는 비현실적 비율+미모",
-    "link": "https://sports.khan.co.kr/article/202610150128013",
-    "pubDate": "Thu, 15 Oct 2026 07:00:00 GMT",
-    "source": "스포츠경향",
-    "domain": "sports.khan.co.kr",
-    "thumb": "https://images.khan.co.kr/article/2026/10/15/news-p.v1.20261015.407aab89b76b40268e2c099fac445926_P1.jpg"
-  },
-  {
-    "title": "장원영, 137억 집에 둔 스피커 가격이 3000만원대",
-    "link": "https://www.donga.com/news/Entertainment/article/all/20261008/134809391/1",
-    "pubDate": "Thu, 08 Oct 2026 07:00:00 GMT",
-    "source": "동아일보",
-    "domain": "donga.com",
-    "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/08/134809392.1.jpg"
-  },
-  {
-    "title": "장원영, 로우라이즈 청청패션으로 선보인 \"시대를 초월한 클래식\" [화보]",
-    "link": "https://biz.chosun.com/entertainment/tv/2026/10/06/HFSTKMLBGY2GIMZSGE2DEYLBGY/",
-    "pubDate": "Tue, 06 Oct 2026 07:00:00 GMT",
-    "source": "Chosunbiz",
-    "domain": "biz.chosun.com",
-    "thumb": "https://biz.chosun.com/resizer/v2/GU2TANTDHA3TQZRVMJRDAZDFGM.jpg?auth=d37329b96937809b654832b4c1a5467176a246b8f4ecc07bf515782d16427221&amp;width=900&amp;height=472&amp;smart=true"
   }
 ]
