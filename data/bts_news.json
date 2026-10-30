@@ -1,5 +1,13 @@
 [
   {
+    "title": "Who will be Artist of the Year among BTS, AKMU, I.O.I, IVE, and others?",
+    "link": "https://sports.khan.co.kr/en/article/202610310221007",
+    "pubDate": "Fri, 30 Oct 2026 17:21:00 GMT",
+    "source": "스포츠경향",
+    "domain": "sports.khan.co.kr",
+    "thumb": "https://images.khan.co.kr/article/2026/10/31/news-p.v1.20261031.3d071d80f7904f83ae5a41492bb90ed4_P1.png"
+  },
+  {
     "title": "‘AAA 2026’ 인기상 투표, 방탄소년단·스트레이 키즈-변우석·김수현 1위 자리 두고 경쟁",
     "link": "https://www.topstarnews.net/news/articleView.html?idxno=16264240",
     "pubDate": "Fri, 30 Oct 2026 14:30:19 GMT",
@@ -22,14 +30,6 @@
     "source": "iMBC 연예",
     "domain": "enews.imbc.com",
     "thumb": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/10/30/f1eba59f-f292-4eca-a62f-c9a023a968a5.png"
-  },
-  {
-    "title": "'2026 MMA', 플레이브→방탄소년단 올해의 아티스트 경쟁…주요 부문 후보 보니",
-    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16264129",
-    "pubDate": "Fri, 30 Oct 2026 12:30:07 GMT",
-    "source": "톱스타뉴스",
-    "domain": "topstarnews.net",
-    "thumb": "https://cdn.topstarnews.net/news/photo/202610/16264129_2072893_2731_crop.jpeg"
   },
   {
     "title": "BTS 정국 유튜브 검색 누락 논란…팬들, 빅히트에 해명 요구",
@@ -168,6 +168,14 @@
     "thumb": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/10/29/134929729.1.jpg"
   },
   {
+    "title": "BTS 정국 'GOLDEN', 스포티파이 통산 154주 차트인…아시아 솔로 신기록",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16261390",
+    "pubDate": "Wed, 28 Oct 2026 21:35:10 GMT",
+    "source": "톱스타뉴스",
+    "domain": "topstarnews.net",
+    "thumb": "https://cdn.topstarnews.net/news/photo/202610/16261390_2070693_3444_crop.jpg"
+  },
+  {
     "title": "“AI, 싸이·BTS 노래도 무단 학습”…12조원 소송전",
     "link": "https://www.koreadaily.com/article/20261028080154392",
     "pubDate": "Wed, 28 Oct 2026 15:01:00 GMT",
@@ -240,14 +248,6 @@
     "thumb": "https://cdn.topstarnews.net/news/photo/202610/16260072_2069323_1044_crop.jpg"
   },
   {
-    "title": "BTS 제이홉, 부에노스아이레스서 벽화 앞 여유 만끽…월드투어 현장 스냅",
-    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16259989",
-    "pubDate": "Tue, 27 Oct 2026 18:08:11 GMT",
-    "source": "톱스타뉴스",
-    "domain": "topstarnews.net",
-    "thumb": "https://cdn.topstarnews.net/news/photo/202610/16259989_2069294_744_crop.jpg"
-  },
-  {
     "title": "BTS Community Post - 수동 카메라는 어려운 것 같아 혹시 수동 쓰는 아미 있어? 멋있어.. 난 자동 초점으로 써야겠다 - V",
     "link": "https://weverse.io/bts/artist/3-243149206",
     "pubDate": "Tue, 27 Oct 2026 16:06:41 GMT",
@@ -296,14 +296,6 @@
     "thumb": "https://img.wowtv.co.kr/YH/2026-10-26/AKR20261026003300009_08_i.jpg"
   },
   {
-    "title": "BTS ‘SWIM’, 10억 스트리밍 돌파…올해 발표곡 중 최초",
-    "link": "https://news.jtbc.co.kr/article/NB12324652",
-    "pubDate": "Sat, 24 Oct 2026 02:44:00 GMT",
-    "source": "JTBC",
-    "domain": "news.jtbc.co.kr",
-    "thumb": "https://photo.jtbc.co.kr/news/jam_photo/202610/24/586d875c-3cc5-4a57-81c5-b26e0eb61f9c.jpg"
-  },
-  {
     "title": "13년 기다린 BTS 꿈의 무대…아르헨 아미들 \"메시보다 사랑해\"",
     "link": "https://www.yna.co.kr/view/AKR20261023001100009",
     "pubDate": "Thu, 22 Oct 2026 17:00:30 GMT",
@@ -318,5 +310,13 @@
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img2.yna.co.kr/etc/inner/KR/2026/10/19/AKR20261019062100005_01_i_P4.jpg"
+  },
+  {
+    "title": "BTS, 페루 첫 공연에 15만명 환호…\"251억 관광 경제효과\" 전망",
+    "link": "https://www.yna.co.kr/view/AKR20261011034400005",
+    "pubDate": "Sun, 11 Oct 2026 07:00:00 GMT",
+    "source": "연합뉴스",
+    "domain": "yna.co.kr",
+    "thumb": "https://img4.yna.co.kr/etc/inner/KR/2026/10/11/AKR20261011034400005_01_i_P4.jpg"
   }
 ]
