@@ -1,5 +1,61 @@
 [
   {
+    "title": "NCT127, 일본 돔·태국 스타디움 공연 성료…10만 2000관객과 호흡",
+    "link": "https://www.newspim.com/news/view/20261102000311",
+    "pubDate": "Mon, 02 Nov 2026 00:59:00 GMT",
+    "source": "뉴스핌",
+    "domain": "newspim.com",
+    "thumb": "https://img.newspim.com/news/2026/11/02/2611020954520790_258_tc.jpg"
+  },
+  {
+    "title": "NCT 127, 나흘간 10만 관객 모았다⋯일본 돔→태국 스타디움 공연 성료",
+    "link": "https://www.etoday.co.kr/news/view/2642856?trc=right_categori_news",
+    "pubDate": "Mon, 02 Nov 2026 00:45:00 GMT",
+    "source": "이투데이",
+    "domain": "etoday.co.kr",
+    "thumb": "https://img.etoday.co.kr/pto_db/2026/11/20261102093733_2410605_1199_799.jpg"
+  },
+  {
+    "title": "NCT 127, 日 돔·태국 스타디움 달궜다…4회 공연에 10만 2천 명 열광",
+    "link": "https://www.frame-less.co.kr/news/articleView.html?idxno=5746",
+    "pubDate": "Mon, 02 Nov 2026 00:27:14 GMT",
+    "source": "https://www.frame-less.co.kr/",
+    "domain": "frame-less.co.kr",
+    "thumb": "https://cdn.frame-less.co.kr/news/photo/202611/5746_15278_2531.jpg"
+  },
+  {
+    "title": "NCT 127, 일본 돔·태국 스타디움 10만 2천 관객과 다섯 번째 투어 순항",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16265843",
+    "pubDate": "Mon, 02 Nov 2026 00:19:02 GMT",
+    "source": "톱스타뉴스",
+    "domain": "topstarnews.net",
+    "thumb": "https://cdn.topstarnews.net/news/photo/202611/16265843_2074645_1836_crop.jpg"
+  },
+  {
+    "title": "NCT 127, 일본·태국 4공연서 10만2000명 동원",
+    "link": "https://www.specialtimes.co.kr/news/articleView.html?idxno=480858",
+    "pubDate": "Mon, 02 Nov 2026 00:17:44 GMT",
+    "source": "스페셜타임스",
+    "domain": "specialtimes.co.kr",
+    "thumb": "https://cdn.specialtimes.co.kr/news/thumbnail/202611/480858_469752_1745_v150.jpg"
+  },
+  {
+    "title": "NCT 127, 일본·태국 공연 성료",
+    "link": "https://www.bntnews.co.kr/article/view/bnt202611020119",
+    "pubDate": "Mon, 02 Nov 2026 00:16:52 GMT",
+    "source": "BNT뉴스",
+    "domain": "bntnews.co.kr",
+    "thumb": "https://www.bntnews.co.kr/data/bnt/image/2026/11/02/bnt202611020168.jpg"
+  },
+  {
+    "title": "NCT 127, 日 돔·태국 스타디움 공연에 10만2000명 동원",
+    "link": "https://www.slist.kr/news/articleView.html?idxno=778220",
+    "pubDate": "Mon, 02 Nov 2026 00:02:48 GMT",
+    "source": "싱글리스트",
+    "domain": "slist.kr",
+    "thumb": "https://cdn.slist.kr/news/thumbnail/202611/778220_1189350_246_v150.jpg"
+  },
+  {
     "title": "NCT 샤오쥔, 거울 앞 카리스마…솔로 ‘Hey, Somebody’ 기세 잇는다",
     "link": "https://www.topstarnews.net/news/articleView.html?idxno=16265320",
     "pubDate": "Sun, 01 Nov 2026 16:14:09 GMT",
@@ -80,28 +136,12 @@
     "thumb": "https://cdn.topstarnews.net/news/photo/202610/16263274_2072302_532_crop.jpg"
   },
   {
-    "title": "NCT DREAM, 정규 6집에 담은 끝없는 꿈의 여정…“더 큰 세상으로 나아간다”",
-    "link": "https://www.slist.kr/news/articleView.html?idxno=777743",
-    "pubDate": "Fri, 30 Oct 2026 01:05:45 GMT",
-    "source": "싱글리스트",
-    "domain": "slist.kr",
-    "thumb": "https://cdn.slist.kr/news/thumbnail/202610/777743_1188677_523_v150.jpg"
-  },
-  {
     "title": "NCT 텐, 열애설 직접 해명하더니..소속사 “근거 없는 루머 법적 대응” [Oh!쎈 이슈]",
     "link": "https://www.koreadaily.com/article/20261029030125828",
     "pubDate": "Thu, 29 Oct 2026 10:01:00 GMT",
     "source": "미주중앙일보",
     "domain": "koreadaily.com",
     "thumb": "https://www.koreadaily.com/data/photo/thumbnail/2026/10/29/d71143d1-e740-4df9-8899-8cf6b46cc361.jpg"
-  },
-  {
-    "title": "NCT 텐, 열애설 정면돌파…“난 완벽한 싱글, 데이트할 시간 없어”",
-    "link": "https://www.mk.co.kr/news/hot-issues/12190096",
-    "pubDate": "Thu, 29 Oct 2026 08:22:11 GMT",
-    "source": "매일경제",
-    "domain": "mk.co.kr",
-    "thumb": "https://pimg.mk.co.kr/news/cms/202610/29/news-p.v1.20261029.c91c95aa900947c9b5092c6dd0f7206b_R.jpg"
   },
   {
     "title": "NCT 드림, 10주년 신곡 '부기우기'…재민 작사 참여",
@@ -118,14 +158,6 @@
     "source": "OSEN",
     "domain": "osen.co.kr",
     "thumb": "http://file.osen.co.kr/article_thumb/2026/10/29/202610291348770060_6ae2d4bc1b156_300x.jpg"
-  },
-  {
-    "title": "NCT 텐, 열애설 부인 “난 완전 싱글”",
-    "link": "https://sports.khan.co.kr/article/202610291357003",
-    "pubDate": "Thu, 29 Oct 2026 04:57:00 GMT",
-    "source": "스포츠경향",
-    "domain": "sports.khan.co.kr",
-    "thumb": "https://images.khan.co.kr/article/2026/10/29/news-p.v1.20261029.080e81db0b1f4a0f8d4de206c078c125_P1.png"
   },
   {
     "title": "NCT 드림, 데뷔 10주년 기념 정규 6집 발매…11월 9일 컴백",
@@ -192,14 +224,6 @@
     "thumb": "https://cphoto.asiae.co.kr/listimglink/1/2026102909410378756_1793234463.jpg"
   },
   {
-    "title": "NCT 드림, 신곡 '부기 우기'로 디스코 파티⋯'10주년 즐겨보자'",
-    "link": "https://www.joynews24.com/view/2020234",
-    "pubDate": "Thu, 29 Oct 2026 00:32:00 GMT",
-    "source": "조이뉴스24",
-    "domain": "joynews24.com",
-    "thumb": "https://image.inews24.com/v1/c7f87a3fca6bf8.jpg"
-  },
-  {
     "title": "NCT 드림, 축제 분위기 예고…'부기우기', 디스코 펑크의 흥",
     "link": "https://www.dispatch.co.kr/2349958",
     "pubDate": "Thu, 29 Oct 2026 00:29:00 GMT",
@@ -214,14 +238,6 @@
     "source": "톱스타뉴스",
     "domain": "topstarnews.net",
     "thumb": "https://cdn.topstarnews.net/news/photo/202610/16261572_2070946_280_crop.jpg"
-  },
-  {
-    "title": "NCT DREAM, 11월 9일 여섯 번째 정규앨범 발매",
-    "link": "https://www.specialtimes.co.kr/news/articleView.html?idxno=479606",
-    "pubDate": "Thu, 29 Oct 2026 00:26:20 GMT",
-    "source": "스페셜타임스",
-    "domain": "specialtimes.co.kr",
-    "thumb": "https://cdn.specialtimes.co.kr/news/thumbnail/202610/479606_468985_2620_v150.jpg"
   },
   {
     "title": "NCT DREAM이 벌써 데뷔 10주년이라니..'부기우기'로 여긴 디스코 파티",
@@ -254,14 +270,6 @@
     "source": "일요서울i",
     "domain": "ilyoseoul.co.kr",
     "thumb": "https://cdn.ilyoseoul.co.kr/news/photo/202610/524237_486547_2128.jpg"
-  },
-  {
-    "title": "NCT 재민, 여심 사로잡는 등장 [포토엔HD]",
-    "link": "https://m.newsen.com/news_view.php?uid=202610272026515510",
-    "pubDate": "Tue, 27 Oct 2026 11:27:24 GMT",
-    "source": "뉴스엔",
-    "domain": "m.newsen.com",
-    "thumb": null
   },
   {
     "title": "NCT DREAM 재민, 볼하트",
@@ -302,14 +310,6 @@
     "source": "문화일보",
     "domain": "munhwa.com",
     "thumb": "https://wimg.munhwa.com/news/cms/2026/10/13/news-p.v1.20261013.e35b0ebf2efb48e2b11a03f52ccfaca7_R.jpg"
-  },
-  {
-    "title": "NCT WISH 2nd CONCERT TOUR ‘INTO THE WISH : Face Our WISH’ 투어 일정 안내",
-    "link": "https://weverse.io/nctwish/notice/39830?hl=ko",
-    "pubDate": "Sun, 11 Oct 2026 11:20:54 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
   },
   {
     "title": "NCT WISH, ‘I SPY YOU’ 오늘(10일) 포문..무대 최초 공개",
