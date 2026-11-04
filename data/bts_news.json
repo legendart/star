@@ -1,5 +1,37 @@
 [
   {
+    "title": "45일간 200만개 팔려…BTS 굿즈 매대가 벌어들인 ‘1070억’",
+    "link": "https://www.newsen.com/news_view.php?uid=202611041759352610&code=100100",
+    "pubDate": "Wed, 04 Nov 2026 21:14:45 GMT",
+    "source": "뉴스엔",
+    "domain": "newsen.com",
+    "thumb": "https://photo.newsen.com/news_photo/2026/11/04/202611041759352610_1.jpg"
+  },
+  {
+    "title": "차트 바뀌어도 기록은 영원…BTS ‘아리랑’이 증명한 7개월의 세계지도",
+    "link": "https://www.newsen.com/news_view.php?uid=202611041754392610&code=100100",
+    "pubDate": "Wed, 04 Nov 2026 21:13:08 GMT",
+    "source": "뉴스엔",
+    "domain": "newsen.com",
+    "thumb": "https://photo.newsen.com/news_photo/2026/11/04/202611041754392610_1.jpg"
+  },
+  {
+    "title": "‘NEON’ 안무가 제이블랙, 에이티즈-BTS 제이홉-오마이걸 미미 춤에 충격(유퀴즈)",
+    "link": "https://www.newsen.com/news_view.php?uid=202611042007306110&code=100100",
+    "pubDate": "Wed, 04 Nov 2026 21:04:29 GMT",
+    "source": "뉴스엔",
+    "domain": "newsen.com",
+    "thumb": "https://photo.newsen.com/news_photo/2026/11/04/202611042007306110_1.jpg"
+  },
+  {
+    "title": "장영란·홍윤화, BTS 미담 공개 \"멤버들 엄청 착하다\"",
+    "link": "https://www.osen.co.kr/article/G1112904386",
+    "pubDate": "Wed, 04 Nov 2026 16:03:00 GMT",
+    "source": "OSEN",
+    "domain": "osen.co.kr",
+    "thumb": "http://file.osen.co.kr/article_thumb/2026/11/04/202611042143778371_6aeb5748457ef_300x.png"
+  },
+  {
     "title": "BTS 정국, 흑백 셀카로 전한 짙은 무드…스포티파이 신기록 행진",
     "link": "https://www.topstarnews.net/news/articleView.html?idxno=16268572",
     "pubDate": "Wed, 04 Nov 2026 13:22:01 GMT",
@@ -8,12 +40,12 @@
     "thumb": "https://cdn.topstarnews.net/news/photo/202611/16268572_2077923_2134_crop.jpg"
   },
   {
-    "title": "제이블랙 “BTS 제이홉·오마이걸 미미 춤에 진심…탈아이돌 수준” (유퀴즈)",
-    "link": "http://isplus.joins.com/article/view/isp202611040191",
-    "pubDate": "Wed, 04 Nov 2026 12:16:00 GMT",
-    "source": "일간스포츠",
-    "domain": "isplus.joins.com",
-    "thumb": null
+    "title": "공소청으로 간 BTS 공연 ‘바가지 숙박업주’…“예약 취소해 달라더니 7배로 인상”",
+    "link": "https://www.munhwa.com/article/11628856",
+    "pubDate": "Wed, 04 Nov 2026 12:54:21 GMT",
+    "source": "문화일보",
+    "domain": "munhwa.com",
+    "thumb": "https://wimg.munhwa.com/news/cms/2026/11/04/news-p.v1.20260609.ef50b9122dee43b2a4c56b26e6d6f5b6_R.jpg"
   },
   {
     "title": "BTS, K팝 첫 ‘이탈리아 음악산업협회 플래티넘’ 인증",
@@ -88,6 +120,14 @@
     "thumb": "https://www.chosun.com/resizer/v2/MM4GIOJUGZSDMNZWMVSTGMLCGM.jpg?auth=d4bb0c793715d5a4af3d61a47f96b4c5a8442a5aa8c602bfe0c9262ef3a3b26e&amp;width=650&amp;height=341&amp;smart=true"
   },
   {
+    "title": "BTS ‘아리랑’, 이탈리아서 K팝 최초 플래티넘 인증",
+    "link": "https://www.addnewsin.com/news/articleView.html?idxno=63431",
+    "pubDate": "Wed, 04 Nov 2026 06:07:00 GMT",
+    "source": "애드뉴스인천",
+    "domain": "addnewsin.com",
+    "thumb": "https://cdn.addnewsin.com/news/photo/202611/63431_17958_3645.jpg"
+  },
+  {
     "title": "“오버부킹 됐습니다” 거짓말로 예약 취소 유도…BTS 부산공연 앞두고 객실값 6배 재판매",
     "link": "https://www.welfarenews.net/news/articleView.html?idxno=212661",
     "pubDate": "Wed, 04 Nov 2026 06:00:08 GMT",
@@ -110,14 +150,6 @@
     "source": "부산일보",
     "domain": "busan.com",
     "thumb": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/06/22/2026062209540935775_l.jpg"
-  },
-  {
-    "title": "경찰, BTS 부산 공연 ‘바가지 요금’ 숙박업소 관리자 송치",
-    "link": "https://news.kbs.co.kr/news/view.do?ncd=8703725",
-    "pubDate": "Wed, 04 Nov 2026 05:04:00 GMT",
-    "source": "KBS 뉴스",
-    "domain": "news.kbs.co.kr",
-    "thumb": "http://news.kbs.co.kr/data/news/2026/11/04/20261104_SMSeB2.png"
   },
   {
     "title": "'BTS 공연 겨냥' 거짓 취소 후 숙박비 7배 올린 재판매 업자 '덜미'",
@@ -160,22 +192,6 @@
     "thumb": "https://www.imaeil.com/photos/2026/11/04/2026110412172177280_l.jpg"
   },
   {
-    "title": "부산경찰, BTS 공연 앞두고 객실 취소·재판매한 50대 송치",
-    "link": "https://www.newspim.com/news/view/20261104000615",
-    "pubDate": "Wed, 04 Nov 2026 02:36:00 GMT",
-    "source": "뉴스핌",
-    "domain": "newspim.com",
-    "thumb": "https://img.newspim.com/news/2021/02/22/2102221454446630_t1.jpg"
-  },
-  {
-    "title": "미리 예약했는데 돌연 “오버부킹, 취소해달라”… BTS 공연 앞두고 9만원 객실이 65만원에",
-    "link": "https://www.segye.com/newsView/20261104507964",
-    "pubDate": "Wed, 04 Nov 2026 02:15:00 GMT",
-    "source": "세계일보",
-    "domain": "segye.com",
-    "thumb": "https://www.segye.com/content/image/2026/11/04/20261104508199.jpg"
-  },
-  {
     "title": "9만원 객실 취소하고 65만원 되팔이… BTS 공연 바가지 업자 ‘1호 형사처벌’ 될까",
     "link": "https://www.joongang.co.kr/article/25475623",
     "pubDate": "Wed, 04 Nov 2026 02:09:09 GMT",
@@ -192,12 +208,12 @@
     "thumb": "https://www.chosun.com/resizer/v2/G4YWIMJXHA2GGODGHEYTOZRQHA.jpg?auth=688f2d37d2ebdd7a608e9961b4173c91f08edd52c0ea8dd1fb9afcdafd0b972b&amp;width=1200&amp;height=630&amp;smart=true"
   },
   {
-    "title": "BTS 공연 앞두고 ‘방 예약자 바꿔치기’로 7배 수익 50대 불구속 송치",
-    "link": "https://www.donga.com/news/Society/article/all/20261104/134963126/1",
-    "pubDate": "Wed, 04 Nov 2026 01:50:34 GMT",
-    "source": "동아일보",
-    "domain": "donga.com",
-    "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/04/134963127.1.jpg"
+    "title": "BTS공연 예약취소 유도 후 되팔아 6배 폭리…숙박업소 관리자 송치",
+    "link": "https://www.newsis.com/view/NISX20261104_0003854187",
+    "pubDate": "Wed, 04 Nov 2026 01:39:14 GMT",
+    "source": "뉴시스",
+    "domain": "newsis.com",
+    "thumb": "https://img1.newsis.com/2026/06/13/NISI20260613_0002160172_web.jpg"
   },
   {
     "title": "BTS 남미서 85만 관객 동원…\"가장 행복한 추억\"",
@@ -214,22 +230,6 @@
     "source": "디스패치",
     "domain": "dispatch.co.kr",
     "thumb": "https://dispatch.cdnser.be/cms-content/uploads/2026/11/04/82dc7fc0-72fe-4d89-82d6-d838a2d5f417.jpg"
-  },
-  {
-    "title": "What will follow ‘Arirang’···BTS preparing group and solo activities",
-    "link": "https://sports.khan.co.kr/en/article/202611041001007",
-    "pubDate": "Wed, 04 Nov 2026 01:01:00 GMT",
-    "source": "스포츠경향",
-    "domain": "sports.khan.co.kr",
-    "thumb": "https://images.khan.co.kr/article/2026/11/04/news-p.v1.20261104.719c3e574c99485dbbe8a22076135797_P1.jpg"
-  },
-  {
-    "title": "“BTS 공연 앞두고 ‘거짓 오버부킹’ 예약 취소 유도”…숙박료 7배 재판매 호텔 관리자 송치…“불꽃축제 전 경종”",
-    "link": "https://www.munhwa.com/article/11628638",
-    "pubDate": "Wed, 04 Nov 2026 00:59:53 GMT",
-    "source": "문화일보",
-    "domain": "munhwa.com",
-    "thumb": "https://wimg.munhwa.com/news/cms/2026/11/04/news-p.v1.20261104.54087120068d4b59a4797ea9b16aff81_R.jpg"
   },
   {
     "title": "BTS 월드투어로 최대 매출에도…하이브, 순익 90% 급감에 10%대 하락",
@@ -272,20 +272,20 @@
     "thumb": "https://media.yonhapnewstv.co.kr/article/AKR/20261103/AKR20261103181214mj9_02_i.jpg"
   },
   {
-    "title": "BTS 지민 父 카페, 1년 뒤 폐업 예고…건물주와 갈등설 재조명 - 머니투데이",
-    "link": "https://www.mt.co.kr/society/2026/11/03/2026110311361976719",
-    "pubDate": "Tue, 03 Nov 2026 04:40:50 GMT",
-    "source": "머니투데이",
-    "domain": "mt.co.kr",
-    "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=883,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/11/2026110311361976719_1.jpg"
+    "title": "“함께할 시간 365일 남아”…BTS 지민, 안타까운 소식 전해졌다",
+    "link": "https://www.twig24.com/news/entertainments/celebrity/2026/11/03/20261103500087",
+    "pubDate": "Tue, 03 Nov 2026 01:50:03 GMT",
+    "source": "TWIG",
+    "domain": "twig24.com",
+    "thumb": "https://img.seoul.co.kr//img/upload/2026/11/03/SSC_20261103105001.png"
   },
   {
-    "title": "BTS 지민 부친 카페, 내년 영업 종료",
-    "link": "https://www.newsis.com/view/NISX20261103_0003851902",
-    "pubDate": "Mon, 02 Nov 2026 22:56:35 GMT",
-    "source": "뉴시스",
-    "domain": "newsis.com",
-    "thumb": "https://img1.newsis.com/2026/05/30/NISI20260530_0002148891_web.jpg"
+    "title": "BTS 지민父 카페, 돌연 폐업 예고…“내년 영업 종료”",
+    "link": "https://www.munhwa.com/article/11628280",
+    "pubDate": "Mon, 02 Nov 2026 23:58:46 GMT",
+    "source": "문화일보",
+    "domain": "munhwa.com",
+    "thumb": "https://wimg.munhwa.com/news/cms/2026/11/03/news-p.v1.20261103.4721a4af775f4224aa6b7804f79be80d_R.jpg"
   },
   {
     "title": "BTS 대만 가오슝·인니 자카르타 공연 80여개국 극장서 상영",
