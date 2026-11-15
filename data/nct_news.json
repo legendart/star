@@ -1,26 +1,114 @@
 [
   {
+    "title": "NCT WISH(엔시티위시), 반가운 손인사",
+    "link": "https://www.osen.co.kr/article/G1112910660",
+    "pubDate": "Sun, 15 Nov 2026 09:34:00 GMT",
+    "source": "OSEN",
+    "domain": "osen.co.kr",
+    "thumb": "http://file.osen.co.kr/article_thumb/2026/11/15/202611151834779042_6af97ca6eb876_300x.jpg"
+  },
+  {
+    "title": "NCT 127 재현, 훈훈한 매력",
+    "link": "https://www.chosun.com/entertainments/entertain_photo/2026/11/15/GU2TEOJTHE2DKNRTMRSDMNLGHE/",
+    "pubDate": "Sun, 15 Nov 2026 09:27:00 GMT",
+    "source": "조선일보",
+    "domain": "chosun.com",
+    "thumb": "https://www.chosun.com/resizer/v2/MFQTCNDEG4YGEY3EGVRWGY3EMI.jpg?auth=5cc776a0dcc06406567ea17a8139113a8b2b7599c0cecdd48af4b003f373c7de&amp;width=530&amp;height=278&amp;smart=true"
+  },
+  {
+    "title": "NCT WISH·아이브·플레이브, TOP10 영예…“모두 팬들 덕분” [MMA 2026]",
+    "link": "https://www.mk.co.kr/news/musics/12209465",
+    "pubDate": "Sun, 15 Nov 2026 09:21:09 GMT",
+    "source": "매일경제",
+    "domain": "mk.co.kr",
+    "thumb": "https://pimg.mk.co.kr/news/cms/202611/15/news-p.v1.20261115.77133a46e86946798d1f6575c0e8a022_R.jpg"
+  },
+  {
+    "title": "엔시티 127, 멜론뮤직어워드 왔어요",
+    "link": "https://www.chosun.com/entertainments/entertain_photo/2026/11/15/ME3DANRSGFRDOYJSHBQWEZBQGM/",
+    "pubDate": "Sun, 15 Nov 2026 09:21:00 GMT",
+    "source": "조선일보",
+    "domain": "chosun.com",
+    "thumb": "https://www.chosun.com/resizer/v2/HFRGKYZZGYZDEM3EME3WMN3GGE.jpg?auth=7cbe444299302e15003800823d21758de71b9c09ab25ffebfa1078bd7870c9ee&amp;width=650&amp;height=341&amp;smart=true"
+  },
+  {
+    "title": "레드카펫에 선 NCT 127 [MK포토]",
+    "link": "https://www.mk.co.kr/news/entertain/12209459",
+    "pubDate": "Sun, 15 Nov 2026 09:14:16 GMT",
+    "source": "매일경제",
+    "domain": "mk.co.kr",
+    "thumb": "https://pimg.mk.co.kr/news/cms/202611/15/news-p.v1.20261115.be23499376f444a6a89bbcbec5474bae_R.jpg"
+  },
+  {
+    "title": "NCT 127, 당당한 MMA2026 레드카펫 입성 [포토엔HD]",
+    "link": "https://m.newsen.com/news_view.php?uid=202611151743041510",
+    "pubDate": "Sun, 15 Nov 2026 08:43:10 GMT",
+    "source": "뉴스엔",
+    "domain": "m.newsen.com",
+    "thumb": null
+  },
+  {
+    "title": "포즈 취하는 NCT위시",
+    "link": "https://mobile.newsis.com/photo/NISI20261115_0021533413",
+    "pubDate": "Sun, 15 Nov 2026 08:41:05 GMT",
+    "source": "뉴시스",
+    "domain": "mobile.newsis.com",
+    "thumb": "https://img1.newsis.com/2026/11/15/NISI20261115_0021533413_web.jpg"
+  },
+  {
+    "title": "MMA2026 참석한 NCT위시",
+    "link": "https://www.newsis.com/view/NISI20261115_0021533414",
+    "pubDate": "Sun, 15 Nov 2026 08:41:05 GMT",
+    "source": "뉴시스",
+    "domain": "newsis.com",
+    "thumb": "https://img1.newsis.com/2026/11/15/NISI20261115_0021533414_web.jpg"
+  },
+  {
+    "title": "NCT위시 시온, 훈훈 손하트",
+    "link": "https://www.newsis.com/view/NISI20261115_0021533415",
+    "pubDate": "Sun, 15 Nov 2026 08:41:05 GMT",
+    "source": "뉴시스",
+    "domain": "newsis.com",
+    "thumb": "https://img1.newsis.com/2026/11/15/NISI20261115_0021533415_web.jpg"
+  },
+  {
+    "title": "NCT WISH, 레드카펫 위 청량 비타민 에너지 [포토엔HD]",
+    "link": "https://www.newsen.com/news_view.php?uid=202611151734241510&code=100600",
+    "pubDate": "Sun, 15 Nov 2026 08:34:29 GMT",
+    "source": "뉴스엔",
+    "domain": "newsen.com",
+    "thumb": "https://photo.newsen.com/news_photo/2026/11/15/202611151734241510_1.jpg"
+  },
+  {
+    "title": "SBS 인기가요 : Boogie Woogie - NCT DREAM | SBS 261115 방송",
+    "link": "https://programs.sbs.co.kr/enter/gayo/clip/54768/OC483311517",
+    "pubDate": "Sun, 15 Nov 2026 08:00:00 GMT",
+    "source": "programs.sbs.co.kr",
+    "domain": "programs.sbs.co.kr",
+    "thumb": "https://img2.sbs.co.kr/ops_clip_img/2026/11/15/072b5c64-865c-4455-93dd-321d1979f072043w640.jpg"
+  },
+  {
+    "title": "'인기가요' 출연진 총정리… NCT DREAM·에이티즈 컴백부터 ITZY 채령 솔로 데뷔까지",
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3752424",
+    "pubDate": "Sun, 15 Nov 2026 05:57:41 GMT",
+    "source": "국제뉴스",
+    "domain": "gukjenews.com",
+    "thumb": "https://cdn.gukjenews.com/news/thumbnail/202611/3752424_3934680_5738_v150.jpg"
+  },
+  {
+    "title": "폴리스웜(NCT) 30% 급등 1위…10% 넘게 오른 종목 1개",
+    "link": "https://www.coinreaders.com/270382",
+    "pubDate": "Sun, 15 Nov 2026 03:01:05 GMT",
+    "source": "코인리더스",
+    "domain": "coinreaders.com",
+    "thumb": "https://www.coinreaders.com/imgdata/coinreaders_com/202604/781_516_2026040144098088.png"
+  },
+  {
     "title": "#MMA2026 ] NCT DREAM - BOOM +Better Than Gold+Boogie Woogie(Show Funk VER)(4K) | #NCTDREAM #20261114",
     "link": "https://t.co/RONAIZzeuv",
     "pubDate": "Sat, 14 Nov 2026 14:46:44 GMT",
     "source": "Howl.Link",
     "domain": "t.co",
-    "thumb": null
-  },
-  {
-    "title": "MMA2026 고척돔서 개막…15일 아이브·NCT 출격 : 연예",
-    "link": "https://news.jkn.co.kr/post/1093463",
-    "pubDate": "Sat, 14 Nov 2026 11:37:31 GMT",
-    "source": "재경일보",
-    "domain": "news.jkn.co.kr",
-    "thumb": "https://images.jkn.co.kr/data/images/full/111/49/1114930.jpg?v=1794656251&amp;width=1200&amp;height=630"
-  },
-  {
-    "title": "NCT DREAM 지성, 매력적인 입술 손키스 [포토엔HD]",
-    "link": "https://m.newsen.com/news_view.php?uid=202611141940525510",
-    "pubDate": "Sat, 14 Nov 2026 10:41:07 GMT",
-    "source": "뉴스엔",
-    "domain": "m.newsen.com",
     "thumb": null
   },
   {
@@ -32,22 +120,6 @@
     "thumb": "https://img.tf.co.kr/article/home/2026/11/14/202688131794650997.jpg"
   },
   {
-    "title": "NCT드림 재민, 남궁의 아이돌",
-    "link": "https://enews.imbc.com/News/RetrieveNewsInfo/524804",
-    "pubDate": "Sat, 14 Nov 2026 09:40:00 GMT",
-    "source": "iMBC 연예",
-    "domain": "enews.imbc.com",
-    "thumb": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/11/14/78191713-adaa-4c66-991e-04e7ac2641c8.jpg"
-  },
-  {
-    "title": "NCT DREAM 지성, `MMA 파이팅!`",
-    "link": "https://www.mydaily.co.kr/page/view/2026111418213761239",
-    "pubDate": "Sat, 14 Nov 2026 09:21:37 GMT",
-    "source": "마이데일리",
-    "domain": "mydaily.co.kr",
-    "thumb": "https://mydaily.co.kr/photos/2026/11/14/2026111418213404380_l.jpg"
-  },
-  {
     "title": "MMA2026 참석한 NCT드림 제노",
     "link": "https://www.newsis.com/view/NISI20261114_0021532703",
     "pubDate": "Sat, 14 Nov 2026 09:20:43 GMT",
@@ -56,12 +128,12 @@
     "thumb": "https://img1.newsis.com/2026/11/14/NISI20261114_0021532703_web.jpg"
   },
   {
-    "title": "NCT DREAM 재민, 훈훈하게 [포토엔HD]",
-    "link": "https://www.newsen.com/news_view.php?uid=202611141759305510&code=199999",
-    "pubDate": "Sat, 14 Nov 2026 08:59:44 GMT",
-    "source": "뉴스엔",
-    "domain": "newsen.com",
-    "thumb": "https://photo.newsen.com/news_photo/2026/11/14/202611141759305510_1.jpg"
+    "title": "NCT드림. '포멀한 레드카펫 패션'",
+    "link": "https://www.etnews.com/20261114000038",
+    "pubDate": "Sat, 14 Nov 2026 09:20:30 GMT",
+    "source": "전자신문",
+    "domain": "etnews.com",
+    "thumb": "https://img.etnews.com/news/article/2026/11/14/cms_temp_stats_1794647994143096710.jpg"
   },
   {
     "title": "메가MGC커피, NCT 127 행사 진행",
@@ -96,14 +168,6 @@
     "thumb": "https://i3n.news1.kr/system/photos/2026/11/13/8212719/high.jpg"
   },
   {
-    "title": "메가MGC커피, NCT 127 팬사인회·토크쇼 초청 프리퀀시 이벤트 개최",
-    "link": "https://www.2news.co.kr/news/articleView.html?idxno=32367",
-    "pubDate": "Fri, 13 Nov 2026 01:13:26 GMT",
-    "source": "https://www.2news.co.kr/",
-    "domain": "2news.co.kr",
-    "thumb": "https://cdn.2news.co.kr/news/photo/202611/32367_22207_1322.jpeg"
-  },
-  {
     "title": "블랙핑크 지수부터 NCT까지! 2027 코첼라 페스티벌을 채울 K-아티스트들 – 마리끌레르 코리아",
     "link": "https://www.marieclairekorea.com/culture/2026/11/coachella-4/",
     "pubDate": "Thu, 12 Nov 2026 19:52:48 GMT",
@@ -118,6 +182,14 @@
     "source": "진일보 | 전남일보",
     "domain": "jnilbo.com",
     "thumb": "https://cdn.jnilbo.com/news/photo/202611/90000082208_614325_938.jpg"
+  },
+  {
+    "title": "아이오아이 10년만의 귀환·NCT DREAM 10주년 축제·리센느 로맨스판타지, MMA2026 14팀 ‘레전드’...",
+    "link": "https://sports.khan.co.kr/article/202611121503003",
+    "pubDate": "Thu, 12 Nov 2026 06:03:00 GMT",
+    "source": "스포츠경향",
+    "domain": "sports.khan.co.kr",
+    "thumb": "https://images.khan.co.kr/article/2026/11/12/news-p.v1.20261112.99711bcf80b14444ae840e9116a6f53a_P1.png"
   },
   {
     "title": "NCT 127∙NCT DREAM, 美 ‘2027 코첼라’ 출격",
@@ -168,20 +240,20 @@
     "thumb": "https://dispatch.cdnser.be/cms-content/uploads/2026/11/12/2ef3a7ec-9e27-4dc3-8d4a-e1e6e43b81c8.png"
   },
   {
-    "title": "10년 내공 싣고 코첼라로…NCT 127·NCT 드림, 내년 나란히 첫 출격",
-    "link": "https://sports.donga.com/ent/article/all/20261112/135011539/1",
-    "pubDate": "Thu, 12 Nov 2026 00:33:19 GMT",
-    "source": "스포츠동아",
-    "domain": "sports.donga.com",
-    "thumb": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/11/12/135011741.1.jpg"
-  },
-  {
     "title": "내년 코첼라 NCT 무대 베일 벗었다…127·드림, 동반 출격·합동 무대",
     "link": "https://www.newsis.com/view/NISX20261112_0003864880",
     "pubDate": "Thu, 12 Nov 2026 00:31:07 GMT",
     "source": "뉴시스",
     "domain": "newsis.com",
     "thumb": "https://img1.newsis.com/2026/11/12/NISI20261112_0002289702_web.jpg"
+  },
+  {
+    "title": "아이오아이·에스파→NCT DREAM·에이티즈…MMA 첫날 출격",
+    "link": "https://www.mk.co.kr/news/musics/12205983",
+    "pubDate": "Thu, 12 Nov 2026 00:12:26 GMT",
+    "source": "매일경제",
+    "domain": "mk.co.kr",
+    "thumb": "https://pimg.mk.co.kr/news/cms/202611/12/news-p.v1.20261112.d3e9396980784c5a98567a54329ea9d1_R.png"
   },
   {
     "title": "NCT 127·NCT DREAM, 美 '코첼라 페스티벌' 출격…컬래버레이션 무대 예고",
@@ -198,14 +270,6 @@
     "source": "BNT뉴스",
     "domain": "bntnews.co.kr",
     "thumb": "https://www.bntnews.co.kr/data/bnt/image/2026/11/12/bnt202611120161.jpg"
-  },
-  {
-    "title": "아이오아이, 10년 만에 MMA 무대…에스파·NCT DREAM 첫날 출격",
-    "link": "https://www.etoday.co.kr/news/view/2647143",
-    "pubDate": "Wed, 11 Nov 2026 23:40:00 GMT",
-    "source": "이투데이",
-    "domain": "etoday.co.kr",
-    "thumb": "https://img.etoday.co.kr/pto_db/2026/11/20261112083948_2416200_600_800.png"
   },
   {
     "title": "지수·이날치·NCT·베몬, 내년 ‘코첼라’ 선다",
@@ -232,14 +296,6 @@
     "thumb": "https://media.yonhapnewstv.co.kr/article/AKR/20261111/AKR20261111170930H5V_01_i.jpg"
   },
   {
-    "title": "블랙핑크 지수·NCT·베이비몬스터, ‘2027 코첼라 페스티벌’ 출격",
-    "link": "https://www.mk.co.kr/news/musics/12205471",
-    "pubDate": "Wed, 11 Nov 2026 07:23:30 GMT",
-    "source": "매일경제",
-    "domain": "mk.co.kr",
-    "thumb": "https://pimg.mk.co.kr/news/cms/202611/11/news-p.v1.20261111.592a08495d164208bae03732ad0e4f13_R.jpg"
-  },
-  {
     "title": "블랙핑크 지수·NCT·베이비몬스터·이날치, 내년 '코첼라' 뜬다",
     "link": "https://www.hankyung.com/article/202611110600H",
     "pubDate": "Wed, 11 Nov 2026 07:13:47 GMT",
@@ -248,68 +304,12 @@
     "thumb": "https://img.hankyung.com/photo/202611/03.43421460.1.jpg"
   },
   {
-    "title": "지수·NCT·베몬·페기구·이날치, 내년 코첼라 간다",
-    "link": "https://www.donga.com/news/Entertainment/article/all/20261111/135007368/1",
-    "pubDate": "Wed, 11 Nov 2026 06:56:00 GMT",
-    "source": "동아일보",
-    "domain": "donga.com",
-    "thumb": "https://image.donga.com/pc/2022/images/common/donga_default_img.png"
-  },
-  {
     "title": "NCT 지성, '배우의 눈빛'",
     "link": "https://www.etnews.com/20261111000226",
     "pubDate": "Wed, 11 Nov 2026 03:12:17 GMT",
     "source": "전자신문",
     "domain": "etnews.com",
     "thumb": "https://img.etnews.com/news/article/2026/11/11/cms_temp_stats_1794366700523589533.jpg"
-  },
-  {
-    "title": "NCT 드림, ‘원더킬포’ 출격",
-    "link": "https://www.bntnews.co.kr/article/view/bnt202611110173",
-    "pubDate": "Wed, 11 Nov 2026 00:54:37 GMT",
-    "source": "BNT뉴스",
-    "domain": "bntnews.co.kr",
-    "thumb": "https://www.bntnews.co.kr/data/bnt/image/2026/11/11/bnt202611110315.png"
-  },
-  {
-    "title": "NCT 지성, 톱 아이돌 넘어 성인 연기 도전…'크래시2'로 영역 확장[초점S]",
-    "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1019077",
-    "pubDate": "Tue, 10 Nov 2026 22:40:00 GMT",
-    "source": "SPOTV NEWS",
-    "domain": "spotvnews.co.kr",
-    "thumb": "https://7lgigmttrjuyfehsudec15072.edge.naverncp.com/news/photo/202611/1019077_2040029_7260.jpg"
-  },
-  {
-    "title": "NCT 드림 정규 6집, 음반·음원 차트 1위",
-    "link": "https://www.newspim.com/news/view/20261110000401",
-    "pubDate": "Tue, 10 Nov 2026 01:48:00 GMT",
-    "source": "뉴스핌",
-    "domain": "newspim.com",
-    "thumb": "https://img.newspim.com/news/2026/11/10/2611101011315720_858_tc.jpg"
-  },
-  {
-    "title": "'컴백' NCT 드림, 이름값 제대로…음반·음원 차트 1위",
-    "link": "https://www.hankyung.com/article/202611106884H",
-    "pubDate": "Tue, 10 Nov 2026 01:12:01 GMT",
-    "source": "한국경제",
-    "domain": "hankyung.com",
-    "thumb": "https://img.hankyung.com/photo/202611/01.46371028.1.jpg"
-  },
-  {
-    "title": "NCT DREAM, 어른이 된 피터팬 [뉴트랙 쿨리뷰] - 머니투데이",
-    "link": "https://www.mt.co.kr/entertainment/2026/11/10/2026111009157220444",
-    "pubDate": "Tue, 10 Nov 2026 00:15:04 GMT",
-    "source": "머니투데이",
-    "domain": "mt.co.kr",
-    "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/w=1200,h=800,fit=cover,bg=white,f=auto,quality=high,sharpen=2,g=face/21/2026/11/2026111009157220444_1.jpg"
-  },
-  {
-    "title": "10주년 NCT 드림, \"지난 10년 모든 순간이 꿈만 같아\"",
-    "link": "https://www.newspim.com/news/view/20261109001033",
-    "pubDate": "Mon, 09 Nov 2026 07:00:00 GMT",
-    "source": "뉴스핌",
-    "domain": "newspim.com",
-    "thumb": "https://img.newspim.com/news/2026/11/09/2611091505380780_t1.jpg"
   },
   {
     "title": "라이즈·NCT 위시…SM, 5세대 앞세워 반등 노린다 [엔터X스탁]",
