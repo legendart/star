@@ -1,11 +1,123 @@
 [
   {
-    "title": "‘BTS 투어·임영웅 콘서트 참여’ 앰버린 대표, ‘2026 대중문화예술 제작스태프 대상’ 콘진원장상 수상",
-    "link": "https://isplus.com/article/view/isp202611200019",
-    "pubDate": "Fri, 20 Nov 2026 00:02:00 GMT",
+    "title": "BTS, 일본 누적 스트리밍 100억 회 돌파...해외 그룹 최초",
+    "link": "https://www.ytn.co.kr/_ln/0106_202611201638387609",
+    "pubDate": "Fri, 20 Nov 2026 07:38:00 GMT",
+    "source": "YTN",
+    "domain": "ytn.co.kr",
+    "thumb": "https://image.ytn.co.kr/general/jpg/2026/1120/202611201638387609_t.jpg"
+  },
+  {
+    "title": "방탄소년단, 日 누적 스밍 100억회 돌파…해외 아티스트 최초",
+    "link": "https://www.newsis.com/view/NISX20261120_0003877094",
+    "pubDate": "Fri, 20 Nov 2026 07:17:47 GMT",
+    "source": "뉴시스",
+    "domain": "newsis.com",
+    "thumb": "https://img1.newsis.com/2026/11/11/NISI20261111_0002288458_web.jpg"
+  },
+  {
+    "title": "배달 노동자부터 BTS 팬까지 … 알고리즘을 갖고 노는 사람들",
+    "link": "https://www.mk.co.kr/news/culture/12214693",
+    "pubDate": "Fri, 20 Nov 2026 07:13:38 GMT",
+    "source": "매일경제",
+    "domain": "mk.co.kr",
+    "thumb": "https://pimg.mk.co.kr/news/cms/202611/21/20261121_01110116000005_S00.jpg"
+  },
+  {
+    "title": "방탄소년단, 日 누적 스트리밍 100억회 돌파…해외 아티스트 최초 - 머니투데이",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBnVGR4cUFPbDVNYk1yMGFwTU15Y201VXdpbmpHRjdlV3VzMm9GSTF6UUR2WkUwLXJDeUFIcDZpeWFPdEVrNkluYnZFRDNvX2JTWUZBa3Q1R0RjS0IyU09ZZFQyRTNXNzctNlFkTGh6eHM0LVB4clHSAXtBVV95cUxQSkhYeWlhTUZwNTJEV1lYQnFpRGNPWmh3Um1RT0pSb1RNdUp1TjMwTE93Z19qMGJjWUMzazdpZTZDQTRIdnpIcXgxc2xkXzZabDBrekNQRzBmcUN5SDMxa05kUjlRdHRId1BFWl9IRjdfaE5Zc1h6dkx1TDA?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 06:57:20 GMT",
+    "source": "머니투데이",
+    "domain": "news.google.com",
+    "thumb": null
+  },
+  {
+    "title": "BTS, 일본 누적 스트리밍 100억회 돌파…해외 가수 최초",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBQzBCby04VWZjREg3d0xOSDBKMEsxRFdVTDI1NEdQaUNEY05TR2Zkdy1TVi1mTG80a1JJcWVjM29LRTd3Yk1SVzl4WFBlS2dhQm9lZ3YtNDNRbkg0a2ZlYjB5M0VSeXNoekR5SHFEREk?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 06:36:04 GMT",
+    "source": "신아일보",
+    "domain": "news.google.com",
+    "thumb": null
+  },
+  {
+    "title": "방탄소년단, 日 누적 스트리밍 100억회 돌파…해외 아티스트 최초 대기록",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LSFhUTWRjTWtGR2labHJzaXV1cjJZVF9vR2lMSUxOdGRiU09LOHVGSk5RODJMNXhCMkhMWDVzXy1uVXhGeXFoa2h2LWRtbF9abVQ4Ng?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 06:33:00 GMT",
+    "source": "OSEN",
+    "domain": "news.google.com",
+    "thumb": null
+  },
+  {
+    "title": "방탄소년단, 일본 누적 스트리밍 100억회 돌파…해외 아티스트 최초",
+    "link": "https://www.mk.co.kr/news/musics/12214617",
+    "pubDate": "Fri, 20 Nov 2026 06:06:55 GMT",
+    "source": "매일경제",
+    "domain": "mk.co.kr",
+    "thumb": "https://pimg.mk.co.kr/news/cms/202611/20/news-p.v1.20261120.7c02a04283504ea4983432a63607ab09_R.jpg"
+  },
+  {
+    "title": "BTS, 日 누적 스트리밍 100억회…해외 가수 최초 기록",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWRDJkWjhlNGd2bVBNZmc3WmsyRXk3cTJRNERNR2g3Ql9pa0Q4WU5IUGEybno4WndXcGF6Z0lpMmRPd0Z1Ry1JNDZLcmR2SWVYTHJfR1ZNMGpKcEnSAWBBVV95cUxPYWhISll4bDNBSkI5cXBSbXh2a3JZWlV6RDlMV09tSGFRUno1Skp2a0VkYnpublZUekhxdEFFVlRZNmhZZnAtSkppdW5uM3p2RVlKMV8yUFRLRHAtczhKMGU?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 05:36:38 GMT",
+    "source": "연합뉴스",
+    "domain": "news.google.com",
+    "thumb": null
+  },
+  {
+    "title": "방탄소년단, 해외 아티스트 최초로 日 빌보드 누적 스트리밍 100억회 돌파",
+    "link": "https://sports.khan.co.kr/article/202611201424003",
+    "pubDate": "Fri, 20 Nov 2026 05:24:00 GMT",
+    "source": "스포츠경향",
+    "domain": "sports.khan.co.kr",
+    "thumb": "https://images.khan.co.kr/article/2026/11/20/news-p.v1.20261120.0422c2b5caa641099d3bc5380ec221d7_P1.png"
+  },
+  {
+    "title": "방탄소년단, 日 누적 스트리밍 100억 회 돌파…해외 아티스트 최초",
+    "link": "https://isplus.com/article/view/isp202611200079",
+    "pubDate": "Fri, 20 Nov 2026 04:52:00 GMT",
     "source": "일간스포츠",
     "domain": "isplus.com",
-    "thumb": "https://isplus.com/data/isp/image/2026/11/20/isp20261120000017.800x.0.jpg"
+    "thumb": "https://isplus.com/data/isp/image/2026/11/20/isp20261120000079.800x.0.jpg"
+  },
+  {
+    "title": "방탄소년단, 해외 아티스트 최초..日 빌보드 누적 스트리밍 100억 돌파",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aRm9qUjBfcjZfSDJlaGVlRmtvSW9Ddkw4M1JkRkhlM2tHZUFHYUNyeHRIbm40RjZNMWFtMlZUVmRxQzVIeGpjdmJpWERGMnRYZmt4bVg2T2RiRENmUjVjSjRSVTBsODk4OVdVeEhXRGxRY0hF?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 04:45:17 GMT",
+    "source": "스타뉴스",
+    "domain": "news.google.com",
+    "thumb": null
+  },
+  {
+    "title": "BTS, 日 누적 스트리밍 100억 회 돌파…해외 아티스트 최초 대기록",
+    "link": "https://www.donga.com/news/Entertainment/article/all/20261120/135060160/1",
+    "pubDate": "Fri, 20 Nov 2026 04:41:26 GMT",
+    "source": "동아일보",
+    "domain": "donga.com",
+    "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/20/135060161.1.jpg"
+  },
+  {
+    "title": "방탄소년단(BTS), 日 누적 스트리밍 100억회 돌파..해외 아티스트 최초",
+    "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFA4UDJ4R1ZjRTVHc29acm0yV20xaFZSaXlwdlJqRlhPVEh0YmkxTE5PdWRCRUJydTZvckY2OXoxVE56QQ?oc=5",
+    "pubDate": "Fri, 20 Nov 2026 04:35:00 GMT",
+    "source": "브레이크뉴스",
+    "domain": "news.google.com",
+    "thumb": null
+  },
+  {
+    "title": "방탄소년단, 일본 누적 스트리밍 100억 회…해외 아티스트 최초 기록",
+    "link": "https://mhnse.com/news/articleView.html?idxno=1704429",
+    "pubDate": "Fri, 20 Nov 2026 04:10:48 GMT",
+    "source": "MHN스포츠",
+    "domain": "mhnse.com",
+    "thumb": null
+  },
+  {
+    "title": "방탄소년단, '해외 아티스트 최초' 日 누적 스트리밍 100억 회 돌파",
+    "link": "https://www.slist.kr/news/articleView.html?idxno=783440",
+    "pubDate": "Fri, 20 Nov 2026 04:04:33 GMT",
+    "source": "싱글리스트",
+    "domain": "slist.kr",
+    "thumb": "https://cdn.slist.kr/news/thumbnail/202611/783440_1196249_427_v150.jpg"
   },
   {
     "title": "방탄소년단 정국, 역시 '월클 슈스'..대만 팬들 찬란한 서포트",
@@ -24,14 +136,6 @@
     "thumb": "https://image.starnewskorea.com/21/2026/11/2026112008193373359_1.jpg"
   },
   {
-    "title": "Nex and HYBE release ‘Starri | BTS’···Enjoy BTS music in the living room with your whole body",
-    "link": "https://sports.khan.co.kr/en/article/202611200712007",
-    "pubDate": "Thu, 19 Nov 2026 22:12:00 GMT",
-    "source": "스포츠경향",
-    "domain": "sports.khan.co.kr",
-    "thumb": "https://images.khan.co.kr/article/2026/11/20/news-p.v1.20261120.6c0305c94e0a4d3685d29f523064f8ac_P1.jpeg"
-  },
-  {
     "title": "넥스·하이브, ‘Starri | BTS’ 출시···방탄소년단의 음악을 거실에서 온몸으로 즐긴다",
     "link": "https://sports.khan.co.kr/article/202611200710003",
     "pubDate": "Thu, 19 Nov 2026 22:10:00 GMT",
@@ -40,28 +144,12 @@
     "thumb": "https://images.khan.co.kr/article/2026/11/20/news-p.v1.20261120.6c0305c94e0a4d3685d29f523064f8ac_P1.jpeg"
   },
   {
-    "title": "오징어에서 반도체·BTS까지…수출 1조 달러 일군 10대 개척자",
-    "link": "https://www.joongang.co.kr/article/25480365",
-    "pubDate": "Thu, 19 Nov 2026 20:00:02 GMT",
-    "source": "중앙일보",
-    "domain": "joongang.co.kr",
-    "thumb": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/20/fd952505-8424-40c2-abbb-1bdcdf29cd09.jpg"
-  },
-  {
     "title": "BTS(방탄소년단), 월드스타의 품격😘❣️🫶(출국)[뉴스엔TV]",
-    "link": "https://m.newsen.com/news_view.php?uid=202611192234571310",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82VkR2RmpvS2hGekJMT01kMmdQRW9NNTlPUy1pcVA0RUUwRkVTOS1vNFEyaTlucFlDVkRvWlFFV3FaekQyb21Vc0RnVVZtR3ZXMFhwX0JNMUFCblBZMU1tTS1Gdk9lMHdM?oc=5",
     "pubDate": "Thu, 19 Nov 2026 13:35:02 GMT",
     "source": "뉴스엔",
-    "domain": "m.newsen.com",
+    "domain": "news.google.com",
     "thumb": null
-  },
-  {
-    "title": "몸을 움직이며 음악 즐긴다, BTS 기반 리듬게임 출시",
-    "link": "https://www.gamemeca.com/view.php?gid=1783798",
-    "pubDate": "Thu, 19 Nov 2026 12:19:19 GMT",
-    "source": "게임메카",
-    "domain": "gamemeca.com",
-    "thumb": "https://cdn.gamemeca.com/gmdata/0001/783/798/gm672394_thumb____BTS_.webp"
   },
   {
     "title": "방탄소년단 진, 스타랭킹 男아이돌 톱3 안착..굳건한 존재감",
@@ -72,68 +160,12 @@
     "thumb": "https://image.starnewskorea.com/21/2026/11/2026111918582872690_1.jpg"
   },
   {
-    "title": "BTS 뷔·정국, 대만 야시장서 사격 솜씨 뽐냈다…대형 인형까지 획득",
-    "link": "https://isplus.com/article/view/isp202611190156",
-    "pubDate": "Thu, 19 Nov 2026 09:03:00 GMT",
-    "source": "일간스포츠",
-    "domain": "isplus.com",
-    "thumb": "https://isplus.com/data/isp/image/2026/01/23/isp20260123000099.800x.0.jpg"
-  },
-  {
-    "title": "美서 엑스박스 제친 넥스, 하이브와 BTS 리듬 게임 출시",
-    "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=46450",
-    "pubDate": "Thu, 19 Nov 2026 08:45:01 GMT",
-    "source": "파이낸셜리뷰",
-    "domain": "financialreview.co.kr",
-    "thumb": "http://www.financialreview.co.kr/news/thumbnail/202611/46450_70159_850_v150.jpg"
-  },
-  {
-    "title": "넥스·하이브, BTS 모션 리듬 게임 출시⋯10곡 수록·2인 플레이 지원",
-    "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=602256",
-    "pubDate": "Thu, 19 Nov 2026 08:45:00 GMT",
-    "source": "엠투데이",
-    "domain": "autodaily.co.kr",
-    "thumb": "https://cdn.autodaily.co.kr/news/photo/202611/602256_204340_2734.jpg"
-  },
-  {
-    "title": "세계 정상·BTS까지 내세운 전북 서예비엔날레…현실은 1085만원 선물세트 창고행",
-    "link": "https://www.jjan.kr/article/20261119500370",
-    "pubDate": "Thu, 19 Nov 2026 07:50:56 GMT",
-    "source": "전북일보 인터넷신문",
-    "domain": "jjan.kr",
-    "thumb": "https://cdn.jjan.kr/data2/content/image/2026/11/19/.cache/512/20261119500366.png"
-  },
-  {
-    "title": "BTS, 오늘부터 아시아·호주 투어 시작! 9개 도시에서 26회 공연",
-    "link": "https://www.marieclairekorea.com/culture/2026/11/bts-58/",
-    "pubDate": "Thu, 19 Nov 2026 07:01:05 GMT",
-    "source": "마리끌레르 코리아",
-    "domain": "marieclairekorea.com",
-    "thumb": "https://img.marieclairekorea.com/2026/11/mck_6afe9bfe33e8e.jpg"
-  },
-  {
     "title": "방탄소년단 음악에 맞춰 온몸으로 게임한다…하이브·넥스 ‘Starri | BTS’ 출시",
     "link": "https://www.newstap.co.kr/news/articleView.html?idxno=338086",
     "pubDate": "Thu, 19 Nov 2026 06:58:22 GMT",
     "source": "뉴스탭",
     "domain": "newstap.co.kr",
     "thumb": "https://cdn.newstap.co.kr/news/photo/202611/338086_449263_5718.jpg"
-  },
-  {
-    "title": "넥스·하이브, 방탄소년단 음악 담은 모션 리듬 게임 ‘Starri | BTS’ 출시",
-    "link": "https://www.beyondpost.co.kr/view.php?ud=20261119151956556446a9e4dd7f_30",
-    "pubDate": "Thu, 19 Nov 2026 06:21:30 GMT",
-    "source": "비욘드포스트",
-    "domain": "beyondpost.co.kr",
-    "thumb": "https://cgeimage.commutil.kr/phpwas/restmb_allidxmake.php?pp=002&idx=999&simg=2026111915202601978046a9e4dd7f220867377.jpg&nmt=30"
-  },
-  {
-    "title": "“BTS 음악에 맞춰 온몸으로 즐긴다”…하이브·넥스, 체감형 리듬게임 출시",
-    "link": "https://www.gpkorea.com/news/articleView.html?idxno=148805",
-    "pubDate": "Thu, 19 Nov 2026 05:40:19 GMT",
-    "source": "지피코리아",
-    "domain": "gpkorea.com",
-    "thumb": "https://cdn.gpkorea.com/news/photo/202611/148805_316461_407.jpg"
   },
   {
     "title": "방탄소년단이 밀렸다고? 'iMGC 어워즈' 대상 향한 빅뱅·NCT127의 치열한 눈치싸움",
@@ -144,27 +176,19 @@
     "thumb": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/11/19/87093808-6d38-4cae-bd0f-7c06e644baa6.jpg"
   },
   {
-    "title": "BTS 뷔 ‘인사하며 출국’[포토엔HD]",
-    "link": "https://m.newsen.com/news_view.php?uid=202611191321093510",
-    "pubDate": "Thu, 19 Nov 2026 04:21:17 GMT",
-    "source": "뉴스엔",
-    "domain": "m.newsen.com",
+    "title": "방탄소년단, 아시아·호주 투어 대장정 돌입",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GVno4eFNrWWtLWVBzelZiWnpWa1pYNTUtX2lEUXlaVnNPQUdfdmxUMEZ1LWpYT29vbUgwUVAwN0FKOEVDY0E0R0tEcWthdFo0MG9jQ21TYU1BT1I0ajBjaTNmNzVhN2J3V2RFZ2tlRjA?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 02:52:08 GMT",
+    "source": "호주 톱뉴스",
+    "domain": "news.google.com",
     "thumb": null
   },
   {
-    "title": "BTS RM이 소장한 유영국 작품까지...‘유영국 캘린더’ 멤버십 500명께 드려요",
-    "link": "https://www.chosun.com/special/2026/11/18/5V63I4RGKVDHBDAPJQSIS6SV2Y/",
-    "pubDate": "Thu, 19 Nov 2026 04:16:21 GMT",
-    "source": "조선일보",
-    "domain": "chosun.com",
-    "thumb": "https://www.chosun.com/resizer/v2/4SFKVEQDC5GQFOXWKARUCW5IGI.jpg?auth=813c65fd1ce47a2cd9cb8e03bc7fe262993d75ba5c8e6dc472c9527354c0f698&amp;width=1200&amp;height=630&amp;smart=true"
-  },
-  {
-    "title": "BTS RM ‘프로페셔널한 리더’[포토엔HD]",
-    "link": "https://m.newsen.com/news_view.php?uid=202611191232083510",
-    "pubDate": "Thu, 19 Nov 2026 03:32:15 GMT",
-    "source": "뉴스엔",
-    "domain": "m.newsen.com",
+    "title": "방탄소년단, 오늘 가오슝서 아시아 투어 시작…9개 도시 26회 공연",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aR1ByMi1KUFg3bmlzdEx0WU0wOVJrN25OWEFvX0VVWVVrWVk2ZHl0Qnp1azNoWFRwNHV5RGFUNVRjc0hvOS15MGVIS1ExMlBoQUhNOVBzZXJabzdVSWZNRmxDQ2tyaGNyanZPaHZ3?oc=5",
+    "pubDate": "Thu, 19 Nov 2026 01:19:07 GMT",
+    "source": "알파경제",
+    "domain": "news.google.com",
     "thumb": null
   },
   {
@@ -184,60 +208,52 @@
     "thumb": "https://pimg.mk.co.kr/news/cms/202611/19/news-p.v1.20261119.2b2e302ef2584db8b7952a1b1aedb12b_R.jpg"
   },
   {
-    "title": "BTS, 가오슝서 ‘아리랑’ 아시아 투어 시작",
-    "link": "https://www.metroseoul.co.kr/article/20261119500051",
-    "pubDate": "Thu, 19 Nov 2026 00:16:58 GMT",
-    "source": "메트로신문",
-    "domain": "metroseoul.co.kr",
-    "thumb": "//cdn.emetro.co.kr/data2/content/image/2026/11/19/.cache/512/20261119500052.jpg"
+    "title": "방탄소년단, 오늘 가오슝서 亞·호주 투어 포문…9개 도시 26회 규모",
+    "link": "https://www.newsis.com/view/NISX20261119_0003874198",
+    "pubDate": "Wed, 18 Nov 2026 23:59:48 GMT",
+    "source": "뉴시스",
+    "domain": "newsis.com",
+    "thumb": "https://img1.newsis.com/2026/11/19/NISI20261119_0002296241_web.jpg"
   },
   {
-    "title": "BTS 넘어 일본 아이돌까지…\"하이브, 현지 엔터사 인수로 사업 확장 기대\"",
-    "link": "https://www.fnnews.com/news/202611190844392698",
-    "pubDate": "Wed, 18 Nov 2026 23:46:21 GMT",
-    "source": "파이낸셜뉴스",
-    "domain": "fnnews.com",
-    "thumb": "https://image.fnnews.com/resource/media/image/2026/11/19/202611190555196535_e.jpg"
+    "title": "방탄소년단, 오늘(19일) 아시아·호주 아미 만난다…총 9개 도시 투어 시작",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV251WmRRQlJTOVVtbVNKOUM3QUJGYWlHVllka3R1VF9xNDlRVnpfTlhPQUR3UEYwSjNEZlVVdE44YnFzRUFJQVpELXZ5cXJYMjluYjlBWkV2SDhSR3BxZHpEbHZMZkExTDlyMnNCWVNfZXZDbV9BVnpTTUllR1JUM3d1dDFici1QbFE?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 23:47:00 GMT",
+    "source": "조선일보",
+    "domain": "news.google.com",
+    "thumb": null
   },
   {
-    "title": "방탄소년단 정국, 2억 스트리밍 곡만 15개…K팝 솔로 최초",
-    "link": "https://sports.donga.com/ent/article/all/20261119/135051538/1",
-    "pubDate": "Wed, 18 Nov 2026 23:04:43 GMT",
-    "source": "스포츠동아",
-    "domain": "sports.donga.com",
-    "thumb": "https://dimg.donga.com/wps/SPORTS/IMAGE/2026/11/19/135051539.1.jpg"
+    "title": "방탄소년단, 가오슝 내셔널 스타디움 뜬다! 오늘(19일) 亞·호주 투어 출격",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80U1g4SldkSkotTWRNa3FqQU5VaE8xNmIxUFlnVmdtbnFTNkwxdjJtQUxYV0xwZ0dwLU5ESEVlcEp3UFZqLVk5RXpsTHFVdVdISmpENV93RzUzdFFNRms3N3Jsby15aUpLYUFXWUE2b2ZVTFp4?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 22:27:11 GMT",
+    "source": "스타뉴스",
+    "domain": "news.google.com",
+    "thumb": null
   },
   {
-    "title": "방탄소년단 ’아리랑’ 34주 연속 빌보드 차트에",
-    "link": "https://www.yonhapnewstv.co.kr/news/MYH20261119055739kfH",
-    "pubDate": "Wed, 18 Nov 2026 20:57:00 GMT",
-    "source": "연합뉴스TV",
-    "domain": "yonhapnewstv.co.kr",
-    "thumb": "https://media.yonhapnewstv.co.kr/article/MYH/20261118/MYH20261119055739kfH.jpg"
+    "title": "신호등까지 ‘ARMY STOP’···방탄소년단 맞는 가오슝",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DNHB1TktXQm53cUZxX184dlUwekpqMk55RThodFZJNHJXZWoyM29RU2I2NzlmdFlnRWo3cHBuRE5fQlhJT0NwQ1k1MnpBYUdsMUhPNGVwZXpoQnRKQ1HSAWNBVV95cUxQWk11YW9YdnBrOXRRUVNLZzlFSW5nZFpzemJxZi1XcTZONTd1anMxTE05MWpMbmx0S0dqTjBsS2s5S1hrNXJ3cE9uVnRIbHRidU15WklVdjNtWVl1U1VFcDhBU3M?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 22:19:00 GMT",
+    "source": "스포츠경향",
+    "domain": "news.google.com",
+    "thumb": null
   },
   {
-    "title": "싱가포르 센토사, 'BTS 더 시티 아리랑'으로 연말 글로벌 팬 축제 열어",
-    "link": "https://www.dailybizon.com/news/articleView.html?idxno=72252",
-    "pubDate": "Wed, 18 Nov 2026 11:32:36 GMT",
-    "source": "데일리비즈온",
-    "domain": "dailybizon.com",
-    "thumb": "https://cdn.dailybizon.com/news/photo/202611/72252_77414_2945.jpeg"
+    "title": "방탄소년단, 아시아·호주 투어 돌입…가오슝·싱가포르는 벌써부터 '들썩'",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82cWlTc0UyaVJBd2g1ZXFyb3dfX1ZHbVBTVVdPbTFPX0ZnMko4S2EtY2Q3a09MdWZqcGk2S3o3V3kxZkdtX05md3JUaEFGMXM0dkE5c2FqenVWWG5LOEtNSw?oc=5",
+    "pubDate": "Wed, 18 Nov 2026 22:18:00 GMT",
+    "source": "iMBC 연예",
+    "domain": "news.google.com",
+    "thumb": null
   },
   {
-    "title": "BTS '가오슝에서 만나요!'",
-    "link": "https://www.mt.co.kr/photo/202611181525064196",
-    "pubDate": "Wed, 18 Nov 2026 06:25:06 GMT",
-    "source": "머니투데이",
-    "domain": "mt.co.kr",
-    "thumb": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/11/2026111815212092517_1.jpg"
-  },
-  {
-    "title": "아미에게 달콤한 인사 건네는 BTS 맏형 진 [O! STAR 숏폼]",
-    "link": "https://biz.chosun.com/entertainment/enter_general/2026/11/18/MY2TOMBVMY3WENLCMZSDENZXMY/",
-    "pubDate": "Wed, 18 Nov 2026 05:14:00 GMT",
+    "title": "방탄소년단, 바쁜 출국길 팬사랑도 월드클래스급 (포토)",
+    "link": "https://biz.chosun.com/entertainment/enter_general/2026/11/18/GJQTONJZGQZGMMLGGRSTAZBXHE/",
+    "pubDate": "Wed, 18 Nov 2026 08:21:00 GMT",
     "source": "Chosunbiz",
     "domain": "biz.chosun.com",
-    "thumb": "https://biz.chosun.com/resizer/v2/MNRDENRZGQ3DSMDEHA3TAMJVG4.jpg?auth=a3f1e318fccab2f1ed458113a01b7a379e01b4e8cb8d2815151d3ac8175883db&amp;width=572&amp;height=300&amp;smart=true"
+    "thumb": "https://biz.chosun.com/resizer/v2/GU3GCMJQGE2TEMRSMM2DAMBVGE.jpg?auth=023f5472a1a188d29dddf24780cd6fb31b1cf40782b9d1075d9e328a0645e427&amp;width=900&amp;height=472&amp;smart=true"
   },
   {
     "title": "공항 환호성으로 채우는 BTS [O! STAR 숏폼]",
@@ -248,14 +264,6 @@
     "thumb": "https://www.chosun.com/resizer/v2/MQ4WINTDGNTDMMRRGMZDSOLDGU.jpg?auth=6b5457889ead261c3e35ef0ec51cc0188dd0a16ab7b9e355646435366bf50a45&amp;width=530&amp;height=278&amp;smart=true"
   },
   {
-    "title": "BTS '가오슝에서 만나요!' [★영상]",
-    "link": "https://www.starnewskorea.com/music/2026/11/18/2026111813375551884",
-    "pubDate": "Wed, 18 Nov 2026 04:39:01 GMT",
-    "source": "스타뉴스",
-    "domain": "starnewskorea.com",
-    "thumb": "https://image.starnewskorea.com/21/2026/11/2026111813375551884_1.jpg"
-  },
-  {
     "title": "BTS, 또 품절대란 일으켰다…진이 입은 칠레 전통의상 주문 쇄도",
     "link": "https://www.segye.com/newsView/20261118504934",
     "pubDate": "Wed, 18 Nov 2026 04:19:14 GMT",
@@ -264,59 +272,51 @@
     "thumb": "https://www.segye.com/content/image/2026/11/18/20261118508047.jpg"
   },
   {
-    "title": "BTS 지민, 햇살 왕자님",
-    "link": "https://www.news1.kr/photos/8220195",
-    "pubDate": "Wed, 18 Nov 2026 04:17:46 GMT",
-    "source": "뉴스1",
-    "domain": "news1.kr",
-    "thumb": "https://image.news1.kr/system/photos/2026/11/18/8220195/high.jpg"
+    "title": "방탄소년단·스키즈·코르티스…제 이야기 만드는 아이돌, K-팝 판 바꿨다",
+    "link": "https://www.newsis.com/view/NISX20261118_0003872338",
+    "pubDate": "Tue, 17 Nov 2026 22:10:41 GMT",
+    "source": "뉴시스",
+    "domain": "newsis.com",
+    "thumb": "https://img1.newsis.com/2026/11/18/NISI20261118_0002294865_web.jpg"
   },
   {
-    "title": "BTS 부산 공연이 일깨운 부당거래",
-    "link": "https://www.jayupress.com/news/articleView.html?idxno=57028",
-    "pubDate": "Wed, 18 Nov 2026 03:22:00 GMT",
-    "source": "자유일보",
-    "domain": "jayupress.com",
-    "thumb": "https://cdn.jayupress.com/news/photo/202611/57028_73998_2418.jpg"
+    "title": "방탄소년단 ‘아리랑’으로 물드는 ‘12월의 싱가포르’",
+    "link": "https://www.sedaily.com/article/20115395",
+    "pubDate": "Tue, 17 Nov 2026 22:00:00 GMT",
+    "source": "서울경제",
+    "domain": "sedaily.com",
+    "thumb": "https://wimg.sedaily.com/news/cms/2026/11/17/news-p.v1.20261117.02a02f70c43641ba9ffa38a7e0e9137d_Z1.jpg"
   },
   {
-    "title": "BTS 보이콧한 그래미, 제니·아이브·키키 노미네이트",
-    "link": "https://www.ddaily.co.kr/page/view/2026111810123900633",
-    "pubDate": "Wed, 18 Nov 2026 02:43:15 GMT",
-    "source": "디지털데일리",
-    "domain": "ddaily.co.kr",
-    "thumb": "/photos/2026/11/18/2026111810101233111_l.jpg"
-  },
-  {
-    "title": "BTS 공연 ‘글로벌 대박’ 쳤는데…엔터 4사 목표가, JYP Ent.만 올라",
-    "link": "https://www.mk.co.kr/news/stock/12211159",
-    "pubDate": "Tue, 17 Nov 2026 05:21:08 GMT",
-    "source": "매일경제",
-    "domain": "mk.co.kr",
-    "thumb": "https://pimg.mk.co.kr/news/cms/202611/17/news-p.v1.20261117.e6b84d390c8b42a1bd248f3fdc8f2a11_R.jpg"
-  },
-  {
-    "title": "BTS 공연 같은 ’바가지 숙박’ 막는다…최대 200% 배상",
-    "link": "https://www.yonhapnewstv.co.kr/news/MYH20261117054417uTP",
-    "pubDate": "Mon, 16 Nov 2026 20:44:00 GMT",
+    "title": "방탄소년단, 올해의 앨범·아티스트…MMA 6관왕",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lUEtCVDl4S1RpNWNEQ2RoWElScTN0eURreTFQZkR6WkV1WUJOLUU2bVVrdUpEbV9KeWU1MFloTjdVTTF0c3VkZFFqNnZNbTJLa3NfQ1F0VzVjTnJqWktfbHpDendCeXM?oc=5",
+    "pubDate": "Mon, 16 Nov 2026 20:33:00 GMT",
     "source": "연합뉴스TV",
-    "domain": "yonhapnewstv.co.kr",
-    "thumb": "https://media.yonhapnewstv.co.kr/article/MYH/20261116/MYH20261117054417uTP.jpg"
+    "domain": "news.google.com",
+    "thumb": null
   },
   {
-    "title": "BTS 뷔가 찾은 그곳까지! '해방촌 맛집' 5",
-    "link": "https://www.esquirekorea.co.kr/article/1913135",
-    "pubDate": "Mon, 16 Nov 2026 09:12:24 GMT",
-    "source": "에스콰이어 코리아",
-    "domain": "esquirekorea.co.kr",
-    "thumb": "https://www.esquirekorea.co.kr/resources/online/thumbnail/hf/2026/11/16/bcce32f3-8f8c-4c2e-b98b-de3e02a5b985.jpg"
+    "title": "BTS ‘스윔’ 표절 소송 취하…미 법원 판단없이 4개월 만에 마무리",
+    "link": "https://www.hani.co.kr/arti/culture/music/1285910.html",
+    "pubDate": "Thu, 05 Nov 2026 08:00:00 GMT",
+    "source": "한겨레",
+    "domain": "hani.co.kr",
+    "thumb": "https://flexible.img.hani.co.kr/flexible/normal/670/402/imgdb/original/2026/1105/20261105502014.webp"
   },
   {
-    "title": "BTS 공연 ‘바가지 숙박’ 막는다⋯예약 일방 취소시 2배 배상",
-    "link": "https://www.kmib.co.kr/article/20261116500246",
-    "pubDate": "Mon, 16 Nov 2026 01:57:41 GMT",
-    "source": "국민일보",
-    "domain": "kmib.co.kr",
-    "thumb": "https://3f3bm4nnaefgwrtq8izg16625.edge.naverncp.com/data2/content/image/2026/11/16/.cache/512/20261116500239.png"
+    "title": "BTS '스윔' 표절 의혹 美 소송 마무리…4개월 만에 취하",
+    "link": "https://www.yna.co.kr/view/AKR20261105090100005",
+    "pubDate": "Thu, 05 Nov 2026 08:00:00 GMT",
+    "source": "연합뉴스",
+    "domain": "yna.co.kr",
+    "thumb": "https://img1.yna.co.kr/etc/inner/KR/2026/11/05/AKR20261105090100005_01_i_P4.jpg"
+  },
+  {
+    "title": "“함께할 시간 365일 남아”…BTS 지민, 안타까운 소식 전해졌다",
+    "link": "https://www.seoul.co.kr/news/entertainments/celebrity/2026/11/03/20261103500087",
+    "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
+    "source": "서울신문",
+    "domain": "seoul.co.kr",
+    "thumb": "https://img.seoul.co.kr/img/upload/2026/11/03/SSC_20261103105001.png.webp"
   }
 ]
