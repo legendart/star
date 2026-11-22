@@ -1,43 +1,219 @@
 [
   {
-    "title": "방탄소년단, 오지도 않고 대상 2개···‘MAMA’ 5관왕",
-    "link": "https://sports.khan.co.kr/article/202611220818003",
-    "pubDate": "Sat, 21 Nov 2026 23:18:00 GMT",
+    "title": "방탄소년단 日 누적 스트리밍 100억 회 돌파, 해외 아티스트 최초 대기록",
+    "link": "https://www.newsen.com/news_view.php?uid=202611221021161210&code=100100",
+    "pubDate": "Sun, 22 Nov 2026 06:35:11 GMT",
+    "source": "뉴스엔",
+    "domain": "newsen.com",
+    "thumb": "https://photo.newsen.com/news_photo/2026/11/22/202611221021161210_1.jpg"
+  },
+  {
+    "title": "\"암표 팔려면\"... BTS 공연 입장권 팔찌 100개 훔친 중국인 집행유예",
+    "link": "https://www.hankookilbo.com/news/article/A2026112214340001230",
+    "pubDate": "Sun, 22 Nov 2026 06:13:00 GMT",
+    "source": "한국일보",
+    "domain": "hankookilbo.com",
+    "thumb": "https://newsimg.hankookilbo.com/2026/11/22/5ddc17e1-ca81-4976-9502-e61a9a311edf.jpg"
+  },
+  {
+    "title": "BTS 암표 판매 위해 팔찌 100개 훔친 중국인 징역형 집행유예",
+    "link": "https://www.joongang.co.kr/article/25480777",
+    "pubDate": "Sun, 22 Nov 2026 04:17:45 GMT",
+    "source": "중앙일보",
+    "domain": "joongang.co.kr",
+    "thumb": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/22/1d5db9d0-9f19-43c5-9e0f-a89f03269aef.jpg"
+  },
+  {
+    "title": "암표 팔려고 BTS 부산 공연 입장 팔찌 훔친 중국인 집유",
+    "link": "https://www.seoul.co.kr/news/society/2026/11/22/20261122500044",
+    "pubDate": "Sun, 22 Nov 2026 04:11:21 GMT",
+    "source": "서울신문",
+    "domain": "seoul.co.kr",
+    "thumb": "https://img.seoul.co.kr//img/upload/2026/11/22/SSC_20261122131120_O2.jpg"
+  },
+  {
+    "title": "BTS 공연 입장 팔찌 100개 훔친 중국인 집행유예",
+    "link": "https://www.nocutnews.co.kr/news/6610619",
+    "pubDate": "Sun, 22 Nov 2026 04:08:29 GMT",
+    "source": "노컷뉴스",
+    "domain": "nocutnews.co.kr",
+    "thumb": "https://file2.nocutnews.co.kr/newsroom/image/2026/11/22/202611221219304946_0.jpg"
+  },
+  {
+    "title": "BTS, '2026 마마 어워즈' 5관왕…통산 대상 24개",
+    "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086259",
+    "pubDate": "Sun, 22 Nov 2026 03:59:58 GMT",
+    "source": "신아일보",
+    "domain": "shinailbo.co.kr",
+    "thumb": "https://cdn.shinailbo.co.kr/news/photo/202611/5086259_2083738_594.jpg"
+  },
+  {
+    "title": "방탄소년단·코르티스, ‘2026 마마 어워즈’ 대상…하이브 4개 대상 석권",
+    "link": "https://www.koreadaily.com/article/20261121194159611",
+    "pubDate": "Sun, 22 Nov 2026 03:41:00 GMT",
+    "source": "미주중앙일보",
+    "domain": "koreadaily.com",
+    "thumb": "https://www.koreadaily.com/data/photo/thumbnail/2026/11/22/80ee0a01-c386-4ff0-9174-e5c6c51c318f.jpg"
+  },
+  {
+    "title": "BTS가 휩쓸고 빅뱅이 빛냈다…세대 초월한 \"2026 마마 어워즈\"",
+    "link": "https://www.sportsworldi.com/newsView/20261122505470",
+    "pubDate": "Sun, 22 Nov 2026 03:35:23 GMT",
+    "source": "스포츠월드",
+    "domain": "sportsworldi.com",
+    "thumb": "https://www.sportsworldi.com/content/image/2026/11/22/20261122505467.jpg"
+  },
+  {
+    "title": "Korean comment on a video by Jungkook of BTS··· the ‘president-level’ commenter is Tsai Ing-wen",
+    "link": "https://sports.khan.co.kr/en/article/202611221221007",
+    "pubDate": "Sun, 22 Nov 2026 03:21:00 GMT",
+    "source": "스포츠경향",
+    "domain": "sports.khan.co.kr",
+    "thumb": "https://images.khan.co.kr/article/2026/11/22/news-p.v1.20261122.42c18805461345359bb3a7d448a154f3_P1.jpg"
+  },
+  {
+    "title": "BTS 정국 영상에 한국어 댓글···‘총통급’ 주인공은 차이잉원",
+    "link": "https://sports.khan.co.kr/article/202611221219013",
+    "pubDate": "Sun, 22 Nov 2026 03:19:00 GMT",
+    "source": "스포츠경향",
+    "domain": "sports.khan.co.kr",
+    "thumb": "https://images.khan.co.kr/article/2026/11/22/news-p.v1.20261122.42c18805461345359bb3a7d448a154f3_P1.jpg"
+  },
+  {
+    "title": "하이브, '마마' 대상 싹쓸이…BTS·코르티스·엔하이픈 정상, 빅뱅은 20년 저력",
+    "link": "https://www.chosun.com/entertainments/music/2026/11/22/G43DMNDEGVQTOYZQHAZTOZBWMQ/",
+    "pubDate": "Sun, 22 Nov 2026 02:29:00 GMT",
+    "source": "조선일보",
+    "domain": "chosun.com",
+    "thumb": "https://www.chosun.com/resizer/v2/GY4WMN3EG44DCYLBMMYGINRTGQ.jpg?auth=02a43b3f9d825258f7b0aa4190d8b441fc636255d9343dc2341883d9efadd143&amp;width=700&amp;height=367&amp;smart=true"
+  },
+  {
+    "title": "빅뱅 20주년에 BTS 2관왕까지…‘2026 MAMA AWARDS’ 오사카 달궜다",
+    "link": "https://www.etoday.co.kr/news/view/2651303",
+    "pubDate": "Sun, 22 Nov 2026 02:14:00 GMT",
+    "source": "이투데이",
+    "domain": "etoday.co.kr",
+    "thumb": "https://img.etoday.co.kr/pto_db/2026/11/20261122111352_2421519_1199_799.jpg"
+  },
+  {
+    "title": "BTS 부산 공연장서 입장권 팔찌 100개 훔친 중국인",
+    "link": "https://www.chosun.com/national/regional/2026/11/22/5NS7YOHQ7VBPZOYD2PQXOMUDXU/",
+    "pubDate": "Sun, 22 Nov 2026 02:11:00 GMT",
+    "source": "조선일보",
+    "domain": "chosun.com",
+    "thumb": "https://www.chosun.com/resizer/v2/GA2DKMZTGYYDEZRXMNRTQNRVG4.jpg?auth=aa0f6965d8a66048f264dd9cb15489c824ce526efb2d07c38f5c51460cdaeab8&amp;width=1200&amp;height=630&amp;smart=true"
+  },
+  {
+    "title": "‘MAMA’ 대상 36개 중 30개···BTS부터 코르티스까지 하이브 올해도 싹쓸이 [가요판]",
+    "link": "https://sports.khan.co.kr/article/202611221108003/?utm_source=khan_rss&utm_medium=rss&utm_campaign=news",
+    "pubDate": "Sun, 22 Nov 2026 02:08:00 GMT",
+    "source": "스포츠경향",
+    "domain": "sports.khan.co.kr",
+    "thumb": "https://images.khan.co.kr/article/2026/11/22/news-p.v1.20261122.a95156db8cd34353b31e39fe490bfa39_P1.jpg"
+  },
+  {
+    "title": "한남동 빌딩 매입한 BTS 진, 백종원 합작 쇼룸 들어서나",
+    "link": "https://www.christiandaily.co.kr/news/167790",
+    "pubDate": "Sun, 22 Nov 2026 01:36:50 GMT",
+    "source": "기독일보",
+    "domain": "christiandaily.co.kr",
+    "thumb": "https://images.christiandaily.co.kr/data/images/full/155689/image.jpg"
+  },
+  {
+    "title": "“돈 된다니까 중국인 암표상까지”…BTS 공연 팔찌 100개 훔친 일당 집유",
+    "link": "https://www.ngonews.kr/news/articleView.html?idxno=243821",
+    "pubDate": "Sun, 22 Nov 2026 01:34:31 GMT",
+    "source": "한국NGO신문",
+    "domain": "ngonews.kr",
+    "thumb": "https://cdn.ngonews.kr/news/photo/202611/243821_249258_3418.jpg"
+  },
+  {
+    "title": "BTS 대상 2개·코르티스 첫 대상…MAMA 빛낸 신구 K팝",
+    "link": "https://www.seoul.co.kr/news/life/pop-culture/2026/11/22/20261122500018",
+    "pubDate": "Sun, 22 Nov 2026 01:03:35 GMT",
+    "source": "서울신문",
+    "domain": "seoul.co.kr",
+    "thumb": "https://img.seoul.co.kr//img/upload/2026/11/22/SSC_20261122100315_O2.jpg"
+  },
+  {
+    "title": "방탄소년단, ‘2026 MAMA’ 대상 2개 포함 5관왕..통산 대상 24개 차지",
+    "link": "http://breaknews.com/1252904",
+    "pubDate": "Sun, 22 Nov 2026 01:00:00 GMT",
+    "source": "브레이크뉴스",
+    "domain": "breaknews.com",
+    "thumb": "https://www.breaknews.com/data/breaknews_com/bigimg/2026112201359627.jpg"
+  },
+  {
+    "title": "‘MAMA’ A festival of 90,000···BTS claims two grand prizes, Cortis ‘Song of the Year’",
+    "link": "https://sports.khan.co.kr/en/article/202611220952007",
+    "pubDate": "Sun, 22 Nov 2026 00:52:00 GMT",
+    "source": "스포츠경향",
+    "domain": "sports.khan.co.kr",
+    "thumb": "https://images.khan.co.kr/article/2026/11/22/news-p.v1.20261122.dee011d7653f4437a1c84da993365a5b_P1.jpg"
+  },
+  {
+    "title": "BTS 부산 공연장서 입장권 팔찌 100개 ‘슬쩍’···“바닥에 떨어진 것 주웠을 뿐” 발뺌한 중국인 집행유예",
+    "link": "https://www.khan.co.kr/article/202611220943001",
+    "pubDate": "Sun, 22 Nov 2026 00:43:00 GMT",
+    "source": "경향신문",
+    "domain": "khan.co.kr",
+    "thumb": "https://img.khan.co.kr/news/2026/11/22/news-p.v1.20261122.bf9597ba5d06423c9e776fdd13d54f61_P1.jpg"
+  },
+  {
+    "title": "BTS 공연 입장권 100개 훔친 중국인 징역형",
+    "link": "https://www.ikbc.co.kr/article/view/kbc202611220010",
+    "pubDate": "Sun, 22 Nov 2026 00:40:36 GMT",
+    "source": "KBC광주방송",
+    "domain": "ikbc.co.kr",
+    "thumb": "https://www.ikbc.co.kr/data/kbc/image/2026/11/22/kbc202611220013.jpg"
+  },
+  {
+    "title": "암표 팔려고 한국까지 왔다…BTS 입장권 100개 훔친 중국인",
+    "link": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611220017",
+    "pubDate": "Sun, 22 Nov 2026 00:26:00 GMT",
+    "source": "한국경제TV",
+    "domain": "wowtv.co.kr",
+    "thumb": "https://img.wowtv.co.kr/wowtv_news/dnrs/20221016/B20221016143800737.jpg"
+  },
+  {
+    "title": "BTS는 건재했고, 코르티스는 돋보였다…MAMA ‘3개 대상’ 합작",
+    "link": "https://www.munhwa.com/article/11633063",
+    "pubDate": "Sun, 22 Nov 2026 00:16:38 GMT",
+    "source": "문화일보",
+    "domain": "munhwa.com",
+    "thumb": "https://wimg.munhwa.com/news/cms/2026/11/22/news-p.v1.20261122.c218e56cbdb94450a2b78ded500f9220_R.jpg"
+  },
+  {
+    "title": "BTS 콘서트 현장서 입장권 팔찌 100장 훔친 중국인 집유",
+    "link": "https://www.newsis.com/view/NISX20261120_0003877149",
+    "pubDate": "Sun, 22 Nov 2026 00:00:00 GMT",
+    "source": "뉴시스",
+    "domain": "newsis.com",
+    "thumb": "https://img1.newsis.com/2024/01/05/NISI20240105_0001452802_web.jpg"
+  },
+  {
+    "title": "\"암표로 팔려고\" BTS 콘서트 입장권 100장 훔친 중국인…징역형 집유",
+    "link": "https://www.news1.kr/local/busan-gyeongnam/6361349",
+    "pubDate": "Sun, 22 Nov 2026 00:00:00 GMT",
+    "source": "뉴스1",
+    "domain": "news1.kr",
+    "thumb": "https://i3n.news1.kr/system/photos/2026/6/13/7957521/high.jpg"
+  },
+  {
+    "title": "BTS take two grand prizes without even attending···five wins at ‘MAMA’",
+    "link": "https://sports.khan.co.kr/en/article/202611220819007",
+    "pubDate": "Sat, 21 Nov 2026 23:19:00 GMT",
     "source": "스포츠경향",
     "domain": "sports.khan.co.kr",
     "thumb": "https://images.khan.co.kr/article/2026/11/22/news-p.v1.20261122.89e9e6e0e7514187a497c2479399f806_P1.jpg"
   },
   {
-    "title": "BTS Community Post - Dear Taehyung~ 가오슝을",
-    "link": "https://weverse.io/bts/fanpost/3-244094226",
-    "pubDate": "Sat, 21 Nov 2026 23:15:36 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
-  },
-  {
-    "title": "방탄소년단 정국, 틱톡 팔로워 3500만 돌파",
-    "link": "https://www.starnewskorea.com/music/2026/11/22/2026112207445450397",
-    "pubDate": "Sat, 21 Nov 2026 22:45:50 GMT",
-    "source": "스타뉴스",
-    "domain": "starnewskorea.com",
-    "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=1614,fit=cover,q=high,sharpen=2/21/2026/11/2026112207445450397_1.jpg"
-  },
-  {
-    "title": "\"여러분은 사랑받아 마땅\" 방탄소년단 지민, '진심의 메시지'..아미에 전한 따뜻한 위로와 감동",
-    "link": "https://www.starnewskorea.com/music/2026/11/22/2026112207410285179",
-    "pubDate": "Sat, 21 Nov 2026 22:43:17 GMT",
-    "source": "스타뉴스",
-    "domain": "starnewskorea.com",
-    "thumb": "https://image.starnewskorea.com/cdn-cgi/image/f=auto,w=1200,h=1600,fit=cover,q=high,sharpen=2/21/2026/11/2026112207410285179_1.jpg"
-  },
-  {
-    "title": "방탄소년단 진, 케이돌 12월 생일랭킹 1위..주간랭킹 2주 연속 'No.1'",
-    "link": "https://www.starnewskorea.com/music/2026/11/22/2026112207081523991",
-    "pubDate": "Sat, 21 Nov 2026 22:11:10 GMT",
-    "source": "스타뉴스",
-    "domain": "starnewskorea.com",
-    "thumb": "https://image.starnewskorea.com/21/2026/11/2026112207081523991_1.jpg"
+    "title": "BTS 정국, 틱톡 팔로워 3500만 돌파…영상 7편 1억뷰 기록",
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16282655",
+    "pubDate": "Sat, 21 Nov 2026 22:41:03 GMT",
+    "source": "톱스타뉴스",
+    "domain": "topstarnews.net",
+    "thumb": "https://cdn.topstarnews.net/news/photo/202611/16282655_2095385_4037_crop.jpg"
   },
   {
     "title": "BTS Community Post - 가오슝 음식 추천 !!!!!! #김",
@@ -48,44 +224,12 @@
     "thumb": null
   },
   {
-    "title": "BTSコミュニティの投稿 - Dear Taehyung~ 가오슝을 떠나기 전",
-    "link": "https://weverse.io/bts/fanpost/3-244094226?hl=ja",
-    "pubDate": "Sat, 21 Nov 2026 17:34:52 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
-  },
-  {
-    "title": "BTSコミュニティの投稿 - 가오슝 음식 추천 !!!!!! #김태형 #가오",
-    "link": "https://weverse.io/bts/fanpost/4-244086645?hl=ja",
-    "pubDate": "Sat, 21 Nov 2026 17:34:39 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
-  },
-  {
-    "title": "BTS가 2026 MAMA 어워드에서 큰 상을 수상했습니다.",
-    "link": "https://www.vietnam.vn/ko/bts-thang-lon-tai-le-trao-giai-mama-2026",
-    "pubDate": "Sat, 21 Nov 2026 16:42:28 GMT",
-    "source": "Vietnam.vn",
-    "domain": "vietnam.vn",
-    "thumb": "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/21/1795271223884_bts-21112026-jpg.webp"
-  },
-  {
     "title": "대상 4개 모두 하이브 품으로…BTS 5관왕·코르티스 1년 3개월 만에 대상",
     "link": "https://biz.heraldcorp.com/article/10944842",
     "pubDate": "Sat, 21 Nov 2026 16:01:14 GMT",
     "source": "헤럴드경제",
     "domain": "biz.heraldcorp.com",
     "thumb": "https://wimg.heraldcorp.com/news/cms/2026/11/22/news-p.v1.20261122.eff6f92d18cb476398033490579e2df3_P1.jpg"
-  },
-  {
-    "title": "BTS 위버스 LIVE - V - 뷔",
-    "link": "https://weverse.io/bts/live/1-181708028?hl=ko",
-    "pubDate": "Sat, 21 Nov 2026 15:01:20 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
   },
   {
     "title": "BTS 진, 96억원대 한남동 빌딩 매입…'지니빌딩' 이름 붙여",
@@ -104,14 +248,6 @@
     "thumb": "https://www.harpersbazaar.co.kr/resources/online/thumbnail/hf/2026/11/21/35fe177c-84f9-4bed-822c-69ade2f51759.jpg"
   },
   {
-    "title": "BTS의 귀환·코르티스의 돌풍·엔하이픈의 팬덤…‘2026 MAMA’가 보여준 K팝 권력 지형의 변화",
-    "link": "https://www.jnmnews.com/news/article.html?no=678851",
-    "pubDate": "Sat, 21 Nov 2026 13:10:15 GMT",
-    "source": "제이앤엠뉴스",
-    "domain": "jnmnews.com",
-    "thumb": "https://www.jnmnews.com/data/photos/20261147/art_17952666089079_fd7af7.jpg"
-  },
-  {
     "title": "‘2026 마마’ BTS·코르티스·엔하이픈 대상…빅뱅 20주년 피날레",
     "link": "https://www.kukinews.com/article/view/kuk202611210032",
     "pubDate": "Sat, 21 Nov 2026 12:44:32 GMT",
@@ -128,20 +264,12 @@
     "thumb": "https://cdn.mdtoday.co.kr/news/photo/202611/626829_336413_3354.jpg"
   },
   {
-    "title": "BTS·코르티스 '2026 마마' 둘째 날 대상…3관왕 빅뱅, 지드래곤 긴 생머리 파격 신곡 무대 최초 공개 [종합]",
-    "link": "http://www.k-trendynews.com/news/articleView.html?idxno=207153",
-    "pubDate": "Sat, 21 Nov 2026 12:40:27 GMT",
-    "source": "케이트렌디뉴스",
-    "domain": "k-trendynews.com",
-    "thumb": "https://cdn.k-trendynews.com/news/photo/202611/207153_358908_3010.png"
-  },
-  {
-    "title": "BTS·코르티스 마마 대상…빅뱅 3관왕 달성 : 연예",
-    "link": "https://news.jkn.co.kr/post/1112999",
-    "pubDate": "Sat, 21 Nov 2026 11:24:40 GMT",
-    "source": "재경일보",
-    "domain": "news.jkn.co.kr",
-    "thumb": "https://images.jkn.co.kr/data/images/full/112/42/1124254.jpg?v=1795260280&amp;width=1200&amp;height=630"
+    "title": "방탄소년단, 이틀 연속 '마마' 대상…코르티스 '레드레드' 올해의 노래",
+    "link": "https://www.dailian.co.kr/news/view/1718039/%EB%B0%A9%ED%83%84%EC%86%8C%EB%85%84%EB%8B%A8-%EC%9D%B4%ED%8B%80-%EC%97%B0%EC%86%8D-%EB%A7%88%EB%A7%88-%EB%8C%80%EC%83%81%EC%BD%94%EB%A5%B4%ED%8B%B0-2026",
+    "pubDate": "Sat, 21 Nov 2026 12:06:00 GMT",
+    "source": "데일리안",
+    "domain": "dailian.co.kr",
+    "thumb": "https://cdnimage.dailian.co.kr/news/202611/news_1795258466948_1718039_m_1.jpg"
   },
   {
     "title": "BTS·코르티스, 마마 둘째날 대상…3관왕 빅뱅, 신곡 무대 첫선",
@@ -160,78 +288,6 @@
     "thumb": "https://img.hankyung.com/photo/202611/01.46502279.1.jpg"
   },
   {
-    "title": "‘2관왕’ BTS, 왕좌 굳건→대상 탄 코르티스, 새 역사 썼다 [2026 MAMA 종합]",
-    "link": "https://www.mk.co.kr/news/musics/12215316",
-    "pubDate": "Sat, 21 Nov 2026 09:51:12 GMT",
-    "source": "매일경제",
-    "domain": "mk.co.kr",
-    "thumb": "https://pimg.mk.co.kr/news/cms/202611/21/news-p.v1.20261121.1b175dbf3fb44324bd10d2a04c6d2a84_R.jpg"
-  },
-  {
-    "title": "BTS 5관왕→코르티스 1년 만에 첫 대상…빅뱅 20주년까지 빛난 '2026 MAMA'[종합]",
-    "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1021149",
-    "pubDate": "Sat, 21 Nov 2026 09:44:19 GMT",
-    "source": "SPOTV NEWS",
-    "domain": "spotvnews.co.kr",
-    "thumb": "https://7lgigmttrjuyfehsudec15072.edge.naverncp.com/news/photo/202611/1021149_2044811_8213.jpg"
-  },
-  {
-    "title": "코르티스·BTS·엔하이픈, 감격의 대상…BTS는 5관왕 등극(종합) [2026 MAMA]",
-    "link": "https://www.news1.kr/entertain/music/6361689",
-    "pubDate": "Sat, 21 Nov 2026 09:40:15 GMT",
-    "source": "뉴스1",
-    "domain": "news1.kr",
-    "thumb": "https://i3n.news1.kr/system/photos/2026/11/21/8226202/high.jpg"
-  },
-  {
-    "title": "BTSㆍ코르티스, 나란히 '2026 마마' 대상⋯빅뱅 신곡 무대 최초 공개 [종합]",
-    "link": "https://www.etoday.co.kr/news/view/2651225",
-    "pubDate": "Sat, 21 Nov 2026 09:38:00 GMT",
-    "source": "이투데이",
-    "domain": "etoday.co.kr",
-    "thumb": "https://img.etoday.co.kr/pto_db/2026/11/20261121182525_2421370_1199_845.jpg"
-  },
-  {
-    "title": "BTS, 이틀 연속 ‘마마 어워즈’ 대상… 코르티스 첫 대상에 울컥(종합)",
-    "link": "https://www.edaily.co.kr/News/Read?newsId=02132006645648016&mediaCodeNo=257",
-    "pubDate": "Sat, 21 Nov 2026 09:16:30 GMT",
-    "source": "이데일리",
-    "domain": "edaily.co.kr",
-    "thumb": "https://image.edaily.co.kr/images/Photo/files/NP/S/2026/11/PS26112100436.jpg"
-  },
-  {
-    "title": "눈물 쏟은 엔하이픈·10년 만에 정상 탈환한 BTS…'2026 마마 어워즈' 첫날 뒤집은 레전드 순간 [종합]",
-    "link": "http://www.k-trendynews.com/news/articleView.html?idxno=207119",
-    "pubDate": "Sat, 21 Nov 2026 08:54:53 GMT",
-    "source": "케이트렌디뉴스",
-    "domain": "k-trendynews.com",
-    "thumb": "https://cdn.k-trendynews.com/news/photo/202611/207119_358806_120.png"
-  },
-  {
-    "title": "엔하이픈·BTS, ‘2026 마마’ 첫날 대상…나란히 3관왕",
-    "link": "https://www.addnewsin.com/news/articleView.html?idxno=63928",
-    "pubDate": "Sat, 21 Nov 2026 02:20:00 GMT",
-    "source": "애드뉴스인천",
-    "domain": "addnewsin.com",
-    "thumb": "https://cdn.addnewsin.com/news/photo/202611/63928_18452_414.jpg"
-  },
-  {
-    "title": "'치명+달콤' 방탄소년단 지민, 가오슝 내셔널 스타디움 빛낸 '초신성'",
-    "link": "https://www.starnewskorea.com/music/2026/11/21/2026112107505369794",
-    "pubDate": "Fri, 20 Nov 2026 22:54:06 GMT",
-    "source": "스타뉴스",
-    "domain": "starnewskorea.com",
-    "thumb": "https://image.starnewskorea.com/21/2026/11/2026112107505369794_1.jpg"
-  },
-  {
-    "title": "BTS Community Post - 아미 여러분, 오늘 마마에서 여러분",
-    "link": "https://weverse.io/bts/artist/2-181686651",
-    "pubDate": "Fri, 20 Nov 2026 18:35:50 GMT",
-    "source": "Weverse",
-    "domain": "weverse.io",
-    "thumb": null
-  },
-  {
     "title": "오사카 달군 '2026 마마 어워즈'…첫날 대상에 BTS·엔하이픈",
     "link": "https://www.yna.co.kr/view/AKR20261120179200005",
     "pubDate": "Fri, 20 Nov 2026 14:10:04 GMT",
@@ -240,60 +296,12 @@
     "thumb": "https://img9.yna.co.kr/etc/inner/KR/2026/11/20/AKR20261120179200005_06_i_P4.jpg"
   },
   {
-    "title": "천하람 의원 \"마이 케이팝 스타에서 BTS 넘어설 스타 많이 나올 것\"",
-    "link": "https://www.newspim.com/news/view/20261120001087",
-    "pubDate": "Fri, 20 Nov 2026 10:30:00 GMT",
-    "source": "뉴스핌",
-    "domain": "newspim.com",
-    "thumb": "https://img.newspim.com/news/2026/11/20/261120192941476_275_tc.jpg"
-  },
-  {
-    "title": "BTS, 日서 100억 번 재생됐다… 해외 아티스트 최초 기록",
-    "link": "https://www.donga.com/news/Culture/article/all/20261120/135062741/1",
-    "pubDate": "Fri, 20 Nov 2026 08:44:00 GMT",
-    "source": "동아일보",
-    "domain": "donga.com",
-    "thumb": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/11/20/135062794.1.jpg"
-  },
-  {
-    "title": "BTS, 일본 누적 스트리밍 100억 회 돌파...해외 그룹 최초",
-    "link": "https://www.ytn.co.kr/_ln/0106_202611201638387609",
-    "pubDate": "Fri, 20 Nov 2026 07:38:00 GMT",
-    "source": "YTN",
-    "domain": "ytn.co.kr",
-    "thumb": "https://image.ytn.co.kr/general/jpg/2026/1120/202611201638387609_t.jpg"
-  },
-  {
-    "title": "BTS, 일본 누적 스트리밍 100억회 돌파…해외 가수 최초",
-    "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5085930",
-    "pubDate": "Fri, 20 Nov 2026 06:36:04 GMT",
-    "source": "신아일보",
-    "domain": "shinailbo.co.kr",
-    "thumb": "https://cdn.shinailbo.co.kr/news/photo/202611/5085930_2083408_3346.jpg"
-  },
-  {
     "title": "BTS, 日 누적 스트리밍 100억회…해외 가수 최초 기록",
     "link": "https://www.yna.co.kr/view/AKR20261120108900005",
     "pubDate": "Fri, 20 Nov 2026 05:36:38 GMT",
     "source": "연합뉴스",
     "domain": "yna.co.kr",
     "thumb": "https://img1.yna.co.kr/etc/inner/KR/2026/11/20/AKR20261120108900005_01_i_P4.jpg"
-  },
-  {
-    "title": "방탄소년단, 日 누적 스트리밍 100억 회 돌파⋯해외 가수 최초",
-    "link": "https://www.etoday.co.kr/news/view/2650923",
-    "pubDate": "Fri, 20 Nov 2026 04:30:00 GMT",
-    "source": "이투데이",
-    "domain": "etoday.co.kr",
-    "thumb": "https://img.etoday.co.kr/pto_db/2026/11/20261120132258_2420935_1200_856.jpg"
-  },
-  {
-    "title": "보랏빛 가오슝‥BTS 아시아·호주 투어 시작",
-    "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6867141_37012.html",
-    "pubDate": "Thu, 19 Nov 2026 22:01:52 GMT",
-    "source": "MBC 뉴스",
-    "domain": "imnews.imbc.com",
-    "thumb": "https://image.imnews.imbc.com/replay/2026/nwtoday/article/__icsFiles/afieldfile/2026/11/20/today_20261120_070054_2_19_Large.jpg"
   },
   {
     "title": "“상하이서 BTS 콘서트도 가능?”…한한령 드디어 풀릴까 [잇슈 머니]",
@@ -310,13 +318,5 @@
     "source": "중앙일보",
     "domain": "joongang.co.kr",
     "thumb": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202611/20/fd952505-8424-40c2-abbb-1bdcdf29cd09.jpg"
-  },
-  {
-    "title": "BTS, 오늘부터 아시아·호주 투어 시작! 9개 도시에서 26회 공연",
-    "link": "https://www.marieclairekorea.com/culture/2026/11/bts-58/",
-    "pubDate": "Thu, 19 Nov 2026 06:56:54 GMT",
-    "source": "마리끌레르 코리아",
-    "domain": "marieclairekorea.com",
-    "thumb": "https://img.marieclairekorea.com/2026/11/mck_6afe9bfe33e8e.jpg"
   }
 ]
